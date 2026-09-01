@@ -1,0 +1,205 @@
+{
+  "pageActions": {
+    "saveAndContinue": "&",
+    "save": "ସଂରକ୍ଷଣ କରନ୍ତୁ"
+  },
+  "uploadFiles": {
+    "dragDropText": "&",
+    "supportedFilesText": ": PDF, HTML, MP4",
+    "selectedFilesLabel": ":",
+    "errors": {
+      "unsupportedFiles": "()  unsupported   : PDF, HTML, MP4",
+      "maxFilesExceeded": "{{max}}",
+      "fileSizeExceeded": "1 GB",
+      "noFilesSelected": "ଦୟାକରି ଆଗକୁ ବଢ଼ିବା ପାଇଁ କମ୍ ସେ କମ୍ ଗୋଟିଏ ଫାଇଲ୍ ବାଛନ୍ତୁ",
+      "uploadFailed": "ଫାଇଲ୍ ଅପଲୋଡ୍ କରିବାରେ ବିଫଳ",
+      "NotReadable": "ଅପଲୋଡ୍ କରାଯାଇଥିବା ଫାଇଲ୍ ପଢ଼ିବାକୁ ସମ୍ଭବ ନୁହେଁ ଦୟାକରି ଏହାକୁ ହଟାଇ ଏବଂ ପୁନର୍ଚେଷ୍ଟା କରନ୍ତୁ"
+    },
+    "alerts": {
+      "loadState": {
+        "title": "?",
+        "confirmText": "ପୁନରାମ୍ଭ",
+        "cancelText": "ପୁନରାମ୍ଭ କରନ୍ତୁ"
+      }
+    },
+    "tooltips": {
+      "uploadInfo": "PDF, HTML,  MP4",
+      "fileSizeInfo": "1 GB"
+    },
+    "title": "ଆପଣଙ୍କର ବିଷୟ ଅପଲୋଡ୍ କରନ୍ତୁ",
+    "description": "ଆପଣ କିପରି ଆରମ୍ଭ କରିବାକୁ ଚାହାଁନ୍ତି ତାହା ମୋତେ କହନ୍ତୁ",
+    "uploadTitle": "ସ୍ରୋତ ଅପଲୋଡ୍ କରନ୍ତୁ",
+    "sourceLimitLabel": "ସ୍ରୋତ ସୀମା",
+    "continueButtonText": "ଆଗକୁ ବଢ଼ନ୍ତୁ"
+  },
+  "createModules": {
+    "description": "ଦୟାକରି ନିର୍ଦ୍ଧାରଣ କରନ୍ତୁ କେତେ ମଡ୍ୟୁଲ୍ ଆପଣଙ୍କର କୋର୍ସ ପାଇଁ ସୃଷ୍ଟି କରିବେ",
+    "moduleLabel": "ମଡ୍ୟୁଲ୍:",
+    "errors": {
+      "saveFailed": "ମଡ୍ୟୁଲ୍ ଗଣନା ସଂରକ୍ଷଣରେ ବିଫଳ ଦୟାକରି ପୁନର୍ବାର ଚେଷ୍ଟା କରନ୍ତୁ",
+      "networkError": "ନେଟୱର୍କ ତ୍ରୁଟି ଦୟାକରି ଆପଣଙ୍କର ସଂଯୋଗ ଯାଞ୍ଚ କରନ୍ତୁ"
+    },
+    "tooltips": {
+      "moduleInfo": "ଆପଣ 1 ରୁ 8 ମଡ୍ୟୁଲ୍ ମଧ୍ୟରେ ସୃଷ୍ଟି କରିପାରିବେ"
+    },
+    "title": "ମଡ୍ୟୁଲ୍‌ଗୁଡିକର ସଂଖ୍ୟା ବାଛନ୍ତୁ",
+    "promptLabel": "ଆରମ୍ଭିକ ପ୍ରମ୍ପ୍ଟ:",
+    "promptPlaceholder": "ମଡ୍ୟୁଲ୍ ସୃଷ୍ଟିକୁ ନେତୃତ୍ୱ ଦେବା ପାଇଁ ଆରମ୍ଭିକ ପ୍ରମ୍ପ୍ଟ ଦିଅନ୍ତୁ (ଇଛାନୁସାରେ)"
+  },
+  "defineStructure": {
+    "quickTips": "ତ୍ୱରିତ ସୁପରିଶ",
+    "title": "ଢାଞ୍ଚା ନିର୍ଦ୍ଧାରଣ କରନ୍ତୁ",
+    "description": "ମଡ୍ୟୁଲ୍ ସୃଷ୍ଟି କରିବା ଓ ଶିକ୍ଷାବସ୍ତୁ ଯୋଗ କରି କୋର୍ସ ଢାଞ୍ଚା ଡିଜାଇନ୍ କରନ୍ତୁ",
+    "learningObjectsTitle": "ଶିକ୍ଷାବସ୍ତୁ",
+    "quickTipsText": "ମଡ୍ୟୁଲ୍ ଗୁଡିକୁ ପୁନର୍ବ୍ୟବସ୍ଥାପନା ପାଇଁ ଡ୍ରାଗ୍ କରନ୍ତୁ ଡ୍ରାଗ୍ କରି ଶିକ୍ଷାବସ୍ତୁଗୁଡିକୁ ମଡ୍ୟୁଲ୍‌ରେ ଡ୍ରପ୍ କରନ୍ତୁ",
+    "addModuleButton": "ମଡ୍ୟୁଲ୍ ଯୋଗ କରନ୍ତୁ",
+    "dragDropText": "ଏଠାରେ ଶିକ୍ଷାବସ୍ତୁଗୁଡିକୁ ଡ୍ରାଗ୍ କରି ଡ୍ରପ୍ କରନ୍ତୁ",
+    "noDataTitle": "କୌଣସି ତଥ୍ୟ ମିଳିଲା ନାହିଁ",
+    "noDataContent": "ଦେଖାଯିବା ପାଇଁ କୌଣସି ଆଇଟମ୍ ନାହିଁ",
+    "modulePlaceholder": "ଏଠାରେ ଶୀର୍ଷକ ଲେଖନ୍ତୁ",
+    "moduleContentPlaceholder": "ଏଠାରେ ବିଷୟବସ୍ତୁ ଯୋଗ କରନ୍ତୁ",
+    "learningObjects": {
+      "moduleIntroduction": "ମଡ୍ୟୁଲ୍ ପରିଚୟ",
+      "learningObjectives": "ଶିକ୍ଷା ଲକ୍ଷ୍ୟ",
+      "readingMaterial": "ପଢ଼ିବା ସାମଗ୍ରୀ",
+      "assignment": "ଅସାଇନ୍‌ମେଣ୍ଟ",
+      "discussionForum": "ଚର୍ଚ୍ଚା ମଞ୍ଚ",
+      "caseStudy": "କେସ୍ ଅଧ୍ୟୟନ",
+      "experiments": "ପରୀକ୍ଷା",
+      "learningOutcomes": "ଶିକ୍ଷାଗତ ଫଳାଫଳ"
+    },
+    "errors": {
+      "titleRequired": "ଶୀର୍ଷକ କ୍ଷେତ୍ର ଆବଶ୍ୟକ",
+      "noLearningObjects": "ଦୟାକରି ସମସ୍ତ ମଡ୍ୟୁଲ୍‌ରେ ଶିକ୍ଷାବସ୍ତୁଗୁଡିକୁ ଯୋଗ କରନ୍ତୁ",
+      "lo_Required": "ଶିକ୍ଷାଗତ ଫଳାଫଳ ଫିଲ୍ଡ ଆବଶ୍ୟକ"
+    },
+    "alerts": {
+      "confirm": {
+        "title": "ଆପଣଙ୍କର କୋର୍ସ ଅତି ଶ୍ରେଷ୍ଠ ଭାବରେ ଗଢ଼ି ଉଠୁଛି! ମୁଁ ଆଗକୁ ବଢ଼ିବାକୁ ପାରିବି କି?",
+        "confirmText": "ହଁ"
+      }
+    },
+    "tooltips": {
+      "dragModules": "ମଡ୍ୟୁଲ୍‌ଗୁଡିକୁ ପୁନର୍ବ୍ୟବସ୍ଥାପନା ପାଇଁ କ୍ଲିକ୍ କରି ଡ୍ରାଗ୍ କରନ୍ତୁ",
+      "dragObjects": "ମଡ୍ୟୁଲ୍‌ରେ ଡ୍ରାଗ୍ କରି ଶିକ୍ଷାବସ୍ତୁଗୁଡିକୁ ଡ୍ରପ୍ କରନ୍ତୁ"
+    }
+  },
+  "reviewPrompts": {
+    "title": "ରିଭ୍ୟୁ ପ୍ରମ୍ପ୍ଟସ୍",
+    "description": "ଆପଣଙ୍କର ମଡ୍ୟୁଲ୍ ବିଷୟବସ୍ତୁକୁ ରିଭ୍ୟୁ କରନ୍ତୁ ଏବଂ ସଂଶୋଧନ କରନ୍ତୁ",
+    "moduleStructure": "ପ୍ରସ୍ତାବିତ ମଡ୍ୟୁଲ୍ ଗଠନ",
+    "quickTipsText": "ମଡ୍ୟୁଲ୍ ନାମ ଏବଂ ବିବରଣୀ ସଂଶୋଧନ କରିବା ପାଇଁ ସମ୍ପାଦନ ବଟନ୍ ଉପରେ କ୍ଲିକ୍ କରନ୍ତୁ ସେଭ୍ ବଟନ୍ ଉପରେ କ୍ଲିକ୍ କଲେ ସମସ୍ତ ପରିବର୍ତ୍ତନ ସ୍ୱୟଂକ୍ରିୟ ଭାବେ ସଂରକ୍ଷିତ ହେବ",
+    "addButton": "ଯୋଗ କରନ୍ତୁ",
+    "moduleNamePlaceholder": "ମଡ୍ୟୁଲ୍ ନାମ ଦିଅନ୍ତୁ",
+    "titlePlaceholder": "ଶୀର୍ଷକ ଦିଅନ୍ତୁ",
+    "promptPlaceholder": "ପ୍ରମ୍ପ୍ଟ ଦିଅନ୍ତୁ",
+    "untitledContent": "ଅନାବୃତ ବିଷୟବସ୍ତୁ",
+    "titleText": "ଶୀର୍ଷକ",
+    "promptText": "ପ୍ରମ୍ପ୍ଟ",
+    "addDropdown": {
+      "page": "ପୃଷ୍ଠା",
+      "assignment": "ଅସାଇନ୍‌ମେଣ୍ଟ",
+      "forum": "ଫୋରମ୍"
+    },
+    "contentTypes": {
+      "page": "ପୃଷ୍ଠା",
+      "assignment": "ଅସାଇନ୍‌ମେଣ୍ଟ",
+      "forum": "ଫୋରମ୍"
+    },
+    "noContentMessage": "ଏପର୍ଯ୍ୟନ୍ତ କୌଣସି ବିଷୟବସ୍ତୁ ନାହିଁ ଏକ ସୃଷ୍ଟି କରିବା ପାଇଁ 'ଯୋଗ କରନ୍ତୁ' ଉପରେ କ୍ଲିକ୍ କରନ୍ତୁ",
+    "errors": {
+      "moduleNameRequired": "ମଡ୍ୟୁଲ୍ ନାମ କ୍ଷେତ୍ର ଆବଶ୍ୟକ",
+      "titleRequired": "ଶୀର୍ଷକ କ୍ଷେତ୍ର ଆବଶ୍ୟକ",
+      "promptRequired": "ପ୍ରମ୍ପ୍ଟ କ୍ଷେତ୍ର ଆବଶ୍ୟକ"
+    },
+    "alerts": {
+      "confirm": {
+        "title": "ଆପଣଙ୍କର ସମସ୍ତ ମଡ୍ୟୁଲ୍‌ଗୁଡିକରେ ପରିବର୍ତ୍ତନ କରିଛନ୍ତି ବୋଲି ନିଶ୍ଚିତ କରନ୍ତୁ ମୁଁ ଆଗକୁ ବଢିବାକୁ ପାରିବି କି?",
+        "confirmText": "ହଁ"
+      }
+    },
+    "tooltips": {
+      "editInfo": "ମଡ୍ୟୁଲ୍ ନାମ ଏବଂ ବିବରଣୀ ସମ୍ପାଦନ କରିବା ପାଇଁ କ୍ଲିକ୍ କରନ୍ତୁ"
+    }
+  },
+  "courseReview": {
+    "title": "କୋର୍ସ ରିଭ୍ୟୁ",
+    "description": "ଆପଣଙ୍କର କୋର୍ସ ବିଷୟବସ୍ତୁର ଅନ୍ତିମ ରିଭ୍ୟୁ",
+    "addTitleHere": "ଏଠାରେ ଶୀର୍ଷକ ଯୋଗ କରନ୍ତୁ",
+    "addContentHere": "ଏଠାରେ ବିଷୟବସ୍ତୁ ଯୋଗ କରନ୍ତୁ",
+    "noDataTitle": "କୌଣସି ତଥ୍ୟ ମିଳିଲା ନାହିଁ",
+    "noDataContent": "ଦେଖାଇବା ପାଇଁ କୌଣସି ଆଇଟମ୍ ନାହିଁ",
+    "alerts": {
+      "confirm": {
+        "title": ",     !  ,  —     ?",
+        "confirmText": "ହଁ"
+      }
+    },
+    "regenerateButton": "ପୁନର୍ଜନ୍ମ",
+    "saveChangesButton": "ପରିବର୍ତ୍ତନ ସଂରକ୍ଷଣ କରନ୍ତୁ",
+    "createCourseButton": "ଆଗକୁ ବଢ଼ି ଏହି କୋର୍ସ ସୃଷ୍ଟି କରନ୍ତୁ",
+    "contentTypes": {
+      "page": "ପୃଷ୍ଠା",
+      "assignment": "ଆସାଇନ୍‌ମେଣ୍ଟ",
+      "forum": "ଫୋରମ୍"
+    },
+    "errors": {
+      "moduleNameRequired": "ମଡ୍ୟୁଲ୍ ନାମ ଫିଲ୍ଡ ଆବଶ୍ୟକ",
+      "titleRequired": "ଶୀର୍ଷକ ଫିଲ୍ଡ ଆବଶ୍ୟକ",
+      "contentRequired": "ବିଷୟ ଫିଲ୍ଡ ଆବଶ୍ୟକ"
+    },
+    "regeneratePrompt": {
+      "title": "ନୂତନ ସାମଗ୍ରୀ ତିଆରି କରନ୍ତୁ",
+      "submitButton": "ସମ୍ପ୍ରେଷଣ କରନ୍ତୁ",
+      "cancelButton": "ବାତିଲ କରନ୍ତୁ"
+    },
+    "tooltips": {
+      "regenerateInfo": "ନୂତନ ପ୍ରମ୍ପ୍ଟ ସହିତ ଏହି ସାମଗ୍ରୀକୁ ପୁନର୍ଜନ୍ମ କରନ୍ତୁ"
+    }
+  },
+  "commonMessages": {
+    "error": {
+      "dataNosave": "!",
+      "somethingWrong": "କିଛି ଭୁଲ ହେଲା ଦୟାକରି ପୁନର୍ବାର ଚେଷ୍ଟା କରନ୍ତୁ"
+    },
+    "alerts": {
+      "backConfirm": {
+        "title": "?",
+        "confirmText": "ହଁ",
+        "cancelText": "ନା"
+      },
+      "resetConfirm": {
+        "title": "?",
+        "confirmText": "ହଁ",
+        "cancelText": "ନା"
+      }
+    },
+    "success": {
+      "saved": "ରାଜ୍ୟ ସଫଳତାର ସହିତ ସଂରକ୍ଷିତ",
+      "uploadSuccess": "ସଂଗ୍ରହ କରାଗଲା",
+      "moduleSuccess": "ମଡ୍ୟୁଲ୍ ସଫଳତାର ସହିତ ତିଆରି ହେଲା"
+    }
+  },
+  "alerts": {
+    "resetConfirm": "?",
+    "confirmText": "ହଁ"
+  },
+  "contentPreference": {
+    "uploadingText": "ଅପଲୋଡ୍ କରୁଛି..."
+  },
+  "stepper": {
+    "courseDetails": "କୋର୍ସ ବିବରଣୀ",
+    "contentPreference": "ଆପଣଙ୍କର ବିଷୟ ଅପଲୋଡ୍ କରନ୍ତୁ",
+    "moduleCreation": "ମଡ୍ୟୁଲ୍ ସୃଷ୍ଟି",
+    "defineStructure": "ଗଠନ ନିର୍ଦ୍ଧାରଣ କରନ୍ତୁ",
+    "reviewPrompts": "ପୁନର୍ବିଚାର ପ୍ରେରଣା",
+    "courseReview": "କୋର୍ସ ପୁନର୍ବିଚାର"
+  },
+  "pageHeader": {
+    "backButtonTitle": "ପୂର୍ବ ଚରଣକୁ ଫେରନ୍ତୁ",
+    "resetButtonTitle": "ଆରମ୍ଭିକ ଅବସ୍ଥାକୁ ପୁନର୍ନିର୍ମାଣ କରନ୍ତୁ"
+  },
+  "shared": {
+    "moduleLabel": "ମଡ୍ୟୁଲ୍"
+  }
+}

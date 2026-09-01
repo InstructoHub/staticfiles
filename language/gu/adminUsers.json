@@ -1,0 +1,331 @@
+{
+  "page": {
+    "loading": "...",
+    "title": "યૂઝર મેનેજમેન્ટ",
+    "subtitle": "તમારા યૂઝર્સને મેનેજ અને ઓર્ગેનાઈઝ કરો",
+    "createTitle": "નવો યૂઝર બનાવો",
+    "createSubtitle": "સિસ્ટમમાં નવો યૂઝર અથવા અનેક યૂઝર્સ ઉમેરો",
+    "adminTitle": "એડમિન મેનેજમેન્ટ",
+    "adminSubtitle": "સિસ્ટમમાંથી એડમિન યૂઝર્સ ઉમેરો અથવા દૂર કરો",
+    "noUsersFound": "તમારા શોધ માપદંડો સાથે મેળ ખાતા કોઈ યૂઝર્સ મળ્યા નથી",
+    "noUsersAvailable": "કોઈ યૂઝર્સ ઉપલબ્ધ નથી. નવો યૂઝર ઉમેરવાથી શરૂ કરો.",
+    "tryAdjustingSearch": "તમારા શોધ માપદંડોને સમાયોજિત કરવાનો પ્રયાસ કરો"
+  },
+  "tabs": {
+    "currentAdmins": "({{count}})",
+    "singleUser": "એકલ યૂઝર બનાવો",
+    "bulkUpload": "બલ્ક અપલોડ યૂઝર્સ",
+    "addAdmin": "એડમિન તરીકે માર્ક કરો",
+    "currentAdminsNoCount": "વર્તમાન એડમિન",
+    "addUser": "યુઝર ઉમેરો"
+  },
+  "buttons": {
+    "creating": "...",
+    "adding": "...",
+    "removing": "...",
+    "deleting": "...",
+    "deleteUsers": "ડિલીટ {{count}} યુઝર્સ",
+    "deleteSelected": "ડિલીટ યુઝર્સ",
+    "activateUser": "એક્ટિવેટ યુઝર",
+    "suspendUser": "સસ્પેન્ડ યુઝર",
+    "editUser": "એડિટ યુઝર",
+    "refresh": "રીફ્રેશ",
+    "browseFiles": "ફાઇલો બ્રાઉઝ કરો",
+    "chooseDifferentImage": "અલગ છબી પસંદ કરો",
+    "chooseDifferentFile": "અલગ ફાઇલ પસંદ કરો",
+    "downloadSampleCSV": "સેમ્પલ CSV ડાઉનલોડ કરો",
+    "uploadCSV": "CSV ફાઇલ અપલોડ કરો",
+    "browseForCSV": "CSV માટે બ્રાઉઝ કરો",
+    "selectAll": "બધા પસંદ કરો",
+    "deselectAll": "બધા અહિથી દૂર કરો",
+    "createUser": "યૂઝર બનાવો",
+    "addUsers": "યૂઝર્સ ઉમેરો",
+    "cancel": "રદ કરો",
+    "addAdmin": "એડમિન તરીકે માર્ક કરો",
+    "removeAdmin": "એડમિન દૂર કરો",
+    "deleteUser": "યૂઝર કાઢી નાખો",
+    "addUser": "યુઝર ઉમેરો",
+    "tryAgain": "ફરી પ્રયાસ કરો"
+  },
+  "form": {
+    "labels": {
+      "username": "યુઝરનેમ",
+      "email": "ઈમેલ",
+      "firstName": "પ્રથમ નામ",
+      "lastName": "આખરી નામ",
+      "city": "શહેર",
+      "country": "દેશ",
+      "profilePicture": "પ્રોફાઇલ પિક્ચર (વૈકલ્પિક)",
+      "password": "પાસવર્ડ",
+      "searchUsers": "યુઝર્સને નામ, યુઝરનેમ, ઈમેલ દ્વારા શોધો...",
+      "searchAdminUsers": "એડમિન યુઝર્સને શોધો...",
+      "searchToAdd": "યુઝર્સને નામ, યુઝરનેમ, અથવા ઈમેલ દ્વારા શોધો...",
+      "uploadCsvFile": "CSV ફાઇલ અપલોડ કરો"
+    },
+    "placeholders": {
+      "username": "યુઝરનેમ દાખલ કરો",
+      "email": "ઈમેલ સરનામું દાખલ કરો",
+      "firstName": "પ્રથમ નામ દાખલ કરો",
+      "lastName": "આખરી નામ દાખલ કરો",
+      "city": "શહેર દાખલ કરો",
+      "country": "દેશ પસંદ કરો",
+      "password": "પાસવર્ડ દાખલ કરો",
+      "searchUsers": "યુઝર્સને નામ, યુઝરનેમ, ઇમેઇલ દ્વારા શોધો...",
+      "searchAdminUsers": "એડમિન યુઝર્સને શોધો...",
+      "searchToAdd": "યુઝર્સને નામ, યુઝરનેમ, અથવા ઇમેઇલ દ્વારા શોધો..."
+    },
+    "validation": {
+      "usernameRequired": "યુઝરનેમ જરૂરી છે",
+      "usernameMaxLength": "યુઝરનેમ 50 અક્ષરોને પાર ન જવું જોઈએ",
+      "usernameFormat": "યુઝરનેમમાં માત્ર નાના અક્ષરો, સંખ્યાઓ અને અંડરસ્કોર હોવા જોઈએ",
+      "emailRequired": "ઇમેઇલ જરૂરી છે",
+      "emailInvalid": "કૃપા કરીને માન્ય ઇમેઇલ સરનામું દાખલ કરો",
+      "firstNameRequired": "પ્રથમ નામ જરૂરી છે",
+      "firstNameMaxLength": "પ્રથમ નામ 50 અક્ષરોને પાર ન જવું જોઈએ",
+      "lastNameRequired": "અંતિમ નામ જરૂરી છે",
+      "lastNameMaxLength": "અંતિમ નામ 50 અક્ષરોને પાર ન જવું જોઈએ",
+      "cityMaxLength": "શહેરનું નામ 50 અક્ષરોને પાર ન જવું જોઈએ",
+      "passwordRequired": "પાસવર્ડ જરૂરી છે",
+      "passwordMinLength": "પાસવર્ડમાં ઓછામાં ઓછા 8 અક્ષરો હોવા જોઈએ",
+      "passwordDigit": "પાસવર્ડમાં ઓછામાં ઓછા 1 સંખ્યા હોવી જોઈએ",
+      "passwordLowercase": "પાસવર્ડમાં ઓછામાં ઓછા 1 નાના અક્ષર હોવું જોઈએ",
+      "passwordUppercase": "પાસવર્ડમાં ઓછામાં ઓછા 1 મોટા અક્ષર હોવું જોઈએ",
+      "passwordSpecialChar": "પાસવર્ડમાં ઓછામાં ઓછા 1 વિશેષ અક્ષર હોવું જોઈએ",
+      "usernameTaken": "આ યુઝરનેમ પહેલેથી જ લેવામાં આવ્યો છે",
+      "emailTaken": "આ ઇમેઇલ પહેલેથી જ નોંધાયેલ છે",
+      "usernameAlphanumeric": "યુઝરનેમમાં ઓછામાં ઓછા એક અક્ષર અથવા અંક હોવો જોઈએ",
+      "emailMaxLength": "ઈમેઇલ 254 અક્ષરો કરતાં વધારે ન હોઈ શકે",
+      "firstNameFormat": "પ્રથમ નામમાં માત્ર અક્ષરો, ખાલી જગ્યાઓ, અપોસ્ટ્રોફ (') અને હાયફન (-) જ હોઈ શકે છે",
+      "lastNameFormat": "છેલ્લું નામમાં માત્ર અક્ષરો, ખાલી જગ્યાઓ, અપોસ્ટ્રોફ (') અને હાયફન (-) જ હોઈ શકે છે",
+      "cityMinLength": "શહેરનું નામ ઓછામાં ઓછા 2 અક્ષરનું હોવું જોઈએ",
+      "cityFormat": "શહેરનું નામમાં માત્ર અક્ષરો, ખાલી જગ્યાઓ, હાયફન (-), અપોસ્ટ્રોફ ('), અને પીરિયડ (.) જ હોઈ શકે છે",
+      "cityNumericOnly": "શહેરનું નામ માત્ર અંકોથી બનેલું ન હોઈ શકે",
+      "countryInvalid": "કૃપા કરીને માન્ય દેશ પસંદ કરો"
+    },
+    "passwordRequirements": "8+ અક્ષરો, 1 સંખ્યા, 1 નાનું, 1 મોટું, 1 વિશેષ અક્ષર",
+    "passwordMode": {
+      "manual": {
+        "title": "પાસવર્ડ સેટ કરો",
+        "description": "એડમિન પાસવર્ડ સેટ કરે છે"
+      },
+      "email": {
+        "title": "ઇમેઇલ દ્વારા પાસવર્ડ",
+        "description": "દ્વારા સેટ કરે છે"
+      }
+    },
+    "passwordViaEmail": {
+      "sentTo": "એક ખાતા સેટઅપ ઈમેલ મોકલવામાં આવશે",
+      "fallbackEmail": "યૂઝરના ઈમેલ સરનામે",
+      "withLink": "તેમના પાસવર્ડ સેટ કરવા માટેના લિંક સાથે."
+    }
+  },
+  "table": {
+    "headers": {
+      "serialNo": "એસ.નં.",
+      "location": "સ્થાન",
+      "lastAccess": "છેલ્લી ઍક્સેસ",
+      "actions": "ક્રિયાઓ",
+      "line": "લાઇન",
+      "reason": "કારણ",
+      "user": "યૂઝર",
+      "username": "યૂઝર નામ",
+      "email": "ઈમેલ"
+    },
+    "status": {
+      "suspended": "સસ્પેન્ડેડ"
+    },
+    "tooltips": {
+      "cannotSuspendSelf": "તમે તમારા પોતાના ખાતાને સસ્પેન્ડ કરી શકતા નથી",
+      "cannotRemoveSelfAdmin": "તમે પોતાને એડમિન ભૂમિકામાંથી દૂર કરી શકતા નથી",
+      "activateUser": "ને સક્રિય કરો",
+      "suspendUser": "ને સસ્પેન્ડ કરો",
+      "editUser": "ને સંપાદિત કરો",
+      "deleteUser": "ને ડિલીટ કરો",
+      "removeAdminRole": "એડમિન ભૂમિકા દૂર કરો",
+      "cannotModifyMainAdmin": "આ મુખ્ય એડમિન અકાઉન્ટમાં ફેરફાર કરી શકાય નહીં.",
+      "cannotDeleteSelf": "તમે તમારું પોતાનું અકાઉન્ટ મિટાવી શકતા નથી."
+    }
+  },
+  "imageUpload": {
+    "dragAndDrop": "અહીં છબી ખેંચો અને છોડો",
+    "or": "અથવા",
+    "invalidImageFile": "કૃપા કરીને માન્ય છબી ફાઇલ પસંદ કરો.",
+    "uploadFailed": "પ્રોફાઇલ છબી અપલોડ કરવામાં નિષ્ફળ.",
+    "previewAlt": "પૂર્વદર્શન",
+    "supportedImageTypes": "સમર્થિત પ્રકાર: {{types}}"
+  },
+  "bulkUpload": {
+    "instructions": "સૂચનાઓ",
+    "step1": "1. જરૂરી ફોર્મેટ જોવા માટે નમૂના CSV ફાઇલ ડાઉનલોડ કરો.",
+    "step2": "2. યુઝર વિગતો ભરો. `યૂઝરનેમ`, `પ્રથમ નામ` અને `અંતિમ નામ` જરૂરી છે.",
+    "step3": "3. નીચે પૂર્ણ થયેલ CSV ફાઇલ અપલોડ કરો અને 'યૂઝર્સ ઉમેરો' પર ક્લિક કરો.",
+    "dragAndDropCSV": "અહીં CSV ફાઇલ ખેંચો અને છોડો",
+    "selectCSVFile": "કૃપા કરીને અપલોડ કરવા માટે CSV ફાઇલ પસંદ કરો.",
+    "uploadSummary": "અપલોડ સારાંશ",
+    "usersCreated": "યૂઝર્સ સફળતાપૂર્વક બનાવવામાં આવ્યા.",
+    "usersFailed": "યૂઝર્સ બનાવવામાં નિષ્ફળ રહ્યા.",
+    "errorDetails": "ભૂલની વિગતો:",
+    "line": "લાઇન",
+    "reason": "કારણ",
+    "username": "યૂઝરનેમ",
+    "sampleCsvFileName": "bulk_users_sample.csv",
+    "fieldRequirementsTitle": "CSV કૉલમની આવશ્યકતાઓ",
+    "requiredLabel": "આવશ્યક",
+    "optionalLabel": "વૈકલ્પિક",
+    "fields": {
+      "username": {
+        "label": "યુઝરનેમ",
+        "required": "True",
+        "rules": "['આવશ્યક', 'મહત્તમ 50 અક્ષરો', 'અક્ષરો, અંક અને @ . + - _ જ (ખાલી જગ્યા નહીં)', 'યુઝરનેમમાં ઓછામાં ઓછો એક અક્ષર અથવા અંક હોવો જોઈએ', 'આ અનન્ય હોવું જોઈએ અને પહેલેથી રજીસ્ટર્ડ ન હોવું જોઈએ']"
+      },
+      "firstname": {
+        "label": "પ્રથમ નામ",
+        "required": "True",
+        "rules": "['આવશ્યક', 'મહત્તમ 50 અક્ષરો', 'અક્ષરો, ખાલી જગ્યાઓ, અપોસ્ટ્રોફ અને હાયફન જ']"
+      },
+      "lastname": {
+        "label": "છેલ્લું નામ",
+        "required": "True",
+        "rules": "['આવશ્યક', 'મહત્તમ 50 અક્ષરો', 'અક્ષરો, ખાલી જગ્યાઓ, અપોસ્ટ્રોફ અને હાયફન જ']"
+      },
+      "email": {
+        "label": "ઈમેલ",
+        "required": "True",
+        "rules": "['આવશ્યક', 'મહત્તમ 254 અક્ષરો', 'માન્ય ઇમેલ સરનામું હોવું જોઈએ', 'અનન્ય હોવું જોઈએ અને પહેલેથી રજીસ્ટર્ડ ન હોવું જોઈએ']"
+      },
+      "password": {
+        "label": "પાસવર્ડ",
+        "required": "False",
+        "rules": "['વૈકલ્પિક — ખાલી રાખશો તો વપરાશકર્તાને પાસવર્ડ સેટઅપ ઈમેલ મોકલવામાં આવશે', 'જો આપીશું: 8+ અક્ષરો, 1 અંક, 1 નાનો અક્ષર, 1 મોટો અક્ષર અને 1 વિશેષ અક્ષર']"
+      },
+      "city": {
+        "label": "શહેર",
+        "required": "False",
+        "rules": "['વૈકલ્પિક', 'જો આપવામાં આવે તો 2-100 અક્ષરો', \"ફક્ત અક્ષરો, સ્પેસ, હાયફન (-), એપોસ્ટ્રોફી ('), અને પીરિયડ (.)\", 'ફક્ત અંકો ના હોઈ શકે (ઉદાહરણ: 12345)']"
+      },
+      "country": {
+        "label": "દેશ",
+        "required": "False",
+        "rules": "['વૈકલ્પિક', 'માન્ય 2-અક્ષરની દેશ કોડ હોવી જોઈએ (ઉદાહરણ: US, GB, IN)']"
+      }
+    }
+  },
+  "modals": {
+    "deleteUser": {
+      "details": {
+        "email": "ઈમેલ:",
+        "location": "સ્થાન:",
+        "name": "નામ:",
+        "username": "યૂઝરનેમ:"
+      },
+      "title": "યૂઝર ડિલીટ કરો",
+      "titleMultiple": "બહુયૂઝર્સ ડિલીટ કરો",
+      "warning": "ચેતવણી: આ ક્રિયા પાછી ખેંચી શકાતી નથી",
+      "description": "આ યૂઝરને ડિલીટ કરવાથી તમામ સંબંધિત ડેટા અને ઍક્સેસ કાયમ માટે દૂર થઈ જશે.",
+      "descriptionMultiple": "આ {{count}} યૂઝર્સને ડિલીટ કરવાથી તમામ સંબંધિત ડેટા અને ઍક્સેસ કાયમ માટે દૂર થઈ જશે.",
+      "listLabel": "ડિલીટ થવા માટેનો યૂઝર:",
+      "listLabelMultiple": "ડિલીટ થવા માટેના યૂઝર્સ ({{count}}):",
+      "confirmation": "શું તમે ખરેખર આ યૂઝરને ડિલીટ કરવા માંગો છો? આ ક્રિયા પાછી ખેંચી શકાતી નથી.",
+      "confirmationMultiple": "શું તમે ખરેખર આ {{count}} યૂઝર્સને ડિલીટ કરવા માંગો છો? આ ક્રિયા પાછી ખેંચી શકાતી નથી."
+    },
+    "addAdmin": {
+      "title": "એડમિન યુઝર ઉમેરો",
+      "confirmation": "એડમિન ઉમેરવા માટેની પુષ્ટિ",
+      "description": "આ પસંદ કરેલા યુઝરને એડમિન અધિકારો આપશે.",
+      "listLabel": "એડમિન તરીકે ઉમેરવા માટેનો યુઝર:",
+      "confirmationText": "શું તમે ખરેખર આ યુઝરને એડમિન તરીકે ઉમેરવા માંગો છો? તેમને એડમિનિસ્ટ્રેટિવ અધિકારો મળશે.",
+      "details": {
+        "fullName": "પૂર્ણ નામ:",
+        "email": "ઈમેલ:"
+      }
+    },
+    "removeAdmin": {
+      "title": "એડમિન યુઝર દૂર કરો",
+      "confirmation": "એડમિન દૂર કરવા માટેની પુષ્ટિ",
+      "description": "આ પસંદ કરેલા યુઝરને એડમિન અધિકારોથી વંચિત કરશે.",
+      "listLabel": "એડમિન ભૂમિકામાંથી દૂર કરવા માટેનો યુઝર:",
+      "confirmationText": "શું તમે ખરેખર આ યુઝરને એડમિન ભૂમિકામાંથી દૂર કરવા માંગો છો? તેમને એડમિનિસ્ટ્રેટિવ અધિકારો ગુમાવશે.",
+      "details": {
+        "fullName": "પૂર્ણ નામ:",
+        "email": "ઈમેલ:"
+      }
+    }
+  },
+  "messages": {
+    "success": {
+      "userCreated": "યુઝર સફળતાપૂર્વક બનાવાયો",
+      "usersDeleted": "{{count}} યુઝર(ઓ) સફળતાપૂર્વક દૂર કરવામાં આવ્યા",
+      "userDeleted": "યુઝર સફળતાપૂર્વક દૂર કરવામાં આવ્યો",
+      "userSuspended": "યુઝર સફળતાપૂર્વક સસ્પેન્ડ કરવામાં આવ્યો",
+      "userActivated": "યુઝર સફળતાપૂર્વક સક્રિય કરવામાં આવ્યો",
+      "adminAdded": "{{userName}} સફળતાપૂર્વક એડમિન તરીકે ઉમેરવામાં આવ્યો છે",
+      "adminRemoved": "{{userName}} સફળતાપૂર્વક એડમિન ભૂમિકામાંથી દૂર કરવામાં આવ્યો છે",
+      "allUsersCreated": "બધા યુઝર સફળતાપૂર્વક બનાવાયા! કુલ: {{totalCreated}}",
+      "bulkUploadPartial": "પ્રોસેસ કરવામાં આવ્યું {{totalErrors}} ભૂલ(ઓ) સાથે. {{totalCreated}} યુઝર બનાવાયા."
+    },
+    "error": {
+      "failedToFetchUsers": "યુઝરો મેળવવામાં નિષ્ફળ",
+      "failedToCreateUser": "યુઝર બનાવવામાં નિષ્ફળ",
+      "userCreationFailed": "યુઝર બનાવવામાં નિષ્ફળ",
+      "failedToDeleteUsers": "યુઝર(ઓ) દૂર કરવામાં નિષ્ફળ",
+      "failedToSuspendUser": "યુઝર સસ્પેન્ડ કરવામાં નિષ્ફળ",
+      "invalidCsvFile": ".csv",
+      "selectCsvToUpload": "CSV",
+      "uploadCsvNoId": "CSV",
+      "noResponseBulk": "API",
+      "failedToActivateUser": "યૂઝરને સક્રિય કરવામાં નિષ્ફળ",
+      "cannotSuspendSelf": "તમે તમારા પોતાના ખાતાને સસ્પેન્ડ કરી શકતા નથી",
+      "cannotRemoveSelfAdmin": "તમે તમારા જાતને એડમિન ભૂમિકામાંથી દૂર કરી શકતા નથી",
+      "failedToFetchAdminUsers": "એડમિન યુઝર્સ લાવવા માં નિષ્ફળ",
+      "failedToSearchUsers": "યુઝર્સ શોધવામાં નિષ્ફળ",
+      "failedToAddAdmin": "યુઝરને એડમિન તરીકે ઉમેરવામાં નિષ્ફળ",
+      "failedToRemoveAdmin": "યુઝરને એડમિન ભૂમિકામાંથી દૂર કરવામાં નિષ્ફળ",
+      "bulkUploadError": "બલ્ક અપલોડ દરમિયાન અણધાર્યા ભૂલ આવી છે.",
+      "usernameAlreadyExists": "આ યુઝર નામ પહેલેથી જ છે. કૃપા કરીને બીજું પસંદ કરો.",
+      "emailAlreadyRegistered": "આ ઇમેઇલ પહેલેથી જ નોંધાયેલ છે. કૃપા કરીને અલગ ઇમેઇલનો ઉપયોગ કરો.",
+      "unknownError": "અજ્ઞાત ભૂલ",
+      "cannotModifyMainAdmin": "આ મુખ્ય એડમિન એકાઉન્ટમાં ફેરફાર કરી શકાતું નથી.",
+      "cannotDeleteSelf": "તમે તમારું જ એકાઉન્ટ હટાવી શકતા નથી."
+    },
+    "warning": {
+      "selectUsersToDelete": "કૃપા કરીને કાઢવા માટે યુઝર્સ પસંદ કરો",
+      "errorOccurred": "ભૂલ આવી છે"
+    }
+  },
+  "common": {
+    "na": "N/A"
+  },
+  "status": {
+    "loading": "...",
+    "creating": "...",
+    "deleting": "...",
+    "processing": "...",
+    "searching": "...",
+    "uploading": "...",
+    "active": "સક્રિય",
+    "inactive": "નિષ્ક્રિય",
+    "suspended": "સસ્પેન્ડેડ"
+  },
+  "adminManagement": {
+    "searchingUsers": "યૂઝર્સ શોધી રહ્યા છે...",
+    "noUsersFound": "તમારી શોધ સાથે મેળ ખાતા કોઈ યૂઝર્સ મળ્યા નથી",
+    "foundUsers": "તમારી શોધ સાથે મેળ ખાતા {{count}} યૂઝર(ઓ) મળ્યા",
+    "startTypingToSearch": "એડમિન તરીકે ઉમેરવા માટે યૂઝર્સ શોધવા માટે ટાઇપિંગ શરૂ કરો",
+    "totalAdminUsers": "કુલ એડમિન યૂઝર્સ: {{count}}",
+    "loadingAdminUsers": "એડમિન યૂઝર્સ લોડ થઈ રહ્યા છે...",
+    "noAdminUsers": "કોઈ એડમિન યૂઝર્સ મળ્યા નથી",
+    "apiConfigIssue": "આ API કન્ફિગરેશન સમસ્યાનું સંકેત આપી શકે છે. વિગતો માટે કન્સોલ તપાસો.",
+    "noAdminUsersMatch": "તમારી શોધ સાથે મેળ ખાતા કોઈ એડમિન યૂઝર્સ મળ્યા નથી",
+    "availableUsers": "{{count}} વપરાશકર્તાઓ ઉપલબ્ધ"
+  },
+  "navigation": {
+    "createUser": "યૂઝર બનાવો",
+    "addAdminUsers": "એડમિન યૂઝર્સ ઉમેરો",
+    "backToUsers": "યૂઝર્સ પર પાછા જાઓ"
+  },
+  "emptyState": {
+    "title": "હજુ સુધી કોઈ યુઝર નથી",
+    "description": "શરૂઆત કરવા માટે પહેલો યુઝર બનાવો.",
+    "createButton": "યુઝર બનાવો"
+  }
+}

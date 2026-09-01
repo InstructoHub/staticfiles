@@ -1,0 +1,67 @@
+{
+  "title": "एडमिन पैनल",
+  "navigation": {
+    "courses": "मेनेज कोर्सेस",
+    "categories": "मेनेज कैटेगरी",
+    "users": "मेनेज यूज़र्स",
+    "rolesPermissions": "रोल्स और परमिशन्स",
+    "theme": "थीम",
+    "report": "रिपोर्ट",
+    "tenantManagement": "टेनेंट मेनेजमेंट",
+    "instructonex": "इंस्ट्रक्टोनेक्स",
+    "accessControl": "एक्सेस कंट्रोल",
+    "rubrics": "रूब्रिक्स",
+    "cohorts": "बैच मैनेज करें",
+    "tenantsReport": "टेनेंट रिपोर्ट"
+  },
+  "tenantReport": {
+    "title": "टेनेंट रिपोर्ट",
+    "subtitle": "क्रॉस-टेनेंट एक्टिविटी का स्नैपशॉट, त्वरित इंसाइट्स के साथ।",
+    "generatedAt": "जनरेटेड: {{time}}",
+    "noData": "कोई टेनेंट रिपोर्ट डेटा उपलब्ध नहीं है।",
+    "fetchError": "टेनेंट रिपोर्ट लोड नहीं हो पाई।",
+    "notAvailable": "उपलब्ध नहीं",
+    "tenantSelector": "डीप-डाइव के लिए टेनेंट चुनें",
+    "selectedTenantDetails": "चुना गया टेनेंट: {{name}}",
+    "tableTitle": "टेनेंट मैट्रिक्स टेबल",
+    "tableSubtitle": "सभी टेनेंट्स की तुलना मुख्य मैट्रिक्स के आधार पर।",
+    "roles": {
+      "students": "स्टूडेंट्स",
+      "teachers": "टीचर्स",
+      "others": "अन्य"
+    },
+    "cards": {
+      "totalTenants": "कुल टेनेंट्स",
+      "totalTenantsSubtitle": "इस रिपोर्ट में शामिल टेनेंट्स",
+      "totalUsers": "कुल यूजर",
+      "totalUsersSubtitle": "सभी टेनेंट्स के यूजर",
+      "activeUsers": "एक्टिव यूजर",
+      "activeUsersSubtitle": "हाल ही में एक्टिव यूजर",
+      "inactiveUsers": "इनएक्टिव यूजर",
+      "inactiveUsersSubtitle": "जिनकी हाल ही में कोई एक्टिविटी नहीं है",
+      "neverLoggedIn": "कभी लॉग इन नहीं किया",
+      "activeRate": "एक्टिव रेट: {{rate}}%"
+    },
+    "charts": {
+      "comparisonTitle": "टेनेंट्स की तुलना",
+      "comparisonSubtitle": "प्रति टेनेंट कुल, एक्टिव और इनएक्टिव यूजर",
+      "roleSplitTitle": "रोल मिक्स: {{name}} के लिए",
+      "roleSplitSubtitle": "स्टूडेंट्स, टीचर्स और अन्य यूजर का वितरण"
+    },
+    "columns": {
+      "name": "टेनेंट का नाम"
+    },
+    "metrics": {
+      "total_users": "कुल यूज़र्स",
+      "total_students": "कुल स्टूडेंट्स",
+      "total_teachers": "कुल टीचर्स",
+      "active_users": "एक्टिव यूज़र्स",
+      "inactive_users": "इनएक्टिव यूज़र्स",
+      "never_logged_in": "कभी लॉगिन नहीं हुए",
+      "course_categories": "कोर्स कैटेगरीज",
+      "total_enrollments": "कुल एनरोलमेंट्स",
+      "completed_courses": "कम्प्लीटेड कोर्सेज",
+      "pending_completions": "लंबित कम्प्लीशन्स"
+    }
+  }
+}

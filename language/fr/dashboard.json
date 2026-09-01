@@ -1,0 +1,354 @@
+{
+  "header": {
+    "greetings": {
+      "morning": "Bonjour",
+      "afternoon": "Bon après-midi",
+      "evening": "Bonsoir"
+    }
+  },
+  "home": {
+    "edit": "Personnalisez Votre Tableau de Bord",
+    "save": "Enregistrer la Disposition",
+    "dragToReposition": "Glissez pour repositionner",
+    "dropItems": "Déposez les éléments ici",
+    "layoutSave": "Disposition enregistrée avec succès",
+    "errorSaveDashboard": "Erreur lors de l'enregistrement de la disposition du tableau de bord",
+    "dashboardLoading": "Chargement du Tableau de Bord...",
+    "emptyDashboard": {
+      "title": "Vous n'avez pas les permissions pour afficher les blocs du tableau de bord.",
+      "description": "Contactez votre administrateur pour accéder aux composants du tableau de bord."
+    }
+  },
+  "continLearning": {
+    "title": "Mes Cours",
+    "buttonDescription": "Afficher Mes Cours",
+    "emptyState": {
+      "noTeacherCourses": "Aucun Cours d'Instructeur",
+      "noStudentCourses": "Aucun Cours d'Étudiant",
+      "noEnrolledCourses": "Aucun Cours Inscrit",
+      "noCoursesAvailable": "Aucun Cours Disponible",
+      "teacherDescription": "Vous n'avez aucun cours où vous êtes inscrit en tant qu'instructeur.",
+      "studentDescription": "Vous n'avez aucun cours où vous êtes inscrit en tant qu'étudiant.",
+      "adminDescription": "Vous n'êtes inscrit à aucun cours pour le moment.",
+      "generalDescription": "Inscrivez-vous aux cours pour commencer votre parcours d'apprentissage.",
+      "browseCourses": "Parcourir les Cours"
+    },
+    "viewAll": {
+      "title": "Afficher Tous Mes Cours",
+      "subtitle": "Aller à Mes Cours"
+    }
+  },
+  "allCourses": {
+    "title": "Tous les Cours",
+    "buttonDescription": "Afficher Tous les Cours",
+    "emptyState": {
+      "title": "Aucun Cours Pour Le Moment",
+      "description": "Il n'y a aucun cours disponible pour le moment.",
+      "button": "Parcourir les Cours"
+    },
+    "viewAll": {
+      "title": "Explorez Tous les Cours",
+      "subtitle": "Afficher Tous les Cours"
+    }
+  },
+  "keyMetrics": {
+    "title": "Vos Métriques d'Apprentissage",
+    "totalCourse": "Cours Inscrits",
+    "notStarted": "Non Commencé",
+    "inProcess": "En Cours",
+    "completed": "Complété"
+  },
+  "teachingMetrics": {
+    "title": "Métriques d'Enseignement",
+    "totalCourses": "Cours Totaux",
+    "totalStudents": "Étudiants Totaux",
+    "pendingGrading": "En Attente de Notation",
+    "avgGrade": "Note Moyenne"
+  },
+  "gradingStatus": {
+    "title": "État de Notation",
+    "totalAssignments": "Devoirs Totaux",
+    "totalSubmissions": "Soumissions Totales",
+    "pendingGrading": "En Attente de Notation",
+    "pendingSubmissions": "Soumissions En Attente"
+  },
+  "platformMetrics": {
+    "title": "Métriques de la Plateforme",
+    "totalCourses": "Cours Totaux",
+    "totalUsers": "Utilisateurs Totaux",
+    "activeEnrollments": "Inscriptions Actives",
+    "platformActivity": "Activité de la Plateforme",
+    "card view": "Vue en Carte",
+    "list view": "Vue en Liste"
+  },
+  "quickActions": {
+    "title": "Actions Rapides",
+    "assignments": "Devoirs",
+    "quiz": "Quiz",
+    "certificate": "Certificat",
+    "discussions": "Discussions"
+  },
+  "recentActivity": {
+    "title": "Activité Récente",
+    "seeAllActivity": "Afficher Toute l'Activité",
+    "showLess": "Afficher Moins",
+    "noActivity": "Aucune activité trouvée. Revenez plus tard!",
+    "description": "Vos activités récentes apparaîtront ici"
+  },
+  "recommendedCourses": {
+    "title": "Cours Tendance Pour Vous",
+    "noSummaryMessage": "Oups! Pas de description ici encore — restez attentif!",
+    "buttonDesc": "Afficher les Détails du Cours",
+    "course": "Cours #",
+    "students": "Inscrits",
+    "views": "Vues",
+    "emptyState": {
+      "title": "Aucun Cours Recommandé",
+      "categoryDescription": "Aucun cours trouvé dans cette catégorie. Essayez de parcourir d'autres catégories ou explorez tous les cours disponibles.",
+      "generalDescription": "Aucun cours tendance disponible pour le moment. Parcourez notre catalogue de cours pour découvrir des opportunités d'apprentissage.",
+      "button": "Parcourir Tous les Cours"
+    }
+  },
+  "upcomingEvents": {
+    "title": "Événements à Venir",
+    "noEvents": "Il n'y a actuellement pas d'événements à venir",
+    "description": "Aucun événement à venir pour le moment"
+  },
+  "todaysTeachingSummary": {
+    "title": "Résumé de l'Instructeur",
+    "totalClasses": "Classes Totales",
+    "completedClasses": "Classes Complétées",
+    "pendingClasses": "Classes En Attente"
+  },
+  "studentSummary": {
+    "title": "Mon Résumé d'Apprentissage",
+    "tabs": {
+      "assignments": "Devoirs",
+      "quizzes": "Quiz",
+      "forums": "Discussions",
+      "liveSessions": "Séances en Direct"
+    },
+    "dateRanges": {
+      "today": "Aujourd'hui",
+      "week": "7 Prochains Jours",
+      "month": "30 Prochains Jours",
+      "custom": "Personnalisé"
+    },
+    "assignments": {
+      "dueSoon": "À Remettre Bientôt",
+      "recentlySubmitted": "Récemment Soumis",
+      "noAssignmentsDue": "Aucun devoir à remettre bientôt",
+      "noRecentSubmissions": "Aucune soumission récente",
+      "notSubmitted": "Non Soumis",
+      "awaitingGrade": "En Attente de Note",
+      "graded": "Noté",
+      "grade": "Note"
+    },
+    "emptyStates": {
+      "quizzes": "Aucun quiz à venir",
+      "forums": "Aucune discussion ne nécessite d'attention",
+      "liveSessions": "Aucune séance en direct programmée"
+    },
+    "footer": {
+      "item": "élément",
+      "items": "éléments",
+      "updated": "Mis à Jour"
+    },
+    "config": {
+      "title": "Personnalisez vos préférences de vue de résumé:",
+      "options": [
+        "Choisissez les plages de dates pour filtrer vos tâches",
+        "Affichez les devoirs par date d'échéance ou état de soumission",
+        "Suivez les quiz et examens à venir"
+      ]
+    }
+  },
+  "teacherSummary": {
+    "title": "Résumé d'Enseignement",
+    "tabs": {
+      "assignments": "Devoirs",
+      "forums": "Discussions",
+      "liveSessions": "Séances en Direct",
+      "quizzes": "Quiz"
+    },
+    "dateRanges": {
+      "today": "Aujourd'hui",
+      "week": "7 Prochains Jours",
+      "month": "30 Prochains Jours",
+      "custom": "Personnalisé"
+    },
+    "assignments": {
+      "dueSoon": "À Remettre Bientôt",
+      "pendingGrading": "En Attente de Notation",
+      "noAssignmentsDue": "Aucun devoir à remettre bientôt",
+      "allCaughtUp": "Tout est à jour!",
+      "pending": "en attente"
+    },
+    "quizzes": {
+      "dueSoon": "À Remettre Bientôt",
+      "pendingGrading": "En Attente de Notation",
+      "noQuizzesDue": "Aucun quiz à remettre bientôt",
+      "allCaughtUp": "Tout est à jour!",
+      "pending": "en attente"
+    },
+    "forums": {
+      "dueSoon": "À Remettre Bientôt",
+      "noForumsDue": "Aucune discussion à remettre bientôt",
+      "allCaughtUp": "Tout est à jour!",
+      "pending": "en attente"
+    },
+    "emptyStates": {
+      "forums": "Aucune discussion ne nécessite d'attention",
+      "liveSessions": "Aucune séance en direct programmée",
+      "quizzes": "Aucun quiz ne nécessite d'attention"
+    },
+    "footer": {
+      "item": "élément",
+      "items": "éléments",
+      "updated": "Mis à Jour"
+    }
+  },
+  "studentList": {
+    "title": "Tous les Étudiants",
+    "totalStudents": "Étudiants Totaux Présents dans",
+    "courses": "cours",
+    "loading": "Chargement des étudiants...",
+    "loadingCourses": "Chargement de vos cours...",
+    "emptyStates": {
+      "noCourses": "Aucun Cours Trouvé",
+      "noCoursesDescription": "Vous n'êtes inscrit à aucun cours en tant qu'instructeur.",
+      "noStudents": "Aucun étudiant n'est inscrit à ce cours."
+    },
+    "errors": {
+      "loadingCourses": "Erreur Lors du Chargement des Cours",
+      "failedToLoad": "Erreur lors du chargement des cours"
+    }
+  },
+  "assignments": {
+    "title": "Devoirs",
+    "header": {
+      "assignmentsText": "devoirs à travers",
+      "coursesText": "cours",
+      "pendingText": "Vous avez",
+      "pendingSingular": "devoir en attente",
+      "pendingPlural": "devoirs en attente",
+      "needGradingText": "nécessitent une notation",
+      "needGradingSingular": "devoir",
+      "needGradingPlural": "devoirs",
+      "noNeedGrading": "Aucun devoir ne nécessite une notation."
+    },
+    "emptyState": {
+      "title": "Aucun Devoir Disponible",
+      "description": "Il n'y a aucun cours avec des devoirs pour le moment."
+    },
+    "courseLevel": {
+      "graded": "Noté",
+      "submitted": "Soumis",
+      "total": "Total",
+      "needGrading": "nécessitent une notation",
+      "allGraded": "Tous notés ✓",
+      "noSubmissions": "Aucune soumission"
+    },
+    "assignmentLevel": {
+      "graded": "Noté",
+      "submitted": "Soumis",
+      "notStarted": "Non Commencé",
+      "noStatus": "Aucun État"
+    },
+    "status": {
+      "graded": "Noté",
+      "submitted": "Soumis",
+      "notStarted": "Non Commencé"
+    },
+    "dueDate": {
+      "noDueDate": "Aucune Date d'Échéance"
+    },
+    "errors": {
+      "loadingCourses": "Erreur Lors du Chargement des Cours",
+      "failedToLoad": "Erreur lors du chargement des cours"
+    }
+  },
+  "forums": {
+    "title": "Forums",
+    "header": {
+      "forumsText": "forums à travers",
+      "coursesText": "cours"
+    },
+    "emptyState": {
+      "title": "Aucun Forum Disponible",
+      "description": "Il n'y a aucun forum disponible pour le moment."
+    },
+    "courseLevel": {
+      "forumSingular": "forum",
+      "forumPlural": "forums"
+    },
+    "postCount": {
+      "postSingular": "publication",
+      "postPlural": "publications"
+    },
+    "errors": {
+      "loadingForums": "Erreur Lors du Chargement des Forums",
+      "failedToLoad": "Erreur lors du chargement des forums"
+    }
+  },
+  "quizzes": {
+    "title": "Quiz",
+    "header": {
+      "quizzesText": "quiz à travers",
+      "coursesText": "cours",
+      "pendingText": "Vous avez",
+      "pendingSingular": "quiz en attente",
+      "pendingPlural": "quiz en attente"
+    },
+    "emptyState": {
+      "title": "Aucun Quiz Disponible",
+      "description": "Il n'y a aucun cours avec des quiz pour le moment."
+    },
+    "courseLevel": {
+      "graded": "Noté",
+      "submitted": "Soumis",
+      "total": "Total",
+      "needGrading": "nécessitent une notation",
+      "allGraded": "Tous notés ✓",
+      "noSubmissions": "Aucune soumission"
+    },
+    "quizLevel": {
+      "graded": "Noté",
+      "submitted": "Soumis"
+    },
+    "status": {
+      "graded": "Noté",
+      "submitted": "Soumis",
+      "inProgress": "En Cours",
+      "notAttempted": "Non Tenté",
+      "completed": "Complété",
+      "noStatus": "Aucun État"
+    },
+    "dueDate": {
+      "dueLabel": "À Remettre:",
+      "noDueDate": "Aucune Date d'Échéance"
+    },
+    "loading": "Chargement de vos quiz...",
+    "errors": {
+      "loadingCourses": "Erreur Lors du Chargement des Cours",
+      "failedToLoad": "Erreur lors du chargement des cours"
+    }
+  },
+  "certificates": {
+    "title": "Mes Certificats",
+    "header": {
+      "earnedText": "Vous avez gagné",
+      "certificateSingular": "certificat",
+      "certificatePlural": "certificats"
+    },
+    "emptyState": {
+      "title": "Aucun Certificat Gagné Pour Le Moment",
+      "description": "Complétez un cours à 100% pour gagner votre certificat."
+    },
+    "loading": "Chargement de vos certificats...",
+    "errors": {
+      "loadingCourses": "Erreur Lors du Chargement des Cours",
+      "failedToLoad": "Erreur lors du chargement des cours"
+    }
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "title": "ଆଡମିନ ପ୍ୟାନେଲ",
+  "navigation": {
+    "courses": "କୋର୍ସ ମେନେଜ କରନ୍ତୁ",
+    "categories": "କ୍ୟାଟେଗୋରି ମେନେଜ କରନ୍ତୁ",
+    "users": "ୟୁଜର ମେନେଜ କରନ୍ତୁ",
+    "rolesPermissions": "ରୋଲ୍ସ ଓ ପରମିଶନ",
+    "theme": "ଥିମ୍",
+    "report": "ରିପୋର୍ଟ",
+    "tenantManagement": "ଇନଷ୍ଟିଟ୍ୟୁସନ ମେନେଜ କରନ୍ତୁ",
+    "instructonex": "ଇନଷ୍ଟ୍ରକ୍ଟୋନେକ୍ସ",
+    "accessControl": "ଆକ୍ସେସ କଣ୍ଟ୍ରୋଲ",
+    "rubrics": "ରୁବ୍ରିକସ୍",
+    "cohorts": "ବ୍ୟାଚ୍ ବ୍ୟବସ୍ଥାପନ",
+    "tenantsReport": "ଟେନାଣ୍ଟ ରିପୋର୍ଟ"
+  },
+  "tenantReport": {
+    "title": "ଟେନାଣ୍ଟ ରିପୋର୍ଟ",
+    "subtitle": "ଟେନାଣ୍ଟଗୁଡ଼ିକର କାର୍ଯ୍ୟକଳାପର ସଂକ୍ଷିପ୍ତ ଭିତ୍ତି ଓ ତ୍ୱରିତ ଇନସାଇଟ୍",
+    "generatedAt": "ତିଆରି ହୋଇଛି: {{time}}",
+    "noData": "କୌଣସି ଟେନାଣ୍ଟ ରିପୋର୍ଟ ଡାଟା ଉପଲବ୍ଧ ନାହିଁ",
+    "fetchError": "ଟେନାଣ୍ଟ ରିପୋର୍ଟ ଲୋଡ୍ କରିବାରେ ବିଫଳ ହେଲା",
+    "notAvailable": "ଉପଲବ୍ଧ ନାହିଁ",
+    "tenantSelector": "ଗହନ ଜାଞ୍ଚ ପାଇଁ ଟେନାଣ୍ଟ ଚୟନ କରନ୍ତୁ",
+    "selectedTenantDetails": "ଚୟିତ ଟେନାଣ୍ଟ: {{name}}",
+    "tableTitle": "ଟେନାଣ୍ଟ ମେଟ୍ରିକ୍ସ ଟେବୁଲ୍",
+    "tableSubtitle": "ମୁଖ୍ୟ ମେଟ୍ରିକ୍ସ ଉପରେ ସମସ୍ତ ଟେନାଣ୍ଟଙ୍କ ତୁଳନା",
+    "roles": {
+      "students": "ଛାତ୍ରଛାତ୍ରୀ",
+      "teachers": "ଶିକ୍ଷକ",
+      "others": "ଅନ୍ୟ"
+    },
+    "cards": {
+      "totalTenants": "ମୋଟ ଟେନାଣ୍ଟ",
+      "totalTenantsSubtitle": "ଏହି ରିପୋର୍ଟରେ ସାମିଲ ଥିବା ଟେନାଣ୍ଟଗୁଡ଼ିକ",
+      "totalUsers": "ମୋଟ ବ୍ୟବହାରକାରୀ",
+      "totalUsersSubtitle": "ସମସ୍ତ ଟେନାଣ୍ଟର ବ୍ୟବହାରକାରୀମାନେ",
+      "activeUsers": "ସକ୍ରିୟ ବ୍ୟବହାରକାରୀ",
+      "activeUsersSubtitle": "ସମ୍ପ୍ରତି ସକ୍ରିୟ ବ୍ୟବହାରକାରୀ",
+      "inactiveUsers": "ନିଷ୍କ୍ରିୟ ବ୍ୟବହାରକାରୀ",
+      "inactiveUsersSubtitle": "ଶେଷ କାର୍ଯ୍ୟକଳାପ ନଥିବା ବ୍ୟବହାରକାରୀ",
+      "neverLoggedIn": "କେବେ ଲଗ୍ଇନ୍ କରିନଥିବା",
+      "activeRate": "ସକ୍ରିୟ ହାର: {{rate}}%"
+    },
+    "charts": {
+      "comparisonTitle": "ଟେନାଣ୍ଟ ତୁଳନା",
+      "comparisonSubtitle": "ପ୍ରତ୍ୟେକ ଟେନାଣ୍ଟ ପାଇଁ ମୋଟ, ସକ୍ରିୟ ଏବଂ ନିଷ୍କ୍ରିୟ ବ୍ୟବହାରକାରୀ",
+      "roleSplitTitle": "{{name}} ପାଇଁ ଭୂମିକା ବିତରଣ",
+      "roleSplitSubtitle": "ଛାତ୍ରଛାତ୍ରୀ, ଶିକ୍ଷକ ଏବଂ ଅନ୍ୟ ବ୍ୟବହାରକାରୀଙ୍କର ବିତରଣ"
+    },
+    "columns": {
+      "name": "ଟେନାଣ୍ଟ ନାମ"
+    },
+    "metrics": {
+      "total_users": "ମୋଟ ଉପଯୋଗକର୍ତ୍ତା",
+      "total_students": "ମୋଟ ଛାତ୍ରଛାତ୍ରୀ",
+      "total_teachers": "ମୋଟ ଶିକ୍ଷକ",
+      "active_users": "ସକ୍ରିୟ ଉପଯୋଗକର୍ତ୍ତା",
+      "inactive_users": "ନିଷ୍କ୍ରିୟ ଉପଯୋଗକର୍ତ୍ତା",
+      "never_logged_in": "କେବେ ଲଗଇନ୍ କରିନାହାନ୍ତି",
+      "course_categories": "କୋର୍ସ ଶ୍ରେଣୀ",
+      "total_enrollments": "ମୋଟ ଏନରୋଲମେଣ୍ଟ",
+      "completed_courses": "ସମାପ୍ତ କୋର୍ସ",
+      "pending_completions": "ବକାୟା ସମାପ୍ତି"
+    }
+  }
+}

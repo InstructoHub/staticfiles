@@ -1,0 +1,411 @@
+{
+  "header": {
+    "greetings": {
+      "morning": "सुप्रभात",
+      "afternoon": "सुपराह्न",
+      "evening": "सायंकाल नमस्कार"
+    }
+  },
+  "home": {
+    "edit": "आपल्या डॅशबोर्ड व्यक्तिगत करा",
+    "save": "लेआउट सेव करा",
+    "dragToReposition": "पुनःस्थान करण्यासाठी ड्रॅग करा",
+    "dropItems": "येथे आयटम ड्रॉप करा",
+    "layoutSave": "लेआउट यशस्वीरित्या सेव केली",
+    "errorSaveDashboard": "डॅशबोर्ड लेआउट सेव करण्यात त्रुटी",
+    "dashboardLoading": "डॅशबोर्ड लोड करत आहे...",
+    "emptyDashboard": {
+      "title": "आपल्याकडे कोणतेही डॅशबोर्ड ब्लॉक पाहण्याची अनुमती नाही.",
+      "description": "डॅशबोर्ड घटकांमध्ये प्रवेशासाठी आपल्या एडमिन संपर्क साधा."
+    },
+    "dragModeClickHint": "विजेट्स हलवण्यासाठी ड्रॅग करा."
+  },
+  "continLearning": {
+    "title": "माझे अभ्यासक्रम",
+    "buttonDescription": "माझे अभ्यासक्रम पाहा",
+    "emptyState": {
+      "noTeacherCourses": "कोणते शिक्षक अभ्यासक्रम नाहीत",
+      "noStudentCourses": "कोणते विद्यार्थी अभ्यासक्रम नाहीत",
+      "noEnrolledCourses": "कोणते नोंदणीकृत अभ्यासक्रम नाहीत",
+      "noCoursesAvailable": "कोणते अभ्यासक्रम उपलब्ध नाहीत",
+      "teacherDescription": "आपल्याकडे कोणते अभ्यासक्रम नाहीत जिथे आप शिक्षक म्हणून नोंदणीकृत आहेत.",
+      "studentDescription": "आपल्याकडे कोणते अभ्यासक्रम नाहीत जिथे आप विद्यार्थी म्हणून नोंदणीकृत आहेत.",
+      "adminDescription": "आप अद्याप कोणत्याही अभ्यासक्रमात नोंदणीकृत नाहीत.",
+      "generalDescription": "आपल्या शिक्षण यात्रा सुरू करण्यासाठी अभ्यासक्रमांमध्ये नोंदणी करा.",
+      "browseCourses": "अभ्यासक्रम ब्राउজ करा"
+    },
+    "viewAll": {
+      "title": "माझे सर्व अभ्यासक्रम पाहा",
+      "subtitle": "माझे अभ्यासक्रमांमध्ये जा"
+    }
+  },
+  "allCourses": {
+    "title": "सर्व अभ्यासक्रम",
+    "buttonDescription": "सर्व अभ्यासक्रम पाहा",
+    "emptyState": {
+      "title": "अद्याप कोणते अभ्यासक्रम नाहीत",
+      "description": "सध्या कोणते अभ्यासक्रम उपलब्ध नाहीत.",
+      "button": "अभ्यासक्रम ब्राउজ करा",
+      "adminDescription": "प्रथम कोर्स तयार करून सुरुवात करा.",
+      "createButton": "कोर्स तयार करा"
+    },
+    "viewAll": {
+      "title": "सर्व अभ्यासक्रम अन्वेषण करा",
+      "subtitle": "सर्व अभ्यासक्रम पाहा"
+    }
+  },
+  "keyMetrics": {
+    "title": "आपल्या शिक्षण मेट्रिक्स",
+    "totalCourse": "नोंदणीकृत अभ्यासक्रम",
+    "notStarted": "सुरू न केलेले",
+    "inProcess": "प्रगतीमध्ये",
+    "completed": "पूर्ण",
+    "emptyState": {
+      "title": "कोणतेही कोर्स उपलब्ध नाहीत",
+      "description": "शिकण्याची यात्रा सुरू करण्यासाठी कोर्समध्ये नोंदणी करा."
+    }
+  },
+  "teachingMetrics": {
+    "title": "शिक्षण मेट्रिक्स",
+    "totalCourses": "एकूण अभ्यासक्रम",
+    "totalStudents": "एकूण विद्यार्थी",
+    "pendingGrading": "ग्रेडिंग प्रलंबित",
+    "avgGrade": "सरासरी ग्रेड"
+  },
+  "gradingStatus": {
+    "title": "ग्रेडिंग स्थिती",
+    "totalAssignments": "एकूण असाइनमेंट",
+    "totalSubmissions": "एकूण सबमिशन",
+    "pendingGrading": "ग्रेडिंग प्रलंबित",
+    "pendingSubmissions": "प्रलंबित सबमिशन"
+  },
+  "platformMetrics": {
+    "title": "प्लॅटफॉर्म मेट्रिक्स",
+    "totalCourses": "एकूण अभ्यासक्रम",
+    "totalUsers": "एकूण वापरकर्ता",
+    "activeEnrollments": "सक्रिय नावनोंदणी",
+    "platformActivity": "प्लॅटफॉर्म क्रियाकलाप",
+    "card view": "कार्ड दृश्य",
+    "list view": "सूची दृश्य"
+  },
+  "quickActions": {
+    "title": "द्रुत क्रिया",
+    "assignments": "असाइनमेंट",
+    "quiz": "क्विज",
+    "certificate": "प्रमाणपत्र",
+    "discussions": "चर्चा"
+  },
+  "recentActivity": {
+    "title": "अलीकडील क्रियाकलाप",
+    "seeAllActivity": "सर्व क्रियाकलाप पाहा",
+    "showLess": "कमी दर्शवा",
+    "noActivity": "कोणताही क्रियाकलाप सापडला नाही. नंतर परत येत!",
+    "description": "आपल्या अलीकडील क्रियाकलाप येथे दिसतील"
+  },
+  "recommendedCourses": {
+    "title": "आपल्यासाठी ट्रेंडिंग अभ्यासक्रम",
+    "noSummaryMessage": "अरे! अद्याप येथे कोणताही वर्णन नाही — अपेक्षेत राहा!",
+    "buttonDesc": "अभ्यासक्रम तपशील पाहा",
+    "students": "नोंदणीकृत",
+    "views": "दृश्य",
+    "emptyState": {
+      "title": "कोणते सुझावित अभ्यासक्रम नाहीत",
+      "categoryDescription": "या वर्गात कोणते अभ्यासक्रम सापडले नाहीत. अन्य वर्ग ब्राउज करण्याचा प्रयत्न करा किंवा सर्व उपलब्ध अभ्यासक्रम अन्वेषण करा.",
+      "generalDescription": "सध्या कोणते ट्रेंडिंग अभ्यासक्रम उपलब्ध नाहीत. शिक्षण संधी शोधण्यासाठी आमच्या अभ्यासक्रम कॅटलॉग ब्राउज करा.",
+      "button": "सर्व अभ्यासक्रम ब्राउज करा"
+    },
+    "enrollmentType": {
+      "enrolled": "एनरोल्ड",
+      "locked": "लॉक केलेले",
+      "selfEnroll": "सेल्फ-एनरोल"
+    }
+  },
+  "upcomingEvents": {
+    "title": "आसन्न इव्हेंट्स",
+    "noEvents": "सध्या कोणतेही आसन्न इव्हेंट नाहीत",
+    "description": "सध्या कोणते आसन्न इव्हेंट नाहीत"
+  },
+  "todaysTeachingSummary": {
+    "title": "शिक्षक सारांश",
+    "totalClasses": "एकूण वर्ग",
+    "completedClasses": "पूर्ण वर्ग",
+    "pendingClasses": "प्रलंबित वर्ग"
+  },
+  "studentSummary": {
+    "title": "माझ्या शिक्षणचा सारांश",
+    "tabs": {
+      "assignments": "असाइनमेंट",
+      "quizzes": "क्विज",
+      "forums": "चर्चा",
+      "liveSessions": "लाइव सत्र"
+    },
+    "dateRanges": {
+      "today": "आज",
+      "week": "पुढील 7 दिवस",
+      "month": "पुढील 30 दिवस",
+      "custom": "कस्टम"
+    },
+    "assignments": {
+      "dueSoon": "लवकरच अंतिम",
+      "recentlySubmitted": "अलीकडे सबमिट केले",
+      "noAssignmentsDue": "लवकरच कोणते असाइनमेंट अंतिम नाहीत",
+      "noRecentSubmissions": "कोणते अलीकडील सबमिशन नाहीत",
+      "notSubmitted": "सबमिट न केलेले",
+      "awaitingGrade": "ग्रेडची प्रतीक्षा",
+      "graded": "ग्रेड केले",
+      "grade": "ग्रेड"
+    },
+    "emptyStates": {
+      "quizzes": "कोणतीही आसन्न क्विज नाहीत",
+      "forums": "कोणतीही चर्चा लक्ष आकर्षण करण्याची गरज नाही",
+      "liveSessions": "कोणते लाइव सत्र शेड्यूल केलेले नाहीत"
+    },
+    "footer": {
+      "item": "आयटम",
+      "items": "आयटम",
+      "updated": "अपडेट केले"
+    },
+    "config": {
+      "title": "आपल्या सारांश दृश्य प्राधान्य कस्टमाइज करा:",
+      "options": [
+        "आपल्या कार्य फिल्टर करण्यासाठी तारीख श्रेणी निवडा",
+        "अंतिम तारीख किंवा सबमिशन स्थितीनुसार असाइनमेंट पाहा",
+        "आसन्न क्विज आणि परीक्षा ट्रॅक करा"
+      ]
+    },
+    "validation": {
+      "endDateBeforeStart": "समाप्ती तारीख सुरू होण्याच्या तारीखपूर्वी असू शकत नाही"
+    }
+  },
+  "teacherSummary": {
+    "title": "अध्यापन सारांश",
+    "tabs": {
+      "assignments": "असाइनमेंट",
+      "forums": "चर्चा",
+      "liveSessions": "लाइव सत्र",
+      "quizzes": "क्विज"
+    },
+    "dateRanges": {
+      "today": "आज",
+      "week": "पुढील 7 दिवस",
+      "month": "पुढील 30 दिवस",
+      "custom": "कस्टम"
+    },
+    "assignments": {
+      "dueSoon": "लवकरच अंतिम",
+      "pendingGrading": "ग्रेडिंग प्रलंबित",
+      "noAssignmentsDue": "लवकरच कोणते असाइनमेंट अंतिम नाहीत",
+      "allCaughtUp": "सर्व पकडली!",
+      "pending": "प्रलंबित"
+    },
+    "quizzes": {
+      "dueSoon": "लवकरच अंतिम",
+      "pendingGrading": "ग्रेडिंग प्रलंबित",
+      "noQuizzesDue": "लवकरच कोणतीही क्विज अंतिम नाहीत",
+      "allCaughtUp": "सर्व पकडली!",
+      "pending": "प्रलंबित"
+    },
+    "forums": {
+      "dueSoon": "लवकरच अंतिम",
+      "noForumsDue": "लवकरच कोणतीही चर्चा अंतिम नाहीत",
+      "allCaughtUp": "सर्व पकडली!",
+      "pending": "प्रलंबित"
+    },
+    "emptyStates": {
+      "forums": "कोणतीही चर्चा लक्ष आकर्षण करण्याची गरज नाही",
+      "liveSessions": "कोणते लाइव सत्र शेड्यूल केलेले नाहीत",
+      "quizzes": "कोणतीही क्विज लक्ष आकर्षण करण्याची गरज नाही"
+    },
+    "footer": {
+      "item": "आयटम",
+      "items": "आयटम",
+      "updated": "अपडेट केले"
+    },
+    "validation": {
+      "endDateBeforeStart": "समाप्ती तारीख सुरू होण्याच्या तारीखपूर्वी असू शकत नाही"
+    }
+  },
+  "studentList": {
+    "title": "सर्व विद्यार्थी",
+    "totalStudents": "एकूण विद्यार्थी उपस्थित",
+    "courses": "अभ्यासक्रम",
+    "loading": "विद्यार्थी लोड करत आहे...",
+    "loadingCourses": "आपल्या अभ्यासक्रम लोड करत आहे...",
+    "emptyStates": {
+      "noCourses": "कोणते अभ्यासक्रम सापडले नाहीत",
+      "noCoursesDescription": "आप कोणत्याही अभ्यासक्रमात शिक्षक म्हणून नोंदणीकृत नाहीत.",
+      "noStudents": "या अभ्यासक्रमात कोणते विद्यार्थी नोंदणीकृत नाहीत."
+    },
+    "errors": {
+      "loadingCourses": "अभ्यासक्रम लोड करण्यात त्रुटी",
+      "failedToLoad": "अभ्यासक्रम लोड करण्यात अयशस्वी"
+    }
+  },
+  "assignments": {
+    "title": "असाइनमेंट",
+    "header": {
+      "assignmentsText": "असाइनमेंट",
+      "coursesText": "अभ्यासक्रम",
+      "pendingText": "आपल्याकडे",
+      "pendingSingular": "प्रलंबित असाइनमेंट",
+      "pendingPlural": "प्रलंबित असाइनमेंट",
+      "needGradingText": "ग्रेडिंग आवश्यक",
+      "needGradingSingular": "असाइनमेंट",
+      "needGradingPlural": "असाइनमेंट",
+      "noNeedGrading": "कोणतीही असाइनमेंट ग्रेडिंग आवश्यक नाही."
+    },
+    "emptyState": {
+      "title": "कोणते असाइनमेंट उपलब्ध नाहीत",
+      "description": "सध्या कोणते असाइनमेंट असलेले अभ्यासक्रम नाहीत."
+    },
+    "courseLevel": {
+      "graded": "ग्रेड केले",
+      "submitted": "सबमिट केले",
+      "total": "एकूण",
+      "needGrading": "ग्रेडिंग आवश्यक",
+      "allGraded": "सर्व ग्रेड केली ✓",
+      "noSubmissions": "कोणते सबमिशन नाहीत"
+    },
+    "assignmentLevel": {
+      "graded": "ग्रेड केले",
+      "submitted": "सबमिट केले",
+      "notStarted": "सुरू न केलेले",
+      "noStatus": "कोणती स्थिती नाही"
+    },
+    "status": {
+      "graded": "ग्रेड केले",
+      "submitted": "सबमिट केले",
+      "notStarted": "सुरू न केलेले"
+    },
+    "dueDate": {
+      "noDueDate": "कोणतीही अंतिम तारीख नाही"
+    },
+    "errors": {
+      "loadingCourses": "अभ्यासक्रम लोड करण्यात त्रुटी",
+      "failedToLoad": "अभ्यासक्रम लोड करण्यात अयशस्वी"
+    }
+  },
+  "forums": {
+    "title": "मंच",
+    "header": {
+      "forumsText": "मंच",
+      "coursesText": "अभ्यासक्रम"
+    },
+    "emptyState": {
+      "title": "कोणते मंच उपलब्ध नाहीत",
+      "description": "सध्या कोणते मंच उपलब्ध नाहीत."
+    },
+    "courseLevel": {
+      "forumSingular": "मंच",
+      "forumPlural": "मंच"
+    },
+    "postCount": {
+      "postSingular": "पोस्ट",
+      "postPlural": "पोस्ट"
+    },
+    "errors": {
+      "loadingForums": "मंच लोड करण्यात त्रुटी",
+      "failedToLoad": "मंच लोड करण्यात अयशस्वी"
+    }
+  },
+  "quizzes": {
+    "title": "क्विज",
+    "header": {
+      "quizzesText": "क्विज",
+      "coursesText": "अभ्यासक्रम",
+      "pendingText": "आपल्याकडे",
+      "pendingSingular": "प्रलंबित क्विज",
+      "pendingPlural": "प्रलंबित क्विज"
+    },
+    "emptyState": {
+      "title": "कोणतीही क्विज उपलब्ध नाहीत",
+      "description": "सध्या कोणती क्विज असलेली अभ्यासक्रम नाहीत."
+    },
+    "courseLevel": {
+      "graded": "ग्रेड केले",
+      "submitted": "सबमिट केले",
+      "total": "एकूण",
+      "needGrading": "ग्रेडिंग आवश्यक",
+      "allGraded": "सर्व ग्रेड केली ✓",
+      "noSubmissions": "कोणते सबमिशन नाहीत"
+    },
+    "quizLevel": {
+      "graded": "ग्रेड केले",
+      "submitted": "सबमिट केले"
+    },
+    "status": {
+      "graded": "ग्रेड केले",
+      "submitted": "सबमिट केले",
+      "inProgress": "प्रगतीमध्ये",
+      "notAttempted": "प्रयत्न न केलेले",
+      "completed": "पूर्ण",
+      "noStatus": "कोणती स्थिती नाही"
+    },
+    "dueDate": {
+      "dueLabel": "अंतिम:",
+      "noDueDate": "कोणतीही अंतिम तारीख नाही"
+    },
+    "loading": "आपल्या क्विज लोड करत आहे...",
+    "errors": {
+      "loadingCourses": "अभ्यासक्रम लोड करण्यात त्रुटी",
+      "failedToLoad": "अभ्यासक्रम लोड करण्यात अयशस्वी"
+    }
+  },
+  "certificates": {
+    "title": "माझे प्रमाणपत्र",
+    "header": {
+      "earnedText": "आपण अर्जित केलेले",
+      "certificateSingular": "प्रमाणपत्र",
+      "certificatePlural": "प्रमाणपत्र"
+    },
+    "emptyState": {
+      "title": "अद्याप कोणते प्रमाणपत्र अर्जित न केलेले",
+      "description": "आपल्या प्रमाणपत्र अर्जित करण्यासाठी अभ्यासक्रम 100% पूर्ण करा."
+    },
+    "loading": "आपल्या प्रमाणपत्र लोड करत आहे...",
+    "errors": {
+      "loadingCourses": "अभ्यासक्रम लोड करण्यात त्रुटी",
+      "failedToLoad": "अभ्यासक्रम लोड करण्यात अयशस्वी"
+    }
+  },
+  "adminNoCourseBanner": {
+    "title": "AI च्या मदतीने तुमचा पहिला कोर्स तयार करा",
+    "description": "एक कोर्स तयार करा, शिकणाऱ्यांना आमंत्रित करा, आणि हा रिकामा डॅशबोर्ड एक जिवंत लर्निंग स्पेसमध्ये बदला.",
+    "createButton": "तुमची यात्रा सुरू करा",
+    "spotlightHint": "येथे क्लिक करा आणि तुमचा पहिला कोर्स तयार करा, आणि तुमचा लर्निंग कॅटलॉग बनवायला सुरुवात करा.",
+    "cancel": "रद्द करा"
+  },
+  "assignmentForm": {
+    "fields": {
+      "additionalFile": "अतिरिक्त फाइल",
+      "additionalFileDescription": "या असाइनमेंटसाठी संदर्भ सामग्री किंवा अतिरिक्त संसाधन अपलोड करा"
+    },
+    "validation": {
+      "allowSubmissionsFromDateRequired": "कृपया वैध तारीख भरा",
+      "allowSubmissionsFromAfterDue": "सबमिशन्स सुरू होण्याची तारीख देय तारीखच्या आधी असावी",
+      "availabilityAfterDue": "सबमिशन्स सुरू होण्याची तारीख देय तारीखच्या आधी असावी",
+      "dueDateRequired": "कृपया योग्य देय तारीख भरा",
+      "dueDateInPast": "देय तारीख भूतकाळात असू शकत नाही",
+      "dueDateBeforeAllowFrom": "देय तारीख सबमिशन्स सुरू होण्याच्या तारखेच्या नंतर असावी"
+    }
+  },
+  "rubric": {
+    "deleteConfirmTitle": "रुब्रिक डिलीट करायची?",
+    "deleteConfirm": "या असाइनमेंटला सध्या एक रुब्रिक आहे. स्कोअर-आधारित ग्रेडिंगवर स्विच केल्यास रुब्रिक डिलीट होईल. पुढे जायचे का?",
+    "selectTemplate": "टेम्प्लेट निवडा",
+    "criterionRow": {
+      "editDescription": "वर्णन संपादित करा",
+      "removeCriterion": "निकष काढा",
+      "editRating": "रेटिंग संपादित करा",
+      "removeRating": "रेटिंग काढा",
+      "addRatingHere": "इथे रेटिंग जोडा"
+    },
+    "confirmDeleteCriterion": {
+      "title": "मापदंड हटवा",
+      "message": "तुम्हाला खात्री आहे का की तुम्ही मापदंड \"{{name}}\" हटवू इच्छिता? यामुळे त्याच्या सर्व रेटिंग्स देखील काढल्या जातील."
+    },
+    "builder": {
+      "totalPointsHint": "सर्व मापदंड प्रमाणानुसार पुन्हा वाटप करण्यासाठी संपादित करा"
+    }
+  }
+}

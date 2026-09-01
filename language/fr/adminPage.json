@@ -1,0 +1,14 @@
+{
+  "title": "Panneau d'administration",
+  "navigation": {
+    "courses": "Gérer les cours",
+    "categories": "Gérer les catégories",
+    "users": "Gérer les utilisateurs",
+    "rolesPermissions": "Rôles et permissions",
+    "theme": "Thèmes",
+    "report": "Rapport",
+    "tenantManagement": "Gestion des locataires",
+    "instructonex": "InstructoNex",
+    "accessControl": "Contrôle d'accès"
+  }
+}

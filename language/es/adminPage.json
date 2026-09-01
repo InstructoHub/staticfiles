@@ -1,0 +1,14 @@
+{
+  "title": "Panel de administración",
+  "navigation": {
+    "courses": "Gestionar cursos",
+    "categories": "Gestionar categorías",
+    "users": "Gestionar usuarios",
+    "rolesPermissions": "Roles y permisos",
+    "theme": "Temas",
+    "report": "Reporte",
+    "tenantManagement": "Gestión de inquilino",
+    "instructonex": "InstructoNex",
+    "accessControl": "Control de acceso"
+  }
+}

@@ -1,0 +1,260 @@
+{
+  "page": {
+    "title": "Course Management",
+    "subtitle": "Manage and organize your courses",
+    "loading": "Loading courses...",
+    "noCoursesFound": "No courses found matching your search criteria",
+    "noCoursesAvailable": "No Course available. Start by adding a new Course ."
+  },
+  "emptyState": {
+    "title": "No Courses Yet",
+    "description": "Get started by creating first course.",
+    "createButton": "Create Course"
+  },
+
+  "navigation": {
+    "editCourse": "Edit Course",
+    "createCourse": "Create New Course",
+    "deleteCourse": "Delete Course",
+    "deleteCourses": "Delete Courses",
+    "viewParticipants": "View participants"
+  },
+
+  "buttons": {
+    "addCourse": "Add Course",
+    "selectAll": "Select All",
+    "deselectAll": "Deselect All",
+    "deleteSelected": "Delete Course",
+    "edit": "Edit Course",
+    "delete": "Delete Course",
+    "cancel": "Cancel",
+    "create": "Create Course",
+    "update": "Update Course",
+    "creating": "Creating...",
+    "updating": "Updating...",
+    "deleting": "Deleting...",
+    "save": "Save",
+    "uploadImage": "Upload Image",
+    "removeImage": "Remove Image",
+    "hide": "Hide",
+    "show": "Show",
+    "report": "Report"
+  },
+
+  "table": {
+    "headers": {
+      "courseName": "Course Name",
+      "shortName": "Short Name",
+      "category": "Category",
+      "startDate": "Start Date",
+      "endDate": "End Date",
+      "modifiedOn": "Modified On",
+      "teachers": "Teachers",
+      "students": "Students",
+      "actions": "Actions",
+      "S.No": "S.No"
+    },
+    "badges": {
+      "hidden": "Hidden"
+    },
+    "search": {
+      "placeholder": "Search courses..."
+    },
+    "fallbacks": {
+      "untitledCourse": "Untitled Course",
+      "noCategory": "No Category",
+      "noTeachers": "No Teachers",
+      "noStudents": "No Students"
+    }
+  },
+
+  "form": {
+    "labels": {
+      "courseName": "Course Name",
+      "shortName": "Short Name",
+      "category": "Category",
+      "description": "Description",
+      "aiCourseOverview": "AI Course Overview",
+      "loadFromAi": "Load Course Overview from AI",
+      "autoUpdateFromAi": "Auto update from AI",
+      "startDate": "Start Date",
+      "endDate": "End Date",
+      "courseImage": "Course Image",
+      "courseVisibility": "Course Visibility",
+      "enrollmentMethods": "Enrollment Methods",
+      "selfEnrollment": "Self Enrollment",
+      "manualEnrollment": "Manual Enrollment",
+      "guestAccess": "Guest Access"
+    },
+    "descriptions": {
+      "loadFromAi": "When course AI is enabled, generate the Course Overview once and show it to all users.",
+      "autoUpdateFromAi": "When modules change, regenerate and update the AI Course Overview automatically.",
+      "blankDescriptionAi": "If Description is left blank and AI is enabled for this course, AI will generate a Course Overview (short description and learning outcomes) automatically."
+    },
+    "placeholders": {
+      "courseName": "Enter full course name",
+      "shortName": "Enter short course name",
+      "category": "Select a category",
+      "description": "Enter course description",
+      "selectStartDate": "Select start date",
+      "selectEndDate": "Select end date"
+    },
+    "validation": {
+      "courseNameRequired": "Course name is required",
+      "courseNameMinLength": "Course name must be at least 3 characters",
+      "courseNameMaxLength": "Course name must not exceed 250 characters",
+      "shortNameRequired": "Short name is required",
+      "shortNameMinLength": "Short name must be at least 2 characters",
+      "shortNameMaxLength": "Short name must not exceed 30 characters",
+      "shortNameFormat": "Short name can only contain letters, numbers, underscore and dash",
+      "shortNameTaken": "Short name is already used!",
+      "checkingShortName": "Checking short name availability...",
+      "fixErrorsFirst": "Please fill in all required fields correctly before submitting",
+      "categoryRequired": "Category is required",
+      "categoryPositive": "Category ID must be positive",
+      "descriptionMaxLength": "Description must not exceed 1000 characters",
+      "startDateBeforeEnd": "Start date must be before end date",
+      "endDateAfterStart": "End date must be after start date",
+      "invalidDate": "Please enter a valid date"
+    },
+    "modes": {
+      "edit": {
+        "title": "Edit Course",
+        "subtitle": "Update the course details below"
+      },
+      "create": {
+        "title": "Create New Course",
+        "subtitle": "Add a new course to the system"
+      }
+    },
+    "imageUpload": {
+      "dropzoneText": "Drag and drop an image file here, or click to select",
+      "currentImage": "Current image",
+      "chooseDifferent": "Choose Different",
+      "supportedFormats": "Supported formats: JPG, JPEG, JPE, PNG (Max: 5MB)",
+      "uploadError": "Failed to upload course image",
+      "setImageError": "Failed to set course overview image",
+      "currentImageAlt": "Current course image",
+      "newImagePreviewAlt": "New course image preview",
+      "removeNewImageTooltip": "Remove new image",
+      "newImage": "New image",
+      "zeroBytes": "0 Bytes",
+      "fileSizes": ["Bytes", "KB", "MB"]
+    },
+    "visibility": {
+      "visible": "Visible",
+      "hidden": "Hidden",
+      "visibleDescription": "Students can find and access this course",
+      "hiddenDescription": "Course is hidden from students until you make it visible"
+    }
+  },
+
+  "modals": {
+    "deleteMultiple": {
+      "title": "Delete Multiple Courses",
+      "warning": "Warning: This action cannot be undone",
+      "description": "Deleting these {{count}} courses will permanently remove them from the system. All associated data including enrollments, grades, and content will be lost.",
+      "listLabel": "Courses to be deleted ({{count}}):",
+      "confirmation": "Are you absolutely sure you want to proceed? This will permanently delete all selected courses and cannot be reversed."
+    },
+    "deleteSingle": {
+      "title": "Delete Course",
+      "warning": "Warning: This action cannot be undone",
+      "description": "Deleting this course will permanently remove it from the system. All associated data including enrollments, grades, and content will be lost.",
+      "listLabel": "Course to be deleted:",
+      "confirmation": "Are you absolutely sure you want to delete this course? This action cannot be undone."
+    },
+    "details": {
+      "name": "Name:",
+      "shortName": "Short Name:",
+      "category": "Category:",
+      "description": "Description:",
+      "startDate": "Start Date:",
+      "endDate": "End Date:",
+      "teachers": "Teachers:",
+      "students": "Students:"
+    }
+  },
+
+  "messages": {
+    "success": {
+      "courseCreated": "Course created successfully",
+      "courseUpdated": "Course updated successfully",
+      "coursesDeleted": "Courses deleted successfully",
+      "courseDeleted": "Course deleted successfully",
+      "courseShown": "Course is now visible to students",
+      "courseHidden": "Course is now hidden from students",
+      "imageUploaded": "Course image uploaded successfully",
+      "imageRemoved": "Course image removed successfully"
+    },
+    "error": {
+      "courseNotFound": "Course not found",
+      "failedToLoad": "Failed to fetch courses",
+      "failedToLoadCourse": "Failed to fetch course data",
+      "failedToLoadCategories": "Failed to fetch categories",
+      "errorUpdating": "Error updating course",
+      "errorCreating": "Error creating course",
+      "failedToUpdate": "Failed to update course",
+      "failedToCreate": "Failed to create course",
+      "deleteFailed": "Failed to delete course",
+      "deleteMultipleFailed": "Failed to delete courses",
+      "uploadImageFailed": "Failed to upload image file",
+      "setImageFailed": "Failed to set course overview image",
+      "invalidImageFormat": "Invalid image format. Please use JPG, JPEG, JPE, or PNG",
+      "imageTooLarge": "Image file is too large. Maximum size is 5MB",
+      "enrollmentConfigFailed": "Failed to configure self-enrollment",
+      "selfEnrollmentMethodNotFound": "Self-enrollment method not found for this course",
+      "toggleSelfEnrollmentFailed": "Failed to toggle self-enrollment"
+    },
+    "warning": {
+      "selectCoursesToDelete": "Please select at least one course to delete",
+      "createCategoryFirst": "No categories available. Please create a category first.",
+      "unsavedChanges": "You have unsaved changes. Are you sure you want to leave?",
+      "removeImageConfirm": "Are you sure you want to remove the course image?"
+    }
+  },
+
+  "enrollment": {
+    "methods": {
+      "self": "Self Enrollment",
+      "manual": "Manual Enrollment",
+      "guest": "Guest Access"
+    },
+    "descriptions": {
+      "self": "Allow students to enroll themselves in this course",
+      "manual": "Require manual enrollment by administrators",
+      "guest": "Allow guest users to access course content"
+    },
+    "status": {
+      "enabled": "Enabled",
+      "disabled": "Disabled"
+    }
+  },
+
+  "report": {
+    "title": "Course Report",
+    "loading": "Loading course report...",
+    "back": "Back to Courses",
+    "overview": "Course Overview",
+    "schedule": "Schedule",
+    "participants": "Participants",
+    "completed": "Completed",
+    "inProgress": "In Progress",
+    "notStarted": "Not Started",
+    "noStudentData": "No student enrollment data available.",
+    "noEnrollmentMethods": "No enrollment methods configured.",
+    "unknownMethod": "Unknown Method"
+  },
+
+  "status": {
+    "loading": "Loading...",
+    "saving": "Saving...",
+    "deleting": "Deleting...",
+    "processing": "Processing...",
+    "uploading": "Uploading...",
+    "active": "Active",
+    "inactive": "Inactive",
+    "draft": "Draft",
+    "published": "Published"
+  }
+}

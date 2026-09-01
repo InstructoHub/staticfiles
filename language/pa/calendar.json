@@ -1,0 +1,46 @@
+{
+  "title": "ਕੈਲੰਡਰ",
+  "subtitle": "ਆਪਣੀ ਸ਼ਡਿਊਲ ਅਤੇ ਇਵੈਂਟਸ ਨੂੰ ਮੇਨੇਜ ਕਰੋ",
+  "navigation": {
+    "previousMonth": "ਪਿਛਲਾ ਮਹੀਨਾ",
+    "nextMonth": "ਅਗਲਾ ਮਹੀਨਾ",
+    "backToMonth": "ਮਹੀਨੇ ਦੇ ਵਿਊ ਤੇ ਵਾਪਸ"
+  },
+  "search": {
+    "placeholder": "ਇਵੈਂਟਸ ਖੋਜੋ",
+    "ariaLabel": "ਇਵੈਂਟਸ ਖੋਜੋ"
+  },
+  "filter": {
+    "ariaLabel": "ਇਵੈਂਟ ਕਿਸਮ ਦੁਆਰਾ ਫਿਲਟਰ ਕਰੋ",
+    "options": {
+      "all": "ਸਾਰੇ ਕਿਸਮਾਂ",
+      "assignment": "ਅਸਾਇਨਮੈਂਟਸ",
+      "quiz": "ਕਿਜ਼",
+      "discussion": "ਚਰਚਾ",
+      "meeting": "ਮੀਟਿੰਗ",
+      "project": "ਪ੍ਰੋਜੈਕਟ"
+    }
+  },
+  "days": {
+    "sun": "ਐਤਵਾਰ",
+    "mon": "ਸੋਮਵਾਰ",
+    "tue": "ਮੰਗਲਵਾਰ",
+    "wed": "ਬੁੱਧਵਾਰ",
+    "thu": "ਵੀਰਵਾਰ",
+    "fri": "ਸ਼ੁੱਕਰਵਾਰ",
+    "sat": "ਸ਼ਨੀਵਾਰ"
+  },
+  "grid": {
+    "dayAriaLabel": "ਦਿਨ {{day}}",
+    "moreEvents": "+ {{count}} ਹੋਰ"
+  },
+  "events": {
+    "title": "ਇਵੈਂਟਸ ਤੇ",
+    "viewButton": "ਵੇਖੋ",
+    "noEvents": "ਇਸ ਦਿਨ ਲਈ ਕੋਈ ਇਵੈਂਟਸ ਨਹੀਂ",
+    "selectDay": "ਇਵੈਂਟ ਵੇਖਣ ਲਈ ਦਿਨ ਚੁਣੋ.",
+    "eventCount": "{{count}} ਇਵੈਂਟ",
+    "eventCount_plural": "{{count}} ਇਵੈਂਟਾਂ"
+  },
+  "loadingcalendar": "ਕੈਲੰਡਰ ਲੋਡ ਹੋ ਰਿਹਾ ਹੈ..."
+}

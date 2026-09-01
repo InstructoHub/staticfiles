@@ -1,0 +1,205 @@
+{
+  "stepper": {
+    "courseDetails": "Course Details",
+    "contentPreference": "Upload Your Content",
+    "moduleCreation": "Module Creation",
+    "defineStructure": "Define Structure",
+    "reviewPrompts": "Review Prompts",
+    "courseReview": "Course Review"
+  },
+  "pageHeader": {
+    "backButtonTitle": "Go back to previous step",
+    "resetButtonTitle": "Reset to initial state"
+  },
+  "pageActions": {
+    "save": "Save",
+    "saveAndContinue": "Save & Continue"
+  },
+  "contentPreference": {
+    "uploadingText": "Uploading..."
+  },
+  "uploadFiles": {
+    "title": "Upload Your Content",
+    "description": "Just let me know how you'd like to start building your course content.",
+    "uploadTitle": "Upload sources",
+    "dragDropText": "Drag & drop or choose file",
+    "supportedFilesText": "Supported file types: PDF, HTML, MP4",
+    "selectedFilesLabel": "Selected Files:",
+    "sourceLimitLabel": "Source limit",
+    "continueButtonText": "Continue",
+    "errors": {
+      "unsupportedFiles": "file(s) have unsupported types. Supported: PDF, HTML, MP4",
+      "maxFilesExceeded": "Maximum {{max}} files allowed",
+      "fileSizeExceeded": "Total file size exceeds 1 GB limit",
+      "noFilesSelected": "Please select at least one file to continue",
+      "uploadFailed": "Failed to upload files",
+      "NotReadable": "The uploaded files could not be read. Please remove it and try again."
+    },
+    "alerts": {
+      "loadState": {
+        "title": "You left your last draft unfinished. Would you like to pick up where you left off or start fresh?",
+        "confirmText": "Resume",
+        "cancelText": "Restart"
+      }
+    },
+    "tooltips": {
+      "uploadInfo": "You can upload PDF, HTML, or MP4 files",
+      "fileSizeInfo": "Maximum total file size is 1 GB"
+    }
+  },
+  "createModules": {
+    "title": "Select the Number of Modules",
+    "description": "Please specify how many modules you'd like to create for your course.",
+    "moduleLabel": "Modules:",
+    "promptLabel": "Initial Prompt:",
+    "promptPlaceholder": "Provide an initial prompt to guide module creation (optional)",
+    "errors": {
+      "saveFailed": "Failed to save module count. Please try again.",
+      "networkError": "Network error. Please check your connection."
+    },
+    "tooltips": {
+      "moduleInfo": "You can create between 1 and 8 modules"
+    }
+  },
+  "defineStructure": {
+    "quickTips": "Quick Tips",
+    "title": "Define Structure",
+    "description": "Design your course structure by creating modules and adding learning objects.",
+    "learningObjectsTitle": "Learning Objects",
+    "quickTipsText": "Drag modules to reorder them. Drag and drop Learning Objects in Modules from the right panel.",
+    "addModuleButton": "Add Module",
+    "dragDropText": "Drag and drop learning objects here",
+    "noDataTitle": "No Data Found",
+    "noDataContent": "There are no items to display",
+    "modulePlaceholder": "Enter Title Here",
+    "moduleContentPlaceholder": "Add Content Here",
+    "learningObjects": {
+      "moduleIntroduction": "Module Introduction",
+      "learningObjectives": "Learning Objectives",
+      "learningOutcomes": "Learning Outcomes",
+      "readingMaterial": "Reading Material",
+      "assignment": "Assignment",
+      "discussionForum": "Discussion Forum",
+      "caseStudy": "Case Study",
+      "experiments": "Experiments"
+    },
+    "errors": {
+      "titleRequired": "Title field is required",
+      "lo_Required": "Learning outcome field is required",
+      "noLearningObjects": "Please add learning objects in all modules."
+    },
+    "alerts": {
+      "confirm": {
+        "title": "Your course is shaping up brilliantly! May I proceed?",
+        "confirmText": "Yes"
+      }
+    },
+    "tooltips": {
+      "dragModules": "Click and drag to reorder modules",
+      "dragObjects": "Drag learning objects from the right panel into modules"
+    }
+  },
+  "reviewPrompts": {
+    "title": "Review Prompts",
+    "description": "Review and refine your module content.",
+    "moduleStructure": "Proposed Module Structure",
+    "quickTipsText": "Click the edit button to modify module names and descriptions. All changes are automatically saved when you click the save button.",
+    "addButton": "Add",
+    "moduleNamePlaceholder": "Enter module name",
+    "titlePlaceholder": "Enter title",
+    "promptPlaceholder": "Enter prompt",
+    "untitledContent": "Untitled Content",
+    "titleText": "Title",
+    "promptText": "Prompt",
+    "addDropdown": {
+      "page": "Page",
+      "assignment": "Assignment",
+      "forum": "Forum"
+    },
+    "contentTypes": {
+      "page": "Page",
+      "assignment": "Assignment",
+      "forum": "Forum"
+    },
+    "noContentMessage": "No content items yet. Click 'Add' to create one.",
+    "errors": {
+      "moduleNameRequired": "Module name field is required",
+      "titleRequired": "Title field is required",
+      "promptRequired": "Prompt field is required"
+    },
+    "alerts": {
+      "confirm": {
+        "title": "Make sure you've made changes to all your modules. May I proceed?",
+        "confirmText": "Yes"
+      }
+    },
+    "tooltips": {
+      "editInfo": "Click to edit module names and descriptions"
+    }
+  },
+  "courseReview": {
+    "title": "Course Review",
+    "description": "Final review of your course content.",
+    "addTitleHere": "Add Title Here",
+    "addContentHere": "Add Content Here",
+    "noDataTitle": "No Data Found",
+    "noDataContent": "There are no items to display",
+    "regenerateButton": "Regenerate",
+    "saveChangesButton": "Save Changes",
+    "createCourseButton": "Go ahead and create course",
+    "contentTypes": {
+      "page": "Page",
+      "assignment": "Assignment",
+      "forum": "Forum"
+    },
+    "errors": {
+      "moduleNameRequired": "Module name field is required",
+      "titleRequired": "Title field is required",
+      "contentRequired": "Content field is required"
+    },
+    "alerts": {
+      "confirm": {
+        "title": "I'm just artificial, but you're the real expert! Your vision, your brilliance—shall I bring it to life?",
+        "confirmText": "Yes"
+      }
+    },
+    "regeneratePrompt": {
+      "title": "Regenerate Content",
+      "submitButton": "Submit",
+      "cancelButton": "Cancel"
+    },
+    "tooltips": {
+      "regenerateInfo": "Regenerate this content with a new prompt"
+    }
+  },
+  "commonMessages": {
+    "success": {
+      "saved": "State saved successfully",
+      "uploadSuccess": "Uploaded Successfully.",
+      "moduleSuccess": "Modules were successfully created."
+    },
+    "error": {
+      "somethingWrong": "Something went wrong. Please try again.",
+      "dataNosave": "Data is not saved. Please try again!"
+    },
+    "alerts": {
+      "backConfirm": {
+        "title": "Going back will discard the progress. Do you want to proceed?",
+        "confirmText": "Yes",
+        "cancelText": "No"
+      },
+      "resetConfirm": {
+        "title": "Are you sure you want to start from scratch?",
+        "confirmText": "Yes",
+        "cancelText": "No"
+      }
+    }
+  },
+  "shared": {
+    "moduleLabel": "Module"
+  },
+  "alerts": {
+    "resetConfirm": "Make sure you've made changes to all your modules. May I proceed?",
+    "confirmText": "Yes"
+  }
+}

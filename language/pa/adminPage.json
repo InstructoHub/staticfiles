@@ -1,0 +1,67 @@
+{
+  "title": "ਐਡਮਿਨ ਪੈਨਲ",
+  "navigation": {
+    "courses": "ਮੈਨੇਜ ਕੋਰਸਿਜ਼",
+    "categories": "ਮੈਨੇਜ ਕੈਟੇਗਰੀਜ਼",
+    "users": "ਮੈਨੇਜ ਯੂਜ਼ਰਸ",
+    "rolesPermissions": "ਰੋਲਸ ਅਤੇ ਪਰਮਿਸ਼ਨਸ",
+    "theme": "ਥੀਮਸ",
+    "report": "ਰਿਪੋਰਟ",
+    "tenantManagement": "ਮੈਨੇਜ ਇੰਸਟੀਟਿਊਸ਼ਨਸ",
+    "instructonex": "InstructoNex",
+    "accessControl": "ਐਕਸੈਸ ਕੰਟਰੋਲ",
+    "rubrics": "ਰੂਬਰਿਕਸ",
+    "cohorts": "ਬੈਚ ਮੈਨੇਜ ਕਰੋ",
+    "tenantsReport": "ਟੇਨੈਂਟ ਰਿਪੋਰਟ"
+  },
+  "tenantReport": {
+    "title": "ਟੇਨੈਂਟ ਰਿਪੋਰਟ",
+    "subtitle": "ਕਈ ਟੇਨੈਂਟਾਂ ਦੀ ਐਕਟਿਵਿਟੀ ਦਾ ਸੰਖੇਪ ਤੇ ਫਟਾਫਟ ਇਨਸਾਇਟ",
+    "generatedAt": "ਤਿਆਰ ਕੀਤਾ: {{time}}",
+    "noData": "ਟੇਨੈਂਟ ਰਿਪੋਰਟ ਦਾ ਕੋਈ ਡਾਟਾ ਉਪਲਬਧ ਨਹੀਂ",
+    "fetchError": "ਟੇਨੈਂਟ ਰਿਪੋਰਟ ਲੋਡ ਨਹੀਂ ਹੋ ਸਕੀ",
+    "notAvailable": "ਉਪਲਬਧ ਨਹੀਂ",
+    "tenantSelector": "ਗਹਿਰਾਈ ਨਾਲ ਵੇਖਣ ਲਈ ਟੇਨੈਂਟ ਚੁਣੋ",
+    "selectedTenantDetails": "ਚੁਣਿਆ ਗਿਆ ਟੇਨੈਂਟ: {{name}}",
+    "tableTitle": "ਟੇਨੈਂਟ ਮੈਟਰਿਕ ਟੇਬਲ",
+    "tableSubtitle": "ਸਾਰੇ ਟੇਨੈਂਟ ਮੁੱਖ ਮੈਟਰਿਕਸ ਅਨੁਸਾਰ ਤੁਲਨਾ ਕੀਤੇ ਗਏ ਹਨ",
+    "roles": {
+      "students": "ਵਿਦਿਆਰਥੀ",
+      "teachers": "ਅਧਿਆਪਕ",
+      "others": "ਹੋਰ"
+    },
+    "cards": {
+      "totalTenants": "ਕੁੱਲ ਟੇਨੈਂਟ",
+      "totalTenantsSubtitle": "ਇਸ ਰਿਪੋਰਟ ਵਿੱਚ ਸ਼ਾਮِل ਟੇਨੈਂਟ",
+      "totalUsers": "ਕੁੱਲ ਯੂਜ਼ਰ",
+      "totalUsersSubtitle": "ਸਾਰੇ ਟੇਨੈਂਟਾਂ ਦੇ ਯੂਜ਼ਰ",
+      "activeUsers": "ਐਕਟਿਵ ਯੂਜ਼ਰ",
+      "activeUsersSubtitle": "ਹਾਲ ਹੀ ਵਿੱਚ ਸਰਗਰਮ ਯੂਜ਼ਰ",
+      "inactiveUsers": "ਨਿਸ਼ਕ੍ਰਿਆ ਯੂਜ਼ਰ",
+      "inactiveUsersSubtitle": "ਜਿਨ੍ਹਾਂ ਦੀ ਹਾਲ ਹੀ ਵਿੱਚ ਕੋਈ ਸਰਗਰਮੀ ਨਹੀਂ",
+      "neverLoggedIn": "ਕਦੇ ਲੌਗਇਨ ਨਹੀਂ ਕੀਤਾ",
+      "activeRate": "ਐਕਟਿਵ ਰੇਟ: {{rate}}%"
+    },
+    "charts": {
+      "comparisonTitle": "ਟੇਨੈਂਟਾਂ ਦੀ ਤੁਲਨਾ",
+      "comparisonSubtitle": "ਹਰ ਟੇਨੈਂਟ ਲਈ ਕੁੱਲ, ਐਕਟਿਵ ਅਤੇ ਨਿਸ਼ਕ੍ਰਿਆ ਯੂਜ਼ਰ",
+      "roleSplitTitle": "{{name}} ਲਈ ਰੋਲਾਂ ਦੀ ਵੰਡ",
+      "roleSplitSubtitle": "ਵਿਦਿਆਰਥੀ, ਅਧਿਆਪਕ ਅਤੇ ਹੋਰ ਯੂਜ਼ਰਾਂ ਦੀ ਵੰਡ"
+    },
+    "columns": {
+      "name": "ਟੇਨੈਂਟ ਨਾਮ"
+    },
+    "metrics": {
+      "total_users": "ਕੁੱਲ ਯੂਜ਼ਰ",
+      "total_students": "ਕੁੱਲ ਵਿਦਿਆਰਥੀ",
+      "total_teachers": "ਕੁੱਲ ਅਧਿਆਪਕ",
+      "active_users": "ਸਰਗਰਮ ਯੂਜ਼ਰ",
+      "inactive_users": "ਗੈਰ-ਸਰਗਰਮ ਯੂਜ਼ਰ",
+      "never_logged_in": "ਕਦੇ ਲੌਗਿਨ ਨਹੀਂ ਕੀਤਾ",
+      "course_categories": "ਕੋਰਸ ਸ਼੍ਰੇਣੀਆਂ",
+      "total_enrollments": "ਕੁੱਲ ਦਾਖ਼ਲੇ",
+      "completed_courses": "ਮੁਕੰਮਲ ਕੋਰਸ",
+      "pending_completions": "ਪੂਰਨ ਹੋਣ ਬਾਕੀ"
+    }
+  }
+}

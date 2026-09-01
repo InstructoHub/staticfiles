@@ -1,0 +1,355 @@
+{
+  "emailSetup": {
+    "title": "ଇମେଲ୍ ଟେମ୍ପଲେଟ୍ ସେଟଅପ୍",
+    "subtitle": "ଆପଣଙ୍କର ଇମେଲ୍ ଟେମ୍ପଲେଟ୍ କନଫିଗର୍ କରନ୍ତୁ ଏବଂ ପରିଚାଳନା କରନ୍ତୁ",
+    "backToTemplates": "ଇମେଲ୍ ଟେମ୍ପଲେଟ୍‌କୁ ଫେରିବେ",
+    "templateVariables": "ଟେମ୍ପଲେଟ୍ ଭେରିଏବଲ୍ସ",
+    "copyVariableTooltip": "କ୍ଲିକ୍ କରି ଭେରିଏବଲ୍ କପି କରନ୍ତୁ",
+    "templateSubjectLabel": "ଟେମ୍ପଲେଟ୍ ବିଷୟ *",
+    "templateSenderEmailLabel": "ଟେମ୍ପଲେଟ୍ ପଠାଇବାକାରୀ ଇମେଲ୍ *",
+    "templateSenderDisplayNameLabel": "ଟେମ୍ପଲେଟ୍ ପଠାଇବାକାରୀ ଦେଖାଯିବା ନାମ *",
+    "emailLayoutColorLabel": "ଇମେଲ୍ ଲେଆଉଟ୍ ରଙ୍ଗ",
+    "htmlBodyLabel": "HTML ବଡି *",
+    "cancelButton": "ବାତିଲ୍",
+    "saveChangesButton": "ପରିବର୍ତ୍ତନ ସଂରକ୍ଷଣ କରନ୍ତୁ",
+    "savingButton": "ସଂରକ୍ଷଣ କରାଯାଉଛି...",
+    "confirmBackWarning": "ପରିବର୍ତ୍ତନ ସଂରକ୍ଷିତ ହୋଇନି ଆପଣ ଫେରିବାକୁ ନିଶ୍ଚିତ କି?",
+    "toasts": {
+      "failedToLoadVariables": "ଇମେଲ୍ ଭେରିଏବଲ୍ସ ଲୋଡ୍ କରିବାରେ ବିଫଳ",
+      "failedToUpdateTemplate": "ଇମେଲ୍ ଟେମ୍ପଲେଟ୍ ଅପଡେଟ୍ କରିବାରେ ବିଫଳ",
+      "variableCopied": "ଭେରିଏବଲ୍ କପି ହୋଇଗଲା!"
+    },
+    "validation": {
+      "slNoHeader": "କ୍ର.ନଂ.",
+      "subjectRequired": "ଟେମ୍ପଲେଟ୍ ବିଷୟ ଆବଶ୍ୟକ",
+      "subjectMinLength": "ଟେମ୍ପଲେଟ୍ ବିଷୟର ଅନୁପାତ କମ୍ ହେବା ଉଚିତ 2 ଚରିତ୍ର",
+      "subjectMaxLength": "ଟେମ୍ପଲେଟ୍ ବିଷୟ 255 ଚରିତ୍ରରୁ ଅଧିକ ହେବା ଉଚିତ ନୁହେଁ",
+      "senderEmailRequired": "ପଠାଇବାକାରୀ ଇମେଲ୍ ଆବଶ୍ୟକ",
+      "invalidEmailFormat": "ଅବୈଧ ଇମେଲ୍ ଫର୍ମାଟ୍",
+      "senderEmailMaxLength": "ପଠାଇବାକାରୀ ଇମେଲ୍ 255 ଚରିତ୍ରରୁ ଅଧିକ ହେବା ଉଚିତ ନୁହେଁ",
+      "displayNameRequired": "ପଠାଇବାକାରୀ ଦେଖାଯିବା ନାମ ଆବଶ୍ୟକ",
+      "displayNameMinLength": "ପଠାଇବାକାରୀ ଦେଖାଯିବା ନାମ 2 ଚରିତ୍ରରୁ କମ୍ ହେବା ଉଚିତ ନୁହେଁ",
+      "displayNameMaxLength": "ପଠାଇବାକାରୀ ଦେଖାଯିବା ନାମ 255 ଚରିତ୍ରରୁ ଅଧିକ ହେବା ଉଚିତ ନୁହେଁ"
+    }
+  },
+  "emailTemplates": {
+    "noTemplatesFound": "କୌଣସି ଇମେଲ୍ ଟେମ୍ପଲେଟ୍ ମିଳିଲା ନାହିଁ",
+    "subjectLabel": "ବିଷୟ:",
+    "contentPreview": "ଟେମ୍ପଲେଟ୍ ବିଷୟବସ୍ତୁ ପ୍ରିଭ୍ୟୁ",
+    "editButton": "ସଂପାଦନା",
+    "toasts": {
+      "failedToLoad": "ଇମେଲ୍ ଟେମ୍ପଲେଟ୍ ଲୋଡ୍ କରିବାରେ ବିଫଳ"
+    },
+    "templateNames": {
+      "set_password": "ପାସୱାର୍ଡ ସେଟ୍ କରନ୍ତୁ"
+    }
+  },
+  "moduleManagement": {
+    "title": "ମଡ୍ୟୁଲ୍ ପରିଚାଳନା",
+    "subtitle": "ସିଷ୍ଟମ୍ ମଡ୍ୟୁଲ୍ ଏବଂ ସେମାନଙ୍କର ମେଟାଡାଟା ପରିଚାଳନା କରନ୍ତୁ",
+    "addNewButton": "ନୂତନ ମଡ୍ୟୁଲ୍ ଯୋଗ କରନ୍ତୁ",
+    "table": {
+      "moduleHeader": "ମଡ୍ୟୁଲ୍",
+      "descriptionHeader": "ବିବରଣୀ",
+      "createdAtHeader": "ତିଥିରେ ସୃଷ୍ଟି",
+      "actionsHeader": "କାର୍ଯ୍ୟ",
+      "noModulesFound": "କୌଣସି ମଡ୍ୟୁଲ୍ ମିଳିଲା ନାହିଁ",
+      "slNoHeader": "କ୍ରମିକ"
+    },
+    "form": {
+      "moduleNameLabel": "ମଡ୍ୟୁଲ୍ ନାମ *",
+      "moduleDescriptionLabel": "ମଡ୍ୟୁଲ୍ ବିବରଣୀ",
+      "saveChangesButton": "ପରିବର୍ତ୍ତନ ସଂରକ୍ଷଣ କରନ୍ତୁ",
+      "savingButton": "ସଂରକ୍ଷଣ କରୁଛି...",
+      "cancelButton": "ବାତିଲ୍ କରନ୍ତୁ"
+    },
+    "deleteModal": {
+      "title": "ମିଳନ ବିଲୋପ କରନ୍ତୁ",
+      "message": "ଆପଣ ମଡ୍ୟୁଲ୍ ବିଲୋପ କରିବାକୁ ନିଶ୍ଚିତ କି?",
+      "undoWarning": "ଏହି କାର୍ଯ୍ୟକୁ ପୁନର୍ବାର କରାଯିବ ନାହିଁ",
+      "deleteButton": "ମଡ୍ୟୁଲ୍ ବିଲୋପ କରନ୍ତୁ",
+      "cancelButton": "ବାତିଲ୍ କରନ୍ତୁ"
+    },
+    "toasts": {
+      "failedToLoad": "ମଡ୍ୟୁଲ୍ ଲୋଡ୍ କରିବାରେ ବିଫଳ",
+      "createdSuccess": "ମଡ୍ୟୁଲ୍ ସଫଳତାର ସହିତ ସୃଷ୍ଟି ହେଲା",
+      "updatedSuccess": "ମଡ୍ୟୁଲ୍ ସଫଳତାର ସହିତ ଅଦ୍ୟତନ ହେଲା",
+      "createdFailed": "ମଡ୍ୟୁଲ୍ ସୃଷ୍ଟି କରିବାରେ ବିଫଳ",
+      "updatedFailed": "ମଡ୍ୟୁଲ୍ ଅଦ୍ୟତନ କରିବାରେ ବିଫଳ",
+      "deletedSuccess": "ମଡ୍ୟୁଲ୍ ସଫଳତାର ସହିତ ବିଲୋପ ହେଲା",
+      "deletedFailed": "ମଡ୍ୟୁଲ୍ ବିଲୋପ କରିବାରେ ବିଫଳ"
+    },
+    "validation": {
+      "nameRequired": "ମଡ୍ୟୁଲ୍ ନାମ ଆବଶ୍ୟକ",
+      "nameMinLength": "ମଡ୍ୟୁଲ୍ ନାମର ଲମ୍ବାଇ କମ୍ ଦୁଇଟି ଅକ୍ଷର ହେବା ଉଚିତ",
+      "nameMaxLength": "ମଡ୍ୟୁଲ୍ ନାମ 100 ଅକ୍ଷରରୁ ଅଧିକ ହେବା ଉଚିତ ନୁହେଁ",
+      "descriptionMaxLength": "ବିବରଣୀ 500 ଅକ୍ଷରରୁ ଅଧିକ ହେବା ଉଚିତ ନୁହେଁ"
+    }
+  },
+  "pageHeader": {
+    "searchPlaceholder": "ସନ୍ଧାନ..."
+  },
+  "roleArchitectureDetail": {
+    "title": "ରୋଲ୍ ଆର୍କିଟେକ୍ଚର ବିବରଣୀ",
+    "subtitle": "ସମସ୍ତ ମଡ୍ୟୁଲ୍‌ଗୁଡିକରେ ଏହି ରୋଲ୍ ଆର୍କିଟେକ୍ଚର ପାଇଁ ଡିଫଲ୍ଟ ଅଧିକାର ସଂରଚନା କରନ୍ତୁ",
+    "backButton": "ରୋଲ୍ ଆର୍କିଟେକ୍ଚରକୁ ପଛକୁ",
+    "loading": "ମଡ୍ୟୁଲ୍‌ଗୁଡିକ ଲୋଡ୍ ହେଉଛି...",
+    "loadFailed": "ଡାଟା ଲୋଡ୍ କରିବାରେ ବିଫଳ",
+    "noModulesAvailable": "କନଫିଗରେସନ୍ ପାଇଁ କୌଣସି ମଡ୍ୟୁଲ୍ ଉପଲବ୍ଧ ନାହିଁ",
+    "table": {
+      "moduleHeader": "ମଡ୍ୟୁଲ୍",
+      "descriptionHeader": "ବିବରଣୀ",
+      "capabilitiesHeader": "ସମର୍ଥନା"
+    },
+    "capabilities": {
+      "create": "ସୃଷ୍ଟି",
+      "read": "ପଢ଼ନ୍ତୁ",
+      "edit": "ସଂପାଦନା",
+      "delete": "ମିଟାନ୍ତୁ",
+      "enabledCount": "ସକ୍ରିୟ"
+    },
+    "saveCapabilitiesButton": "ସମର୍ଥନା ସଂରକ୍ଷଣ କରନ୍ତୁ",
+    "savingButton": "ସଂରକ୍ଷଣ ହେଉଛି...",
+    "cancelButton": "ବାତିଲ୍",
+    "toasts": {
+      "failedToLoadModules": "ମଡ୍ୟୁଲ୍ ତାଲିକା ଲୋଡ୍ କରିବାରେ ବିଫଳ",
+      "saveSuccess": "ସମର୍ଥନା ସଂରକ୍ଷିତ ହେଲା",
+      "saveFailed": "ସମର୍ଥନା ସଂରକ୍ଷଣ କରିବାରେ ବିଫଳ"
+    }
+  },
+  "roleArchitectureManagement": {
+    "title": "ରୋଲ୍ ଆର୍କିଟେକ୍ଚର ପରିଚାଳନା",
+    "subtitle": "ଉପଯୋଗକର୍ତ୍ତା ରୋଲ୍‌ଗୁଡିକ ପାଇଁ ଡିଫଲ୍ଟ ଅଧିକାର ସେଟ୍‌ଗୁଡିକ ପରିଚାଳନା କରନ୍ତୁ",
+    "addNewButton": "ନୂତନ ଆର୍କିଟେକ୍ଚର ଯୋଡନ୍ତୁ",
+    "table": {
+      "roleNameHeader": "ରୋଲ୍ ନାମ",
+      "descriptionHeader": "ବିବରଣୀ",
+      "createdAtHeader": "ତିଥିରେ ସୃଷ୍ଟି",
+      "actionsHeader": "କାର୍ଯ୍ୟ",
+      "noArchitecturesFound": "କୌଣସି ରୋଲ୍ ଆର୍କିଟେକ୍ଚର ମିଳିଲା ନାହିଁ",
+      "slNoHeader": "କ୍ର.ନଂ."
+    },
+    "form": {
+      "architectureNameLabel": "ଆର୍କିଟେକ୍ଚର ନାମ *",
+      "architectureDescriptionLabel": "ଆର୍କିଟେକ୍ଚର ବିବରଣୀ",
+      "saveChangesButton": "ପରିବର୍ତ୍ତନ ସଂରକ୍ଷଣ କରନ୍ତୁ",
+      "savingButton": "ସଂରକ୍ଷଣ ହେଉଛି...",
+      "cancelButton": "ବାତିଲ କରନ୍ତୁ"
+    },
+    "deleteModal": {
+      "title": "ମିଳିତ ବିଲୋପ କରନ୍ତୁ",
+      "message": "ଆପଣ ନିଶ୍ଚିତ ଯେ ଆପଣ ଭୂମିକା ଆର୍କିଟେକ୍ଚର ବିଲୋପ କରିବେ",
+      "undoWarning": "ଏହି କାର୍ଯ୍ୟକୁ ପୁନର୍ବାର କରାଯିବ ନାହିଁ",
+      "deleteButton": "ଭୂମିକା ଆର୍କିଟେକ୍ଚର ବିଲୋପ କରନ୍ତୁ",
+      "cancelButton": "ବାତିଲ କରନ୍ତୁ"
+    },
+    "toasts": {
+      "failedToLoad": "ଭୂମିକା ଆର୍କିଟେକ୍ଚର ଲୋଡ୍ କରିବାରେ ବିଫଳ",
+      "createdSuccess": "ଭୂମିକା ଆର୍କିଟେକ୍ଚର ସଫଳତାର ସହିତ ସୃଷ୍ଟି ହେଲା",
+      "updatedSuccess": "ଭୂମିକା ଆର୍କିଟେକ୍ଚର ସଫଳତାର ସହିତ ଅଦ୍ୟତନ ହେଲା",
+      "createdFailed": "ଭୂମିକା ଆର୍କିଟେକ୍ଚର ସୃଷ୍ଟି କରିବାରେ ବିଫଳ",
+      "updatedFailed": "ଭୂମିକା ଆର୍କିଟେକ୍ଚର ଅଦ୍ୟତନ କରିବାରେ ବିଫଳ",
+      "deletedSuccess": "ଭୂମିକା ଆର୍କିଟେକ୍ଚର ସଫଳତାର ସହିତ ବିଲୋପ ହେଲା",
+      "deletedFailed": "ଭୂମିକା ଆର୍କିଟେକ୍ଚର ବିଲୋପ କରିବାରେ ବିଫଳ"
+    },
+    "validation": {
+      "nameRequired": "ଭୂମିକା ଆର୍କିଟେକ୍ଚର ନାମ ଆବଶ୍ୟକ",
+      "nameMinLength": "ଭୂମିକା ନାମ କମ୍ ସେ କମ୍ 2 ଅକ୍ଷର ହେବା ଦରକାର",
+      "nameMaxLength": "ଭୂମିକା ନାମ 100 ଅକ୍ଷରକୁ ଅତିକ୍ରମ କରିବା ଦରକାର ନୁହେଁ",
+      "descriptionMaxLength": "ବିବରଣୀ 500 ଅକ୍ଷରକୁ ଅତିକ୍ରମ କରିବା ଦରକାର ନୁହେଁ"
+    }
+  },
+  "roleManagement": {
+    "title": "ଭୂମିକା ପରିଚାଳନା",
+    "subtitle": "କଷ୍ଟମ୍ ୟୁଜର୍ ଭୂମିକାଗୁଡିକୁ ପରିଚାଳନା କରନ୍ତୁ ଏବଂ ଭୂମିକା ଆର୍କିଟେକ୍ଚର ନିଯୁକ୍ତ କରନ୍ତୁ",
+    "addNewButton": "ନୂତନ ଭୂମିକା ଯୋଡନ୍ତୁ",
+    "table": {
+      "slNoHeader": "କ୍ର.ନଂ.",
+      "roleHeader": "ଭୂମିକା",
+      "architectureHeader": "ଆର୍କିଟେକ୍ଚର",
+      "descriptionHeader": "ବିବରଣୀ",
+      "createdAtHeader": "ସୃଷ୍ଟି ହେଲା",
+      "actionsHeader": "କାର୍ଯ୍ୟ",
+      "noRolesFound": "କୌଣସି କଷ୍ଟମ୍ ଭୂମିକା ମିଳିଲା ନାହିଁ"
+    },
+    "form": {
+      "roleNameLabel": "ଭୂମିକା ନାମ *",
+      "roleDescriptionLabel": "ରୋଲ୍ ବିବରଣୀ",
+      "architectureLabel": "ରୋଲ୍ ଆର୍କିଟେକ୍ଚର୍ ବାଛନ୍ତୁ *",
+      "architecturePlaceholder": "ଏକ ଆର୍କିଟେକ୍ଚର୍ ବାଛନ୍ତୁ...",
+      "saveChangesButton": "ପରିବର୍ତ୍ତନ ସଂରକ୍ଷଣ କରନ୍ତୁ",
+      "savingButton": "ସଂରକ୍ଷଣ ହେଉଛି...",
+      "cancelButton": "ବାତିଲ୍ କରନ୍ତୁ"
+    },
+    "deleteModal": {
+      "title": "ମିଳିତ ବିଲୋପ କରନ୍ତୁ",
+      "message": "ଆପଣ ନିଶ୍ଚିତ ଯେ ଆପଣ ରୋଲ୍ ବିଲୋପ କରିବାକୁ ଚାହାଁନ୍ତି",
+      "undoWarning": "ଏହି କାର୍ଯ୍ୟକୁ ପୁନର୍ବାସିତ କରାଯିବ ନାହିଁ",
+      "deleteButton": "ରୋଲ୍ ବିଲୋପ କରନ୍ତୁ",
+      "cancelButton": "ବାତିଲ୍ କରନ୍ତୁ"
+    },
+    "toasts": {
+      "failedToLoadRoles": "ରୋଲ୍ ଲୋଡ୍ କରିବାରେ ବିଫଳ",
+      "failedToLoadArchitectures": "ରୋଲ୍ ଆର୍କିଟେକ୍ଚର୍ ଲୋଡ୍ କରିବାରେ ବିଫଳ",
+      "createdSuccess": "ରୋଲ୍ ସଫଳତାର ସହିତ ସୃଷ୍ଟି ହେଲା",
+      "updatedSuccess": "ରୋଲ୍ ସଫଳତାର ସହିତ ଅଦ୍ୟତନ ହେଲା",
+      "createdFailed": "ରୋଲ୍ ସୃଷ୍ଟି କରିବାରେ ବିଫଳ",
+      "updatedFailed": "ରୋଲ୍ ଅଦ୍ୟତନ କରିବାରେ ବିଫଳ",
+      "deletedSuccess": "ରୋଲ୍ ସଫଳତାର ସହିତ ବିଲୋପ ହେଲା",
+      "deletedFailed": "ରୋଲ୍ ବିଲୋପ କରିବାରେ ବିଫଳ"
+    },
+    "validation": {
+      "nameRequired": "ରୋଲ୍ ନାମ ଆବଶ୍ୟକ",
+      "nameMinLength": "ରୋଲ୍ ନାମ କମ୍ ଦେଖାଯିବା ଦ୍ୱାରା 2 ଚରିତ୍ର ହେବା ଦରକାର",
+      "nameMaxLength": "ରୋଲ୍ ନାମ 100 ଚରିତ୍ରକୁ ଅତିକ୍ରମ କରିବା ଦରକାର ନୁହେଁ",
+      "descriptionMaxLength": "ବିବରଣୀ 500 ଚରିତ୍ରକୁ ଅତିକ୍ରମ କରିବା ଦରକାର ନୁହେଁ",
+      "architectureRequired": "ରୋଲ୍ ଆର୍କିଟେକ୍ଚର୍ ଆବଶ୍ୟକ"
+    }
+  },
+  "dashboardManagement": {
+    "title": "ଡ୍ୟାସ୍ବୋର୍ଡ୍ ପରିଚାଳନା",
+    "subtitle": "ଆପଣଙ୍କର ରୋଲ୍ ଏବଂ ଅଧିକାରଗୁଡିକୁ ପରିଚାଳନା କରନ୍ତୁ ଏବଂ ବ୍ୟବସ୍ଥାପନା କରନ୍ତୁ",
+    "backButton": "ପଛକୁ",
+    "loading": "ଅଧିକାରଗୁଡିକୁ ଲୋଡ୍ କରୁଛି...",
+    "errorPrefix": "ତ୍ରୁଟି:",
+    "activePermissions": "ସକ୍ରିୟ ଅଧିକାରଗୁଡିକ:",
+    "dashboardModulesHeader": "ଡ୍ୟାଶବୋର୍ଡ ମଡ୍ୟୁଲ୍ସ",
+    "sidebarModulesHeader": "ସାଇଡ୍ବାର ମଡ୍ୟୁଲ୍ସ",
+    "moduleColumn": "ମଡ୍ୟୁଲ୍",
+    "permissionsColumn": "ଅନୁମତିଗୁଡିକ",
+    "selectAll": "ସବୁ ବାଛନ୍ତୁ",
+    "savePermissionsButton": "ଅନୁମତିଗୁଡିକ ସଞ୍ଚୟ କରନ୍ତୁ",
+    "savingButton": "ସଞ୍ଚୟ ହେଉଛି...",
+    "admin": "ଏଡ୍ମିନ୍",
+    "instructor": "ଶିକ୍ଷକ",
+    "student": "ଛାତ୍ର",
+    "toasts": {
+      "saveSuccess": "ଅନୁମତିଗୁଡିକ ସଫଳତାର ସହିତ ସଞ୍ଚୟ ହେଲା",
+      "saveFailed": "ଅନୁମତିଗୁଡିକ ସଞ୍ଚୟ କରିବାରେ ବିଫଳ"
+    },
+    "roleLabel": "ଭୂମିକା",
+    "permissionsSectionTitle": "ମଡ୍ୟୁଲ୍ ଅନୁମତି",
+    "selectRoleDisclaimer": "ଅନୁମତି ବଦଳାଇବା ପାଇଁ ଭୂମିକା ଚୟନ କରନ୍ତୁ",
+    "modulesCount": "{{count}} ମଡ୍ୟୁଲ୍",
+    "sidebarItemsCount": "{{count}} ଆଇଟମ୍",
+    "noModulesForRole": "ଏହି ଭୂମିକା ପାଇଁ କୌଣସି ମଡ୍ୟୁଲ୍ ମିଳୁନାହିଁ",
+    "teacher": "ଶିକ୍ଷକ",
+    "toggleDisabled": "ଏହି ଅନୁମତି ତାତ୍କାଳିକ ଭାବରେ ଉପଲବ୍ଧ ନୁହେଁ",
+    "toggleAlwaysOn": "ଏହି ଟଗଲ୍ ବନ୍ଦ କରିପାରିବେ ନାହିଁ"
+  },
+  "smtpConfiguration": {
+    "title": "SMTP କନଫିଗରେସନ୍",
+    "subtitle": "ଆପଣଙ୍କର ସିମ୍ପଲ୍ ମେଲ୍ ଟ୍ରାନ୍ସଫର୍ ପ୍ରୋଟୋକଲ୍ (SMTP) ସେଟିଂସ୍ ସେଟ୍ କରନ୍ତୁ",
+    "backToControl": "ଆକ୍ସେସ୍ କନ୍ଟ୍ରୋଲ୍କୁ ଫେରନ୍ତୁ",
+    "hostLabel": "SMTP ହୋଷ୍ଟ ଏବଂ ପୋର୍ଟ *",
+    "hostPlaceholder": "ଉଦାହରଣ ସ୍ୱରୂପ, mail.example.com:465 କିମ୍ବା mail1.com:587,mail2.com:587",
+    "securityLabel": "SMTP ସୁରକ୍ଷା",
+    "securityHelpText": "ବିକଳ୍ପ ପୋର୍ଟ 465 ରେ SMTPS ପାଇଁ 'ssl' ବା ପୋର୍ଟ 587 ରେ STARTTLS ପାଇଁ 'tls' ବାଛନ୍ତୁ କିଛି ନାହିଁ ହେଲେ ଖାଲି ରଖନ୍ତୁ",
+    "securityNone": "କିଛି ନାହିଁ",
+    "securitySSL": "SSL",
+    "securityTLS": "TLS",
+    "usernameLabel": "SMTP ୟୁଜର୍ନେମ୍ *",
+    "usernamePlaceholder": "ଉଦାହରଣ ସ୍ୱରୂପ, noreply@example.com",
+    "passwordLabel": "SMTP ପାସ୍ୱାର୍ଡ *",
+    "noreplyEmailLabel": "ନୋ-ରିପ୍ଲାଇ ଇମେଲ୍ *",
+    "noreplyEmailHelpText": "ଏହି ଇମେଲ୍ ସବୁ ସ୍ୱୟଂଚାଳିତ ସୂଚନା ପାଇଁ 'From' ଠିକଣା ଭାବରେ ବ୍ୟବହାର କରାଯିବ",
+    "noreplyDisplayNameLabel": "ନୋ-ରିପ୍ଲାଇ ଡିସ୍ପ୍ଲେ ନାମ *",
+    "noreplyDisplayNamePlaceholder": "ଉଦାହରଣ ସ୍ୱରୂପ, InstructoHub Notifications",
+    "noreplyDisplayNameHelpText": "ପ୍ରେଷକ ଭାବରେ ଦେଖାଯିବା ଡିସ୍ପ୍ଲେ ନାମ",
+    "cancelButton": "ବାତିଲ",
+    "saveConfigurationButton": "ସଂରକ୍ଷଣ କର",
+    "savingButton": "ସଂରକ୍ଷଣ ହେଉଛି...",
+    "toasts": {
+      "failedToLoad": "SMTP ସଂରଚନା ଲୋଡ୍ କରିବାରେ ବିଫଳ",
+      "updateSuccess": "SMTP ସଂରଚନା ସଫଳତାର ସହିତ ଅଦ୍ୟତନ ହେଲା",
+      "updateFailed": "SMTP ସଂରଚନା ଅଦ୍ୟତନ କରିବାରେ ବିଫଳ"
+    },
+    "validation": {
+      "hostRequired": "SMTP ହୋଷ୍ଟ ଆବଶ୍ୟକ",
+      "hostInvalidFormat": "ଅବୈଧ ଫର୍ମାଟ ହୋଷ୍ଟ:ପୋର୍ଟ କିମ୍ବା ହୋଷ୍ଟ:ପୋର୍ଟ,ହୋଷ୍ଟ2:ପୋର୍ଟ2 ବ୍ୟବହାର କରନ୍ତୁ",
+      "securityInvalid": "ସୁରକ୍ଷା ଖାଲି, ssl କିମ୍ବା tls ହେବା ଆବଶ୍ୟକ",
+      "usernameRequired": "SMTP ୟୁଜରନେମ୍ ଆବଶ୍ୟକ",
+      "usernameMaxLength": "SMTP ୟୁଜରନେମ୍ 255 ଚରିତ୍ରରୁ ଅଧିକ ହେବା ଉଚିତ୍ ନୁହେଁ",
+      "passwordRequired": "SMTP ପାସୱାର୍ଡ ଆବଶ୍ୟକ",
+      "passwordMaxLength": "SMTP ପାସୱାର୍ଡ 255 ଚରିତ୍ରରୁ ଅଧିକ ହେବା ଉଚିତ୍ ନୁହେଁ",
+      "noreplyEmailRequired": "ନୋ-ରିପ୍ଲାଇ ଇମେଲ୍ ଆବଶ୍ୟକ",
+      "noreplyEmailInvalidFormat": "ଅବୈଧ ଇମେଲ୍ ଫର୍ମାଟ",
+      "noreplyEmailMaxLength": "ନୋ-ରିପ୍ଲାଇ ଇମେଲ୍ 255 ଚରିତ୍ରରୁ ଅଧିକ ହେବା ଉଚିତ୍ ନୁହେଁ",
+      "noreplyDisplayNameRequired": "ନୋ-ରିପ୍ଲାଇ ଡିସ୍ପ୍ଲେ ନାମ ଆବଶ୍ୟକ",
+      "noreplyDisplayNameMinLength": "ନୋ-ରିପ୍ଲାଇ ଡିସ୍ପ୍ଲେ ନାମ କମ୍ ସେ କମ୍ 2 ଚରିତ୍ର ହେବା ଉଚିତ୍",
+      "noreplyDisplayNameMaxLength": "ନୋ-ରିପ୍ଲାଇ ଡିସ୍ପ୍ଲେ ନାମ 255 ଚରିତ୍ରରୁ ଅଧିକ ହେବା ଉଚିତ୍ ନୁହେଁ"
+    }
+  },
+  "accessControlDisplay": {
+    "emailSetupTitle": "ଇମେଲ୍ ସେଟଅପ୍",
+    "emailSetupDescription": "ଇମେଲ୍ ଟେମ୍ପଲେଟ୍ ଏବଂ ସୂଚନା ସେଟିଂସ୍ କନଫିଗର୍ କରନ୍ତୁ",
+    "smtpConfigurationTitle": "SMTP ସଂରଚନା",
+    "smtpConfigurationDescription": "SMTP ସର୍ଭର୍ କ୍ରେଡେନ୍ସିଆଲ୍ ଏବଂ ସେଟିଂସ୍ କନଫିଗର୍ କରନ୍ତୁ",
+    "dashboardManagementTitle": "ଡ୍ୟାସ୍ବୋର୍ଡ୍ ପରିଚାଳନା",
+    "dashboardManagementDescription": "ଡ୍ୟାସ୍ବୋର୍ଡ୍ ମଡ୍ୟୁଲ୍ ପାଇଁ ଭୂମିକା ଏବଂ ଅଧିକାର ପରିଚାଳନା କରନ୍ତୁ",
+    "roleArchitectureManagementTitle": "ଭୂମିକା ଆର୍କିଟେକ୍ଚର ପରିଚାଳନା",
+    "roleArchitectureManagementDescription": "ଯୁଜର୍ ଭୂମିକା ପାଇଁ ଡିଫଲ୍ଟ ଅଧିକାର ସେଟ୍ ପରିଚାଳନା କରନ୍ତୁ",
+    "roleManagementTitle": "ଭୂମିକା ପରିଚାଳନା",
+    "roleManagementDescription": "କଷ୍ଟମ୍ ଯୁଜର୍ ଭୂମିକା ପରିଚାଳନା କରନ୍ତୁ ଏବଂ ଭୂମିକା ଆର୍କିଟେକ୍ଚର ନିଯୁକ୍ତ କରନ୍ତୁ"
+  },
+  "customRoleDetail": {
+    "title": "ଭୂମିକା କ୍ଷମତା କଷ୍ଟମାଇଜେସନ୍",
+    "subtitle": "ଏହି ବିଶେଷ ଭୂମିକା ପାଇଁ ସମସ୍ତ ମଡ୍ୟୁଲରେ ଅଧିକାର ସଂସ୍କୃତ କରନ୍ତୁ ଏଠାରେ ପରିବର୍ତ୍ତନଗୁଡିକ ଭୂମିକା ଗଠନର ଡିଫଲ୍ଟକୁ ଅତିକ୍ରମ କରେ",
+    "backButton": "ଭୂମିକାକୁ ଫେରନ୍ତୁ",
+    "pageHeader": {
+      "title": "ସକ୍ଷମତା ବ୍ୟବସ୍ଥାପନା: {{roleName}}",
+      "subtitle": "କଷ୍ଟମ୍ ଭୂମିକା ପାଇଁ ଅଧିକାର ସେଟ୍ କରନ୍ତୁ (ଗଠନ: {{architectureName}})",
+      "unknownArchitecture": "ଅଜଣା"
+    },
+    "saveCapabilitiesButton": "ସକ୍ଷମତା ସଂରକ୍ଷଣ କରନ୍ତୁ",
+    "savingButton": "ସଂରକ୍ଷଣ ହେଉଛି...",
+    "loading": "ମଡ୍ୟୁଲ ଏବଂ ସକ୍ଷମତା ଲୋଡ୍ ହେଉଛି...",
+    "loadFailed": "ଡାଟା ଲୋଡ୍ କରିବାରେ ବିଫଳ",
+    "emptyState": {
+      "title": "କୌଣସି ମଡ୍ୟୁଲ ମିଳିଲା ନାହିଁ",
+      "description": "ସକ୍ଷମତା ଦେବା ପୂର୍ବରୁ ଦୟାକରି ପ୍ରଥମେ ମଡ୍ୟୁଲ ସୃଷ୍ଟି କରନ୍ତୁ",
+      "goToModuleManagementButton": "ମଡ୍ୟୁଲ ବ୍ୟବସ୍ଥାପନାକୁ ଯାଆନ୍ତୁ"
+    },
+    "sections": {
+      "learningActivities": {
+        "title": "ଶିକ୍ଷା କାର୍ଯ୍ୟକଳାପ",
+        "description": "କୋର୍ସ-ସ୍ତରର କାର୍ଯ୍ୟକଳାପ ପାଇଁ ଦେଖିବା, ସୃଷ୍ଟି କରିବା, ସଂପାଦନା କରିବା ଏବଂ ମିଟାଇବା ଅଧିକାର ସଂକଳ୍ପନା କରନ୍ତୁ"
+      },
+      "tools": {
+        "title": "ଉପକରଣ",
+        "description": "କୋର୍ସ ଉପକରଣ ପାଇଁ ଦେଖିବା (ଭିଜିବିଲିଟି) ସଂକଳ୍ପନା କରନ୍ତୁ"
+      }
+    },
+    "capabilities": {
+      "create": "ସୃଷ୍ଟି କରନ୍ତୁ",
+      "read": "ଦେଖନ୍ତୁ",
+      "edit": "ସଂପାଦନା କରନ୍ତୁ",
+      "delete": "ମିଟାଇବା",
+      "enabledCount": "ସକ୍ଷମ"
+    },
+    "table": {
+      "moduleNameHeader": "ମଡ୍ୟୁଲ ନାମ",
+      "toolNameHeader": "ଉପକରଣ ନାମ",
+      "moduleHeader": "ମଡ୍ୟୁଲ",
+      "descriptionHeader": "ବିବରଣୀ",
+      "capabilitiesHeader": "ସକ୍ଷମତା"
+    },
+    "resetModal": {
+      "title": "ଡିଫଲ୍ଟକୁ ସକ୍ଷମତା ପୁନସ୍ଥାପନ କରନ୍ତୁ",
+      "message": "ଆପଣ ନିଶ୍ଚିତ କି ଆପଣ ସମସ୍ତ ସକ୍ଷମତାକୁ ପୁନସ୍ଥାପନ କରିବାକୁ ଚାହାଁନ୍ତି",
+      "message2": "ତାଙ୍କର ଡିଫଲ୍ଟ ସେଟିଂସ୍କୁ?",
+      "warning1": "ଏହା ଭୂମିକାର ଗଠନ ଟେମ୍ପଲେଟରେ ନିର୍ଦ୍ଧାରିତ ସକ୍ଷମତାକୁ ପୁନସ୍ଥାପନ କରିବ",
+      "warning2": "କୌଣସି କଷ୍ଟମ୍ ପରିବର୍ତ୍ତନ ହରାଇଯିବ",
+      "cancelButton": "ବାତିଲ୍",
+      "resettingButton": "ପୁନର୍ନିର୍ମାଣ ହେଉଛି...",
+      "resetToDefaultButton": "ଡିଫଲ୍ଟକୁ ପୁନର୍ନିର୍ମାଣ କରନ୍ତୁ"
+    },
+    "toasts": {
+      "loadError": "ଭୂମିକା କ୍ଷମତା ଲୋଡ୍ କରିବାରେ ବିଫଳ",
+      "resetSuccess": "{{roleName}} ପାଇଁ କ୍ଷମତାଗୁଡିକୁ ସଫଳତାର ସହିତ ଡିଫଲ୍ଟକୁ ପୁନର୍ନିର୍ମାଣ କରାଗଲା!",
+      "resetFailed": "ଭୂମିକା କ୍ଷମତା ପୁନର୍ନିର୍ମାଣ କରିବାରେ ବିଫଳ",
+      "updateSuccess": "ଭୂମିକା କ୍ଷମତା ସଫଳତାର ସହିତ ଅଦ୍ୟତନ କରାଗଲା",
+      "updateFailed": "ଭୂମିକା କ୍ଷମତା ଅଦ୍ୟତନ କରିବାରେ ବିଫଳ"
+    }
+  }
+}

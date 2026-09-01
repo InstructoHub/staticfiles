@@ -1,0 +1,176 @@
+{
+  "common": {
+    "grade": "গ্রেড",
+    "grades": "গ্রেডস",
+    "student": "ছাত্র",
+    "students": "ছাত্ররা",
+    "assignment": "অ্যাসাইনমেন্ট",
+    "assignments": "অ্যাসাইনমেন্টস",
+    "quiz": "কুইজ",
+    "quizzes": "কুইজেস",
+    "average": "গড়",
+    "overall": "মোট",
+    "dueDate": "নির্ধারিত তারিখ",
+    "submitted": "জমা দেওয়া হয়েছে",
+    "status": "স্থিতি",
+    "actions": "ক্রিয়াকলাপ",
+    "details": "বিস্তারিত",
+    "name": "নাম",
+    "email": "ইমেইল",
+    "points": "পয়েন্টস",
+    "maxPoints": "সর্বাধিক পয়েন্টস",
+    "percentage": "শতকরা",
+    "loading": "লোড হচ্ছে",
+    "error": "ত্রুটি",
+    "noData": "কোন তথ্য নেই",
+    "pts": "পয়েন্টস",
+    "days": "দিন"
+  },
+  "student": {
+    "dashboard": {
+      "title": "আপনার গ্রেড ড্যাশবোর্ড",
+      "overallGrade": "মোট গ্রেড",
+      "excellent": "অসাধারণ",
+      "needsImprovement": "উন্নতির প্রয়োজন",
+      "assignmentsSubmitted": "জমা দেওয়া অ্যাসাইনমেন্টস",
+      "assignmentsGraded": "অ্যাসাইনমেন্ট গ্রেডেড",
+      "quizzesCompleted": "কুইজ সম্পন্ন",
+      "pendingGrades": "পেন্ডিং গ্রেড",
+      "overdueItems": "অবিলম্বে আইটেম",
+      "upcomingDeadlines": "আসন্ন ডেডলাইন",
+      "overdue": "অবিলম্বে",
+      "noUpcomingDeadlines": "কোন আসন্ন ডেডলাইন নেই",
+      "noOverdueItems": "কোন অবিলম্বে আইটেম নেই"
+    },
+    "header": {
+      "backToDashboard": "ড্যাশবোর্ডে ফিরে যান",
+      "viewAllGrades": "সব গ্রেড দেখুন"
+    },
+    "table": {
+      "allGrades": "সব গ্রেড",
+      "activity": "অ্যাক্টিভিটি",
+      "type": "টাইপ",
+      "grade": "গ্রেড",
+      "pending": "পেন্ডিং"
+    },
+    "modal": {
+      "submissionDetails": "সাবমিশন বিস্তারিত",
+      "yourScore": "আপনার স্কোর",
+      "close": "বন্ধ করুন"
+    },
+    "messages": {
+      "loadingGrades": "গ্রেড লোড হচ্ছে...",
+      "fetchingData": "সর্বশেষ ডেটা আনতে একটু অপেক্ষা করুন",
+      "errorLoadingGrades": "গ্রেড লোড করতে ত্রুটি",
+      "noCourseSelected": "কোন কোর্স নির্বাচিত হয়নি",
+      "selectCourse": "গ্রেড তথ্য দেখতে একটি কোর্স নির্বাচন করুন",
+      "noGradableItems": "কোন গ্রেডযোগ্য আইটেম পাওয়া যায়নি",
+      "noGradableItemsDesc": "আমরা সফলভাবে মুডলে সংযোগ করেছি এবং এই কোর্সের জন্য ডেটা লোড করেছি, কিন্তু আপনার অ্যাকাউন্টের জন্য কোন গ্রেডযোগ্য কার্যকলাপ (যেমন অ্যাসাইনমেন্ট বা কুইজ) খুঁজে পাইনি",
+      "whatToCheckNext": "পরবর্তী কি পরীক্ষা করবেন:",
+      "checkCourseContent": "কোর্স কন্টেন্ট: নিশ্চিত করুন যে মুডলে (আইডি: {{courseId}}) কোর্সে আসলেই \"অ্যাসাইনমেন্ট\" বা \"কুইজ\" কার্যকলাপ রয়েছে",
+      "checkEnrollment": "এনরোলমেন্ট: নিশ্চিত করুন যে আপনি এই কোর্সে সঠিকভাবে ভর্তি হয়েছেন",
+      "tryDifferentCourse": "ভিন্ন কোর্স: গ্রেড দেখতে অন্য একটি কোর্স দেখার চেষ্টা করুন"
+    }
+  },
+  "teacher": {
+    "gradebook": {
+      "title": "গ্রেড ব্যবস্থাপনা ড্যাশবোর্ড",
+      "overview": "সারসংক্ষেপ",
+      "gradeTable": "গ্রেড টেবিল",
+      "searchStudents": "ছাত্রদের খুঁজুন",
+      "filterByName": "ছাত্রের নাম অনুসারে ফিল্টার করুন...",
+      "searchAssignment": "কুইজ বা অ্যাসাইনমেন্ট খুঁজুন",
+      "filterAssignment": "ফিল্টার করুন...",
+      "filterByType": "টাইপ অনুসারে ফিল্টার করুন",
+      "all": "সব"
+    },
+    "overview": {
+      "requiresAttention": "মনোযোগ প্রয়োজন",
+      "pendingGrades": "অপেক্ষমাণ গ্রেড",
+      "overdueAssignments": "অবিলম্বে জমা দেওয়া অ্যাসাইনমেন্ট",
+      "toGrade": "গ্রেড দেওয়ার জন্য",
+      "noPendingGrades": "কোনো অপেক্ষমাণ গ্রেড নেই",
+      "allSubmissionsGraded": "সব জমা দেওয়া গ্রেড করা হয়েছে",
+      "noOverdueAssignments": "কোনো অবিলম্বে জমা দেওয়া অ্যাসাইনমেন্ট নেই",
+      "allOnTrack": "সব অ্যাসাইনমেন্ট সঠিক পথে",
+      "totalStudents": "মোট ছাত্র",
+      "classAverage": "ক্লাসের গড়",
+      "allCaughtUp": "সব আপডেট!",
+      "noPendingSubmissions": "গ্রেড দেওয়ার জন্য কোনো অপেক্ষমাণ জমা নেই"
+    },
+    "stats": {
+      "totalStudents": "মোট ছাত্র",
+      "assignments": "অ্যাসাইনমেন্ট",
+      "quizzes": "কুইজ",
+      "overdueItems": "অবিলম্বে জমা দেওয়া আইটেম",
+      "pendingGrades": "অপেক্ষমাণ গ্রেড",
+      "classAverage": "ক্লাসের গড়"
+    },
+    "studentList": {
+      "allStudents": "সব ছাত্র",
+      "averageGrade": "গড় গ্রেড",
+      "viewDetails": "বিস্তারিত দেখুন",
+      "backToOverview": "সারসংক্ষেপে ফিরে যান"
+    },
+    "studentDetail": {
+      "gradeDetailsFor": "গ্রেডের বিস্তারিত",
+      "overallAverage": "মোট গড়",
+      "noGradesAvailable": "কোন গ্রেড নেই",
+      "backToStudentList": "ছাত্র তালিকায় ফিরে যান",
+      "dueDate": "নির্ধারিত তারিখ",
+      "gradedSubmittedOn": "গ্রেড দেওয়া / জমা দেওয়া হয়েছে",
+      "notGraded": "গ্রেড দেওয়া হয়নি"
+    },
+    "assignment": {
+      "pendingGradesView": "অপেক্ষমাণ গ্রেড",
+      "overdueStudents": "অতিবাহিত ছাত্র",
+      "studentsToGrade": "গ্রেড দেওয়ার ছাত্র",
+      "studentsOverdue": "অতিবাহিত ছাত্র",
+      "submittedOn": "জমা দেওয়া হয়েছে",
+      "daysOverdue": "অতিবাহিত দিন",
+      "enterGrade": "গ্রেড প্রবেশ করুন",
+      "backToListing": "তালিকায় ফিরে যান",
+      "allPendingGrades": "সমস্ত অপেক্ষমাণ গ্রেড",
+      "total": "মোট",
+      "submissionsToGrade": "গ্রেড দেওয়ার জন্য জমা",
+      "overdueItems": "অতিবাহিত আইটেম",
+      "noOverdueStudents": "এই অ্যাসাইনমেন্টের জন্য কোন অতিবাহিত ছাত্র নেই",
+      "noPendingSubmissionsForAssignment": "এই অ্যাসাইনমেন্টের জন্য গ্রেড দেওয়ার জন্য কোন অপেক্ষমাণ জমা নেই",
+      "noOverdueItemsDesc": "কোন অতিবাহিত আইটেম নেই"
+    },
+    "gradeTable": {
+      "enterGrade": "গ্রেড প্রবেশ করুন"
+    },
+    "messages": {
+      "loadingGradebook": "গ্রেডবুক লোড হচ্ছে...",
+      "errorLoadingGradebook": "গ্রেডবুক লোড করতে ত্রুটি",
+      "noGradableItems": "এই কোর্সে এখনও কোন গ্রেডযোগ্য আইটেম (অ্যাসাইনমেন্ট বা কুইজ) নেই",
+      "invalidGrade": "দয়া করে 0 থেকে {{maxGrade}} এর মধ্যে একটি বৈধ গ্রেড প্রবেশ করুন",
+      "errorSavingGrade": "গ্রেড সংরক্ষণ করতে ত্রুটি দয়া করে আবার চেষ্টা করুন"
+    }
+  },
+  "status": {
+    "graded": "গ্রেড দেওয়া হয়েছে",
+    "submitted": "জমা দেওয়া হয়েছে",
+    "notSubmitted": "জমা দেওয়া হয়নি",
+    "overdue": "অতিবাহিত",
+    "inProgress": "চলছে",
+    "pending": "অপেক্ষায়",
+    "noDueDate": "কোনো নির্ধারিত তারিখ নেই"
+  },
+  "buttons": {
+    "viewDetails": "বিস্তারিত দেখুন",
+    "backToOverview": "সারসংক্ষেপে ফিরে যান",
+    "backToDashboard": "ড্যাশবোর্ডে ফিরে যান",
+    "close": "বন্ধ করুন",
+    "save": "সংরক্ষণ করুন",
+    "cancel": "বাতিল করুন",
+    "enterGrade": "গ্রেড দিন",
+    "edit": "সম্পাদনা করুন"
+  },
+  "labels": {
+    "due": "নির্ধারিত",
+    "na": "প্রযোজ্য নয়",
+    "of": "এর"
+  }
+}

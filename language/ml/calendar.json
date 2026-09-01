@@ -1,0 +1,46 @@
+{
+  "title": "കാലണ്ടർ",
+  "subtitle": "നിങ്ങളുടെ ഷെഡ്യൂളും ഇവന്റുകളും മാനേജ് ചെയ്യുക.",
+  "navigation": {
+    "previousMonth": "മുമ്പത്തെ മാസം",
+    "nextMonth": "അടുത്ത മാസം",
+    "backToMonth": "മാസം വ്യൂയിലേക്ക് മടങ്ങുക"
+  },
+  "search": {
+    "placeholder": "ഇവന്റുകൾ തിരയുക",
+    "ariaLabel": "ഇവന്റുകൾ തിരയുക"
+  },
+  "filter": {
+    "ariaLabel": "ഇവന്റ് തരം പ്രകാരം ഫിൽട്ടർ ചെയ്യുക",
+    "options": {
+      "all": "എല്ലാ തരം",
+      "assignment": "അസൈന്മെന്റുകൾ",
+      "quiz": "ക്വിസുകൾ",
+      "discussion": "ചർച്ചകൾ",
+      "meeting": "സമ്മേളനങ്ങൾ",
+      "project": "പ്രോജക്ടുകൾ"
+    }
+  },
+  "days": {
+    "sun": "ഞായർ",
+    "mon": "തിങ്കൾ",
+    "tue": "ചൊവ്വ",
+    "wed": "ബുധൻ",
+    "thu": "വ്യാഴം",
+    "fri": "വെള്ളി",
+    "sat": "ശനിയാഴ്‌ച"
+  },
+  "grid": {
+    "dayAriaLabel": "ദിവസം {{day}}",
+    "moreEvents": "+ {{count}} കൂടുതൽ"
+  },
+  "events": {
+    "title": "ഇവന്റുകൾ",
+    "viewButton": "കാണുക",
+    "noEvents": "ഈ ദിവസത്തിന് ഇവന്റുകൾ ഇല്ല.",
+    "selectDay": "ഇവന്റുകൾ കാണാൻ ഒരു ദിവസം തിരഞ്ഞെടുക്കൂ.",
+    "eventCount": "{{count}} ഇവന്റ്",
+    "eventCount_plural": "{{count}} ഇവന്റുകൾ"
+  },
+  "loadingcalendar": "കാലണ്ടർ ലോഡ് ചെയ്യുന്നു..."
+}

@@ -1,0 +1,355 @@
+{
+  "emailSetup": {
+    "templateSubjectLabel": "*",
+    "templateSenderEmailLabel": "*",
+    "templateSenderDisplayNameLabel": "*",
+    "htmlBodyLabel": "HTML  *",
+    "savingButton": "...",
+    "confirmBackWarning": "?",
+    "toasts": {
+      "variableCopied": "!",
+      "failedToLoadVariables": "ಇಮೇಲ್ ಚರಗಳನ್ನು ಲೋಡ್ ಮಾಡಲು ವಿಫಲವಾಗಿದೆ",
+      "failedToUpdateTemplate": "ಇಮೇಲ್ ಟೆಂಪ್ಲೇಟ್ ಅನ್ನು ನವೀಕರಿಸಲು ವಿಫಲವಾಗಿದೆ"
+    },
+    "validation": {
+      "slNoHeader": "ಕ್ರ.ಸಂ.",
+      "subjectMinLength": "2",
+      "subjectMaxLength": "255",
+      "senderEmailMaxLength": "255",
+      "displayNameMinLength": "2",
+      "displayNameMaxLength": "255",
+      "subjectRequired": "ಟೆಂಪ್ಲೇಟ್ ವಿಷಯ ಅಗತ್ಯವಿದೆ",
+      "senderEmailRequired": "ಕಳುಹಿಸುವವರ ಇಮೇಲ್ ಅಗತ್ಯವಿದೆ",
+      "invalidEmailFormat": "ಅಮಾನ್ಯ ಇಮೇಲ್ ಸ್ವರೂಪ",
+      "displayNameRequired": "ಕಳುಹಿಸುವವರ ಪ್ರದರ್ಶನ ಹೆಸರು ಅಗತ್ಯವಿದೆ"
+    },
+    "title": "ಇಮೇಲ್ ಟೆಂಪ್ಲೇಟ್ ಸೆಟಪ್",
+    "subtitle": "ನಿಮ್ಮ ಇಮೇಲ್ ಟೆಂಪ್ಲೇಟ್ ಅನ್ನು ಕಾನ್ಫಿಗರ್ ಮತ್ತು ನಿರ್ವಹಿಸಿ",
+    "backToTemplates": "ಇಮೇಲ್ ಟೆಂಪ್ಲೇಟ್‌ಗಳಿಗೆ ಹಿಂತಿರುಗಿ",
+    "templateVariables": "ಟೆಂಪ್ಲೇಟ್ ಚರಗಳು",
+    "copyVariableTooltip": "ಕ್ಲಿಪ್‌ಬೋರ್ಡ್‌ಗೆ ಚರವನ್ನು ನಕಲಿಸಲು ಕ್ಲಿಕ್ ಮಾಡಿ",
+    "emailLayoutColorLabel": "ಇಮೇಲ್ ಲೇಔಟ್ ಬಣ್ಣ",
+    "cancelButton": "ರದ್ದು ಮಾಡಿ",
+    "saveChangesButton": "ಬದಲಾವಣೆಗಳನ್ನು ಉಳಿಸಿ"
+  },
+  "emailTemplates": {
+    "subjectLabel": ":",
+    "toasts": {
+      "failedToLoad": "ಇಮೇಲ್ ಟೆಂಪ್ಲೇಟ್‌ಗಳನ್ನು ಲೋಡ್ ಮಾಡಲು ವಿಫಲವಾಯಿತು"
+    },
+    "noTemplatesFound": "ಯಾವುದೇ ಇಮೇಲ್ ಟೆಂಪ್ಲೇಟ್‌ಗಳು ಕಂಡುಬಂದಿಲ್ಲ",
+    "contentPreview": "ಟೆಂಪ್ಲೇಟ್ ವಿಷಯ ಪೂರ್ವದೃಶ್ಯ",
+    "editButton": "ಸಂಪಾದಿಸಿ",
+    "templateNames": {
+      "set_password": "ಪಾಸ್‌ವರ್ಡ್ ಸೆಟ್ ಮಾಡಿ"
+    }
+  },
+  "moduleManagement": {
+    "form": {
+      "moduleNameLabel": "*",
+      "savingButton": "...",
+      "moduleDescriptionLabel": "ಮಾಡ್ಯೂಲ್ ವಿವರಣೆ",
+      "saveChangesButton": "ಬದಲಾವಣೆಗಳನ್ನು ಉಳಿಸಿ",
+      "cancelButton": "ರದ್ದು ಮಾಡಿ"
+    },
+    "validation": {
+      "nameMinLength": "2",
+      "nameMaxLength": "100",
+      "descriptionMaxLength": "500",
+      "nameRequired": "ಮಾಡ್ಯೂಲ್ ಹೆಸರನ್ನು ನೀಡಬೇಕು"
+    },
+    "title": "ಮಾಡ್ಯೂಲ್ ನಿರ್ವಹಣೆ",
+    "subtitle": "ಸಿಸ್ಟಮ್ ಮಾಡ್ಯೂಲ್‌ಗಳನ್ನು ಮತ್ತು ಅವರ ಮೆಟಾಡೇಟಾವನ್ನು ನಿರ್ವಹಿಸಿ",
+    "addNewButton": "ಹೊಸ ಮಾಡ್ಯೂಲ್ ಸೇರಿಸಿ",
+    "table": {
+      "moduleHeader": "ಮಾಡ್ಯೂಲ್",
+      "descriptionHeader": "ವಿವರಣೆ",
+      "createdAtHeader": "ರಚಿಸಿದಾಗ",
+      "actionsHeader": "ಕ್ರಿಯೆಗಳು",
+      "noModulesFound": "ಯಾವುದೇ ಮಾಡ್ಯೂಲ್‌ಗಳು ಕಂಡುಬಂದಿಲ್ಲ.",
+      "slNoHeader": "ಕ್ರಮ ಸಂ."
+    },
+    "deleteModal": {
+      "title": "ಅಳಿಸುವುದನ್ನು ದೃಢೀಕರಿಸಿ",
+      "message": "ನೀವು ಮಾಡ್ಯೂಲ್ ಅನ್ನು ಅಳಿಸಲು ಖಚಿತವಾಗಿದ್ದೀರಾ",
+      "undoWarning": "ಈ ಕ್ರಿಯೆಯನ್ನು ಹಿಂತೆಗೆದುಕೊಳ್ಳಲಾಗುವುದಿಲ್ಲ.",
+      "deleteButton": "ಮಾಡ್ಯೂಲ್ ಅಳಿಸಿ",
+      "cancelButton": "ರದ್ದು ಮಾಡಿ"
+    },
+    "toasts": {
+      "failedToLoad": "ಮಾಡ್ಯೂಲ್‌ಗಳನ್ನು ಲೋಡ್ ಮಾಡಲು ವಿಫಲವಾಗಿದೆ",
+      "createdSuccess": "ಮಾಡ್ಯೂಲ್ ಯಶಸ್ವಿಯಾಗಿ ರಚಿಸಲಾಗಿದೆ",
+      "updatedSuccess": "ಮಾಡ್ಯೂಲ್ ಯಶಸ್ವಿಯಾಗಿ ನವೀಕರಿಸಲಾಗಿದೆ",
+      "createdFailed": "ಮಾಡ್ಯೂಲ್ ರಚಿಸಲು ವಿಫಲವಾಗಿದೆ",
+      "updatedFailed": "ಮಾಡ್ಯೂಲ್ ನವೀಕರಿಸಲು ವಿಫಲವಾಗಿದೆ",
+      "deletedSuccess": "ಮಾಡ್ಯೂಲ್ ಯಶಸ್ವಿಯಾಗಿ ಅಳಿಸಲಾಗಿದೆ",
+      "deletedFailed": "ಮಾಡ್ಯೂಲ್ ಅಳಿಸಲು ವಿಫಲವಾಗಿದೆ"
+    }
+  },
+  "pageHeader": {
+    "searchPlaceholder": "..."
+  },
+  "roleArchitectureDetail": {
+    "loading": "...",
+    "savingButton": "...",
+    "title": "ಭೂಮಿಕೆ ವಾಸ್ತುಶಿಲ್ಪ ವಿವರ",
+    "subtitle": "ಈ ಭೂಮಿಕೆ ವಾಸ್ತುಶಿಲ್ಪಕ್ಕಾಗಿ ಎಲ್ಲಾ ಮಾಡ್ಯೂಲ್‌ಗಳಲ್ಲಿ ಡೀಫಾಲ್ಟ್ ಅನುಮತಿಗಳನ್ನು ಕಾನ್ಫಿಗರ್ ಮಾಡಿ.",
+    "backButton": "ಭೂಮಿಕೆ ವಾಸ್ತುಶಿಲ್ಪಗಳಿಗೆ ಹಿಂತಿರುಗಿ",
+    "loadFailed": "ಡೇಟಾ ಲೋಡ್ ಮಾಡಲು ವಿಫಲವಾಗಿದೆ.",
+    "noModulesAvailable": "ಕಾನ್ಫಿಗರ್ ಮಾಡಲು ಯಾವುದೇ ಮಾಡ್ಯೂಲ್‌ಗಳು ಲಭ್ಯವಿಲ್ಲ.",
+    "table": {
+      "moduleHeader": "ಮಾಡ್ಯೂಲ್",
+      "descriptionHeader": "ವಿವರಣೆ",
+      "capabilitiesHeader": "ಸಾಧ್ಯತೆಗಳು"
+    },
+    "capabilities": {
+      "create": "ರಚಿಸಿ",
+      "read": "ಓದಿ",
+      "edit": "ತಿದ್ದುಪಡಿ ಮಾಡಿ",
+      "delete": "ಅಳಿಸಿ",
+      "enabledCount": "ಸಕ್ರಿಯ"
+    },
+    "saveCapabilitiesButton": "ಸಾಧ್ಯತೆಗಳನ್ನು ಉಳಿಸಿ",
+    "cancelButton": "ರದ್ದು ಮಾಡಿ",
+    "toasts": {
+      "failedToLoadModules": "ಮಾಡ್ಯೂಲ್ ಪಟ್ಟಿಯನ್ನು ಲೋಡ್ ಮಾಡಲು ವಿಫಲವಾಗಿದೆ",
+      "saveSuccess": "ಸಾಧ್ಯತೆಗಳು ಯಶಸ್ವಿಯಾಗಿ ಉಳಿಸಲಾಗಿದೆ",
+      "saveFailed": "ಸಾಧ್ಯತೆಗಳನ್ನು ಉಳಿಸಲು ವಿಫಲವಾಗಿದೆ"
+    }
+  },
+  "roleArchitectureManagement": {
+    "form": {
+      "architectureNameLabel": "*",
+      "savingButton": "...",
+      "architectureDescriptionLabel": "ವಾಸ್ತುಶಿಲ್ಪದ ವಿವರಣೆ",
+      "saveChangesButton": "ಬದಲಾವಣೆಗಳನ್ನು ಉಳಿಸಿ",
+      "cancelButton": "ರದ್ದು ಮಾಡಿ"
+    },
+    "deleteModal": {
+      "message": "?",
+      "title": "ಅಳಿಸುವಿಕೆಯನ್ನು ದೃಢೀಕರಿಸಿ",
+      "undoWarning": "ಈ ಕ್ರಿಯೆಯನ್ನು ಹಿಂದಿರುಗಿಸಲಾಗುವುದಿಲ್ಲ.",
+      "deleteButton": "ಪಾತ್ರ ವಾಸ್ತುಶಿಲ್ಪವನ್ನು ಅಳಿಸಿ",
+      "cancelButton": "ರದ್ದು ಮಾಡಿ"
+    },
+    "validation": {
+      "nameMinLength": "2",
+      "nameMaxLength": "100",
+      "descriptionMaxLength": "500",
+      "nameRequired": "ಪಾತ್ರ ವಾಸ್ತುಶಿಲ್ಪದ ಹೆಸರು ಅಗತ್ಯವಿದೆ"
+    },
+    "title": "ಭೂಮಿಕೆ ವಾಸ್ತುಶಿಲ್ಪ ನಿರ್ವಹಣೆ",
+    "subtitle": "ಬಳಕೆದಾರರ ಪಾತ್ರಗಳಿಗೆ ಡೀಫಾಲ್ಟ್ ಅನುಮತಿ ಸೆಟ್ಗಳನ್ನು ನಿರ್ವಹಿಸಿ",
+    "addNewButton": "ಹೊಸ ವಾಸ್ತುಶಿಲ್ಪವನ್ನು ಸೇರಿಸಿ",
+    "table": {
+      "roleNameHeader": "ಪಾತ್ರದ ಹೆಸರು",
+      "descriptionHeader": "ವಿವರಣೆ",
+      "createdAtHeader": "ರಚನೆಯ ದಿನಾಂಕ",
+      "actionsHeader": "ಕ್ರಿಯೆಗಳು",
+      "noArchitecturesFound": "ಯಾವುದೇ ಪಾತ್ರ ವಾಸ್ತುಶಿಲ್ಪಗಳು ಕಂಡುಬಂದಿಲ್ಲ.",
+      "slNoHeader": "ಕ್ರ.ಸಂ."
+    },
+    "toasts": {
+      "failedToLoad": "ಪಾತ್ರ ವಾಸ್ತುಶಿಲ್ಪಗಳನ್ನು ಲೋಡ್ ಮಾಡಲು ವಿಫಲವಾಗಿದೆ",
+      "createdSuccess": "ಪಾತ್ರ ವಾಸ್ತುಶಿಲ್ಪ ಯಶಸ್ವಿಯಾಗಿ ರಚಿಸಲಾಗಿದೆ",
+      "updatedSuccess": "ಪಾತ್ರ ವಾಸ್ತುಶಿಲ್ಪ ಯಶಸ್ವಿಯಾಗಿ ನವೀಕರಿಸಲಾಗಿದೆ",
+      "createdFailed": "ಪಾತ್ರ ವಾಸ್ತುಶಿಲ್ಪವನ್ನು ರಚಿಸಲು ವಿಫಲವಾಗಿದೆ",
+      "updatedFailed": "ಪಾತ್ರ ವಾಸ್ತುಶಿಲ್ಪವನ್ನು ನವೀಕರಿಸಲು ವಿಫಲವಾಗಿದೆ",
+      "deletedSuccess": "ಪಾತ್ರ ವಾಸ್ತುಶಿಲ್ಪ ಯಶಸ್ವಿಯಾಗಿ ಅಳಿಸಲಾಗಿದೆ",
+      "deletedFailed": "ಪಾತ್ರ ವಾಸ್ತುಶಿಲ್ಪವನ್ನು ಅಳಿಸಲು ವಿಫಲವಾಗಿದೆ"
+    }
+  },
+  "roleManagement": {
+    "form": {
+      "roleNameLabel": "*",
+      "architectureLabel": "*",
+      "architecturePlaceholder": "...",
+      "savingButton": "...",
+      "roleDescriptionLabel": "ಪಾತ್ರ ವಿವರಣೆ",
+      "saveChangesButton": "ಬದಲಾವಣೆಗಳನ್ನು ಉಳಿಸಿ",
+      "cancelButton": "ರದ್ದು ಮಾಡಿ"
+    },
+    "validation": {
+      "nameMinLength": "2",
+      "nameMaxLength": "100",
+      "descriptionMaxLength": "500",
+      "nameRequired": "ಪಾತ್ರದ ಹೆಸರು ಅಗತ್ಯವಿದೆ",
+      "architectureRequired": "ಪಾತ್ರ ವಾಸ್ತುಶಿಲ್ಪ ಅಗತ್ಯವಿದೆ"
+    },
+    "title": "ಪಾತ್ರ ನಿರ್ವಹಣೆ",
+    "subtitle": "ಕಸ್ಟಮ್ ಬಳಕೆದಾರ ಪಾತ್ರಗಳನ್ನು ನಿರ್ವಹಿಸಿ ಮತ್ತು ಪಾತ್ರ ವಾಸ್ತುಶಿಲ್ಪಗಳನ್ನು ನಿಯೋಜಿಸಿ",
+    "addNewButton": "ಹೊಸ ಪಾತ್ರವನ್ನು ಸೇರಿಸಿ",
+    "table": {
+      "roleHeader": "ಪಾತ್ರ",
+      "architectureHeader": "ವಾಸ್ತುಶಿಲ್ಪ",
+      "descriptionHeader": "ವಿವರಣೆ",
+      "createdAtHeader": "ರಚನೆಯ ದಿನಾಂಕ",
+      "actionsHeader": "ಕ್ರಿಯೆಗಳು",
+      "noRolesFound": "ಕಸ್ಟಮ್ ಪಾತ್ರಗಳು ಕಂಡುಬಂದಿಲ್ಲ.",
+      "slNoHeader": "ಕ್ರ.ಸಂ."
+    },
+    "deleteModal": {
+      "title": "ಅಳಿಸುವಿಕೆಯನ್ನು ದೃಢೀಕರಿಸಿ",
+      "message": "ನೀವು ಈ ಪಾತ್ರವನ್ನು ಅಳಿಸಲು ಖಚಿತವಾಗಿದ್ದೀರಾ",
+      "undoWarning": "ಈ ಕ್ರಿಯೆಯನ್ನು ಹಿಂದಿರುಗಿಸಲು ಸಾಧ್ಯವಿಲ್ಲ.",
+      "deleteButton": "ಪಾತ್ರವನ್ನು ಅಳಿಸಿ",
+      "cancelButton": "ರದ್ದು ಮಾಡಿ"
+    },
+    "toasts": {
+      "failedToLoadRoles": "ಪಾತ್ರಗಳನ್ನು ಲೋಡ್ ಮಾಡಲು ವಿಫಲವಾಗಿದೆ",
+      "failedToLoadArchitectures": "ಪಾತ್ರ ವಾಸ್ತುಶಿಲ್ಪಗಳನ್ನು ಲೋಡ್ ಮಾಡಲು ವಿಫಲವಾಗಿದೆ",
+      "createdSuccess": "ಪಾತ್ರ ಯಶಸ್ವಿಯಾಗಿ ರಚಿಸಲಾಗಿದೆ",
+      "updatedSuccess": "ಪಾತ್ರ ಯಶಸ್ವಿಯಾಗಿ ನವೀಕರಿಸಲಾಗಿದೆ",
+      "createdFailed": "ಪಾತ್ರವನ್ನು ರಚಿಸಲು ವಿಫಲವಾಗಿದೆ",
+      "updatedFailed": "ಪಾತ್ರವನ್ನು ನವೀಕರಿಸಲು ವಿಫಲವಾಗಿದೆ",
+      "deletedSuccess": "ಪಾತ್ರ ಯಶಸ್ವಿಯಾಗಿ ಅಳಿಸಲಾಗಿದೆ",
+      "deletedFailed": "ಪಾತ್ರವನ್ನು ಅಳಿಸಲು ವಿಫಲವಾಗಿದೆ"
+    }
+  },
+  "dashboardManagement": {
+    "loading": "...",
+    "errorPrefix": ":",
+    "activePermissions": ":",
+    "savingButton": "...",
+    "title": "ಡ್ಯಾಶ್‌ಬೋರ್ಡ್ ನಿರ್ವಹಣೆ",
+    "subtitle": "ನಿಮ್ಮ ಪಾತ್ರಗಳು ಮತ್ತು ಅನುಮತಿಗಳನ್ನು ನಿರ್ವಹಿಸಿ ಮತ್ತು ಸಂಘಟಿಸಿ",
+    "backButton": "ಹಿಂದೆ",
+    "dashboardModulesHeader": "ಡ್ಯಾಶ್‌ಬೋರ್ಡ್ ಮೋಡ್ಯೂಲ್‌ಗಳು",
+    "sidebarModulesHeader": "ಸೈಡ್‌ಬಾರ್ ಮೋಡ್ಯೂಲ್‌ಗಳು",
+    "moduleColumn": "ಮೋಡ್ಯೂಲ್",
+    "permissionsColumn": "ಅನುಮತಿಗಳು",
+    "selectAll": "ಎಲ್ಲವನ್ನು ಆಯ್ಕೆ ಮಾಡಿ",
+    "savePermissionsButton": "ಅನುಮತಿಗಳನ್ನು ಉಳಿಸಿ",
+    "admin": "ನಿರ್ದೇಶಕ",
+    "instructor": "ಶಿಕ್ಷಕ",
+    "student": "ಶಿಕ್ಷಕ",
+    "toasts": {
+      "saveSuccess": "ಅಧಿಕಾರಗಳನ್ನು ಯಶಸ್ವಿಯಾಗಿ ಉಳಿಸಲಾಗಿದೆ",
+      "saveFailed": "ಅಧಿಕಾರಗಳನ್ನು ಉಳಿಸಲು ವಿಫಲವಾಗಿದೆ"
+    },
+    "roleLabel": "ರೋಲ್",
+    "permissionsSectionTitle": "ಮಾಡ್ಯೂಲ್ ಅನುಮತಿಗಳು",
+    "selectRoleDisclaimer": "ಅನುಮತಿಗಳನ್ನು ಬದಲಿಸಲು ರೋಲ್ ಆಯ್ಕೆಮಾಡಿ.",
+    "modulesCount": "{{count}} ಮಾಡ್ಯೂಲ್‌ಗಳು",
+    "sidebarItemsCount": "{{count}} ಐಟಂಗಳು",
+    "noModulesForRole": "ಈ ರೋಲ್‌ಗೆ ಯಾವುದೇ ಮಾಡ್ಯೂಲ್‌ಗಳು ಲಭ್ಯವಿಲ್ಲ",
+    "teacher": "ಟೀಚರ್",
+    "toggleDisabled": "ಈ ಅನುಮತಿ ತಾತ್ಕಾಲಿಕವಾಗಿ ಲಭ್ಯವಿಲ್ಲ",
+    "toggleAlwaysOn": "ಈ ಟಾಗಲ್ ಅನ್ನು ಆಫ್ ಮಾಡಲು ಸಾಧ್ಯವಿಲ್ಲ"
+  },
+  "smtpConfiguration": {
+    "title": "SMTP",
+    "subtitle": "(SMTP)",
+    "hostLabel": "SMTP    *",
+    "hostPlaceholder": "., mail.example.com:465  mail1.com:587,mail2.com:587",
+    "securityLabel": "SMTP",
+    "securityHelpText": "465  SMTPS   'ssl'  ,   587  STARTTLS   'tls'",
+    "securitySSL": "SSL",
+    "securityTLS": "TLS",
+    "usernameLabel": "SMTP  *",
+    "usernamePlaceholder": "., noreply@example.com",
+    "passwordLabel": "SMTP  *",
+    "noreplyEmailLabel": "-  *",
+    "noreplyEmailHelpText": "''",
+    "noreplyDisplayNameLabel": "-   *",
+    "noreplyDisplayNamePlaceholder": "., InstructoHub",
+    "cancelButton": "ಕ್যಾನ್ಸೆಲ್",
+    "savingButton": "...",
+    "toasts": {
+      "failedToLoad": "SMTP",
+      "updateSuccess": "SMTP",
+      "updateFailed": "SMTP"
+    },
+    "validation": {
+      "hostRequired": "SMTP",
+      "hostInvalidFormat": "host:port  host:port,host2:port2",
+      "securityInvalid": ", ssl,  tls",
+      "usernameRequired": "SMTP",
+      "usernameMaxLength": "SMTP  255",
+      "passwordRequired": "SMTP",
+      "passwordMaxLength": "SMTP  255",
+      "noreplyEmailRequired": "-",
+      "noreplyEmailMaxLength": "-  255",
+      "noreplyDisplayNameRequired": "-",
+      "noreplyDisplayNameMinLength": "-      2",
+      "noreplyDisplayNameMaxLength": "-   255",
+      "noreplyEmailInvalidFormat": "ಅಮಾನ್ಯ ಇಮೇಲ್ ಸ್ವರೂಪ"
+    },
+    "backToControl": "ಪ್ರವೇಶ ನಿಯಂತ್ರಣಕ್ಕೆ ಹಿಂತಿರುಗಿ",
+    "securityNone": "ಯಾವುದೂ ಇಲ್ಲ",
+    "noreplyDisplayNameHelpText": "ಕಳುಹಿಸುವವರಂತೆ ತೋರಿಸುವ ಹೆಸರು",
+    "saveConfigurationButton": "ಕೋಷ್ಟಕವನ್ನು ಉಳಿಸಿ"
+  },
+  "accessControlDisplay": {
+    "smtpConfigurationTitle": "SMTP",
+    "smtpConfigurationDescription": "SMTP",
+    "emailSetupTitle": "ಇಮೇಲ್ ಸೆಟಪ್",
+    "emailSetupDescription": "ಇಮೇಲ್ ಟೆಂಪ್ಲೇಟುಗಳು ಮತ್ತು ಸೂಚನೆ ಸೆಟಿಂಗ್‌ಗಳನ್ನು ಕಾನ್ಫಿಗರ್ ಮಾಡಿ",
+    "dashboardManagementTitle": "ಡ್ಯಾಶ್‌ಬೋರ್ಡ್ ನಿರ್ವಹಣೆ",
+    "dashboardManagementDescription": "ಡ್ಯಾಶ್‌ಬೋರ್ಡ್ ಮೋಡ್ಯೂಲ್‌ಗಳಿಗೆ ಪಾತ್ರಗಳು ಮತ್ತು ಅಧಿಕಾರಗಳನ್ನು ನಿರ್ವಹಿಸಿ",
+    "roleArchitectureManagementTitle": "ಪಾತ್ರ ವಾಸ್ತುಶಿಲ್ಪ ನಿರ್ವಹಣೆ",
+    "roleArchitectureManagementDescription": "ಬಳಕೆದಾರ ಪಾತ್ರಗಳಿಗೆ ಡೀಫಾಲ್ಟ್ ಅಧಿಕಾರ ಸೆಟ್ಗಳನ್ನು ನಿರ್ವಹಿಸಿ",
+    "roleManagementTitle": "ಪಾತ್ರ ನಿರ್ವಹಣೆ",
+    "roleManagementDescription": "ಕಸ್ಟಮ್ ಬಳಕೆದಾರ ಪಾತ್ರಗಳನ್ನು ನಿರ್ವಹಿಸಿ ಮತ್ತು ಪಾತ್ರ ವಾಸ್ತುಶಿಲ್ಪಗಳನ್ನು ನಿಯೋಜಿಸಿ"
+  },
+  "customRoleDetail": {
+    "pageHeader": {
+      "title": ": {{roleName}}",
+      "subtitle": "(: {{architectureName}})",
+      "unknownArchitecture": "ಅಜ್ಞಾತ"
+    },
+    "savingButton": "...",
+    "loading": "...",
+    "sections": {
+      "learningActivities": {
+        "description": "-    , ,",
+        "title": "ಕಲಿಕಾ ಚಟುವಟಿಕೆಗಳು"
+      },
+      "tools": {
+        "description": "()",
+        "title": "ಉಪಕರಣಗಳು"
+      }
+    },
+    "resetModal": {
+      "message2": "?",
+      "warning2": "ಯಾವುದೇ ಕಸ್ಟಮ್ ಬದಲಾವಣೆಗಳು ಕಳೆದುಹೋಗುತ್ತವೆ.",
+      "cancelButton": "ಕ್যಾನ್ಸೆಲ್",
+      "resettingButton": "ರಿಸೆಟ್ ಮಾಡುತ್ತಿದೆ...",
+      "resetToDefaultButton": "ಡಿಫಾಲ್ಟ್‌ಗೆ ರಿಸೆಟ್ ಮಾಡಿ",
+      "title": "ಡೀಫಾಲ್ಟ್ ಗೆ ಸಾಮರ್ಥ್ಯಗಳನ್ನು ಪುನಃ ಸೆಟಪ್ ಮಾಡಿ",
+      "message": "ನೀವು ಖಚಿತವಾಗಿ ಎಲ್ಲಾ ಸಾಮರ್ಥ್ಯಗಳನ್ನು ಪುನಃ ಸೆಟಪ್ ಮಾಡಲು ಬಯಸುತ್ತೀರಾ",
+      "warning1": "ಇದು ಪಾತ್ರದ ವಾಸ್ತುಶಿಲ್ಪ ಮಾದರಿಯಲ್ಲಿ ನಿರ್ಧರಿತ ಸಾಮರ್ಥ್ಯಗಳನ್ನು ಪುನಃ ಸ್ಥಾಪಿಸುತ್ತದೆ."
+    },
+    "toasts": {
+      "loadError": "ರೋಲ್ ಕೇಪಾಬಿಲಿಟೀಜ್ ಲೋಡ್ ಮಾಡಲು ವಿಫಲ",
+      "resetSuccess": "{{roleName}} ರ ಕೇಪಾಬಿಲಿಟೀಜ್ ಡಿಫಾಲ್ಟ್‌ಗೆ ಯಶಸ್ವಿಯಾಗಿ ರಿಸೆಟ್ ಆಯಿತು!",
+      "resetFailed": "ರೋಲ್ ಕೇಪಾಬಿಲಿಟೀಜ್ ರಿಸೆಟ್ ಮಾಡಲು ವಿಫಲ",
+      "updateSuccess": "ರೋಲ್ ಕೇಪಾಬಿಲಿಟೀಜ್ ಯಶಸ್ವಿಯಾಗಿ ಅಪ್‌ಡೇಟ್ ಆಯಿತು",
+      "updateFailed": "ರೋಲ್ ಕೇಪಾಬಿಲಿಟೀಜ್ ಅಪ್‌ಡೇಟ್ ಮಾಡಲು ವಿಫಲ"
+    },
+    "title": "ಪಾತ್ರ ಸಾಮರ್ಥ್ಯ ಕಸ್ಟಮೈಸೇಶನ್",
+    "subtitle": "ಈ ನಿರ್ದಿಷ್ಟ ಪಾತ್ರಕ್ಕಾಗಿ ಎಲ್ಲಾ ಮೋಡ್ಯೂಲ್‌ಗಳಲ್ಲಿ ಅಧಿಕಾರಗಳನ್ನು ಕಸ್ಟಮೈಸ್ ಮಾಡಿ. ಇಲ್ಲಿ ಮಾಡಿದ ಬದಲಾವಣೆಗಳು ಪಾತ್ರ ವಾಸ್ತುಶಿಲ್ಪದ ಡೀಫಾಲ್ಟ್ ಅನ್ನು ಮೀರಿಸುತ್ತವೆ.",
+    "backButton": "ಪಾತ್ರಗಳಿಗೆ ಹಿಂತಿರುಗಿ",
+    "saveCapabilitiesButton": "ಸಾಮರ್ಥ್ಯಗಳನ್ನು ಉಳಿಸಿ",
+    "loadFailed": "ಡೇಟಾ ಲೋಡ್ ಮಾಡಲು ವಿಫಲವಾಗಿದೆ.",
+    "emptyState": {
+      "title": "ಯಾವುದೇ ಮೋಡ್ಯೂಲ್‌ಗಳು ಕಂಡುಬಂದಿಲ್ಲ",
+      "description": "ಸಾಮರ್ಥ್ಯಗಳನ್ನು ನಿಯೋಜಿಸುವ ಮೊದಲು ದಯವಿಟ್ಟು ಮೋಡ್ಯೂಲ್‌ಗಳನ್ನು ಮೊದಲಿಗೆ ರಚಿಸಿ",
+      "goToModuleManagementButton": "ಮೋಡ್ಯೂಲ್ ನಿರ್ವಹಣೆಗೆ ಹೋಗಿ"
+    },
+    "capabilities": {
+      "create": "ರಚಿಸಿ",
+      "read": "ಕಂಡು",
+      "edit": "ತಿದ್ದುಪಡಿ",
+      "delete": "ಅಳಿಸು",
+      "enabledCount": "ಸಕ್ರಿಯ"
+    },
+    "table": {
+      "moduleNameHeader": "ಮಾಡ್ಯೂಲ್ ಹೆಸರು",
+      "toolNameHeader": "ಉಪಕರಣ ಹೆಸರು",
+      "moduleHeader": "ಮಾಡ್ಯೂಲ್",
+      "descriptionHeader": "ವಿವರಣೆ",
+      "capabilitiesHeader": "ಸಾಧ್ಯತೆಗಳು"
+    }
+  }
+}

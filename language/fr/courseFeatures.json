@@ -1,0 +1,116 @@
+{
+  "activityCompletion": {
+    "pageTitle": "Paramètres d'Achèvement de l'Activité",
+    "pageSubtitle": "Configurez les exigences d'achèvement pour les activités dans \"{{courseName}}\"",
+    "listView": "Vue de Liste",
+    "bulkEditView": "Vue d'Édition en Masse",
+    "bulkEditTitle": "Édition en Masse par Type d'Activité",
+    "save": "Enregistrer",
+    "unsaved": "non enregistré",
+    "saved": "enregistré",
+    "completionType": "Type d'Achèvement",
+    "gradeCondition": "Condition de Note",
+    "anyGrade": "n'importe quelle note",
+    "passingGrade": "note de passage",
+    "activities": "Activités",
+    "searchPlaceholder": "Rechercher des activités...",
+    "loadingActivities": "Chargement des activités...",
+    "noActivitiesFound": "Aucune activité trouvée",
+    "adjustSearchCriteria": "Essayez d'ajuster vos critères de recherche.",
+    "tableHeaders": {
+      "sno": "S.No",
+      "activity": "Activité",
+      "module": "Module",
+      "completionSettings": "Paramètres d'Achèvement",
+      "actions": "Actions"
+    },
+    "completionOptions": {
+      "makeSubmission": "Faire une soumission",
+      "receiveGrade": "Recevoir une note",
+      "viewActivity": "Afficher l'activité"
+    },
+    "toastMessages": {
+      "selectCompletionType": "Veuillez sélectionner un type d'achèvement.",
+      "settingsUpdated": "Paramètres mis à jour pour \"{{activityName}}\"",
+      "updateFailed": "Impossible de mettre à jour les paramètres.",
+      "selectBulkCompletionType": "Veuillez sélectionner un type d'achèvement pour {{modname}}.",
+      "noUnsavedActivities": "Aucune activité {{modname}} non enregistrée à enregistrer.",
+      "bulkSaveSuccess": "{{count}} activités {{modname}} enregistrées avec succès.",
+      "bulkSaveFailed": "Impossible d'enregistrer les paramètres {{modname}}."
+    }
+  },
+  "certificate": {
+    "pageTitle": "Certificat d'Achèvement",
+    "presentedTo": "Ce certificat est fièrement présenté à",
+    "completionText": "Pour avoir complété avec succès le cours",
+    "instructorTitle": "Instructeur Principal",
+    "verifyText": "Vérifier InstructoHub",
+    "loading": "Chargement du Certificat...",
+    "notUnlocked": "Certificat Non Encore Déverrouillé",
+    "completeMessage": "Vous devez terminer 100% du cours pour déverrouiller votre certificat. Continuez à bien faire!",
+    "backToCourse": "Retour au Cours",
+    "downloadCertificate": "Télécharger le Certificat",
+    "downloading": "Téléchargement...",
+    "startDate": "Date de Début",
+    "endDate": "Date de Fin",
+    "completionDate": "Date d'Achèvement",
+    "toastMessages": {
+      "scriptsLoadFailed": "Impossible de charger les bibliothèques requises pour le téléchargement PDF.",
+      "libraryNotReady": "La bibliothèque de génération PDF n'est pas prête. Veuillez attendre et réessayer.",
+      "pdfGenerationError": "Une erreur s'est produite lors de la génération du PDF."
+    }
+  },
+  "selfEnroll": {
+    "previewMode": "Mode Aperçu",
+    "courseLocked": "Cours Verrouillé",
+    "courseAvailable": "Cours Disponible",
+    "enrollToAccess": "S'Inscrire pour Accéder au Contenu",
+    "lockedMessage": "Cours verrouillé. Demandez à votre enseignant de vous Inscrire pour Accéder au Contenu",
+    "checkingEnrollment": "Vérification du statut d'inscription...",
+    "noCourseData": "Aucune donnée de cours disponible",
+    "readyToLearn": "Prêt à Commencer à Apprendre?",
+    "enrollCTA": "Rejoignez {{count}} autres étudiants et débloquez l'accès à tous les matériaux du cours.",
+    "enrollCTADefault": "Débloquez l'accès à tous les matériaux du cours, aux devoirs et au contenu interactif.",
+    "enrollButton": "S'Inscrire à Ce Cours",
+    "aboutCourse": "À Propos de Ce Cours",
+    "courseInformation": "Information du Cours",
+    "courseID": "ID du Cours",
+    "format": "Format",
+    "startDate": "Date de Début",
+    "endDate": "Date de Fin",
+    "enrolledStudents": "Étudiants Inscrits",
+    "created": "Créé",
+    "students": "étudiants inscrits",
+    "moduleProgress": "Module {{current}} sur {{total}}",
+    "percentComplete": "{{percent}}% Complété",
+    "introduction": "Introduction",
+    "items": "éléments",
+    "modal": {
+      "title": "Confirmer l'Inscription",
+      "heading": "S'Inscrire à \"{{courseName}}\"?",
+      "description": "Vous aurez accès à tous les matériaux et activités du cours. Vous pouvez commencer à apprendre immédiatement après l'inscription.",
+      "cancel": "Annuler",
+      "enrollNow": "S'Inscrire Maintenant",
+      "enrolling": "Inscription..."
+    },
+    "toastMessages": {
+      "alreadyEnrolled": "Déjà inscrit au cours. Redirection...",
+      "courseIdNotAvailable": "ID du cours non disponible. Veuillez réessayer.",
+      "enrollmentSuccess": "Inscrit avec succès à {{courseName}}!",
+      "enrollmentFailed": "L'inscription a échoué. Veuillez réessayer.",
+      "enrollmentError": "Erreur lors de l'inscription au cours. Veuillez réessayer."
+    }
+  },
+  "moduleOrganization": {
+    "pageTitle": "Organiser la Structure du Cours",
+    "pageSubtitle": "Glissez-déposez pour réorganiser les sections et les activités pour",
+    "saveChanges": "Enregistrer les modifications",
+    "discard": "Abandonner",
+    "saving": "Enregistrement...",
+    "loading": "Chargement de la structure du cours...",
+    "noActivities": "Aucune activité dans ce module.",
+    "movingItem": "Déplacement de l'élément...",
+    "dragToReorder": "Glissez pour réorganiser {{name}}",
+    "saveError": "Impossible d'enregistrer les modifications. Vous pouvez réessayer ou abandonner."
+  }
+}

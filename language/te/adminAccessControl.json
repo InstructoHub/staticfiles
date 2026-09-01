@@ -1,0 +1,355 @@
+{
+  "emailSetup": {
+    "title": "ఈమెయిల్ టెంప్లేట్ సెటప్",
+    "subtitle": "మీ ఈమెయిల్ టెంప్లేట్‌ను కాన్ఫిగర్ చేయండి మరియు మేనేజ్ చేయండి",
+    "backToTemplates": "ఈమెయిల్ టెంప్లేట్‌లకు వెనుకకు",
+    "templateVariables": "టెంప్లేట్ వేరియబుల్‌లు",
+    "copyVariableTooltip": "క్లిప్‌బోర్డ్‌కు వేరియబుల్‌ను కాపీ చేయడానికి క్లిక్ చేయండి",
+    "templateSubjectLabel": "టెంప్లేట్ సబ్జెక్టు *",
+    "templateSenderEmailLabel": "టెంప్లేట్ సెండర్ ఈమెయిల్ *",
+    "templateSenderDisplayNameLabel": "టెంప్లేట్ సెండర్ డిస్‌ప్లే నేమ్ *",
+    "emailLayoutColorLabel": "ఈమెయిల్ లేআউట్ రంగు",
+    "htmlBodyLabel": "HTML బాడీ *",
+    "cancelButton": "క్యాన్సెల్",
+    "saveChangesButton": "చేసిన మార్పులను సేవ్ చేయండి",
+    "savingButton": "సేవ్ చేస్తోంది...",
+    "confirmBackWarning": "మార్పులు సేవ్ చేయబడలేదు. మీరు వెనుకకు వెళ్లాలని చేస్తున్నారా?",
+    "toasts": {
+      "failedToLoadVariables": "ఈమెయిల్ వేరియబుల్‌లను లోడ్ చేయడం విఫలమైంది",
+      "failedToUpdateTemplate": "ఈమెయిల్ టెంప్లేట్‌ను అప్‌డేట్ చేయడం విఫలమైంది",
+      "variableCopied": "వేరియబుల్ క్లిప్‌బోర్డ్‌కు కాపీ చేయబడింది!"
+    },
+    "validation": {
+      "slNoHeader": "క్రమ సంఖ్య",
+      "subjectRequired": "టెంప్లేట్ సబ్జెక్టు అవసరమైనది",
+      "subjectMinLength": "టెంప్లేట్ సబ్జెక్టు కనీసం 2 అక్షరాలుండాలి",
+      "subjectMaxLength": "టెంప్లేట్ సబ్జెక్టు 255 అక్షరాలను మించకూడదు",
+      "senderEmailRequired": "సెండర్ ఈమెయిల్ అవసరమైనది",
+      "invalidEmailFormat": "చెల్లని ఈమెయిల్ ఫార్మాట్",
+      "senderEmailMaxLength": "సెండర్ ఈమెయిల్ 255 అక్షరాలను మించకూడదు",
+      "displayNameRequired": "సెండర్ డిస్‌ప్లే నేమ్ అవసరమైనది",
+      "displayNameMinLength": "సెండర్ డిస్‌ప్లే నేమ్ కనీసం 2 అక్షరాలుండాలి",
+      "displayNameMaxLength": "సెండర్ డిస్‌ప్లే నేమ్ 255 అక్షరాలను మించకూడదు"
+    }
+  },
+  "emailTemplates": {
+    "noTemplatesFound": "ఈమెయిల్ టెంప్లేట్‌లు కనిపించలేదు",
+    "subjectLabel": "సబ్జెక్టు:",
+    "contentPreview": "టెంప్లేట్ కంటెంట్ ప్రివ్యూ",
+    "editButton": "ఎడిట్",
+    "toasts": {
+      "failedToLoad": "ఈమెయిల్ టెంప్లేట్‌లను లోడ్ చేయడం విఫలమైంది"
+    },
+    "templateNames": {
+      "set_password": "పాస్‌వర్డ్ సెట్ చేయండి"
+    }
+  },
+  "moduleManagement": {
+    "title": "మాడ్యూల్ మేనేజ్‌మెంట్",
+    "subtitle": "సిస్టమ్ మాడ్యూల్‌లను మరియు వాటి మెటాడేటాను మేనేజ్ చేయండి",
+    "addNewButton": "నতན మాడ్యూల్ జోడించండి",
+    "table": {
+      "moduleHeader": "మాడ్యూల్",
+      "descriptionHeader": "వివరణ",
+      "createdAtHeader": "సృష్టించిన తేదీ",
+      "actionsHeader": "చర్యలు",
+      "noModulesFound": "కোనీ మాడ్యూల్‌లు కనపడలేదు.",
+      "slNoHeader": "సీరియల్ నం."
+    },
+    "form": {
+      "moduleNameLabel": "మాడ్యూల్ పేరు *",
+      "moduleDescriptionLabel": "మాడ్యూల్ వివరణ",
+      "saveChangesButton": "చేసిన మార్పులను సేవ్ చేయండి",
+      "savingButton": "సేవ్ చేస్తోంది...",
+      "cancelButton": "రద్దు చేయండి"
+    },
+    "deleteModal": {
+      "title": "డిలీషన్‌ను నిర్ధారించండి",
+      "message": "మీరు మాడ్యూల్‌ను డిలీట్ చేయాలనుకుంటున్నారా",
+      "undoWarning": "ఈ చర్యను రద్దు చేయలేము.",
+      "deleteButton": "మాడ్యూల్ డిలీట్ చేయండి",
+      "cancelButton": "రద్దు చేయండి"
+    },
+    "toasts": {
+      "failedToLoad": "మాడ్యూల్‌లను లోడ్ చేయడం విఫలమైంది",
+      "createdSuccess": "మాడ్యూల్ విజయవంతంగా సృష్టించబడింది",
+      "updatedSuccess": "మాడ్యూల్ విజయవంతంగా అప్‌డేట్ చేయబడింది",
+      "createdFailed": "మాడ్యూల్‌ను సృష్టించడం విఫలమైంది",
+      "updatedFailed": "మాడ్యూల్‌ను అప్‌డేట్ చేయడం విఫలమైంది",
+      "deletedSuccess": "మాడ్యూల్ విజయవంతంగా డిలీట్ చేయబడింది",
+      "deletedFailed": "మాడ్యూల్‌ను డిలీట్ చేయడం విఫలమైంది"
+    },
+    "validation": {
+      "nameRequired": "మాడ్యూల్ పేరు అవసరం",
+      "nameMinLength": "మాడ్యూల్ పేరు కనీసం 2 అక్షరాలు ఉండాలి",
+      "nameMaxLength": "మాడ్యూల్ పేరు 100 అక్షరాలను మించకూడదు",
+      "descriptionMaxLength": "వివరణ 500 అక్షరాలను మించకూడదు"
+    }
+  },
+  "pageHeader": {
+    "searchPlaceholder": "సెర్చ్ చేయండి..."
+  },
+  "roleArchitectureDetail": {
+    "title": "రోల్ ఆర్కిటెక్చర్ డిటయిల్",
+    "subtitle": "ఈ రోల్ ఆర్కిటెక్చర్ కోసం అన్ని మాడ్యూల్‌ల్లో డిఫాల్ట్ పర్మిషన్‌లను కాన్ఫిగర్ చేయండి.",
+    "backButton": "రోల్ ఆర్కిటెక్చర్‌లకు తిరిగి వెళ్లండి",
+    "loading": "మాడ్యూల్‌లను లోడ్ చేస్తున్నాము...",
+    "loadFailed": "డేటా లోడ్ చేయడం విఫలమైంది.",
+    "noModulesAvailable": "కాన్ఫిగరేషన్ కోసం ఎటువంటి మాడ్యూల్‌లు అందుబాటులో లేవు.",
+    "table": {
+      "moduleHeader": "మాడ్యూల్",
+      "descriptionHeader": "డిస్క్రిప్షన్",
+      "capabilitiesHeader": "కెపాబిలిటీజ్"
+    },
+    "capabilities": {
+      "create": "క్రియేట్",
+      "read": "రీడ్",
+      "edit": "ఎడిట్",
+      "delete": "డిలీట్",
+      "enabledCount": "ఎనేబల్ చేయబడింది"
+    },
+    "saveCapabilitiesButton": "కెపాబిలిటీజ్ సేవ్ చేయండి",
+    "savingButton": "సేవ్ చేస్తున్నాము...",
+    "cancelButton": "క్యాన్సెల్",
+    "toasts": {
+      "failedToLoadModules": "మాడ్యూల్ లిస్ట్ లోడ్ చేయడం విఫలమైంది",
+      "saveSuccess": "కెపాబిలిటీజ్ విజయవంతంగా సేవ్ చేయబడ్డాయి",
+      "saveFailed": "కెపాబిలిటీజ్ సేవ్ చేయడం విఫలమైంది"
+    }
+  },
+  "roleArchitectureManagement": {
+    "title": "రోల్ ఆర్కిటెక్చర్ మేనేజ్‌మెంట్",
+    "subtitle": "యూజర్ రోల్‌ల కోసం డిఫాల్ట్ పర్మిషన్ సెట్‌లను మేనేజ్ చేయండి",
+    "addNewButton": "క్రియేట్ ఆర్కిటెక్చర్",
+    "table": {
+      "roleNameHeader": "రోల్ పేరు",
+      "descriptionHeader": "డిస్క్రిప్షన్",
+      "createdAtHeader": "క్రియేట్ చేసిన తేదీ",
+      "actionsHeader": "యాక్షన్‌లు",
+      "noArchitecturesFound": "ఎటువంటి రోల్ ఆర్కిటెక్చర్‌లు కనుగొనబడలేదు.",
+      "slNoHeader": "క్రమ సంఖ్య"
+    },
+    "form": {
+      "architectureNameLabel": "ఆర్కిటెక్చర్ పేరు *",
+      "architectureDescriptionLabel": "ఆర్కిటెక్చర్ డిస్క్రిప్షన్",
+      "saveChangesButton": "చేసిన మార్పులను సేవ్ చేయండి",
+      "savingButton": "సేవ్ చేస్తోంది...",
+      "cancelButton": "క్యాన్సెల్ చేయండి"
+    },
+    "deleteModal": {
+      "title": "డిలీషన్‌ను నిర్ధారించండి",
+      "message": "మీరు ఖచ్చితంగా రోల్ ఆర్కిటెక్చర్‌ను డిలీట్ చేయాలనుకుంటున్నారా",
+      "undoWarning": "ఈ చర్య తిరిగి సరిచేయలేము.",
+      "deleteButton": "రోల్ ఆర్కిటెక్చర్ డిలీట్ చేయండి",
+      "cancelButton": "క్యాన్సెల్ చేయండి"
+    },
+    "toasts": {
+      "failedToLoad": "రోల్ ఆర్కిటెక్చర్‌లను లోడ్ చేయడం విఫలమైంది",
+      "createdSuccess": "రోల్ ఆర్కిటెక్చర్ విజయవంతంగా క్రియేట్ చేయబడింది",
+      "updatedSuccess": "రోల్ ఆర్కిటెక్చర్ విజయవంతంగా అప్‌డేట్ చేయబడింది",
+      "createdFailed": "రోల్ ఆర్కిటెక్చర్ క్రియేట్ చేయడం విఫలమైంది",
+      "updatedFailed": "రోల్ ఆర్కిటెక్చర్ అప్‌డేట్ చేయడం విఫలమైంది",
+      "deletedSuccess": "రోల్ ఆర్కిటెక్చర్ విజయవంతంగా డిలీట్ చేయబడింది",
+      "deletedFailed": "రోల్ ఆర్కిటెక్చర్ డిలీట్ చేయడం విఫలమైంది"
+    },
+    "validation": {
+      "nameRequired": "రోల్ ఆర్కిటెక్చర్ పేరు అవసరం",
+      "nameMinLength": "రోల్ పేరు కనీసం 2 అక్షరాలు ఉండాలి",
+      "nameMaxLength": "రోల్ పేరు 100 అక్షరాలకు మిగులుండకూడదు",
+      "descriptionMaxLength": "డిస్క్రిప్షన్ 500 అక్షరాలకు మిగులుండకూడదు"
+    }
+  },
+  "roleManagement": {
+    "title": "రోల్ మేనేజ్‌మెంట్",
+    "subtitle": "కస్టమ్ యూజర్ రోల్‌లను మేనేజ్ చేయండి మరియు రోల్ ఆర్కిటెక్చర్‌లను అసైన్ చేయండి",
+    "addNewButton": "కొత్త రోల్ జోడించండి",
+    "table": {
+      "slNoHeader": "క్రమ సంఖ్య",
+      "roleHeader": "రోల్",
+      "architectureHeader": "ఆర్కిటెక్చర్",
+      "descriptionHeader": "డిస్క్రిప్షన్",
+      "createdAtHeader": "క్రియేట్ చేసిన సమయం",
+      "actionsHeader": "చర్యలు",
+      "noRolesFound": "కస్టమ్ రోల్‌లు కనుగొనబడలేదు."
+    },
+    "form": {
+      "roleNameLabel": "రోల్ పేరు *",
+      "roleDescriptionLabel": "రోల్ డిస్క్రిప్షన్",
+      "architectureLabel": "రోల్ ఆర్కిటెక్చర్ సిలెక్ట్ చేయండి *",
+      "architecturePlaceholder": "ఆర్కిటెక్చర్ సిలెక్ట్ చేయండి...",
+      "saveChangesButton": "చేసిన మార్పులను సేవ్ చేయండి",
+      "savingButton": "సేవ్ చేస్తున్నాం...",
+      "cancelButton": "రద్దు చేయండి"
+    },
+    "deleteModal": {
+      "title": "డిలీషన్ కన్ఫర్మ్ చేయండి",
+      "message": "మీరు ఖచ్చితంగా ఈ రోల్‌ను డిలీట్ చేయాలనుకుంటున్నారా",
+      "undoWarning": "ఈ చర్య రద్దు చేయబడదు.",
+      "deleteButton": "రోల్‌ను డిలీట్ చేయండి",
+      "cancelButton": "రద్దు చేయండి"
+    },
+    "toasts": {
+      "failedToLoadRoles": "రోల్‌లను లోడ్ చేయడం విఫలమైంది",
+      "failedToLoadArchitectures": "రోల్ ఆర్కిటెక్చర్‌లను లోడ్ చేయడం విఫలమైంది",
+      "createdSuccess": "రోల్ విజయవంతంగా క్రియేట్ చేయబడింది",
+      "updatedSuccess": "రోల్ విజయవంతంగా అప్‌డేట్ చేయబడింది",
+      "createdFailed": "రోల్ క్రియేట్ చేయడం విఫలమైంది",
+      "updatedFailed": "రోల్ అప్‌డేట్ చేయడం విఫలమైంది",
+      "deletedSuccess": "రోల్ విజయవంతంగా డిలీట్ చేయబడింది",
+      "deletedFailed": "రోల్ డిలీట్ చేయడం విఫలమైంది"
+    },
+    "validation": {
+      "nameRequired": "రోల్ పేరు అవసరం",
+      "nameMinLength": "రోల్ పేరు కనీసం 2 అక్షరాలు ఉండాలి",
+      "nameMaxLength": "రోల్ పేరు 100 అక్షరాలను మించకూడదు",
+      "descriptionMaxLength": "డిస్క్రిప్షన్ 500 అక్షరాలను మించకూడదు",
+      "architectureRequired": "రోల్ ఆర్కిటెక్చర్ అవసరం"
+    }
+  },
+  "dashboardManagement": {
+    "title": "డాష్‌బోర్డ్ మేనేజ్‌మెంట్",
+    "subtitle": "మీ రోల్‌లు & పర్మిషన్‌లను మేనేజ్ చేయండి మరియు ఆర్గనైజ్ చేయండి",
+    "backButton": "వెనుకకు",
+    "loading": "పర్మిషన్‌లను లోడ్ చేస్తున్నాం...",
+    "errorPrefix": "ఎర్రర్:",
+    "activePermissions": "యాక్టివ్ పర్మిషన్‌లు:",
+    "dashboardModulesHeader": "డాష్‌బోర్డ్ మాడ్యూల్‌లు",
+    "sidebarModulesHeader": "సైడ్‌బార్ మాడ్యూల్‌లు",
+    "moduleColumn": "మాడ్యూల్",
+    "permissionsColumn": "పర్మిషన్‌లు",
+    "selectAll": "అన్నీ ఎంచుకోండి",
+    "savePermissionsButton": "సేవ్ పర్మిషన్‌లు",
+    "savingButton": "సేవ్ చేస్తున్నాము...",
+    "admin": "యాడ్‌మిన్",
+    "instructor": "ఇన్‌స్ట్రక్టర్",
+    "student": "స్టూడెంట్",
+    "toasts": {
+      "saveSuccess": "పర్మిషన్‌లు విజయవంతంగా సేవ్ చేయబడ్డాయి",
+      "saveFailed": "పర్మిషన్‌లను సేవ్ చేయడం విఫలమైంది"
+    },
+    "roleLabel": "భూమిక",
+    "permissionsSectionTitle": "మాడ్యూల్ అనుమతులు",
+    "selectRoleDisclaimer": "అనుమతులు మార్చాలంటే భూమికను ఎంచుకోండి.",
+    "modulesCount": "{{count}} మాడ్యూల్స్",
+    "sidebarItemsCount": "{{count}} ఐటెమ్స్",
+    "noModulesForRole": "ఈ భూమికకు ఎలాంటి మాడ్యూల్స్ అందుబాటులో లేవు",
+    "teacher": "టీచర్",
+    "toggleDisabled": "ఈ అనుమతి తాత్కాలికంగా అందుబాటులో లేదు",
+    "toggleAlwaysOn": "ఈ టోగుల్‌ను ఆఫ్ చేయడం సాధ్యం కాదు"
+  },
+  "smtpConfiguration": {
+    "title": "SMTP కాన్ఫిగరేషన్",
+    "subtitle": "మీ Simple Mail Transfer Protocol (SMTP) సెట్టింగ్‌లను సెటప్ చేయండి",
+    "backToControl": "యాక్సెస్ కంట్రోల్‌కు తిరిగి వెళ్లండి",
+    "hostLabel": "SMTP హోస్ట్ మరియు పోర్ట్ *",
+    "hostPlaceholder": "ఉదా., mail.example.com:465 లేదా mail1.com:587,mail2.com:587",
+    "securityLabel": "SMTP సెక్యూరిటీ",
+    "securityHelpText": "ఐచ్ఛికం. పోర్ట్ 465 లో SMTPS కోసం 'ssl' ఎంచుకోండి, లేదా పోర్ట్ 587 లో STARTTLS కోసం 'tls' ఎంచుకోండి. ఏమీ లేకుంటే ఖాళీ వదిలివేయండి.",
+    "securityNone": "ఏదీ లేదు",
+    "securitySSL": "SSL",
+    "securityTLS": "TLS",
+    "usernameLabel": "SMTP యూజర్‌నేమ్ *",
+    "usernamePlaceholder": "ఉదా., noreply@example.com",
+    "passwordLabel": "SMTP పాస్‌వర్డ్ *",
+    "noreplyEmailLabel": "నో-రిప్లై ఈమెయిల్ *",
+    "noreplyEmailHelpText": "ఈ ఈమెయిల్ అన్ని ఆటోమేటెడ్ నోటిఫికేషన్‌ల కోసం 'From' అడ్రెస్ గా ఉపయోగించబడుతుంది.",
+    "noreplyDisplayNameLabel": "నో-రిప్లై డిస్‌ప్లే నేమ్ *",
+    "noreplyDisplayNamePlaceholder": "ఉదా., InstructoHub నోటిఫికేషన్‌లు",
+    "noreplyDisplayNameHelpText": "పంపిన వారిగా చూపించిన డిస్‌ప్లే నేమ్",
+    "cancelButton": "రద్దు చేయి",
+    "saveConfigurationButton": "కాన్ఫిగరేషన్ సేవ్ చేయి",
+    "savingButton": "సేవ్ చేస్తున్నాను...",
+    "toasts": {
+      "failedToLoad": "SMTP కాన్ఫిగరేషన్ లోడ్ చేయడం విఫలమైంది",
+      "updateSuccess": "SMTP కాన్ఫిగరేషన్ విజయవంతంగా అప్‌డేట్ చేయబడింది",
+      "updateFailed": "SMTP కాన్ఫిగరేషన్ అప్‌డేట్ చేయడం విఫలమైంది"
+    },
+    "validation": {
+      "hostRequired": "SMTP హోస్ట్ అవసరం",
+      "hostInvalidFormat": "చెల్లని ఫార్మాట్. హోస్ట్:పోర్ట్ లేదా హోస్ట్:పోర్ట్,హోస్ట్2:పోర్ట్2 వాడండి",
+      "securityInvalid": "సిక్యూరిటీ ఖాళీ, ssl, లేదా tls ఉండాలి",
+      "usernameRequired": "SMTP యూజర్‌నేమ్ అవసరం",
+      "usernameMaxLength": "SMTP యూజర్‌నేమ్ 255 అక్షరాలు దాటకూడదు",
+      "passwordRequired": "SMTP పాస్‌వర్డ్ అవసరం",
+      "passwordMaxLength": "SMTP పాస్‌వర్డ్ 255 అక్షరాలు దాటకూడదు",
+      "noreplyEmailRequired": "నో-రిప్లై ఇమెయిల్ అవసరం",
+      "noreplyEmailInvalidFormat": "చెల్లని ఇమెయిల్ ఫార్మాట్",
+      "noreplyEmailMaxLength": "నో-రిప్లై ఇమెయిల్ 255 అక్షరాలు దాటకూడదు",
+      "noreplyDisplayNameRequired": "నో-రిప్లై డిస్‌ప్లే నేమ్ అవసరం",
+      "noreplyDisplayNameMinLength": "నో-రిప్లై డిస్‌ప్లే నేమ్ కనీసం 2 అక్షరాలు ఉండాలి",
+      "noreplyDisplayNameMaxLength": "నో-రిప్లై డిస్‌ప్లే నేమ్ 255 అక్షరాలు దాటకూడదు"
+    }
+  },
+  "accessControlDisplay": {
+    "emailSetupTitle": "ఇమెయిల్ సెట్‌అప్",
+    "emailSetupDescription": "ఇమెయిల్ టెంప్లేట్‌లు మరియు నోటిఫికేషన్ సెట్టింగ్‌లను కాన్ఫిగర్ చేయండి",
+    "smtpConfigurationTitle": "SMTP కాన్ఫిగరేషన్",
+    "smtpConfigurationDescription": "SMTP సర్వర్ క్రెడెన్షియల్‌లు మరియు సెట్టింగ్‌లను కాన్ఫిగర్ చేయండి",
+    "dashboardManagementTitle": "డాష్‌బోర్డ్ మేనేజ్‌మెంట్",
+    "dashboardManagementDescription": "డాష్‌బోర్డ్ మాడ్యూల్‌ల కోసం రోల్‌లు మరియు పర్మిషన్‌లను మేనేజ్ చేయండి",
+    "roleArchitectureManagementTitle": "రోల్ ఆర్కిటెక్చర్ మేనేజ్‌మెంట్",
+    "roleArchitectureManagementDescription": "యూజర్ రోల్‌ల కోసం డిఫాల్ట్ పర్మిషన్ సెట్‌లను మేనేజ్ చేయండి",
+    "roleManagementTitle": "రోల్ మేనేజ్‌మెంట్",
+    "roleManagementDescription": "కస్టమ్ యూజర్ రోల్‌లను మేనేజ్ చేయండి మరియు రోల్ ఆర్కిటెక్చర్‌లను అసైన్ చేయండి"
+  },
+  "customRoleDetail": {
+    "title": "రోల్ కపబిలిటీ కస్టమైజేషన్",
+    "subtitle": "ఈ నిర్దిష్ట రోల్ కోసం అన్ని మాడ్యూల్‌లలో పర్మిషన్‌లను కస్టమైజ్ చేయండి. ఇక్కడ చేసిన మార్పులు రోల్ ఆర్కిటెక్చర్ డిఫాల్ట్‌ను ఓవర్‌రైడ్ చేస్తాయి.",
+    "backButton": "రోల్‌లకు తిరిగి వెళ్లండి",
+    "pageHeader": {
+      "title": "కేపాబిలిటీలను మేనేజ్ చేయండి: {{roleName}}",
+      "subtitle": "కస్టమ్ రోల్ కోసం పర్మిషన్‌లను సెట్ చేయండి (ఆర్కిటెక్చర్: {{architectureName}})",
+      "unknownArchitecture": "తెలియనిది"
+    },
+    "saveCapabilitiesButton": "కేపాబిలిటీలను సేవ్ చేయండి",
+    "savingButton": "సేవ్ చేస్తున్నాము...",
+    "loading": "మాడ్యూల్‌లు మరియు కేపాబిలిటీలను లోడ్ చేస్తున్నాము...",
+    "loadFailed": "డేటాను లోడ్ చేయడం విఫలమైంది.",
+    "emptyState": {
+      "title": "మాడ్యూల్‌లు కనుగొనబడలేదు",
+      "description": "కేపాబిలిటీలను అసైన్ చేయడానికి ముందు దయచేసి మొదట మాడ్యూల్‌లను క్రియేట్ చేయండి",
+      "goToModuleManagementButton": "మాడ్యూల్ మేనేజ్‌మెంట్‌కు వెళ్లండి"
+    },
+    "sections": {
+      "learningActivities": {
+        "title": "లర్నింగ్ ఆక్టివిటీలు",
+        "description": "కోర్స్-లెవల్ ఆక్టివిటీల కోసం వ్యూ, క్రియేట్, ఎడిట్ మరియు డిలీట్ పర్మిషన్‌లను కాన్ఫిగర్ చేయండి."
+      },
+      "tools": {
+        "title": "టూల్‌లు",
+        "description": "కోర్సు టూల్‌ల కోసం దృశ్యమానత (View) ఆకృతీకరణ చేయండి."
+      }
+    },
+    "capabilities": {
+      "create": "క్రియేట్ చేయండి",
+      "read": "వ్యూ చేయండి",
+      "edit": "ఎడిట్ చేయండి",
+      "delete": "డిలీట్ చేయండి",
+      "enabledCount": "ఎనేబల్ చేయబడింది"
+    },
+    "table": {
+      "moduleNameHeader": "మాడ్యూల్ పేరు",
+      "toolNameHeader": "టూల్ పేరు",
+      "moduleHeader": "మాడ్యూల్",
+      "descriptionHeader": "వివరణ",
+      "capabilitiesHeader": "కేపాబిలిటీలు"
+    },
+    "resetModal": {
+      "title": "కేపాబిలిటీలను డిఫాల్ట్‌కు రీసెట్ చేయండి",
+      "message": "మీరు ఖచ్చితంగా అన్ని కేపాబిలిటీలను రీసెట్ చేయాలనుకుంటున్నారా",
+      "message2": "వారి డిఫాల్ట్ సెట్టింగ్‌లకు?",
+      "warning1": "ఇది రోల్ ఆర్కిటెక్చర్ టెమ్‌ప్లేట్‌లో నిర్వచించిన కేపాబిలిటీలను పునరుద్ధరిస్తుంది.",
+      "warning2": "ఏదైనా కస్టమ్ మార్పులు కోల్పోతారు.",
+      "cancelButton": "క్యాన్సిల్",
+      "resettingButton": "రీసెట్ చేస్తున్నా...",
+      "resetToDefaultButton": "డిఫాల్ట్‌కు రీసెట్ చేయి"
+    },
+    "toasts": {
+      "loadError": "రోల్ కెపబిలిటీలను లోడ్ చేయడం విఫలమైంది",
+      "resetSuccess": "{{roleName}} కెపబిలిటీలు డిఫాల్ట్‌కు సంగా రీసెట్ చేయబడ్డాయి!",
+      "resetFailed": "రోల్ కెపబిలిటీలను రీసెట్ చేయడం విఫలమైంది",
+      "updateSuccess": "రోల్ కెపబిలిటీలు సలంగా అప్‌డేట్ చేయబడ్డాయి",
+      "updateFailed": "రోల్ కెపబిలిటీలను అప్‌డేట్ చేయడం విఫలమైంది"
+    }
+  }
+}

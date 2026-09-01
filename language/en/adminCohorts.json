@@ -1,0 +1,248 @@
+{
+  "page": {
+    "title": "Batch Management",
+    "subtitle": "Create and manage user batches",
+    "loading": "Loading batches...",
+    "noDescription": "No description",
+    "emptyMessage": "No batches available. Start by adding a new batch.",
+    "noGroupsFound": "No batches found matching your search criteria"
+  },
+  "emptyState": {
+    "title": "No Batches Yet",
+    "description": "Get started by creating first batch.",
+    "createButton": "Create Batch"
+  },
+  "navigation": {
+    "editCohort": "Edit Batch",
+    "createCohort": "Create New Batch",
+    "deleteCohort": "Delete Batch",
+    "deleteCohorts": "Delete Batches"
+  },
+  "buttons": {
+    "addCohort": "Create Batch",
+    "selectAll": "Select All",
+    "deselectAll": "Deselect All",
+    "deleteSelected": "Delete Batches",
+    "edit": "Edit Batch",
+    "delete": "Delete Batch",
+    "cancel": "Cancel",
+    "create": "Create Batch",
+    "update": "Update Batch",
+    "creating": "Creating...",
+    "updating": "Updating...",
+    "deleting": "Deleting..."
+  },
+  "table": {
+    "headers": {
+      "serialNumber": "S.No",
+      "cohortName": "Batch Name",
+      "idNumber": "ID Number",
+      "description": "Description",
+      "visible": "Visible",
+      "actions": "Actions"
+    },
+    "search": {
+      "placeholder": "Search batches..."
+    },
+    "visible": {
+      "yes": "Yes",
+      "no": "No"
+    },
+    "fallbacks": {
+      "untitledCohort": "Untitled Batch"
+    }
+  },
+  "form": {
+    "labels": {
+      "cohortName": "Batch Name",
+      "idNumber": "ID Number",
+      "description": "Description",
+      "visible": "Visible"
+    },
+    "placeholders": {
+      "cohortName": "Enter batch name",
+      "idNumber": "Enter ID number (optional)",
+      "description": "Enter description (optional)"
+    },
+    "validation": {
+      "cohortNameRequired": "Batch name is required",
+      "cohortNameMinLength": "Batch name must be at least 2 characters",
+      "cohortNameMaxLength": "Batch name must not exceed 200 characters",
+      "idNumberMaxLength": "ID number must not exceed 50 characters",
+      "descriptionMaxLength": "Description must not exceed 1000 characters"
+    },
+    "modes": {
+      "edit": {
+        "title": "Edit Batch",
+        "subtitle": "Update {{cohortName}} information"
+      },
+      "create": {
+        "title": "Create Batch",
+        "subtitle": "Add a new batch to the system"
+      }
+    },
+    "visibility": {
+      "visible": "Visible",
+      "hidden": "Hidden",
+      "visibleDescription": "This batch is visible and available for use.",
+      "hiddenDescription": "This batch is hidden from normal visibility."
+    }
+  },
+  "modals": {
+    "deleteSingle": {
+      "title": "Delete Batch",
+      "warning": "This action cannot be undone",
+      "description": "You are about to permanently delete this batch.",
+      "disclaimer": "Users who were enrolled in courses through this batch will also be unenrolled from those courses.",
+      "listLabel": "Batch details",
+      "confirmation": "Are you sure you want to delete this batch?"
+    },
+    "deleteMultiple": {
+      "title": "Delete Batches",
+      "warning": "This action cannot be undone",
+      "description": "You are about to permanently delete {{count}} batches.",
+      "disclaimer": "Users who were enrolled in courses through these batches will also be unenrolled from those courses.",
+      "listLabel": "Batches to delete ({{count}})",
+      "confirmation": "Are you sure you want to delete {{count}} batches?"
+    },
+    "details": {
+      "name": "Name",
+      "description": "Description",
+      "idNumber": "ID Number"
+    }
+  },
+  "messages": {
+    "success": {
+      "cohortCreated": "Batch created successfully",
+      "cohortUpdated": "Batch updated successfully",
+      "cohortDeleted": "Batch deleted successfully",
+      "cohortsDeleted": "Selected batches deleted successfully"
+    },
+    "error": {
+      "failedToLoad": "Failed to load batches",
+      "failedToCreate": "Failed to create batch",
+      "failedToUpdate": "Failed to update batch",
+      "deleteFailed": "Failed to delete batch",
+      "deleteMultipleFailed": "Failed to delete selected batches",
+      "errorCreating": "An error occurred while creating the batch",
+      "errorUpdating": "An error occurred while updating the batch",
+      "cohortNotFound": "Batch not found"
+    },
+    "warning": {
+      "selectCohortsToDelete": "Please select at least one batch to delete"
+    }
+  },
+  "members": {
+    "title": "Batch Members",
+    "subtitle": "Manage users already added to this batch",
+    "addTitle": "Add User to Batch",
+    "addSubtitle": "Add users who are not yet in this batch",
+    "loading": "Loading batch members...",
+    "empty": "No members added to this batch yet.",
+    "emptyAdd": "No users available to add.",
+    "removed": "Member removed from batch successfully",
+    "added": "Member added to batch successfully",
+    "loadFailed": "Failed to load batch members",
+    "fallbackName": "Batch {{id}}",
+    "userFallback": "User {{id}}",
+    "tabs": {
+      "members": "Members",
+      "courses": "Courses",
+      "ariaLabel": "Batch details"
+    },
+    "buttons": {
+      "addUser": "Add User to Batch",
+      "addCourse": "Add Course",
+      "add": "Add",
+      "remove": "Remove",
+      "addSelected": "Add Selected",
+      "bulkAdd": "Bulk Add",
+      "confirmAdd": "Confirm Add",
+      "adding": "Adding...",
+      "cancelBulk": "Cancel Bulk",
+      "back": "Back"
+    },
+    "table": {
+      "serialNumber": "S.No",
+      "name": "Name",
+      "email": "Email",
+      "action": "Action"
+    },
+    "search": {
+      "members": "Search members...",
+      "users": "Search users...",
+      "noMembers": "No matching members found.",
+      "noUsers": "No matching users found."
+    },
+    "errors": {
+      "removeFailed": "Failed to remove member",
+      "loadUsersFailed": "Failed to load users",
+      "addFailed": "Failed to add member",
+      "addSelectedFailed": "Failed to add selected members"
+    },
+    "selectedAdded": "Selected members added successfully",
+    "bulkResult": "{{added}} added, {{failed}} failed",
+    "noAvailableUsers": "No available users to add."
+  },
+  "courses": {
+    "table": {
+      "serialNumber": "S.No",
+      "name": "Course Name",
+      "shortName": "Short Name",
+      "role": "Enrollment Role"
+    },
+    "search": {
+      "placeholder": "Search courses...",
+      "modalPlaceholder": "Search courses by name or short name...",
+      "noMatches": "No matching courses found."
+    },
+    "empty": "This batch is not assigned to any courses yet.",
+    "loadFailed": "Failed to load assigned courses",
+    "listLoadFailed": "Failed to load courses",
+    "assignFailed": "Failed to assign course",
+    "assigned": "Course added to batch successfully",
+    "addModal": {
+      "title": "Add Course",
+      "description": "Select a course to assign {{groupName}} to.",
+      "loading": "Loading courses...",
+      "allAssigned": "All available courses are already assigned to this batch.",
+      "adding": "Adding..."
+    }
+  },
+  "roles": {
+    "student": "Student",
+    "teacher": "Teacher",
+    "unknown": "-",
+    "modalTitle": "Select Enrollment Role",
+    "addCoursePrompt": "Choose the role for this batch in the selected course.",
+    "assignGroupPrompt": "Choose the role for {{groupName}}.",
+    "confirmAssignment": "Confirm Assignment"
+  },
+  "enrollment": {
+    "description": "Choose a batch to manage for {{courseName}}.",
+    "searchPlaceholder": "Search batches by name or ID number...",
+    "loading": "Loading batches...",
+    "untitled": "Untitled Batch",
+    "groupId": "Batch ID: {{id}}",
+    "assigned": "Assigned",
+    "noMatches": "No matching batches found.",
+    "empty": "No batches available.",
+    "selected": "Selected:",
+    "assignedCourses": "Assigned to courses",
+    "loadingCourses": "Loading courses...",
+    "noCourses": "Not assigned to any course yet.",
+    "courseFallback": "Course {{id}}",
+    "courseId": "Course ID: {{id}}",
+    "remove": "Remove Batch",
+    "assign": "Assign Batch",
+    "removing": "Removing...",
+    "assigning": "Assigning...",
+    "loadFailed": "Failed to load batches",
+    "loadAssignedFailed": "Failed to load assigned batches",
+    "loadCoursesFailed": "Failed to load batch's courses",
+    "assignFailed": "Failed to assign batch",
+    "removeFailed": "Failed to remove batch",
+    "assignedSuccess": "Batch assigned to course successfully",
+    "removedSuccess": "Batch removed from course successfully"
+  }
+}

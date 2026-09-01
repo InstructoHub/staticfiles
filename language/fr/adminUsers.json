@@ -1,0 +1,260 @@
+{
+  "page": {
+    "title": "Gestion des utilisateurs",
+    "subtitle": "Gérez et organisez vos utilisateurs",
+    "createTitle": "Créer un nouvel utilisateur",
+    "createSubtitle": "Ajoutez un nouvel utilisateur ou plusieurs utilisateurs au système",
+    "adminTitle": "Gestion des administrateurs",
+    "adminSubtitle": "Ajoutez ou supprimez des utilisateurs administrateurs du système",
+    "loading": "Chargement des utilisateurs...",
+    "noUsersFound": "Aucun utilisateur ne correspond à votre recherche",
+    "noUsersAvailable": "Aucun utilisateur disponible. Commencez par ajouter un nouvel utilisateur.",
+    "tryAdjustingSearch": "Essayez d'ajuster votre recherche"
+  },
+
+  "navigation": {
+    "createUser": "Créer un utilisateur",
+    "addAdminUsers": "Ajouter des utilisateurs administrateurs",
+    "backToUsers": "Retour aux utilisateurs"
+  },
+
+  "tabs": {
+    "singleUser": "Créer un utilisateur",
+    "bulkUpload": "Téléchargement en masse d'utilisateurs",
+    "addAdmin": "Ajouter utilisateur administrateur",
+    "currentAdmins": "Administrateurs actuels ({{count}})",
+    "currentAdminsNoCount": "Administrateurs actuels"
+  },
+
+  "buttons": {
+    "createUser": "Créer un utilisateur",
+    "addUsers": "Ajouter des utilisateurs",
+    "cancel": "Annuler",
+    "creating": "Création...",
+    "addAdmin": "Ajouter administrateur",
+    "adding": "Ajout...",
+    "removeAdmin": "Supprimer administrateur",
+    "removing": "Suppression...",
+    "deleting": "Suppression...",
+    "deleteUser": "Supprimer utilisateur",
+    "deleteUsers": "Supprimer {{count}} utilisateurs",
+    "deleteSelected": "Supprimer les utilisateurs",
+    "activateUser": "Activer l'utilisateur",
+    "suspendUser": "Suspendre l'utilisateur",
+    "editUser": "Modifier l'utilisateur",
+    "refresh": "Actualiser",
+    "browseFiles": "Parcourir les fichiers",
+    "chooseDifferentImage": "Choisir une image différente",
+    "chooseDifferentFile": "Choisir un fichier différent",
+    "downloadSampleCSV": "Télécharger CSV d'exemple",
+    "uploadCSV": "Télécharger le fichier CSV",
+    "browseForCSV": "Parcourir CSV"
+  },
+
+  "form": {
+    "labels": {
+      "username": "Nom d'utilisateur",
+      "email": "Adresse email",
+      "firstName": "Prénom",
+      "lastName": "Nom de famille",
+      "city": "Ville",
+      "country": "Pays",
+      "profilePicture": "Photo de profil (Optionnel)",
+      "password": "Mot de passe",
+      "searchUsers": "Rechercher les utilisateurs par nom, identifiant, email...",
+      "searchAdminUsers": "Rechercher les utilisateurs administrateurs...",
+      "searchToAdd": "Rechercher les utilisateurs par nom, identifiant ou email...",
+      "uploadCsvFile": "Télécharger le fichier CSV"
+    },
+    "placeholders": {
+      "username": "Entrez le nom d'utilisateur",
+      "email": "Entrez l'adresse email",
+      "firstName": "Entrez le prénom",
+      "lastName": "Entrez le nom de famille",
+      "city": "Entrez la ville",
+      "country": "Sélectionnez un pays",
+      "password": "Entrez le mot de passe",
+      "searchUsers": "Rechercher les utilisateurs par nom, identifiant, email...",
+      "searchAdminUsers": "Rechercher les utilisateurs administrateurs...",
+      "searchToAdd": "Rechercher les utilisateurs par nom, identifiant ou email..."
+    },
+    "validation": {
+      "usernameRequired": "Le nom d'utilisateur est requis",
+      "usernameMinLength": "Le nom d'utilisateur doit contenir au moins 3 caractères",
+      "usernameMaxLength": "Le nom d'utilisateur ne doit pas dépasser 50 caractères",
+      "usernameFormat": "Le nom d'utilisateur ne peut contenir que des lettres minuscules, des chiffres et des traits de soulignement",
+      "emailRequired": "L'email est requis",
+      "emailInvalid": "Veuillez entrer une adresse email valide",
+      "firstNameRequired": "Le prénom est requis",
+      "firstNameMinLength": "Le prénom doit contenir au moins 2 caractères",
+      "firstNameMaxLength": "Le prénom ne doit pas dépasser 50 caractères",
+      "lastNameRequired": "Le nom de famille est requis",
+      "lastNameMinLength": "Le nom de famille doit contenir au moins 2 caractères",
+      "lastNameMaxLength": "Le nom de famille ne doit pas dépasser 50 caractères",
+      "cityMaxLength": "La ville ne doit pas dépasser 50 caractères",
+      "countryMaxLength": "Le pays ne doit pas dépasser 50 caractères",
+      "passwordRequired": "Le mot de passe est requis",
+      "passwordMinLength": "Le mot de passe doit contenir au moins 8 caractères",
+      "passwordDigit": "Le mot de passe doit contenir au moins 1 chiffre",
+      "passwordLowercase": "Le mot de passe doit contenir au moins 1 lettre minuscule",
+      "passwordUppercase": "Le mot de passe doit contenir au moins 1 lettre majuscule",
+      "passwordSpecialChar": "Le mot de passe doit contenir au moins 1 caractère spécial",
+      "usernameTaken": "Ce nom d'utilisateur est déjà utilisé. Veuillez en choisir un autre.",
+      "emailTaken": "Cet email est déjà enregistré. Veuillez utiliser un email différent."
+    },
+    "passwordRequirements": "8+ caractères, 1 chiffre, 1 minuscule, 1 majuscule, 1 caractère spécial"
+  },
+
+  "table": {
+    "headers": {
+      "serialNo": "S.No",
+      "user": "Utilisateur",
+      "username": "Nom d'utilisateur",
+      "email": "Email",
+      "location": "Localisation",
+      "lastAccess": "Dernier accès",
+      "actions": "Actions",
+      "line": "Ligne",
+      "reason": "Raison"
+    },
+    "status": {
+      "suspended": "Suspendu"
+    },
+    "tooltips": {
+      "cannotSuspendSelf": "Vous ne pouvez pas suspendre votre propre compte",
+      "cannotRemoveSelfAdmin": "Vous ne pouvez pas vous supprimer du rôle administrateur",
+      "activateUser": "Activer l'utilisateur",
+      "suspendUser": "Suspendre l'utilisateur",
+      "editUser": "Modifier l'utilisateur",
+      "deleteUser": "Supprimer l'utilisateur",
+      "removeAdminRole": "Supprimer le rôle administrateur"
+    }
+  },
+
+  "imageUpload": {
+    "dragAndDrop": "Déposez une image ici",
+    "or": "ou",
+    "invalidImageFile": "Veuillez sélectionner une image valide.",
+    "uploadFailed": "Échec du téléchargement de la photo de profil."
+  },
+
+  "bulkUpload": {
+    "instructions": "Instructions",
+    "step1": "1. Téléchargez le fichier CSV d'exemple pour voir le format requis.",
+    "step2": "2. Remplissez les détails de l'utilisateur. `username`, `firstname` et `lastname` sont requis.",
+    "step3": "3. Téléchargez le fichier CSV complété ci-dessous et cliquez sur 'Ajouter des utilisateurs'.",
+    "dragAndDropCSV": "Déposez un fichier CSV ici",
+    "selectCSVFile": "Veuillez sélectionner un fichier CSV à télécharger.",
+    "uploadSummary": "Résumé du téléchargement",
+    "usersCreated": "utilisateurs créés avec succès.",
+    "usersFailed": "utilisateurs n'ont pas pu être créés.",
+    "errorDetails": "Détails de l'erreur:",
+    "line": "Ligne",
+    "reason": "Raison",
+    "username": "Nom d'utilisateur"
+  },
+
+  "adminManagement": {
+    "searchingUsers": "Recherche d'utilisateurs...",
+    "noUsersFound": "Aucun utilisateur ne correspond à votre recherche",
+    "foundUsers": "{{count}} utilisateur(s) trouvé(s) correspondant à votre recherche",
+    "startTypingToSearch": "Commencez à taper pour rechercher des utilisateurs à ajouter comme administrateur",
+    "totalAdminUsers": "Total des utilisateurs administrateurs: {{count}}",
+    "loadingAdminUsers": "Chargement des utilisateurs administrateurs...",
+    "noAdminUsers": "Aucun utilisateur administrateur trouvé",
+    "apiConfigIssue": "Cela pourrait indiquer un problème de configuration API. Vérifiez la console pour plus de détails.",
+    "noAdminUsersMatch": "Aucun utilisateur administrateur ne correspond à votre recherche"
+  },
+
+  "modals": {
+    "deleteUser": {
+      "title": "Supprimer l'utilisateur",
+      "titleMultiple": "Supprimer plusieurs utilisateurs",
+      "warning": "Avertissement: Cette action ne peut pas être annulée",
+      "description": "La suppression de cet utilisateur supprimera définitivement toutes les données et accès associés.",
+      "descriptionMultiple": "La suppression de ces {{count}} utilisateurs supprimera définitivement toutes les données et accès associés.",
+      "listLabel": "Utilisateur à supprimer:",
+      "listLabelMultiple": "Utilisateurs à supprimer ({{count}}):",
+      "confirmation": "Êtes-vous absolument sûr de vouloir supprimer cet utilisateur? Cette action ne peut pas être annulée.",
+      "confirmationMultiple": "Êtes-vous absolument sûr de vouloir supprimer ces {{count}} utilisateurs? Cette action ne peut pas être annulée.",
+      "details": {
+        "name": "Nom:",
+        "username": "Nom d'utilisateur:",
+        "email": "Email:",
+        "location": "Localisation:"
+      }
+    },
+    "addAdmin": {
+      "title": "Ajouter utilisateur administrateur",
+      "confirmation": "Confirmer l'ajout d'administrateur",
+      "description": "Cela accordera des privilèges administrateur à l'utilisateur sélectionné.",
+      "listLabel": "Utilisateur à ajouter comme administrateur:",
+      "confirmationText": "Êtes-vous sûr de vouloir ajouter cet utilisateur comme administrateur? Il aura des privilèges administratifs.",
+      "details": {
+        "fullName": "Nom complet:",
+        "email": "Email:"
+      }
+    },
+    "removeAdmin": {
+      "title": "Supprimer l'utilisateur administrateur",
+      "confirmation": "Confirmer la suppression d'administrateur",
+      "description": "Cela révoquer les privilèges administrateur de l'utilisateur sélectionné.",
+      "listLabel": "Utilisateur à supprimer du rôle administrateur:",
+      "confirmationText": "Êtes-vous sûr de vouloir supprimer cet utilisateur du rôle administrateur? Il perdra les privilèges administratifs.",
+      "details": {
+        "fullName": "Nom complet:",
+        "email": "Email:"
+      }
+    }
+  },
+
+  "messages": {
+    "success": {
+      "userCreated": "Utilisateur créé avec succès",
+      "usersDeleted": "{{count}} utilisateur(s) supprimé(s) avec succès",
+      "userDeleted": "Utilisateur supprimé avec succès",
+      "userSuspended": "Utilisateur suspendu avec succès",
+      "userActivated": "Utilisateur activé avec succès",
+      "adminAdded": "{{userName}} a été ajouté comme administrateur avec succès",
+      "adminRemoved": "{{userName}} a été supprimé du rôle administrateur avec succès",
+      "allUsersCreated": "Tous les utilisateurs créés avec succès! Total: {{totalCreated}}",
+      "bulkUploadPartial": "Traité avec {{totalErrors}} erreur(s). {{totalCreated}} utilisateurs créés."
+    },
+    "error": {
+      "failedToFetchUsers": "Échec du chargement des utilisateurs",
+      "failedToCreateUser": "Échec de la création de l'utilisateur",
+      "userCreationFailed": "Création de l'utilisateur échouée",
+      "failedToDeleteUsers": "Échec de la suppression de l'utilisateur",
+      "failedToSuspendUser": "Échec de la suspension de l'utilisateur",
+      "failedToActivateUser": "Échec de l'activation de l'utilisateur",
+      "cannotSuspendSelf": "Vous ne pouvez pas suspendre votre propre compte",
+      "cannotRemoveSelfAdmin": "Vous ne pouvez pas vous supprimer du rôle administrateur",
+      "failedToFetchAdminUsers": "Échec du chargement des utilisateurs administrateurs",
+      "failedToSearchUsers": "Échec de la recherche d'utilisateurs",
+      "failedToAddAdmin": "Échec de l'ajout de l'utilisateur comme administrateur",
+      "failedToRemoveAdmin": "Échec de la suppression de l'utilisateur du rôle administrateur",
+      "bulkUploadError": "Une erreur inattendue s'est produite lors du téléchargement en masse.",
+      "usernameAlreadyExists": "Ce nom d'utilisateur existe déjà. Veuillez en choisir un autre.",
+      "emailAlreadyRegistered": "Cet email est déjà enregistré. Veuillez utiliser un email différent.",
+      "invalidCsvFile": "Veuillez sélectionner un fichier .csv valide.",
+      "selectCsvToUpload": "Veuillez sélectionner un fichier CSV à télécharger.",
+      "uploadCsvNoId": "Échec du téléchargement du fichier CSV. Aucun ID d'article valide reçu.",
+      "noResponseBulk": "Aucune réponse reçue de l'API de téléchargement en masse."
+    },
+    "warning": {
+      "selectUsersToDelete": "Veuillez sélectionner les utilisateurs à supprimer"
+    }
+  },
+
+  "status": {
+    "loading": "Chargement...",
+    "creating": "Création...",
+    "deleting": "Suppression...",
+    "processing": "Traitement...",
+    "searching": "Recherche...",
+    "uploading": "Téléchargement...",
+    "active": "Actif",
+    "inactive": "Inactif",
+    "suspended": "Suspendu"
+  }
+}

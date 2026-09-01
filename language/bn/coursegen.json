@@ -1,0 +1,205 @@
+{
+  "stepper": {
+    "courseDetails": "কোর্সের বিস্তারিত",
+    "contentPreference": "আপনার কনটেন্ট আপলোড করুন",
+    "moduleCreation": "মডিউল তৈরি",
+    "defineStructure": "গঠন নির্ধারণ করুন",
+    "reviewPrompts": "পর্যালোচনা প্রম্পট",
+    "courseReview": "কোর্স পর্যালোচনা"
+  },
+  "pageHeader": {
+    "backButtonTitle": "পূর্ববর্তী ধাপে ফিরে যান",
+    "resetButtonTitle": "প্রাথমিক অবস্থায় রিসেট করুন"
+  },
+  "pageActions": {
+    "save": "সংরক্ষণ করুন",
+    "saveAndContinue": "সংরক্ষণ করুন এবং চালিয়ে যান"
+  },
+  "contentPreference": {
+    "uploadingText": "আপলোড হচ্ছে..."
+  },
+  "uploadFiles": {
+    "title": "আপনার কনটেন্ট আপলোড করুন",
+    "description": "আপনার কোর্স কনটেন্ট তৈরি করতে কিভাবে শুরু করতে চান আমাকে জানান",
+    "uploadTitle": "সোর্স আপলোড করুন",
+    "dragDropText": "ড্র্যাগ ও ড্রপ করুন অথবা ফাইল নির্বাচন করুন",
+    "supportedFilesText": "সমর্থিত ফাইলের ধরন: PDF, HTML, MP4",
+    "selectedFilesLabel": "নির্বাচিত ফাইল:",
+    "sourceLimitLabel": "সোর্স সীমা",
+    "continueButtonText": "চালিয়ে যান",
+    "errors": {
+      "unsupportedFiles": "ফাইল(গুলি) সমর্থিত ধরনের নয় সমর্থিত: PDF, HTML, MP4",
+      "maxFilesExceeded": "সর্বাধিক {{max}} ফাইল অনুমোদিত",
+      "fileSizeExceeded": "মোট ফাইল আকার ১ জিবি সীমা অতিক্রম করেছে",
+      "noFilesSelected": "চালিয়ে যাওয়ার জন্য অন্তত একটি ফাইল নির্বাচন করুন",
+      "uploadFailed": "ফাইল আপলোড করতে ব্যর্থ হয়েছে",
+      "NotReadable": "আপলোড করা ফাইলগুলি পড়া যায়নি দয়া করে এটি মুছে ফেলুন এবং আবার চেষ্টা করুন"
+    },
+    "alerts": {
+      "loadState": {
+        "title": "আপনি আপনার শেষ খসড়া অসম্পূর্ণ রেখেছেন আপনি কি যেখানে থেমেছিলেন সেখান থেকে শুরু করতে চান নাকি নতুন করে শুরু করতে চান?",
+        "confirmText": "পুনরায় শুরু করুন",
+        "cancelText": "পুনরায় শুরু করুন"
+      }
+    },
+    "tooltips": {
+      "uploadInfo": "আপনি PDF, HTML, বা MP4 ফাইল আপলোড করতে পারেন",
+      "fileSizeInfo": "সর্বাধিক মোট ফাইল আকার ১ জিবি"
+    }
+  },
+  "createModules": {
+    "title": "মডিউলের সংখ্যা নির্বাচন করুন",
+    "description": "আপনি আপনার কোর্সের জন্য কতটি মডিউল তৈরি করতে চান তা নির্দিষ্ট করুন",
+    "moduleLabel": "মডিউল:",
+    "errors": {
+      "saveFailed": "মডিউল সংখ্যা সংরক্ষণ করতে ব্যর্থ হয়েছে আবার চেষ্টা করুন",
+      "networkError": "নেটওয়ার্ক ত্রুটি আপনার সংযোগ পরীক্ষা করুন"
+    },
+    "tooltips": {
+      "moduleInfo": "আপনি ১ থেকে ৮ মডিউল তৈরি করতে পারেন"
+    },
+    "promptLabel": "প্রাথমিক প্রম্পট:",
+    "promptPlaceholder": "মডিউল তৈরিতে গাইড করার জন্য একটি প্রাথমিক প্রম্পট দিন (ঐচ্ছিক)"
+  },
+  "defineStructure": {
+    "quickTips": "দ্রুত টিপস",
+    "title": "গঠন নির্ধারণ করুন",
+    "description": "মডিউল তৈরি করে এবং শেখার উপকরণ যোগ করে আপনার কোর্সের গঠন ডিজাইন করুন",
+    "learningObjectsTitle": "শেখার উপকরণ",
+    "quickTipsText": "মডিউলগুলি পুনর্বিন্যাস করতে টেনে আনুন ডান প্যানেল থেকে মডিউলে শেখার উপকরণ টেনে আনুন এবং ফেলুন",
+    "addModuleButton": "মডিউল যোগ করুন",
+    "dragDropText": "এখানে শেখার উপকরণ টেনে আনুন এবং ফেলুন",
+    "noDataTitle": "কোনও তথ্য পাওয়া যায়নি",
+    "noDataContent": "প্রদর্শনের জন্য কোনও আইটেম নেই",
+    "modulePlaceholder": "এখানে শিরোনাম লিখুন",
+    "moduleContentPlaceholder": "এখানে বিষয়বস্তু যোগ করুন",
+    "learningObjects": {
+      "moduleIntroduction": "মডিউল পরিচিতি",
+      "learningObjectives": "শেখার উদ্দেশ্য",
+      "readingMaterial": "পড়ার উপকরণ",
+      "assignment": "অ্যাসাইনমেন্ট",
+      "discussionForum": "আলোচনা ফোরাম",
+      "caseStudy": "কেস স্টাডি",
+      "experiments": "পরীক্ষা",
+      "learningOutcomes": "শিখনের ফলাফল"
+    },
+    "errors": {
+      "titleRequired": "শিরোনাম ক্ষেত্র আবশ্যক",
+      "noLearningObjects": "দয়া করে সমস্ত মডিউলে শেখার উপকরণ যোগ করুন",
+      "lo_Required": "শিখনের ফলাফল ফিল্ডটি অবশ্যই পূরণ করতে হবে"
+    },
+    "alerts": {
+      "confirm": {
+        "title": "আপনার কোর্সটি চমৎকারভাবে গঠন হচ্ছে! আমি কি এগিয়ে যেতে পারি?",
+        "confirmText": "হ্যাঁ"
+      }
+    },
+    "tooltips": {
+      "dragModules": "মডিউলগুলি পুনর্বিন্যাস করতে ক্লিক করুন এবং টেনে আনুন",
+      "dragObjects": "ডান প্যানেল থেকে লার্নিং অবজেক্টগুলো মডিউলে ড্র্যাগ করুন"
+    }
+  },
+  "reviewPrompts": {
+    "title": "রিভিউ প্রম্পটস",
+    "description": "আপনার মডিউল কনটেন্ট রিভিউ এবং পরিশোধন করুন",
+    "moduleStructure": "প্রস্তাবিত মডিউল স্ট্রাকচার",
+    "quickTipsText": "মডিউল নাম এবং বর্ণনা পরিবর্তন করতে এডিট বোতামে ক্লিক করুন সেভ বোতামে ক্লিক করলে সব পরিবর্তন স্বয়ংক্রিয়ভাবে সেভ হবে",
+    "addButton": "যোগ করুন",
+    "moduleNamePlaceholder": "মডিউল নাম লিখুন",
+    "titlePlaceholder": "শিরোনাম লিখুন",
+    "promptPlaceholder": "প্রম্পট লিখুন",
+    "untitledContent": "শিরোনামহীন কনটেন্ট",
+    "titleText": "শিরোনাম",
+    "promptText": "প্রম্পট",
+    "addDropdown": {
+      "page": "পেজ",
+      "assignment": "অ্যাসাইনমেন্ট",
+      "forum": "ফোরাম"
+    },
+    "contentTypes": {
+      "page": "পেজ",
+      "assignment": "অ্যাসাইনমেন্ট",
+      "forum": "ফোরাম"
+    },
+    "noContentMessage": "এখনো কোনো কনটেন্ট আইটেম নেই একটি তৈরি করতে 'যোগ করুন' ক্লিক করুন",
+    "errors": {
+      "moduleNameRequired": "মডিউল নামের ক্ষেত্রটি আবশ্যক",
+      "titleRequired": "শিরোনামের ক্ষেত্রটি আবশ্যক",
+      "promptRequired": "প্রম্পটের ক্ষেত্রটি আবশ্যক"
+    },
+    "alerts": {
+      "confirm": {
+        "title": "আপনার সব মডিউলে পরিবর্তন করেছেন কিনা নিশ্চিত করুন আমি কি এগিয়ে যেতে পারি?",
+        "confirmText": "হ্যাঁ"
+      }
+    },
+    "tooltips": {
+      "editInfo": "মডিউল নাম এবং বর্ণনা সম্পাদনা করতে ক্লিক করুন"
+    }
+  },
+  "courseReview": {
+    "title": "কোর্স রিভিউ",
+    "description": "আপনার কোর্স কনটেন্টের চূড়ান্ত রিভিউ",
+    "addTitleHere": "এখানে শিরোনাম যোগ করুন",
+    "addContentHere": "এখানে কনটেন্ট যোগ করুন",
+    "noDataTitle": "কোনো ডেটা পাওয়া যায়নি",
+    "noDataContent": "দেখানোর জন্য কোনো আইটেম নেই",
+    "regenerateButton": "পুনরায় তৈরি করুন",
+    "saveChangesButton": "পরিবর্তন সংরক্ষণ করুন",
+    "createCourseButton": "এগিয়ে যান এবং কোর্স তৈরি করুন",
+    "contentTypes": {
+      "page": "পৃষ্ঠা",
+      "assignment": "অ্যাসাইনমেন্ট",
+      "forum": "ফোরাম"
+    },
+    "errors": {
+      "moduleNameRequired": "মডিউল নামের ক্ষেত্রটি আবশ্যক",
+      "titleRequired": "শিরোনামের ক্ষেত্রটি আবশ্যক",
+      "contentRequired": "বিষয়ের ক্ষেত্রটি আবশ্যক"
+    },
+    "alerts": {
+      "confirm": {
+        "title": "আমি কেবল কৃত্রিম, কিন্তু আপনি আসল বিশেষজ্ঞ! আপনার দৃষ্টি, আপনার প্রতিভা—আমি কি এটি জীবন্ত করতে পারি?",
+        "confirmText": "হ্যাঁ"
+      }
+    },
+    "regeneratePrompt": {
+      "title": "বিষয় পুনরায় তৈরি করুন",
+      "submitButton": "জমা দিন",
+      "cancelButton": "বাতিল করুন"
+    },
+    "tooltips": {
+      "regenerateInfo": "নতুন প্রম্পট দিয়ে এই বিষয়টি পুনরায় তৈরি করুন"
+    }
+  },
+  "commonMessages": {
+    "success": {
+      "saved": "রাষ্ট্র সফলভাবে সংরক্ষিত হয়েছে",
+      "uploadSuccess": "সফলভাবে আপলোড হয়েছে",
+      "moduleSuccess": "মডিউলগুলি সফলভাবে তৈরি হয়েছে"
+    },
+    "error": {
+      "somethingWrong": "কিছু ভুল হয়েছে আবার চেষ্টা করুন",
+      "dataNosave": "ডেটা সংরক্ষিত হয়নি আবার চেষ্টা করুন!"
+    },
+    "alerts": {
+      "backConfirm": {
+        "title": "পেছনে যাওয়া অগ্রগতি বাতিল করবে আপনি কি এগিয়ে যেতে চান?",
+        "confirmText": "হ্যাঁ",
+        "cancelText": "না"
+      },
+      "resetConfirm": {
+        "title": "আপনি কি নিশ্চিত যে আপনি শূন্য থেকে শুরু করতে চান?",
+        "confirmText": "হ্যাঁ",
+        "cancelText": "না"
+      }
+    }
+  },
+  "shared": {
+    "moduleLabel": "মডিউল"
+  },
+  "alerts": {
+    "resetConfirm": "আপনার সমস্ত মডিউলে পরিবর্তন করেছেন কিনা তা নিশ্চিত করুন আমি কি এগিয়ে যেতে পারি?",
+    "confirmText": "হ্যাঁ"
+  }
+}

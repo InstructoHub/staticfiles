@@ -1,0 +1,46 @@
+{
+  "title": "कॅलेंडर",
+  "subtitle": "आपल्या वेळापत्रक आणि इव्हेंट्स व्यवस्थापित करा.",
+  "navigation": {
+    "previousMonth": "मागील महिना",
+    "nextMonth": "पुढील महिना",
+    "backToMonth": "मासिक व्ह्यूकडे परत जा"
+  },
+  "search": {
+    "placeholder": "इव्हेंट्स शोध",
+    "ariaLabel": "इव्हेंट्स शोध"
+  },
+  "filter": {
+    "ariaLabel": "इव्हेंट प्रकारानुसार फिल्टर करा",
+    "options": {
+      "all": "सर्व प्रकार",
+      "assignment": "असाइनमेंट",
+      "quiz": "क्विज",
+      "discussion": "चर्चा",
+      "meeting": "बैठक",
+      "project": "प्रकल्प"
+    }
+  },
+  "days": {
+    "sun": "रवि",
+    "mon": "सोम",
+    "tue": "मंगळ",
+    "wed": "बुध",
+    "thu": "गुरु",
+    "fri": "शुक्र",
+    "sat": "शनि"
+  },
+  "grid": {
+    "dayAriaLabel": "दिन {{day}}",
+    "moreEvents": "+ {{count}} अधिक"
+  },
+  "events": {
+    "title": "इव्हेंट्स",
+    "viewButton": "पाहा",
+    "noEvents": "या दिवसासाठी कोणतेही इव्हेंट नाहीत.",
+    "selectDay": "इव्हेंट्स पाहण्यासाठी दिवस निवडा.",
+    "eventCount": "{{count}} इव्हेंट",
+    "eventCount_plural": "{{count}} इव्हेंट्स"
+  },
+  "loadingcalendar": "कॅलेंडर लोड करत आहे..."
+}

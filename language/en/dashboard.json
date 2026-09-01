@@ -1,0 +1,416 @@
+{
+  "header": {
+    "greetings": {
+      "morning": "Good morning",
+      "afternoon": "Good afternoon",
+      "evening": "Good evening"
+    }
+  },
+  "adminNoCourseBanner": {
+    "title": "Bring your first course to life with AI",
+    "description": "Create a course, invite learners, and turn this empty dashboard into a living learning space.",
+    "createButton": "Start your journey",
+    "spotlightHint": "Click here to create your first course and start building your learning catalog.",
+    "cancel": "Cancel"
+  },
+  "studentNoEnrollmentBanner": {
+    "title": "Welcome to your learning space",
+    "description": "You are not enrolled in any courses yet. Browse the course catalog to discover learning opportunities and get started.",
+    "browseButton": "Browse Course Catalog"
+  },
+  "home": {
+    "edit": "Personalize Your Dashboard",
+    "save": "Save Layout",
+    "dragToReposition": "Drag to reposition",
+    "dragModeClickHint": "Drag widgets to move them.",
+    "dropItems": "Drop items here",
+    "layoutSave": "Layout saved successfully",
+    "errorSaveDashboard": "Error saving the dashboard layout",
+    "dashboardLoading": "Loading Dashboard...",
+    "emptyDashboard": {
+      "title": "You have no permissions to view any dashboard blocks.",
+      "description": "Contact your administrator for access to dashboard components."
+    }
+  },
+  "continLearning": {
+    "title": "My Courses",
+    "buttonDescription": "View My Courses",
+    "emptyState": {
+      "noTeacherCourses": "No Teacher Courses",
+      "noStudentCourses": "No Student Courses",
+      "noEnrolledCourses": "No Enrolled Courses",
+      "noCoursesAvailable": "No Courses Available",
+      "teacherDescription": "You don't have any courses where you are enrolled as a teacher.",
+      "studentDescription": "You don't have any courses where you are enrolled as a student.",
+      "adminDescription": "You are not enrolled in any courses yet.",
+      "generalDescription": "Enroll in courses to start your learning journey.",
+      "browseCourses": "Browse Courses"
+    },
+    "viewAll": {
+      "title": "View All My Courses",
+      "subtitle": "Go to My Courses"
+    }
+  },
+  "allCourses": {
+    "title": "All Courses",
+    "buttonDescription": "View All Courses",
+    "emptyState": {
+      "title": "No Courses Yet",
+      "description": "There are no courses available at the moment.",
+      "adminDescription": "Get started by creating first course.",
+      "button": "Browse Courses",
+      "createButton": "Create Course"
+    },
+    "viewAll": {
+      "title": "Explore All Courses",
+      "subtitle": "View All Courses"
+    }
+  },
+  "keyMetrics": {
+    "title": "Your Learning Metrics",
+    "totalCourse": "Enrolled Courses",
+    "notStarted": "Not Started",
+    "inProcess": "In progress",
+    "completed": "Completed",
+    "emptyState": {
+      "title": "No Courses Available",
+      "description": "Enroll in courses to start your learning journey."
+    }
+  },
+  "teachingMetrics": {
+    "title": "Teaching Metrics",
+    "totalCourses": "Total Courses",
+    "totalStudents": "Total Students",
+    "pendingGrading": "Pending Grading",
+    "avgGrade": "Average Grade"
+  },
+  "gradingStatus": {
+    "title": "Grading Status",
+    "totalAssignments": "Total Assignments",
+    "totalSubmissions": "Total Submissions",
+    "pendingGrading": "Pending Grading",
+    "pendingSubmissions": "Pending Submissions"
+  },
+  "platformMetrics": {
+    "title": "Platform Metrics",
+    "totalCourses": "Total Courses",
+    "totalUsers": "Total Users",
+    "activeEnrollments": "Active Enrollments",
+    "platformActivity": "Platform Activity",
+    "card view": "Card View",
+    "list view": "List View"
+  },
+  "quickActions": {
+    "title": "Quick Actions",
+    "assignments": "Assignments",
+    "quiz": "Quiz",
+    "certificate": "Certificate",
+    "discussions": "Discussions"
+  },
+  "recentActivity": {
+    "title": "Recent Activity",
+    "seeAllActivity": "See All Activity",
+    "showLess": "Show Less",
+    "noActivity": "No activity found. Check back later!",
+    "description": "Your recent activities will appear here"
+  },
+  "recommendedCourses": {
+    "title": "Trending Courses For You",
+    "noSummaryMessage": "Oops! No description here yet — stay tuned!",
+    "buttonDesc": "View Course Details",
+    "students": "Enrolled",
+    "views": "Views",
+    "enrollmentType": {
+      "enrolled": "Enrolled",
+      "locked": "Locked",
+      "selfEnroll": "Self-Enroll"
+    },
+    "emptyState": {
+      "title": "No Recommended Courses",
+      "categoryDescription": "No courses found in this category. Try browsing other categories or explore all available courses.",
+      "generalDescription": "No trending courses available at the moment. Browse our course catalog to discover learning opportunities.",
+      "button": "Browse All Courses"
+    }
+  },
+  "upcomingEvents": {
+    "title": "Upcoming Events",
+    "noEvents": "There are currently no upcoming events",
+    "description": "No upcoming events at the moment"
+  },
+  "todaysTeachingSummary": {
+    "title": "Teacher summary",
+    "totalClasses": "Total Classes",
+    "completedClasses": "Completed Classes",
+    "pendingClasses": "Pending Classes"
+  },
+  "studentSummary": {
+    "title": "My Learning Summary",
+    "tabs": {
+      "assignments": "Assignments",
+      "quizzes": "Quizzes",
+      "forums": "Discussions",
+      "liveSessions": "Live Sessions"
+    },
+    "dateRanges": {
+      "today": "Today",
+      "week": "Next 7 Days",
+      "month": "Next 30 Days",
+      "custom": "Custom"
+    },
+    "assignments": {
+      "dueSoon": "Due Soon",
+      "recentlySubmitted": "Recently Submitted",
+      "noAssignmentsDue": "No assignments due soon",
+      "noRecentSubmissions": "No recent submissions",
+      "notSubmitted": "Not Submitted",
+      "awaitingGrade": "Awaiting Grade",
+      "graded": "Graded",
+      "grade": "Grade"
+    },
+    "emptyStates": {
+      "quizzes": "No upcoming quizzes",
+      "forums": "No discussions need attention",
+      "liveSessions": "No live sessions scheduled"
+    },
+    "footer": {
+      "item": "item",
+      "items": "items",
+      "updated": "Updated"
+    },
+    "validation": {
+      "endDateBeforeStart": "End date cannot be before start date"
+    },
+    "config": {
+      "title": "Customize your summary view preferences:",
+      "options": [
+        "Choose date ranges to filter your tasks",
+        "View assignments by due date or submission status",
+        "Track upcoming quizzes and exams"
+      ]
+    }
+  },
+  "teacherSummary": {
+    "title": "Teaching Summary",
+    "tabs": {
+      "assignments": "Assignments",
+      "forums": "Discussions",
+      "liveSessions": "Live Sessions",
+      "quizzes": "Quizzes"
+    },
+    "dateRanges": {
+      "today": "Today",
+      "week": "Next 7 Days",
+      "month": "Next 30 Days",
+      "custom": "Custom"
+    },
+    "assignments": {
+      "dueSoon": "Due Soon",
+      "pendingGrading": "Pending Grading",
+      "noAssignmentsDue": "No assignments due soon",
+      "allCaughtUp": "All caught up!",
+      "pending": "pending"
+    },
+    "quizzes": {
+      "dueSoon": "Due Soon",
+      "pendingGrading": "Pending Grading",
+      "noQuizzesDue": "No quizzes due soon",
+      "allCaughtUp": "All caught up!",
+      "pending": "pending"
+    },
+    "forums": {
+      "dueSoon": "Due Soon",
+      "noForumsDue": "No discussions due soon",
+      "allCaughtUp": "All caught up!",
+      "pending": "pending"
+    },
+    "emptyStates": {
+      "forums": "No discussions need attention",
+      "liveSessions": "No live sessions scheduled",
+      "quizzes": "No quizzes need attention"
+    },
+    "footer": {
+      "item": "item",
+      "items": "items",
+      "updated": "Updated"
+    },
+    "validation": {
+      "endDateBeforeStart": "End date cannot be before start date"
+    }
+  },
+  "studentList": {
+    "title": "All Students",
+    "totalStudents": "Total Students present in",
+    "courses": "courses",
+    "loading": "Loading students...",
+    "loadingCourses": "Loading your courses...",
+    "emptyStates": {
+      "noCourses": "No Courses Found",
+      "noCoursesDescription": "You are not enrolled in any courses as a teacher.",
+      "noStudents": "No students are enrolled in this course."
+    },
+    "errors": {
+      "loadingCourses": "Error Loading Courses",
+      "failedToLoad": "Failed to load courses"
+    }
+  },
+  "assignments": {
+    "title": "Assignments",
+    "header": {
+      "assignmentsText": "assignments in",
+      "coursesText": "courses",
+      "pendingText": "You have",
+      "pendingSingular": "pending assignment",
+      "pendingPlural": "pending assignments",
+      "needGradingText": "need grading",
+      "needGradingSingular": "assignment",
+      "needGradingPlural": "assignments",
+      "noNeedGrading": "No assignments need grading."
+    },
+    "emptyState": {
+      "title": "No Assignments Available",
+      "description": "There are no courses with assignments at the moment."
+    },
+    "courseLevel": {
+      "graded": "Graded",
+      "submitted": "Submitted",
+      "total": "Total",
+      "needGrading": "need grading",
+      "allGraded": "All graded ✓",
+      "noSubmissions": "No submissions"
+    },
+    "assignmentLevel": {
+      "graded": "Graded",
+      "submitted": "Submitted",
+      "notStarted": "Not Started",
+      "noStatus": "No Status"
+    },
+    "status": {
+      "graded": "Graded",
+      "submitted": "Submitted",
+      "notStarted": "Not Started"
+    },
+    "dueDate": {
+      "noDueDate": "No Due Date"
+    },
+    "errors": {
+      "loadingCourses": "Error Loading Courses",
+      "failedToLoad": "Failed to load courses"
+    }
+  },
+  "forums": {
+    "title": "Forums",
+    "header": {
+      "forumsText": "forums in",
+      "coursesText": "courses"
+    },
+    "emptyState": {
+      "title": "No Forums Available",
+      "description": "There are no forums available at the moment."
+    },
+    "courseLevel": {
+      "forumSingular": "forum",
+      "forumPlural": "forums"
+    },
+    "postCount": {
+      "postSingular": "post",
+      "postPlural": "posts"
+    },
+    "errors": {
+      "loadingForums": "Error Loading Forums",
+      "failedToLoad": "Failed to load forums"
+    }
+  },
+  "quizzes": {
+    "title": "Quizzes",
+    "header": {
+      "quizzesText": "quizzes in",
+      "coursesText": "courses",
+      "pendingText": "You have",
+      "pendingSingular": "pending quiz",
+      "pendingPlural": "pending quizzes"
+    },
+    "emptyState": {
+      "title": "No Quizzes Available",
+      "description": "There are no courses with quizzes at the moment."
+    },
+    "courseLevel": {
+      "graded": "Graded",
+      "submitted": "Submitted",
+      "total": "Total",
+      "needGrading": "need grading",
+      "allGraded": "All graded ✓",
+      "noSubmissions": "No submissions"
+    },
+    "quizLevel": {
+      "graded": "Graded",
+      "submitted": "Submitted"
+    },
+    "status": {
+      "graded": "Graded",
+      "submitted": "Submitted",
+      "inProgress": "In Progress",
+      "notAttempted": "Not Attempted",
+      "completed": "Completed",
+      "noStatus": "No Status"
+    },
+    "dueDate": {
+      "dueLabel": "Due:",
+      "noDueDate": "No Due Date"
+    },
+    "loading": "Loading your quizzes...",
+    "errors": {
+      "loadingCourses": "Error Loading Courses",
+      "failedToLoad": "Failed to load courses"
+    }
+  },
+  "certificates": {
+    "title": "My Certificates",
+    "header": {
+      "earnedText": "You have earned",
+      "certificateSingular": "certificate",
+      "certificatePlural": "certificates"
+    },
+    "emptyState": {
+      "title": "No Certificates Earned Yet",
+      "description": "Complete a course to 100% to earn your certificate."
+    },
+    "loading": "Loading your certificates...",
+    "errors": {
+      "loadingCourses": "Error Loading Courses",
+      "failedToLoad": "Failed to load courses"
+    }
+  },
+  "assignmentForm": {
+    "fields": {
+      "additionalFile": "Additional File",
+      "additionalFileDescription": "Upload a reference material or additional resource for this assignment"
+    },
+    "validation": {
+      "allowSubmissionsFromDateRequired": "Please enter a valid date",
+      "allowSubmissionsFromAfterDue": "Allow Submissions From must be before Due Date",
+      "availabilityAfterDue": "Allow Submissions From must be before Due Date",
+      "dueDateRequired": "Please enter a valid due date",
+      "dueDateInPast": "Due date cannot be in the past",
+      "dueDateBeforeAllowFrom": "Due date must be after Allow Submissions From date"
+    }
+  },
+  "rubric": {
+    "deleteConfirmTitle": "Delete Rubric?",
+    "deleteConfirm": "This assignment currently has a rubric. Switching to score-based grading will delete the rubric. Do you want to continue?",
+    "selectTemplate": "Select template",
+    "criterionRow": {
+      "editDescription": "Edit description",
+      "removeCriterion": "Remove criterion",
+      "editRating": "Edit rating",
+      "removeRating": "Remove rating",
+      "addRatingHere": "Add rating here"
+    },
+    "confirmDeleteCriterion": {
+      "title": "Delete Criterion",
+      "message": "Are you sure you want to delete the criterion \"{{name}}\"? This will remove all its ratings too."
+    },
+    "builder": {
+      "totalPointsHint": "Edit to redistribute all criteria proportionally"
+    }
+  }
+}

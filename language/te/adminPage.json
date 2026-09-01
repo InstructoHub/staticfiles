@@ -1,0 +1,67 @@
+{
+  "title": "అడ్మిన్ పానల్",
+  "navigation": {
+    "courses": "మేనేజ్ కోర్సులు",
+    "categories": "మేనేజ్ క్యాటగరీలు",
+    "users": "మేనేజ్ యూజర్లు",
+    "rolesPermissions": "రోల్స్ & పర్మిషన్లు",
+    "theme": "థీమ్లు",
+    "report": "రిపోర్ట్",
+    "tenantManagement": "మేనేజ్ ఇన్‌స్టిట్యూషన్‌లు",
+    "instructonex": "InstructoNex",
+    "accessControl": "యాక్సెస్ కంట్రోల్",
+    "rubrics": "రూబ్రిక్‌లు",
+    "cohorts": "బ్యాచ్‌లను నిర్వహించండి",
+    "tenantsReport": "టెనెంట్ రిపోర్ట్"
+  },
+  "tenantReport": {
+    "title": "టెనెంట్ రిపోర్ట్",
+    "subtitle": "క్రాస్-టెనెంట్ activity షాట్కట్‌తో తక్షణ insights.",
+    "generatedAt": "సృష్టించబడింది: {{time}}",
+    "noData": "టెనెంట్ రిపోర్ట్ డేటా అందుబాటులో లేదు.",
+    "fetchError": "టెనెంట్ రిపోర్ట్ లోడ్ చేయడంలో విఫలమైంది.",
+    "notAvailable": "అందుబాటులో లేదు",
+    "tenantSelector": "విశ్లేషణ కోసం టెనెంట్ ఎంచుకోండి",
+    "selectedTenantDetails": "ఎంచిన టెనెంట్: {{name}}",
+    "tableTitle": "టెనెంట్ మెట్రిక్స్ పట్టిక",
+    "tableSubtitle": "ప్రధాన మెట్రిక్స్ ఆధారంగా అన్ని టెనెంట్‌లను పోల్చండి.",
+    "roles": {
+      "students": "విద్యార్థులు",
+      "teachers": "ఉపాధ్యాయులు",
+      "others": "ఇతరులు"
+    },
+    "cards": {
+      "totalTenants": "మొత్తం టెనెంట్‌లు",
+      "totalTenantsSubtitle": "ఈ రిపోర్ట్‌లో చేర్చబడిన టెనెంట్‌లు",
+      "totalUsers": "మొత్తం యూజర్లు",
+      "totalUsersSubtitle": "అన్ని టెనెంట్‌లలో ఉన్న యూజర్లు",
+      "activeUsers": "సక్రియ యూజర్లు",
+      "activeUsersSubtitle": "ఇటీవల సక్రియమైన యూజర్లు",
+      "inactiveUsers": "నిష్క్రియ యూజర్లు",
+      "inactiveUsersSubtitle": "ఇటీవల చర్యలేని యూజర్లు",
+      "neverLoggedIn": "ఎప్పుడూ లాగిన్ కాలేదు",
+      "activeRate": "సక్రియ రేటు: {{rate}}%"
+    },
+    "charts": {
+      "comparisonTitle": "టెనెంట్ పోలిక",
+      "comparisonSubtitle": "ప్రతి టెనెంట్‌కు మొత్తం, సక్రియ మరియు నిష్క్రియ యూజర్లు",
+      "roleSplitTitle": "{{name}} కోసం పాత్రల విభజన",
+      "roleSplitSubtitle": "విద్యార్థులు, ఉపాధ్యాయులు మరియు ఇతర యూజర్ల పంపిణీ"
+    },
+    "columns": {
+      "name": "టెనెంట్ పేరు"
+    },
+    "metrics": {
+      "total_users": "మొత్తం యూజర్లు",
+      "total_students": "మొత్తం విద్యార్థులు",
+      "total_teachers": "మొత్తం టీచర్లు",
+      "active_users": "సక్రియ యూజర్లు",
+      "inactive_users": "నిష్క్రియ యూజర్లు",
+      "never_logged_in": "ఎప్పుడూ లాగిన్ కాలేదు",
+      "course_categories": "కోర్సు విభాగాలు",
+      "total_enrollments": "మొత్తం నమోదు‌లు",
+      "completed_courses": "పూర్తయిన కోర్సులు",
+      "pending_completions": "పూర్తి చేయాల్సినవి"
+    }
+  }
+}

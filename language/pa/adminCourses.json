@@ -1,0 +1,249 @@
+{
+  "page": {
+    "title": "ਕੋਰਸ ਪ੍ਰਬੰਧਨ",
+    "subtitle": "ਆਪਣੇ ਕੋਰਸਾਂ ਨੂੰ ਪ੍ਰਬੰਧਿਤ ਅਤੇ ਵਿਵਸਥਿਤ ਕਰੋ",
+    "loading": "ਕੋਰਸ ਲੋਡ ਹੋ ਰਹੇ ਹਨ...",
+    "noCoursesFound": "ਤੁਹਾਡੇ ਖੋਜ ਮਾਪਦੰਡਾਂ ਨਾਲ ਮਿਲਦੇ ਕੋਈ ਕੋਰਸ ਨਹੀਂ ਮਿਲੇ",
+    "noCoursesAvailable": "ਕੋਈ ਕੋਰਸ ਉਪਲਬਧ ਨਹੀਂ ਨਵਾਂ ਕੋਰਸ ਸ਼ਾਮਲ ਕਰਕੇ ਸ਼ੁਰੂ ਕਰੋ"
+  },
+  "navigation": {
+    "editCourse": "ਕੋਰਸ ਐਡਿਟ ਕਰੋ",
+    "createCourse": "ਨਵਾਂ ਕੋਰਸ ਬਣਾਓ",
+    "deleteCourse": "ਕੋਰਸ ਡਿਲੀਟ ਕਰੋ",
+    "deleteCourses": "ਕੋਰਸ ਡਿਲੀਟ ਕਰੋ",
+    "viewParticipants": "ਭਾਗੀਦਾਰ ਵੇਖੋ"
+  },
+  "buttons": {
+    "addCourse": "ਕੋਰਸ ਜੋੜੋ",
+    "selectAll": "ਸਭ ਚੁਣੋ",
+    "deselectAll": "ਸਭ ਹਟਾਓ",
+    "deleteSelected": "ਕੋਰਸ ਡਿਲੀਟ ਕਰੋ",
+    "edit": "ਕੋਰਸ ਐਡਿਟ ਕਰੋ",
+    "delete": "ਕੋਰਸ ਡਿਲੀਟ ਕਰੋ",
+    "cancel": "ਕੈਂਸਲ",
+    "create": "ਕੋਰਸ ਬਣਾਓ",
+    "update": "ਕੋਰਸ ਅਪਡੇਟ ਕਰੋ",
+    "creating": "ਬਣਾ ਰਹੇ ਹਾਂ...",
+    "updating": "ਅਪਡੇਟ ਕਰ ਰਹੇ ਹਾਂ...",
+    "deleting": "ਡਿਲੀਟ ਕਰ ਰਹੇ ਹਾਂ...",
+    "save": "ਸੇਵ ਕਰੋ",
+    "uploadImage": "ਤਸਵੀਰ ਅਪਲੋਡ ਕਰੋ",
+    "removeImage": "ਤਸਵੀਰ ਹਟਾਓ",
+    "hide": "ਛੁਪਾਓ",
+    "show": "ਦਿਖਾਓ",
+    "report": "ਰਿਪੋਰਟ"
+  },
+  "table": {
+    "headers": {
+      "courseName": "ਕੋਰਸ ਦਾ ਨਾਮ",
+      "shortName": "ਛੋਟਾ ਨਾਮ",
+      "category": "ਕੈਟੇਗਰੀ",
+      "startDate": "ਸ਼ੁਰੂਆਤ ਦੀ ਤਾਰੀਖ",
+      "endDate": "ਅੰਤ ਦੀ ਤਾਰੀਖ",
+      "modifiedOn": "ਆਖਰੀ ਸੋਧ",
+      "teachers": "ਟੀਚਰਸ",
+      "students": "ਸਟੂਡੈਂਟਸ",
+      "actions": "ਐਕਸ਼ਨਸ",
+      "S": {
+        "No": "ਐੱਸ.ਨੰ."
+      }
+    },
+    "search": {
+      "placeholder": "ਕੋਰਸ ਸਰਚ ਕਰੋ..."
+    },
+    "fallbacks": {
+      "untitledCourse": "ਬਿਨਾਂ ਸਿਰਲੇਖ ਕੋਰਸ",
+      "noCategory": "ਕੋਈ ਕੈਟੇਗਰੀ ਨਹੀਂ",
+      "noTeachers": "ਕੋਈ ਟੀਚਰ ਨਹੀਂ",
+      "noStudents": "ਕੋਈ ਸਟੂਡੈਂਟ ਨਹੀਂ"
+    },
+    "badges": {
+      "hidden": "ਛੁਪਿਆ"
+    }
+  },
+  "form": {
+    "labels": {
+      "courseName": "ਕੋਰਸ ਦਾ ਨਾਮ",
+      "shortName": "ਛੋਟਾ ਨਾਮ",
+      "category": "ਕੈਟੇਗਰੀ",
+      "description": "ਵਰਣਨ",
+      "startDate": "ਸ਼ੁਰੂਆਤ ਦੀ ਤਾਰੀਖ",
+      "endDate": "ਅੰਤ ਦੀ ਤਾਰੀਖ",
+      "courseImage": "ਕੋਰਸ ਦੀ ਤਸਵੀਰ",
+      "enrollmentMethods": "ਭਰਤੀ ਦੇ ਤਰੀਕੇ",
+      "selfEnrollment": "ਸਵੈ-ਭਰਤੀ",
+      "manualEnrollment": "ਮੈਨੂਅਲ ਭਰਤੀ",
+      "guestAccess": "ਗੈਸਟ ਐਕਸੈਸ",
+      "courseVisibility": "ਕੋਰਸ ਵਿਜ਼ੀਬਿਲਟੀ"
+    },
+    "placeholders": {
+      "courseName": "ਪੂਰਾ ਕੋਰਸ ਨਾਮ ਦਰਜ ਕਰੋ",
+      "shortName": "ਛੋਟਾ ਕੋਰਸ ਨਾਮ ਦਰਜ ਕਰੋ",
+      "category": "ਕੈਟੇਗਰੀ ਚੁਣੋ",
+      "description": "ਕੋਰਸ ਦਾ ਵਰਣਨ ਦਰਜ ਕਰੋ",
+      "selectStartDate": "ਸ਼ੁਰੂਆਤ ਦੀ ਤਾਰੀਖ ਚੁਣੋ",
+      "selectEndDate": "ਅੰਤ ਦੀ ਤਾਰੀਖ ਚੁਣੋ"
+    },
+    "validation": {
+      "courseNameRequired": "ਕੋਰਸ ਨਾਮ ਲਾਜ਼ਮੀ ਹੈ",
+      "courseNameMinLength": "ਕੋਰਸ ਨਾਮ ਘੱਟੋ-ਘੱਟ 3 ਅੱਖਰਾਂ ਦਾ ਹੋਣਾ ਚਾਹੀਦਾ ਹੈ",
+      "courseNameMaxLength": "ਕੋਰਸ ਨਾਮ 250 ਅੱਖਰਾਂ ਤੋਂ ਵੱਧ ਨਹੀਂ ਹੋਣਾ ਚਾਹੀਦਾ",
+      "shortNameRequired": "ਛੋਟਾ ਨਾਮ ਲਾਜ਼ਮੀ ਹੈ",
+      "shortNameMinLength": "ਛੋਟਾ ਨਾਮ ਘੱਟੋ-ਘੱਟ 2 ਅੱਖਰਾਂ ਦਾ ਹੋਣਾ ਚਾਹੀਦਾ ਹੈ",
+      "shortNameMaxLength": "ਛੋਟਾ ਨਾਮ 30 ਅੱਖਰਾਂ ਤੋਂ ਵੱਧ ਨਹੀਂ ਹੋਣਾ ਚਾਹੀਦਾ",
+      "shortNameFormat": "ਛੋਟੇ ਨਾਮ ਵਿੱਚ ਸਿਰਫ਼ ਅੱਖਰ, ਨੰਬਰ, ਅੰਡਰਸਕੋਰ ਅਤੇ ਡੈਸ਼ ਹੋ ਸਕਦੇ ਹਨ",
+      "shortNameTaken": "ਇਹ ਛੋਟਾ ਨਾਮ ਪਹਿਲਾਂ ਹੀ ਵਰਤਿਆ ਗਿਆ ਹੈ!",
+      "categoryRequired": "ਕੈਟੇਗਰੀ ਲਾਜ਼ਮੀ ਹੈ",
+      "categoryPositive": "ਕੈਟੇਗਰੀ ID ਸਹੀ ਹੋਣੀ ਚਾਹੀਦੀ ਹੈ",
+      "descriptionMaxLength": "ਵਰਣਨ 1000 ਅੱਖਰਾਂ ਤੋਂ ਵੱਧ ਨਹੀਂ ਹੋਣਾ ਚਾਹੀਦਾ",
+      "startDateBeforeEnd": "ਸ਼ੁਰੂਆਤੀ ਤਾਰੀਖ ਅੰਤ ਦੀ ਤਾਰੀਖ ਤੋਂ ਪਹਿਲਾਂ ਹੋਣੀ ਚਾਹੀਦੀ ਹੈ",
+      "endDateAfterStart": "ਅੰਤ ਦੀ ਤਾਰੀਖ ਸ਼ੁਰੂਆਤੀ ਤਾਰੀਖ ਤੋਂ ਬਾਅਦ ਹੋਣੀ ਚਾਹੀਦੀ ਹੈ",
+      "invalidDate": "ਕਿਰਪਾ ਕਰਕੇ ਇੱਕ ਸਹੀ ਤਾਰੀਖ ਦਰਜ ਕਰੋ",
+      "checkingShortName": "ਛੋਟੇ ਨਾਮ ਦੀ ਜਾਂਚ ਹੋ ਰਹੀ ਹੈ...",
+      "fixErrorsFirst": "ਸਬਮਿਟ ਕਰਨ ਤੋਂ ਪਹਿਲਾਂ ਸਭ ਲੋੜੀਂਦੇ ਫੀਲਡ ਸਹੀ ਤਰ੍ਹਾਂ ਭਰੋ"
+    },
+    "modes": {
+      "edit": {
+        "title": "ਕੋਰਸ ਐਡਿਟ ਕਰੋ",
+        "subtitle": "ਹੇਠਾਂ ਕੋਰਸ ਦੇ ਵੇਰਵੇ ਅਪਡੇਟ ਕਰੋ"
+      },
+      "create": {
+        "title": "ਨਵਾਂ ਕੋਰਸ ਬਣਾਓ",
+        "subtitle": "ਸਿਸਟਮ ਵਿੱਚ ਨਵਾਂ ਕੋਰਸ ਜੋੜੋ"
+      }
+    },
+    "imageUpload": {
+      "dropzoneText": "ਇੱਥੇ ਤਸਵੀਰ ਡਰੈਗ ਕਰੋ, ਜਾਂ ਚੁਣਨ ਲਈ ਕਲਿੱਕ ਕਰੋ",
+      "supportedFormats": "ਸਪੋਰਟਿਡ ਫਾਰਮੈਟ: JPG, PNG, GIF (ਅਧਿਕਤਮ: 2MB)",
+      "uploadError": "ਕੋਰਸ ਦੀ ਤਸਵੀਰ ਅਪਲੋਡ ਕਰਨ ਵਿੱਚ ਫੇਲ",
+      "setImageError": "ਕੋਰਸ ਦੀ ਤਸਵੀਰ ਸੈੱਟ ਕਰਨ ਵਿੱਚ ਫੇਲ",
+      "fileSizes": [
+        "ਬਾਈਟ",
+        "KB",
+        "MB"
+      ],
+      "currentImage": "ਮੌਜੂਦਾ ਤਸਵੀਰ",
+      "chooseDifferent": "ਵੱਖਰਾ ਚੁਣੋ",
+      "currentImageAlt": "ਮੌਜੂਦਾ ਕੋਰਸ ਤਸਵੀਰ",
+      "newImagePreviewAlt": "ਨਵੀਂ ਕੋਰਸ ਤਸਵੀਰ ਦਾ ਪ੍ਰੀਵਿਊ",
+      "removeNewImageTooltip": "ਨਵੀਂ ਤਸਵੀਰ ਹਟਾਓ",
+      "newImage": "ਨਵੀਂ ਤਸਵੀਰ",
+      "zeroBytes": "0 ਬਾਈਟ"
+    },
+    "visibility": {
+      "visible": "ਦਿਖਣਯੋਗ",
+      "hidden": "ਛੁਪਿਆ",
+      "visibleDescription": "ਵਿਦਿਆਰਥੀ ਇਹ ਕੋਰਸ ਲੱਭ ਕੇ ਪਹੁੰਚ ਕਰ ਸਕਦੇ ਹਨ",
+      "hiddenDescription": "ਕੋਰਸ ਵਿਦਿਆਰਥੀਆਂ ਤੋਂ ਛੁਪਿਆ ਰਹੇਗਾ ਜਦ ਤੱਕ ਤੁਸੀਂ ਇਸਨੂੰ ਦਿਖਣਯੋਗ ਨਹੀਂ ਬਣਾਉਂਦੇ"
+    }
+  },
+  "modals": {
+    "deleteMultiple": {
+      "title": "ਕਈ ਕੋਰਸ ਡਿਲੀਟ ਕਰੋ",
+      "warning": "ਚੇਤਾਵਨੀ: ਇਹ ਕਾਰਵਾਈ ਵਾਪਸ ਨਹੀਂ ਲਈ ਜਾ ਸਕਦੀ",
+      "description": "ਇਹਨਾਂ {{count}} ਕੋਰਸਾਂ ਨੂੰ ਡਿਲੀਟ ਕਰਨ ਨਾਲ ਉਹ ਸਿਸਟਮ ਤੋਂ ਪੱਕੇ ਤੌਰ 'ਤੇ ਹਟ ਜਾਣਗੇ ਸਾਰੇ ਸੰਬੰਧਿਤ ਡੇਟਾ ਜਿਵੇਂ ਕਿ ਭਰਤੀਆਂ, ਗਰੇਡ ਅਤੇ ਕੰਟੈਂਟ ਖਤਮ ਹੋ ਜਾਵੇਗਾ",
+      "listLabel": "ਡਿਲੀਟ ਕੀਤੇ ਜਾਣ ਵਾਲੇ ਕੋਰਸ ({{count}}):",
+      "confirmation": "ਕੀ ਤੁਸੀਂ ਯਕੀਨੀ ਤੌਰ 'ਤੇ ਅੱਗੇ ਵਧਣਾ ਚਾਹੁੰਦੇ ਹੋ? ਇਹ ਸਾਰੇ ਚੁਣੇ ਹੋਏ ਕੋਰਸਾਂ ਨੂੰ ਪੱਕੇ ਤੌਰ 'ਤੇ ਡਿਲੀਟ ਕਰ ਦੇਵੇਗਾ"
+    },
+    "deleteSingle": {
+      "title": "ਕੋਰਸ ਡਿਲੀਟ ਕਰੋ",
+      "warning": "ਚੇਤਾਵਨੀ: ਇਹ ਕਾਰਵਾਈ ਵਾਪਸ ਨਹੀਂ ਲਈ ਜਾ ਸਕਦੀ",
+      "description": "ਇਸ ਕੋਰਸ ਨੂੰ ਡਿਲੀਟ ਕਰਨ ਨਾਲ ਇਹ ਸਿਸਟਮ ਤੋਂ ਪੱਕੇ ਤੌਰ 'ਤੇ ਹਟ ਜਾਵੇਗਾ ਸਾਰੇ ਸੰਬੰਧਿਤ ਡੇਟਾ ਜਿਵੇਂ ਕਿ ਭਰਤੀਆਂ, ਗਰੇਡ ਅਤੇ ਕੰਟੈਂਟ ਖਤਮ ਹੋ ਜਾਵੇਗਾ",
+      "listLabel": "ਡਿਲੀਟ ਕੀਤਾ ਜਾਣ ਵਾਲਾ ਕੋਰਸ:",
+      "confirmation": "ਕੀ ਤੁਸੀਂ ਯਕੀਨੀ ਤੌਰ 'ਤੇ ਇਸ ਕੋਰਸ ਨੂੰ ਡਿਲੀਟ ਕਰਨਾ ਚਾਹੁੰਦੇ ਹੋ?"
+    },
+    "details": {
+      "name": "ਨਾਮ:",
+      "shortName": "ਛੋਟਾ ਨਾਮ:",
+      "category": "ਕੈਟੇਗਰੀ:",
+      "description": "ਵਰਣਨ:",
+      "startDate": "ਸ਼ੁਰੂਆਤ ਦੀ ਤਾਰੀਖ:",
+      "endDate": "ਅੰਤ ਦੀ ਤਾਰੀਖ:",
+      "teachers": "ਟੀਚਰਸ:",
+      "students": "ਸਟੂਡੈਂਟਸ:"
+    }
+  },
+  "messages": {
+    "success": {
+      "courseCreated": "ਕੋਰਸ ਸਫਲਤਾਪੂਰਵਕ ਬਣ ਗਿਆ",
+      "courseUpdated": "ਕੋਰਸ ਸਫਲਤਾਪੂਰਵਕ ਅਪਡੇਟ ਹੋ ਗਿਆ",
+      "coursesDeleted": "ਕੋਰਸ ਸਫਲਤਾਪੂਰਵਕ ਡਿਲੀਟ ਹੋ ਗਏ",
+      "courseDeleted": "ਕੋਰਸ ਸਫਲਤਾਪੂਰਵਕ ਡਿਲੀਟ ਹੋ ਗਿਆ",
+      "imageUploaded": "ਕੋਰਸ ਦੀ ਤਸਵੀਰ ਸਫਲਤਾਪੂਰਵਕ ਅਪਲੋਡ ਹੋ ਗਈ",
+      "imageRemoved": "ਕੋਰਸ ਦੀ ਤਸਵੀਰ ਸਫਲਤਾਪੂਰਵਕ ਹਟਾਈ ਗਈ",
+      "courseShown": "ਕੋਰਸ ਹੁਣ ਵਿਦਿਆਰਥੀਆਂ ਲਈ ਦਿਖਣਯੋਗ ਹੈ",
+      "courseHidden": "ਕੋਰਸ ਹੁਣ ਵਿਦਿਆਰਥੀਆਂ ਤੋਂ ਛੁਪਿਆ ਹੈ"
+    },
+    "error": {
+      "courseNotFound": "ਕੋਰਸ ਨਹੀਂ ਮਿਲਿਆ",
+      "failedToLoad": "ਕੋਰਸ ਲੋਡ ਕਰਨ ਵਿੱਚ ਫੇਲ",
+      "failedToLoadCourse": "ਕੋਰਸ ਡੇਟਾ ਲੋਡ ਕਰਨ ਵਿੱਚ ਫੇਲ",
+      "failedToLoadCategories": "ਕੈਟੇਗਰੀਆਂ ਲੋਡ ਕਰਨ ਵਿੱਚ ਫੇਲ",
+      "errorUpdating": "ਕੋਰਸ ਅਪਡੇਟ ਕਰਨ ਵਿੱਚ ਗਲਤੀ",
+      "errorCreating": "ਕੋਰਸ ਬਣਾਉਣ ਵਿੱਚ ਗਲਤੀ",
+      "failedToUpdate": "ਕੋਰਸ ਅਪਡੇਟ ਕਰਨ ਵਿੱਚ ਫੇਲ",
+      "failedToCreate": "ਕੋਰਸ ਬਣਾਉਣ ਵਿੱਚ ਫੇਲ",
+      "deleteFailed": "ਕੋਰਸ ਡਿਲੀਟ ਕਰਨ ਵਿੱਚ ਫੇਲ",
+      "deleteMultipleFailed": "ਕੋਰਸ ਡਿਲੀਟ ਕਰਨ ਵਿੱਚ ਫੇਲ",
+      "uploadImageFailed": "ਤਸਵੀਰ ਅਪਲੋਡ ਕਰਨ ਵਿੱਚ ਫੇਲ",
+      "setImageFailed": "ਕੋਰਸ ਦੀ ਤਸਵੀਰ ਸੈੱਟ ਕਰਨ ਵਿੱਚ ਫੇਲ",
+      "invalidImageFormat": "ਗਲਤ ਤਸਵੀਰ ਫਾਰਮੈਟ ਕਿਰਪਾ ਕਰਕੇ JPG, PNG, ਜਾਂ GIF ਵਰਤੋਂ",
+      "imageTooLarge": "ਤਸਵੀਰ ਬਹੁਤ ਵੱਡੀ ਹੈ ਅਧਿਕਤਮ ਸਾਈਜ਼ 2MB ਹੈ",
+      "enrollmentConfigFailed": "ਸਵੈ-ਭਰਤੀ ਕੰਫੀਗਰ ਕਰਨ ਵਿੱਚ ਫੇਲ",
+      "selfEnrollmentMethodNotFound": "ਇਸ ਕੋਰਸ ਲਈ ਸਵੈ-ਰਜਿਸਟ੍ਰੇਸ਼ਨ ਤਰੀਕਾ ਨਹੀਂ ਮਿਲਿਆ",
+      "toggleSelfEnrollmentFailed": "ਸਵੈ-ਰਜਿਸਟ੍ਰੇਸ਼ਨ ਟੌਗਲ ਕਰਨ ਵਿੱਚ ਫੇਲ੍ਹ ਹੋਇਆ"
+    },
+    "warning": {
+      "selectCoursesToDelete": "ਕਿਰਪਾ ਕਰਕੇ ਡਿਲੀਟ ਕਰਨ ਲਈ ਘੱਟੋ-ਘੱਟ ਇੱਕ ਕੋਰਸ ਚੁਣੋ",
+      "unsavedChanges": "ਤੁਹਾਡੇ ਬਦਲਾਅ ਸੇਵ ਨਹੀਂ ਹੋਏ ਕੀ ਤੁਸੀਂ ਵਾਪਸ ਜਾਣਾ ਚਾਹੁੰਦੇ ਹੋ?",
+      "removeImageConfirm": "ਕੀ ਤੁਸੀਂ ਯਕੀਨੀ ਤੌਰ 'ਤੇ ਕੋਰਸ ਦੀ ਤਸਵੀਰ ਹਟਾਉਣਾ ਚਾਹੁੰਦੇ ਹੋ?",
+      "createCategoryFirst": "ਕੋਈ ਕੈਟੇਗਰੀ ਉਪਲਬਧ ਨਹੀਂ ਪਹਿਲਾਂ ਇੱਕ ਕੈਟੇਗਰੀ ਬਣਾਓ"
+    }
+  },
+  "enrollment": {
+    "methods": {
+      "self": "ਸਵੈ-ਭਰਤੀ",
+      "manual": "ਮੈਨੂਅਲ ਭਰਤੀ",
+      "guest": "ਗੈਸਟ ਐਕਸੈਸ"
+    },
+    "descriptions": {
+      "self": "ਸਟੂਡੈਂਟਸ ਨੂੰ ਇਸ ਕੋਰਸ ਵਿੱਚ ਖੁਦ ਭਰਤੀ ਹੋਣ ਦੀ ਇਜਾਜ਼ਤ ਦਿਓ",
+      "manual": "ਐਡਮਿਨਿਸਟ੍ਰੇਟਰਾਂ ਦੁਆਰਾ ਮੈਨੂਅਲ ਭਰਤੀ ਦੀ ਲੋੜ ਹੈ",
+      "guest": "ਗੈਸਟ ਯੂਜ਼ਰਸ ਨੂੰ ਕੋਰਸ ਕੰਟੈਂਟ ਵੇਖਣ ਦੀ ਇਜਾਜ਼ਤ ਦਿਓ"
+    },
+    "status": {
+      "enabled": "ਸਰਗਰਮ (Enabled)",
+      "disabled": "ਬੰਦ (Disabled)"
+    }
+  },
+  "status": {
+    "loading": "ਲੋਡ ਹੋ ਰਿਹਾ ਹੈ...",
+    "saving": "ਸੇਵ ਹੋ ਰਿਹਾ ਹੈ...",
+    "deleting": "ਡਿਲੀਟ ਹੋ ਰਿਹਾ ਹੈ...",
+    "processing": "ਪ੍ਰੋਸੈਸਿੰਗ ਹੋ ਰਹੀ ਹੈ...",
+    "uploading": "ਅਪਲੋਡ ਹੋ ਰਿਹਾ ਹੈ...",
+    "active": "ਐਕਟਿਵ",
+    "inactive": "ਇਨ-ਐਕਟਿਵ",
+    "draft": "ਡਰਾਫਟ",
+    "published": "ਪਬਲਿਸ਼ ਕੀਤਾ"
+  },
+  "emptyState": {
+    "title": "ਅਜੇ ਤੱਕ ਕੋਈ ਕੋਰਸ ਨਹੀਂ",
+    "description": "ਪਹਿਲਾ ਕੋਰਸ ਬਣਾ ਕੇ ਸ਼ੁਰੂ ਕਰੋ",
+    "createButton": "ਕੋਰਸ ਬਣਾਓ"
+  },
+  "report": {
+    "title": "ਕੋਰਸ ਰਿਪੋਰਟ",
+    "loading": "ਕੋਰਸ ਰਿਪੋਰਟ ਲੋਡ ਹੋ ਰਹੀ ਹੈ...",
+    "back": "ਕੋਰਸਾਂ 'ਤੇ ਵਾਪਸ ਜਾਓ",
+    "overview": "ਕੋਰਸ ਝਲਕ",
+    "schedule": "ਸ਼ੈਡਿਊਲ",
+    "participants": "ਭਾਗੀਦਾਰ",
+    "completed": "ਪੂਰਾ",
+    "inProgress": "ਜਾਰੀ",
+    "notStarted": "ਸ਼ੁਰੂ ਨਹੀਂ ਹੋਇਆ",
+    "noStudentData": "ਕੋਈ ਵਿਦਿਆਰਥੀ ਰਜਿਸਟ੍ਰੇਸ਼ਨ ਡੇਟਾ ਉਪਲਬਧ ਨਹੀਂ ਹੈ.",
+    "noEnrollmentMethods": "ਕੋਈ ਰਜਿਸਟ੍ਰੇਸ਼ਨ ਤਰੀਕੇ ਸੈਟ ਨਹੀਂ ਕੀਤੇ ਗਏ.",
+    "unknownMethod": "ਅਣਜਾਣ ਤਰੀਕਾ"
+  }
+}

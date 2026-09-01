@@ -1,0 +1,176 @@
+{
+  "common": {
+    "grade": "ग्रेड",
+    "grades": "ग्रेड",
+    "student": "विद्यार्थी",
+    "students": "विद्यार्थी",
+    "assignment": "असाइनमेंट",
+    "assignments": "असाइनमेंट",
+    "quiz": "क्विज",
+    "quizzes": "क्विज",
+    "average": "सरासरी",
+    "overall": "एकूण",
+    "dueDate": "अंतिम तारीख",
+    "submitted": "सबमिट केले",
+    "status": "स्थिती",
+    "actions": "क्रिया",
+    "details": "तपशील",
+    "name": "नाव",
+    "email": "ईमेल",
+    "points": "गुण",
+    "maxPoints": "कमाल गुण",
+    "percentage": "टक्केवारी",
+    "loading": "लोड करत आहे",
+    "error": "त्रुटी",
+    "noData": "कोणता डेटा नाही",
+    "pts": "गुण",
+    "days": "दिन"
+  },
+  "student": {
+    "dashboard": {
+      "title": "आपल्या ग्रेड डॅशबोर्ड",
+      "overallGrade": "एकूण ग्रेड",
+      "excellent": "उत्कृष्ट",
+      "needsImprovement": "सुधार आवश्यक",
+      "assignmentsSubmitted": "सबमिट केलेले असाइनमेंट",
+      "assignmentsGraded": "ग्रेड केलेले असाइनमेंट",
+      "quizzesCompleted": "पूर्ण केलेली क्विज",
+      "pendingGrades": "प्रलंबित ग्रेड",
+      "overdueItems": "अंतिम मुदत संपलेली वस्तू",
+      "upcomingDeadlines": "आसन्न मुदती",
+      "overdue": "अंतिम मुदत संपली",
+      "noUpcomingDeadlines": "कोणतीही आसन्न मुदती नाही",
+      "noOverdueItems": "कोणतीही अंतिम मुदत संपली वस्तू नाही"
+    },
+    "header": {
+      "backToDashboard": "डॅशबोर्डावर परत जा",
+      "viewAllGrades": "सर्व ग्रेड पाहा"
+    },
+    "table": {
+      "allGrades": "सर्व ग्रेड",
+      "activity": "क्रियाकलाप",
+      "type": "प्रकार",
+      "grade": "ग्रेड",
+      "pending": "प्रलंबित"
+    },
+    "modal": {
+      "submissionDetails": "सबमिशन तपशील",
+      "yourScore": "आपले स्कोर",
+      "close": "बंद करा"
+    },
+    "messages": {
+      "loadingGrades": "ग्रेड लोड करत आहे...",
+      "fetchingData": "एक क्षण जसे आम्ही नवीनतम डेटा आणतो.",
+      "errorLoadingGrades": "ग्रेड लोड करण्यात त्रुटी",
+      "noCourseSelected": "कोणते अभ्यासक्रम निवडले नाही",
+      "selectCourse": "कृपया तिची ग्रेड माहिती पाहण्यासाठी अभ्यासक्रम निवडा.",
+      "noGradableItems": "कोणतीही ग्रेडिंग योग्य वस्तू सापडली नाही",
+      "noGradableItemsDesc": "आम्ही यशस्वीरित्या Moodle शी जुळवले आणि या अभ्यासक्रमचा डेटा लोड केला, परंतु आपल्या खात्यासाठी कोणतीही ग्रेडिंग योग्य क्रियाकलाप (असाइनमेंट किंवा क्विज सारखी) सापडली नाही.",
+      "whatToCheckNext": "पुढे काय तपासायचे:",
+      "checkCourseContent": "अभ्यासक्रम सामग्री: Moodle (ID: {{courseId}}) मधील अभ्यासक्रमात \"असाइनमेंट\" किंवा \"क्विज\" क्रियाकलाप आहेत हे सुनिश्चित करा.",
+      "checkEnrollment": "नावनोंदणी: आप या अभ्यासक्रमात योग्यरित्या नोंदणीकृत आहेत हे सत्यापित करा.",
+      "tryDifferentCourse": "वेगळ्या अभ्यासक्रम: ग्रेड येथे दिसतात का हे पाहण्यासाठी वेगळ्या अभ्यासक्रम पाहण्याचा प्रयत्न करा."
+    }
+  },
+  "teacher": {
+    "gradebook": {
+      "title": "ग्रेड व्यवस्थापन डॅशबोर्ड",
+      "overview": "विहंगावलोकन",
+      "gradeTable": "ग्रेड तक्ता",
+      "searchStudents": "विद्यार्थी शोध",
+      "filterByName": "विद्यार्थी नावानुसार फिल्टर करा...",
+      "searchAssignment": "क्विज किंवा असाइनमेंट शोध",
+      "filterAssignment": "फिल्टर...",
+      "filterByType": "प्रकारानुसार फिल्टर करा",
+      "all": "सर्व"
+    },
+    "overview": {
+      "requiresAttention": "लक्ष आवश्यक",
+      "pendingGrades": "प्रलंबित ग्रेड",
+      "overdueAssignments": "अंतिम मुदत संपली असाइनमेंट",
+      "toGrade": "ग्रेड करण्यासाठी",
+      "noPendingGrades": "कोणतीही प्रलंबित ग्रेड नाही",
+      "allSubmissionsGraded": "सर्व सबमिशन ग्रेड केली",
+      "noOverdueAssignments": "कोणतीही अंतिम मुदत संपली असाइनमेंट नाही",
+      "allOnTrack": "सर्व असाइनमेंट ट्रॅकवर आहेत",
+      "totalStudents": "एकूण विद्यार्थी",
+      "classAverage": "वर्ग सरासरी",
+      "allCaughtUp": "सर्व पकडली!",
+      "noPendingSubmissions": "ग्रेड करण्यासाठी कोणते प्रलंबित सबमिशन नाही."
+    },
+    "stats": {
+      "totalStudents": "एकूण विद्यार्थी",
+      "assignments": "असाइनमेंट",
+      "quizzes": "क्विज",
+      "overdueItems": "अंतिम मुदत संपली वस्तू",
+      "pendingGrades": "प्रलंबित ग्रेड",
+      "classAverage": "वर्ग सरासरी"
+    },
+    "studentList": {
+      "allStudents": "सर्व विद्यार्थी",
+      "averageGrade": "सरासरी ग्रेड",
+      "viewDetails": "तपशील पाहा",
+      "backToOverview": "विहंगावलोकनावर परत जा"
+    },
+    "studentDetail": {
+      "gradeDetailsFor": "साठी ग्रेड तपशील",
+      "overallAverage": "एकूण सरासरी",
+      "noGradesAvailable": "कोणतीही ग्रेड उपलब्ध नाही",
+      "backToStudentList": "विद्यार्थी सूचीवर परत जा",
+      "dueDate": "अंतिम तारीख",
+      "gradedSubmittedOn": "ग्रेड / सबमिट केले",
+      "notGraded": "ग्रेड न केलेले"
+    },
+    "assignment": {
+      "pendingGradesView": "प्रलंबित ग्रेड",
+      "overdueStudents": "अंतिम मुदत संपली विद्यार्थी",
+      "studentsToGrade": "ग्रेड करण्यासाठी विद्यार्थी",
+      "studentsOverdue": "अंतिम मुदत संपली विद्यार्थी",
+      "submittedOn": "सबमिट केले",
+      "daysOverdue": "दिन अंतिम मुदत संपली",
+      "enterGrade": "ग्रेड प्रविष्ट करा",
+      "backToListing": "सूचीवर परत जा",
+      "allPendingGrades": "सर्व प्रलंबित ग्रेड",
+      "total": "एकूण",
+      "submissionsToGrade": "ग्रेड करण्यासाठी सबमिशन",
+      "overdueItems": "अंतिम मुदत संपली वस्तू",
+      "noOverdueStudents": "या असाइनमेंटसाठी कोणते अंतिम मुदत संपली विद्यार्थी नाही.",
+      "noPendingSubmissionsForAssignment": "या असाइनमेंटसाठी ग्रेड करण्यासाठी कोणते प्रलंबित सबमिशन नाही.",
+      "noOverdueItemsDesc": "कोणतीही अंतिम मुदत संपली वस्तू नाही"
+    },
+    "gradeTable": {
+      "enterGrade": "ग्रेड प्रविष्ट करा"
+    },
+    "messages": {
+      "loadingGradebook": "ग्रेडबुक लोड करत आहे...",
+      "errorLoadingGradebook": "ग्रेडबुक लोड करण्यात त्रुटी",
+      "noGradableItems": "या अभ्यासक्रमात अद्याप कोणतीही ग्रेडिंग योग्य वस्तू (असाइनमेंट किंवा क्विज) नाही.",
+      "invalidGrade": "कृपया 0 आणि {{maxGrade}} दरम्यान वैध ग्रेड प्रविष्ट करा.",
+      "errorSavingGrade": "ग्रेड सेव करण्यात त्रुटी. कृपया पुन्हा प्रयत्न करा."
+    }
+  },
+  "status": {
+    "graded": "ग्रेड केले",
+    "submitted": "सबमिट केले",
+    "notSubmitted": "सबमिट न केलेले",
+    "overdue": "अंतिम मुदत संपली",
+    "inProgress": "प्रगतीमध्ये",
+    "pending": "प्रलंबित",
+    "noDueDate": "कोणतीही अंतिम तारीख नाही"
+  },
+  "buttons": {
+    "viewDetails": "तपशील पाहा",
+    "backToOverview": "विहंगावलोकनावर परत जा",
+    "backToDashboard": "डॅशबोर्डावर परत जा",
+    "close": "बंद करा",
+    "save": "सेव करा",
+    "cancel": "रद्द करा",
+    "enterGrade": "ग्रेड प्रविष्ट करा",
+    "edit": "संपादित करा"
+  },
+  "labels": {
+    "due": "अंतिम",
+    "na": "N/A",
+    "of": "पैकी"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "title": "Calendrier",
+  "subtitle": "Gérez votre emploi du temps et vos événements.",
+  "navigation": {
+    "previousMonth": "Mois Précédent",
+    "nextMonth": "Mois Suivant"
+  },
+  "search": {
+    "placeholder": "Rechercher des événements",
+    "ariaLabel": "Rechercher des événements"
+  },
+  "filter": {
+    "ariaLabel": "Filtrer par type d'événement",
+    "options": {
+      "all": "Tous les Types",
+      "assignment": "Devoirs",
+      "quiz": "Quiz",
+      "discussion": "Discussions",
+      "meeting": "Réunions",
+      "project": "Projets"
+    }
+  },
+  "days": {
+    "sun": "Dim",
+    "mon": "Lun",
+    "tue": "Mar",
+    "wed": "Mer",
+    "thu": "Jeu",
+    "fri": "Ven",
+    "sat": "Sam"
+  },
+  "grid": {
+    "dayAriaLabel": "Jour {{day}}",
+    "moreEvents": "+ {{count}} de plus"
+  },
+  "events": {
+    "title": "Événements le",
+    "viewButton": "Voir",
+    "noEvents": "Aucun événement pour ce jour."
+  }
+}

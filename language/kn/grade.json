@@ -1,0 +1,176 @@
+{
+  "common": {
+    "grade": "ಗ್ರೇಡ್",
+    "grades": "ಗ್ರೇಡ್ಸ್",
+    "student": "ಸ್ಟುಡೆಂಟ್",
+    "students": "ಸ್ಟುಡೆಂಟ್ಸ್",
+    "assignment": "ಅಸೈನ್‌ಮೆಂಟ್",
+    "assignments": "ಅಸೈನ್‌ಮೆಂಟ್‌ಗಳು",
+    "quiz": "ಕ್ವಿಜ್",
+    "quizzes": "ಕ್ವಿಜ್‌ಗಳು",
+    "average": "ಊರಿನ",
+    "overall": "ಒಟ್ಟು",
+    "dueDate": "ಅವಧಿ ದಿನಾಂಕ",
+    "submitted": "ಸಲ್ಲಿಸಲಾಗಿದೆ",
+    "status": "ಸ್ಥಿತಿ",
+    "actions": "ಕ್ರಿಯೆಗಳು",
+    "details": "ವಿವರಗಳು",
+    "name": "ಹೆಸರು",
+    "email": "ಇಮೇಲ್",
+    "points": "ಪಾಯಿಂಟ್ಸ್",
+    "maxPoints": "ಅತ್ಯುತ್ತಮ ಪಾಯಿಂಟ್ಸ್",
+    "percentage": "ಶತಮಾನ",
+    "loading": "ಲೋಡಿಂಗ್",
+    "error": "ದೋಷ",
+    "noData": "ದತ್ತಾಂಶ ಇಲ್ಲ",
+    "pts": "ಪಿಟಿಎಸ್",
+    "days": "ದಿನಗಳು"
+  },
+  "student": {
+    "dashboard": {
+      "title": "ನಿಮ್ಮ ಗ್ರೇಡ್ ಡ್ಯಾಶ್‌ಬೋರ್ಡ್",
+      "overallGrade": "ಒಟ್ಟು ಗ್ರೇಡ್",
+      "excellent": "ಅತ್ಯುತ್ತಮ",
+      "needsImprovement": "ಸುಧಾರಣೆಗೆ ಅಗತ್ಯವಿದೆ",
+      "assignmentsSubmitted": "ಅಸೈನ್‌ಮೆಂಟ್‌ಗಳು ಸಲ್ಲಿಸಲಾಗಿದೆ",
+      "assignmentsGraded": "ಅಸೈನ್‌ಮೆಂಟ್‌ಗಳು ಮೌಲ್ಯಮಾಪನಗೊಂಡವು",
+      "quizzesCompleted": "ಕ್ವಿಜ್‌ಗಳು ಸಂಪೂರ್ಣಗೊಂಡವು",
+      "pendingGrades": "ಬಾಕಿ ಮೌಲ್ಯಮಾಪನಗಳು",
+      "overdueItems": "ಕಾಲಾವಧಿ ಮೀರಿಸಿದ ಐಟಂಗಳು",
+      "upcomingDeadlines": "ಬರುವ ಕೊನೆಯ ದಿನಾಂಕಗಳು",
+      "overdue": "ಕಾಲಾವಧಿ ಮೀರಿಸಿದೆ",
+      "noUpcomingDeadlines": "ಬರುವ ಕೊನೆಯ ದಿನಾಂಕಗಳಿಲ್ಲ",
+      "noOverdueItems": "ಕಾಲಾವಧಿ ಮೀರಿಸಿದ ಐಟಂಗಳಿಲ್ಲ"
+    },
+    "header": {
+      "backToDashboard": "ಡ್ಯಾಶ್‌ಬೋರ್ಡ್‌ಗೆ ಹಿಂತಿರುಗಿ",
+      "viewAllGrades": "ಎಲ್ಲಾ ಮೌಲ್ಯಮಾಪನಗಳನ್ನು ನೋಡಿ"
+    },
+    "table": {
+      "allGrades": "ಎಲ್ಲಾ ಮೌಲ್ಯಮಾಪನಗಳು",
+      "activity": "ಚಟುವಟಿಕೆ",
+      "type": "ಪ್ರಕಾರ",
+      "grade": "ಮೌಲ್ಯಮಾಪನ",
+      "pending": "ಬಾಕಿ"
+    },
+    "modal": {
+      "submissionDetails": "ಸಲ್ಲಿಸುವಿಕೆ ವಿವರಗಳು",
+      "yourScore": "ನಿಮ್ಮ ಅಂಕಗಳು",
+      "close": "ಮುಚ್ಚಿ"
+    },
+    "messages": {
+      "loadingGrades": "ಮೌಲ್ಯಮಾಪನಗಳನ್ನು ಲೋಡ್ ಮಾಡುತ್ತಿದೆ...",
+      "fetchingData": "ಇತ್ತೀಚಿನ ಡೇಟಾವನ್ನು ಪಡೆಯಲು ಕ್ಷಣಿಕ ಕಾಯಿರಿ.",
+      "errorLoadingGrades": "ಮೌಲ್ಯಮಾಪನಗಳನ್ನು ಲೋಡ್ ಮಾಡುವಲ್ಲಿ ದೋಷ",
+      "noCourseSelected": "ಯಾವುದೇ ಕೋರ್ಸ್ ಆಯ್ಕೆ ಮಾಡಿಲ್ಲ",
+      "selectCourse": "ದಯವಿಟ್ಟು ನಿಮ್ಮ ಮೌಲ್ಯಮಾಪನ ಮಾಹಿತಿಯನ್ನು ನೋಡಲು ಕೋರ್ಸ್ ಆಯ್ಕೆ ಮಾಡಿ.",
+      "noGradableItems": "ಮೌಲ್ಯಮಾಪನಕ್ಕೆ ಯೋಗ್ಯ ಐಟಂಗಳು ಕಂಡುಬಂದಿಲ್ಲ",
+      "noGradableItemsDesc": "ನಾವು Moodle ಗೆ ಯಶಸ್ವಿಯಾಗಿ ಸಂಪರ್ಕ ಸಾಧಿಸಿದ್ದೇವೆ ಮತ್ತು ಈ ಕೋರ್ಸ್‌ಗಾಗಿ ಡೇಟಾವನ್ನು ಲೋಡ್ ಮಾಡಿದ್ದೇವೆ, ಆದರೆ ನಿಮ್ಮ ಖಾತೆಗೆ ಯಾವುದೇ ಮೌಲ್ಯಮಾಪನಕ್ಕೆ ಯೋಗ್ಯ ಚಟುವಟಿಕೆಗಳು (ಅಸೈನ್‌ಮೆಂಟ್‌ಗಳು ಅಥವಾ ಕ್ವಿಜ್‌ಗಳು) ಕಂಡುಬಂದಿಲ್ಲ.",
+      "whatToCheckNext": "ಮುಂದೆ ಏನು ಪರಿಶೀಲಿಸಬೇಕು:",
+      "checkCourseContent": "ಕೋರ್ಸ್ ವಿಷಯ: Moodle ನಲ್ಲಿ ಕೋರ್ಸ್ (ID: {{courseId}}) ವಾಸ್ತವವಾಗಿ \"ಅಸೈನ್‌ಮೆಂಟ್\" ಅಥವಾ \"ಕ್ವಿಜ್\" ಚಟುವಟಿಕೆಗಳನ್ನು ಒಳಗೊಂಡಿದೆ ಎಂದು ಖಚಿತಪಡಿಸಿಕೊಳ್ಳಿ.",
+      "checkEnrollment": "ನೋಂದಣಿ: ನೀವು ಈ ಕೋರ್ಸ್‌ನಲ್ಲಿ ಸರಿಯಾಗಿ ನೋಂದಾಯಿತವಾಗಿದ್ದೀರಾ ಎಂದು ಪರಿಶೀಲಿಸಿ.",
+      "tryDifferentCourse": "ಬೇರೊಂದು ಕೋರ್ಸ್: ಅಂಕಗಳು ಅಲ್ಲಿ ಕಾಣಿಸುತ್ತವೆ ಎಂದು ನೋಡಲು ಬೇರೆ ಕೋರ್ಸ್ ಅನ್ನು ನೋಡಿ."
+    }
+  },
+  "teacher": {
+    "gradebook": {
+      "overview": "ಊಹೆ",
+      "gradeTable": "ಗ್ರೇಡ್ ಟೇಬಲ್",
+      "searchStudents": "ಶೋಧಿಸಿ ವಿದ್ಯಾರ್ಥಿಗಳು",
+      "filterByName": "ವಿದ್ಯಾರ್ಥಿ ಹೆಸರಿನಿಂದ ಫಿಲ್ಟರ್ ಮಾಡಿ...",
+      "searchAssignment": "ಶೋಧಿಸಿ ಕ್ವಿಜ್ ಅಥವಾ ಅಸೈನ್‌ಮೆಂಟ್",
+      "filterAssignment": "ಫಿಲ್ಟರ್ ಮಾಡಿ...",
+      "filterByType": "ಪ್ರಕಾರದಿಂದ ಫಿಲ್ಟರ್ ಮಾಡಿ",
+      "all": "ಎಲ್ಲಾ",
+      "title": "ಮೌಲ್ಯಮಾಪನ ನಿರ್ವಹಣಾ ಡ್ಯಾಶ್‌ಬೋರ್ಡ್"
+    },
+    "studentDetail": {
+      "gradeDetailsFor": "ಗ್ರೇಡ್ ವಿವರಗಳು",
+      "overallAverage": "ಒಟ್ಟು ಸರಾಸರಿ",
+      "noGradesAvailable": "ಗ್ರೇಡ್‌ಗಳು ಲಭ್ಯವಿಲ್ಲ",
+      "backToStudentList": "ಶಿಕ್ಷಾರ್ಥಿಗಳ ಪಟ್ಟಿಗೆ ಹಿಂತಿರುಗಿ",
+      "dueDate": "ಅವಧಿ ದಿನಾಂಕ",
+      "gradedSubmittedOn": "ಗ್ರೇಡ್ ಮಾಡಿದ / ಸಲ್ಲಿಸಿದ ದಿನಾಂಕ",
+      "notGraded": "ಗ್ರೇಡ್ ಮಾಡಿಲ್ಲ"
+    },
+    "assignment": {
+      "pendingGradesView": "ಬಾಕಿ ಗ್ರೇಡ್‌ಗಳು",
+      "overdueStudents": "ಅವಧಿ ಮೀರಿಸಿರುವ ವಿದ್ಯಾರ್ಥಿಗಳು",
+      "studentsToGrade": "ಗ್ರೇಡ್ ಮಾಡಲು ವಿದ್ಯಾರ್ಥಿಗಳು",
+      "studentsOverdue": "ಅವಧಿ ಮೀರಿಸಿರುವ ವಿದ್ಯಾರ್ಥಿಗಳು",
+      "submittedOn": "ಸಲ್ಲಿಸಿದ ದಿನಾಂಕ",
+      "daysOverdue": "ಅವಧಿ ಮೀರಿಸಿರುವ ದಿನಗಳು",
+      "enterGrade": "ಗ್ರೇಡ್ ನಮೂದಿಸಿ",
+      "backToListing": "ಪಟ್ಟಿಗೆ ಹಿಂತಿರುಗಿ",
+      "allPendingGrades": "ಎಲ್ಲಾ ಬಾಕಿ ಗ್ರೇಡ್‌ಗಳು",
+      "total": "ಒಟ್ಟು",
+      "submissionsToGrade": "ಗ್ರೇಡ್ ಮಾಡಲು ಸಲ್ಲಿಕೆಗಳು",
+      "overdueItems": "ಅವಧಿ ಮೀರಿಸಿರುವ ಐಟಮ್‌ಗಳು",
+      "noOverdueStudents": "ಈ ಅಸೈನ್‌ಮೆಂಟ್‌ಗಾಗಿ ಅವಧಿ ಮೀರಿಸಿರುವ ವಿದ್ಯಾರ್ಥಿಗಳು ಇಲ್ಲ.",
+      "noPendingSubmissionsForAssignment": "ಈ ಅಸೈನ್‌ಮೆಂಟ್‌ಗಾಗಿ ಗ್ರೇಡ್ ಮಾಡಲು ಬಾಕಿ ಸಲ್ಲಿಕೆಗಳು ಇಲ್ಲ.",
+      "noOverdueItemsDesc": "ಅವಧಿ ಮೀರಿಸಿರುವ ಐಟಮ್‌ಗಳು ಇಲ್ಲ"
+    },
+    "gradeTable": {
+      "enterGrade": "ಗ್ರೇಡ್ ನಮೂದಿಸಿ"
+    },
+    "messages": {
+      "loadingGradebook": "ಗ್ರೇಡ್‌ಬುಕ್ ಲೋಡ್ ಮಾಡಲಾಗುತ್ತಿದೆ...",
+      "errorLoadingGradebook": "ಗ್ರೇಡ್‌ಬುಕ್ ಲೋಡ್ ಮಾಡುವಾಗ ದೋಷ",
+      "noGradableItems": "ಈ ಕೋರ್ಸ್‌ನಲ್ಲಿ ಗ್ರೇಡ್ ಮಾಡಲು ಯಾವುದೇ ಐಟಮ್‌ಗಳು (ಅಸೈನ್‌ಮೆಂಟ್‌ಗಳು ಅಥವಾ ಕ್ವಿಜ್‌ಗಳು) ಇಲ್ಲ.",
+      "invalidGrade": "ದಯವಿಟ್ಟು 0 ಮತ್ತು {{maxGrade}} ನಡುವಿನ ಮಾನ್ಯ ಗ್ರೇಡ್ ಅನ್ನು ನಮೂದಿಸಿ.",
+      "errorSavingGrade": "ಗ್ರೇಡ್ ಉಳಿಸುವಾಗ ದೋಷ. ದಯವಿಟ್ಟು ಪುನಃ ಪ್ರಯತ್ನಿಸಿ."
+    },
+    "overview": {
+      "requiresAttention": "ಗಮನ ಅಗತ್ಯವಿದೆ",
+      "pendingGrades": "ಬಾಕಿ ಗ್ರೇಡ್ಸ್",
+      "overdueAssignments": "ಮೀರಿದ ಅಸೈನ್‌ಮೆಂಟ್‌ಗಳು",
+      "toGrade": "ಗ್ರೇಡ್ ಮಾಡಲು",
+      "noPendingGrades": "ಬಾಕಿ ಗ್ರೇಡ್ಸ್ ಇಲ್ಲ",
+      "allSubmissionsGraded": "ಎಲ್ಲಾ ಸಲ್ಲಿಕೆಗಳನ್ನು ಗ್ರೇಡ್ ಮಾಡಲಾಗಿದೆ",
+      "noOverdueAssignments": "ಮೀರಿದ ಅಸೈನ್‌ಮೆಂಟ್‌ಗಳು ಇಲ್ಲ",
+      "allOnTrack": "ಎಲ್ಲಾ ಅಸೈನ್‌ಮೆಂಟ್‌ಗಳು ಸರಿಯಾಗಿದೆ",
+      "totalStudents": "ಒಟ್ಟು ವಿದ್ಯಾರ್ಥಿಗಳು",
+      "classAverage": "ಕ್ಲಾಸ್ ಸರಾಸರಿ",
+      "allCaughtUp": "ಎಲ್ಲಾ ತಲುಪಿದ್ದಾರೆ!",
+      "noPendingSubmissions": "ಗ್ರೇಡ್ ಮಾಡಲು ಬಾಕಿ ಸಲ್ಲಿಕೆಗಳಿಲ್ಲ."
+    },
+    "stats": {
+      "totalStudents": "ಒಟ್ಟು ವಿದ್ಯಾರ್ಥಿಗಳು",
+      "assignments": "ಅಸೈನ್‌ಮೆಂಟ್‌ಗಳು",
+      "quizzes": "ಕ್ವಿಜ್‌ಗಳು",
+      "overdueItems": "ಮೀರಿದ ಐಟಂಗಳು",
+      "pendingGrades": "ಬಾಕಿ ಗ್ರೇಡ್ಸ್",
+      "classAverage": "ಕ್ಲಾಸ್ ಸರಾಸರಿ"
+    },
+    "studentList": {
+      "allStudents": "ಎಲ್ಲಾ ವಿದ್ಯಾರ್ಥಿಗಳು",
+      "averageGrade": "ಸರಾಸರಿ ಗ್ರೇಡ್",
+      "viewDetails": "ವಿವರಗಳನ್ನು ನೋಡಿ",
+      "backToOverview": "ಊಹೆಗೆ ಹಿಂತಿರುಗಿ"
+    }
+  },
+  "status": {
+    "graded": "ಗ್ರೇಡ್ ಮಾಡಲಾಗಿದೆ",
+    "submitted": "ಸಲ್ಲಿಸಲಾಗಿದೆ",
+    "notSubmitted": "ಸಲ್ಲಿಸಲಾಗಿಲ್ಲ",
+    "overdue": "ಕಾಲಹರಣ",
+    "inProgress": "ಚಾಲನೆಯಲ್ಲಿದೆ",
+    "pending": "ಬಾಕಿ",
+    "noDueDate": "ಕಾಲಾವಧಿ ಇಲ್ಲ"
+  },
+  "buttons": {
+    "viewDetails": "ವಿವರಗಳನ್ನು ನೋಡಿ",
+    "backToOverview": "ಒಟ್ಟಾರೆಗೆ ಹಿಂತಿರುಗಿ",
+    "backToDashboard": "ಡ್ಯಾಶ್‌ಬೋರ್ಡ್‌ಗೆ ಹಿಂತಿರುಗಿ",
+    "close": "ಮುಚ್ಚು",
+    "save": "ಉಳಿಸಿ",
+    "cancel": "ರದ್ದು ಮಾಡಿ",
+    "enterGrade": "ಗ್ರೇಡ್ ನಮೂದಿಸಿ",
+    "edit": "ಸಂಪಾದಿಸಿ"
+  },
+  "labels": {
+    "due": "ಕಾಲಾವಧಿ",
+    "na": "ಅಸ್ತಿತ್ವದಲ್ಲಿಲ್ಲ",
+    "of": "ನಿಂದ"
+  }
+}

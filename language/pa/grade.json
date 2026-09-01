@@ -1,0 +1,176 @@
+{
+  "common": {
+    "grade": "ਗਰੇਡ",
+    "grades": "ਗਰੇਡਸ",
+    "student": "ਵਿਦਿਆਰਥੀ",
+    "students": "ਵਿਦਿਆਰਥੀਆਂ",
+    "assignment": "ਅਸਾਇਨਮੈਂਟ",
+    "assignments": "ਅਸਾਇਨਮੈਂਟਸ",
+    "quiz": "ਕਵਿਜ਼",
+    "quizzes": "ਕਵਿਜ਼ਜ਼",
+    "average": "ਔਸਤ",
+    "overall": "ਕੁੱਲ",
+    "dueDate": "ਅੰਤਿਮ ਮਿਤੀ",
+    "submitted": "ਜਮ੍ਹਾਂ ਕੀਤਾ",
+    "status": "ਸਥਿਤੀ",
+    "actions": "ਕਾਰਵਾਈਆਂ",
+    "details": "ਵੇਰਵੇ",
+    "name": "ਨਾਮ",
+    "email": "ਈਮੇਲ",
+    "points": "ਪੋਇੰਟਸ",
+    "maxPoints": "ਅਧਿਕਤਮ ਪੋਇੰਟਸ",
+    "percentage": "ਸ਼ਤਸ਼ਤ",
+    "loading": "ਲੋਡ ਹੋ ਰਿਹਾ ਹੈ",
+    "error": "ਗਲਤੀ",
+    "noData": "ਕੋਈ ਡਾਟਾ ਨਹੀਂ",
+    "pts": "ਪੋਇੰਟਸ",
+    "days": "ਦਿਨ"
+  },
+  "teacher": {
+    "gradebook": {
+      "overview": "ਜਾਇਜ਼ਾ",
+      "gradeTable": "ਗਰੇਡ ਟੇਬਲ",
+      "searchStudents": "ਵਿਦਿਆਰਥੀਆਂ ਦੀ ਖੋਜ ਕਰੋ",
+      "filterByName": "ਵਿਦਿਆਰਥੀ ਦੇ ਨਾਮ ਦੁਆਰਾ ਫਿਲਟਰ ਕਰੋ...",
+      "searchAssignment": "ਕੁਇਜ਼ ਜਾਂ ਅਸਾਇਨਮੈਂਟ ਦੀ ਖੋਜ ਕਰੋ",
+      "filterAssignment": "ਫਿਲਟਰ ਕਰੋ...",
+      "filterByType": "ਕਿਸਮ ਦੁਆਰਾ ਫਿਲਟਰ ਕਰੋ",
+      "all": "ਸਾਰੇ",
+      "title": "ਗਰੇਡ ਪ੍ਰਬੰਧਨ ਡੈਸ਼ਬੋਰਡ"
+    },
+    "overview": {
+      "requiresAttention": "ਧਿਆਨ ਦੀ ਲੋੜ ਹੈ",
+      "pendingGrades": "ਬਕਾਇਆ ਗਰੇਡ",
+      "overdueAssignments": "ਵਿਦਿਆਰਥੀਆਂ ਦੇ ਅਸਾਇਨਮੈਂਟ",
+      "toGrade": "ਗਰੇਡ ਕਰਨ ਲਈ",
+      "noPendingGrades": "ਕੋਈ ਬਕਾਇਆ ਗਰੇਡ ਨਹੀਂ",
+      "allSubmissionsGraded": "ਸਾਰੇ ਸਬਮਿਸ਼ਨ ਗਰੇਡ ਕੀਤੇ ਗਏ ਹਨ",
+      "noOverdueAssignments": "ਕੋਈ ਵਧੀਕ ਅਸਾਇਨਮੈਂਟ ਨਹੀਂ",
+      "allOnTrack": "ਸਾਰੇ ਅਸਾਇਨਮੈਂਟ ਟ੍ਰੈਕ 'ਤੇ ਹਨ",
+      "totalStudents": "ਕੁੱਲ ਵਿਦਿਆਰਥੀ",
+      "classAverage": "ਕਲਾਸ ਦਾ ਔਸਤ",
+      "allCaughtUp": "ਸਾਰੇ ਪੂਰੇ ਹੋ ਗਏ!",
+      "noPendingSubmissions": "ਗਰੇਡ ਕਰਨ ਲਈ ਕੋਈ ਬਕਾਇਆ ਸਬਮਿਸ਼ਨ ਨਹੀਂ ਹਨ"
+    },
+    "stats": {
+      "totalStudents": "ਕੁੱਲ ਵਿਦਿਆਰਥੀ",
+      "assignments": "ਅਸਾਇਨਮੈਂਟ",
+      "quizzes": "ਕੁਇਜ਼",
+      "overdueItems": "ਵਧੀਕ ਆਈਟਮ",
+      "pendingGrades": "ਬਕਾਇਆ ਗਰੇਡ",
+      "classAverage": "ਕਲਾਸ ਦਾ ਔਸਤ"
+    },
+    "studentList": {
+      "allStudents": "ਸਾਰੇ ਵਿਦਿਆਰਥੀ",
+      "averageGrade": "ਔਸਤ ਗਰੇਡ",
+      "viewDetails": "ਵੇਰਵੇ ਵੇਖੋ",
+      "backToOverview": "ਜਾਇਜ਼ੇ 'ਤੇ ਵਾਪਸ ਜਾਓ"
+    },
+    "studentDetail": {
+      "gradeDetailsFor": "ਗਰੇਡ ਵੇਰਵੇ ਲਈ",
+      "overallAverage": "ਕੁੱਲ ਔਸਤ",
+      "noGradesAvailable": "ਕੋਈ ਗਰੇਡ ਉਪਲਬਧ ਨਹੀਂ",
+      "backToStudentList": "ਵਾਪਸ ਵਿਦਿਆਰਥੀ ਸੂਚੀ 'ਤੇ",
+      "dueDate": "ਅੰਤਿਮ ਮਿਤੀ",
+      "gradedSubmittedOn": "ਗਰੇਡ / ਸਬਮਿਟ ਕੀਤਾ ਗਿਆ",
+      "notGraded": "ਗਰੇਡ ਨਹੀਂ ਕੀਤਾ"
+    },
+    "assignment": {
+      "pendingGradesView": "ਬਕਾਇਆ ਗਰੇਡ",
+      "overdueStudents": "ਅਵਧੀ ਤੋਂ ਬਾਹਰ ਵਿਦਿਆਰਥੀ",
+      "studentsToGrade": "ਗਰੇਡ ਕਰਨ ਲਈ ਵਿਦਿਆਰਥੀ",
+      "studentsOverdue": "ਅਵਧੀ ਤੋਂ ਬਾਹਰ ਵਿਦਿਆਰਥੀ",
+      "submittedOn": "ਸਬਮਿਟ ਕੀਤਾ ਗਿਆ",
+      "daysOverdue": "ਅਵਧੀ ਤੋਂ ਬਾਹਰ ਦਿਨ",
+      "enterGrade": "ਗਰੇਡ ਦਾਖਲ ਕਰੋ",
+      "backToListing": "ਲਿਸਟਿੰਗ 'ਤੇ ਵਾਪਸ",
+      "allPendingGrades": "ਸਾਰੇ ਬਕਾਇਆ ਗਰੇਡ",
+      "total": "ਕੁੱਲ",
+      "submissionsToGrade": "ਗਰੇਡ ਕਰਨ ਲਈ ਸਬਮਿਟ",
+      "overdueItems": "ਅਵਧੀ ਤੋਂ ਬਾਹਰ ਆਈਟਮ",
+      "noOverdueStudents": "ਇਸ ਅਸਾਇਨਮੈਂਟ ਲਈ ਕੋਈ ਅਵਧੀ ਤੋਂ ਬਾਹਰ ਵਿਦਿਆਰਥੀ ਨਹੀਂ ਹਨ",
+      "noPendingSubmissionsForAssignment": "ਇਸ ਅਸਾਇਨਮੈਂਟ ਲਈ ਗਰੇਡ ਕਰਨ ਲਈ ਕੋਈ ਬਕਾਇਆ ਸਬਮਿਟ ਨਹੀਂ ਹਨ",
+      "noOverdueItemsDesc": "ਕੋਈ ਅਵਧੀ ਤੋਂ ਬਾਹਰ ਆਈਟਮ ਨਹੀਂ"
+    },
+    "gradeTable": {
+      "enterGrade": "ਗਰੇਡ ਦਾਖਲ ਕਰੋ"
+    },
+    "messages": {
+      "loadingGradebook": "ਗਰੇਡਬੁੱਕ ਲੋਡ ਹੋ ਰਿਹਾ ਹੈ...",
+      "errorLoadingGradebook": "ਗਰੇਡਬੁੱਕ ਲੋਡ ਕਰਨ ਵਿੱਚ ਗਲਤੀ",
+      "noGradableItems": "ਇਸ ਕੋਰਸ ਵਿੱਚ ਕੋਈ ਗਰੇਡ ਕਰਨ ਯੋਗ ਆਈਟਮ (ਅਸਾਇਨਮੈਂਟ ਜਾਂ ਕਵਿਜ਼) ਨਹੀਂ ਹਨ",
+      "invalidGrade": "ਕਿਰਪਾ ਕਰਕੇ 0 ਅਤੇ {{maxGrade}} ਦੇ ਵਿਚਕਾਰ ਇੱਕ ਵੈਧ ਗਰੇਡ ਦਾਖਲ ਕਰੋ",
+      "errorSavingGrade": "ਗਰੇਡ ਸੇਵ ਕਰਨ ਵਿੱਚ ਗਲਤੀ ਕਿਰਪਾ ਕਰਕੇ ਦੁਬਾਰਾ ਕੋਸ਼ਿਸ਼ ਕਰੋ"
+    }
+  },
+  "status": {
+    "graded": "ਗਰੇਡ ਕੀਤਾ",
+    "submitted": "ਸਬਮਿਟ ਕੀਤਾ",
+    "notSubmitted": "ਨਹੀਂ ਦਿੱਤਾ ਗਿਆ",
+    "overdue": "ਵਾਧੂ",
+    "inProgress": "ਜਾਰੀ ਹੈ",
+    "pending": "ਲੰਬਿਤ",
+    "noDueDate": "ਕੋਈ ਮਿਆਦ ਨਹੀਂ"
+  },
+  "buttons": {
+    "viewDetails": "ਵੇਖੋ ਵੇਰਵੇ",
+    "backToOverview": "ਜਾਇਜ਼ਾ 'ਤੇ ਵਾਪਸ",
+    "backToDashboard": "ਡੈਸ਼ਬੋਰਡ 'ਤੇ ਵਾਪਸ",
+    "close": "ਬੰਦ ਕਰੋ",
+    "save": "ਸੇਵ ਕਰੋ",
+    "cancel": "ਰੱਦ ਕਰੋ",
+    "enterGrade": "ਗਰੇਡ ਦਾਖਲ ਕਰੋ",
+    "edit": "ਸੋਧ ਕਰੋ"
+  },
+  "labels": {
+    "due": "ਮਿਆਦ",
+    "na": "ਲਾਗੂ ਨਹੀਂ",
+    "of": "ਦਾ"
+  },
+  "student": {
+    "dashboard": {
+      "title": "ਤੁਹਾਡਾ ਗਰੇਡ ਡੈਸ਼ਬੋਰਡ",
+      "overallGrade": "ਕੁੱਲ ਗਰੇਡ",
+      "excellent": "ਸ਼ਾਨਦਾਰ",
+      "needsImprovement": "ਸੁਧਾਰ ਦੀ ਲੋੜ",
+      "assignmentsSubmitted": "ਸੌਂਪੇ ਗਏ ਅਸਾਈਨਮੈਂਟ",
+      "assignmentsGraded": "ਗਰੇਡ ਕੀਤੇ ਅਸਾਈਨਮੈਂਟ",
+      "quizzesCompleted": "ਪੂਰੇ ਕੀਤੇ ਕਵਿਜ਼",
+      "pendingGrades": "ਬਕਾਇਆ ਗਰੇਡ",
+      "overdueItems": "ਵਿਲੰਬਿਤ ਆਈਟਮ",
+      "upcomingDeadlines": "ਆਉਣ ਵਾਲੀਆਂ ਮਿਆਦਾਂ",
+      "overdue": "ਵਿਲੰਬਿਤ",
+      "noUpcomingDeadlines": "ਕੋਈ ਆਉਣ ਵਾਲੀ ਮਿਆਦ ਨਹੀਂ",
+      "noOverdueItems": "ਕੋਈ ਵਿਲੰਬਿਤ ਆਈਟਮ ਨਹੀਂ"
+    },
+    "header": {
+      "backToDashboard": "ਡੈਸ਼ਬੋਰਡ 'ਤੇ ਵਾਪਸ",
+      "viewAllGrades": "ਸਾਰੇ ਗਰੇਡ ਵੇਖੋ"
+    },
+    "table": {
+      "allGrades": "ਸਾਰੇ ਗਰੇਡ",
+      "activity": "ਗਤੀਵਿਧੀ",
+      "type": "ਕਿਸਮ",
+      "grade": "ਗਰੇਡ",
+      "pending": "ਬਕਾਇਆ"
+    },
+    "modal": {
+      "submissionDetails": "ਸੌਂਪਣ ਦੀ ਜਾਣਕਾਰੀ",
+      "yourScore": "ਤੁਹਾਡਾ ਸਕੋਰ",
+      "close": "ਬੰਦ ਕਰੋ"
+    },
+    "messages": {
+      "loadingGrades": "ਗਰੇਡ ਲੋਡ ਹੋ ਰਹੇ ਹਨ...",
+      "fetchingData": "ਕਿਰਪਾ ਕਰਕੇ ਕੁਝ ਸਮਾਂ ਲਓ, ਅਸੀਂ ਨਵਾਂ ਡੇਟਾ ਲੈ ਰਹੇ ਹਾਂ",
+      "errorLoadingGrades": "ਗਰੇਡ ਲੋਡ ਕਰਨ ਵਿੱਚ ਗਲਤੀ",
+      "noCourseSelected": "ਕੋਈ ਕੋਰਸ ਚੁਣਿਆ ਨਹੀਂ ਗਿਆ",
+      "selectCourse": "ਕਿਰਪਾ ਕਰਕੇ ਗਰੇਡ ਜਾਣਕਾਰੀ ਵੇਖਣ ਲਈ ਇੱਕ ਕੋਰਸ ਚੁਣੋ",
+      "noGradableItems": "ਕੋਈ ਗਰੇਡ ਕਰਨ ਯੋਗ ਆਈਟਮ ਨਹੀਂ ਮਿਲੇ",
+      "noGradableItemsDesc": "ਅਸੀਂ ਮੂਡਲ ਨਾਲ ਸਫਲਤਾਪੂਰਕ ਜੁੜੇ ਅਤੇ ਇਸ ਕੋਰਸ ਲਈ ਡੇਟਾ ਲੋਡ ਕੀਤਾ, ਪਰ ਸਾਡੇ ਖਾਤੇ ਲਈ ਕੋਈ ਗਰੇਡ ਕਰਨ ਯੋਗ ਗਤੀਵਿਧੀਆਂ (ਜਿਵੇਂ ਕਿ ਅਸਾਈਨਮੈਂਟ ਜਾਂ ਕਵਿਜ਼) ਨਹੀਂ ਮਿਲੀਆਂ",
+      "whatToCheckNext": "ਅਗਲਾ ਕੀ ਚੈੱਕ ਕਰਨਾ ਹੈ:",
+      "checkCourseContent": "ਕੋਰਸ ਸਮੱਗਰੀ: ਯਕੀਨੀ ਬਣਾਓ ਕਿ Moodle ਵਿੱਚ ਕੋਰਸ (ID: {{courseId}}) ਵਿੱਚ ਵਾਸਤਵ ਵਿੱਚ \"ਅਸਾਈਨਮੈਂਟ\" ਜਾਂ \"ਕੁਇਜ਼\" ਗਤੀਵਿਧੀਆਂ ਹਨ.",
+      "checkEnrollment": "ਭਰਤੀ: ਯਕੀਨੀ ਬਣਾਓ ਕਿ ਤੁਸੀਂ ਇਸ ਕੋਰਸ ਵਿੱਚ ਠੀਕ ਤਰ੍ਹਾਂ ਭਰਤੀ ਹੋਏ ਹੋ.",
+      "tryDifferentCourse": "ਵੱਖਰਾ ਕੋਰਸ: ਦੇਖੋ ਕਿ ਕੀ ਗਰੇਡ ਕਿਸੇ ਵੱਖਰੇ ਕੋਰਸ ਵਿੱਚ ਦਿਖਾਈ ਦਿੰਦੇ ਹਨ."
+    }
+  }
+}

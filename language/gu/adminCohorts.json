@@ -1,0 +1,248 @@
+{
+  "page": {
+    "title": "બેચ મેનેજમેન્ટ",
+    "subtitle": "યુઝર બેચ બનાવો અને મેનેજ કરો",
+    "loading": "બેચ લોડ થઈ રહ્યા છે...",
+    "noDescription": "કોઈ વર્ણન નથી",
+    "emptyMessage": "કોઈ બેચ ઉપલબ્ધ નથી. નવા બેચ ઉમેરો.",
+    "noGroupsFound": "આ શોધ માટે કોઈ બેચ મળ્યા નથી"
+  },
+  "emptyState": {
+    "title": "હજી કોઈ બેચ નથી",
+    "description": "પહેલો બેચ બનાવીને શરૂ કરો.",
+    "createButton": "નવું બેચ બનાવો"
+  },
+  "navigation": {
+    "editCohort": "બેચ સંપાદિત કરો",
+    "createCohort": "નવું બેચ બનાવો",
+    "deleteCohort": "બેચ કાઢી નાખો",
+    "deleteCohorts": "બેચ કાઢી નાખો"
+  },
+  "buttons": {
+    "addCohort": "બેચ ઉમેરો",
+    "selectAll": "બધા પસંદ કરો",
+    "deselectAll": "બધા પસંદ કાઢો",
+    "deleteSelected": "બેચ કાઢી નાખો",
+    "edit": "બેચ સંપાદિત કરો",
+    "delete": "બેચ કાઢી નાખો",
+    "cancel": "રદ્દ કરો",
+    "create": "બેચ બનાવો",
+    "update": "બેચ અપડેટ કરો",
+    "creating": "બનાવવામાં આવી રહ્યું છે...",
+    "updating": "અપડેટ થઈ રહ્યું છે...",
+    "deleting": "કાઢી નાંખવામાં આવી રહ્યું છે..."
+  },
+  "table": {
+    "headers": {
+      "serialNumber": "ક્રમ",
+      "cohortName": "બેચનું નામ",
+      "idNumber": "આઈડી નંબર",
+      "description": "વર્ણન",
+      "visible": "દેખાય છે",
+      "actions": "ક્રિયાઓ"
+    },
+    "search": {
+      "placeholder": "બેચ શોધો..."
+    },
+    "visible": {
+      "yes": "હા",
+      "no": "નહીં"
+    },
+    "fallbacks": {
+      "untitledCohort": "નામહીન બેચ"
+    }
+  },
+  "form": {
+    "labels": {
+      "cohortName": "બેચનું નામ",
+      "idNumber": "આઈડી નંબર",
+      "description": "વર્ણન",
+      "visible": "દેખાય છે"
+    },
+    "placeholders": {
+      "cohortName": "બેચનું નામ દાખલ કરો",
+      "idNumber": "આઈડી નંબર દાખલ કરો (વૈકલ્પિક)",
+      "description": "વર્ણન દાખલ કરો (વૈકલ્પિક)"
+    },
+    "validation": {
+      "cohortNameRequired": "બેચનું નામ જરૂરી છે",
+      "cohortNameMinLength": "બેચનું નામ ઓછામાં ઓછા 2 અક્ષરોનું હોવું જોઈએ",
+      "cohortNameMaxLength": "બેચનું નામ 200 અક્ષરોથી વધુ ન હોવું જોઈએ",
+      "idNumberMaxLength": "આઈડી નંબર 50 અક્ષરોથી વધુ ન હોવું જોઈએ",
+      "descriptionMaxLength": "વર્ણન 1000 અક્ષરોથી વધુ ન હોવું જોઈએ"
+    },
+    "modes": {
+      "edit": {
+        "title": "બેચ સંપાદિત કરો",
+        "subtitle": "{{cohortName}} ની માહિતી અપડેટ કરો"
+      },
+      "create": {
+        "title": "બેચ બનાવો",
+        "subtitle": "સિસ્ટમમાં નવો બેચ ઉમેરો"
+      }
+    },
+    "visibility": {
+      "visible": "દેખાય છે",
+      "hidden": "છુપાયેલું",
+      "visibleDescription": "આ બેચ દેખાય છે અને ઉપયોગ માટે ઉપલબ્ધ છે.",
+      "hiddenDescription": "આ બેચ સામાન્ય દૃશ્યતામાંથી છુપાયેલું છે."
+    }
+  },
+  "modals": {
+    "deleteSingle": {
+      "title": "બેચ કાઢી નાખો",
+      "warning": "આ કાર્ય પાછું ફેરવાતું નથી",
+      "description": "તમે આ બેચ કાયમી રીતે કાઢી નાંખવા જઈ રહ્યા છો.",
+      "disclaimer": "આ બેચ દ્વારા કોર્સમાં દાખલ કરાયેલા યુઝર્સ પણ તે કોર્સમાંથી કાઢી નાખવામાં આવશે.",
+      "listLabel": "બેચ વિગતો",
+      "confirmation": "શું તમે ખરેખર આ બેચ ડિલીટ કરવા માંગો છો?"
+    },
+    "deleteMultiple": {
+      "title": "બેચ ડિલીટ કરો",
+      "warning": "આ ક્રિયા રદ કરી શકાશે નહીં",
+      "description": "તમે સ્થાયી રીતે {{count}} બેચ ડિલીટ કરવા જઇ રહ્યા છો.",
+      "disclaimer": "આ બેચ મારફતે કોર્સમાં નોંધાયેલા યુઝર્સ પણ તે કોર્સમાંથી અનએન્ક્રોલ કરી દેવામાં આવશે.",
+      "listLabel": "ડિલીટ કરવા માટેના બેચ ({{count}})",
+      "confirmation": "શું તમે ખરેખર {{count}} બેચ ડિલીટ કરવા માંગો છો?"
+    },
+    "details": {
+      "name": "નામ",
+      "description": "વર્ણન",
+      "idNumber": "આઈડી નંબર"
+    }
+  },
+  "messages": {
+    "success": {
+      "cohortCreated": "બેચ સફળતાપૂર્વક બનાવાયો",
+      "cohortUpdated": "બેચ સફળતાપૂર્વક અપડેટ થયો",
+      "cohortDeleted": "બેચ સફળતાપૂર્વક ડિલીટ થયો",
+      "cohortsDeleted": "પસંદ કરાયેલા બેચ સફળતાપૂર્વક ડિલીટ થયા"
+    },
+    "error": {
+      "failedToLoad": "બેચ લોડ થવામાં નિષ્ફળ રહ્યા",
+      "failedToCreate": "બેચ બનાવવામાં નિષ્ફળ",
+      "failedToUpdate": "બેચ અપડેટ કરવામાં નિષ્ફળ",
+      "deleteFailed": "બેચ ડિલીટ કરવામાં નિષ્ફળ",
+      "deleteMultipleFailed": "પસંદ કરાયેલા બેચ ડિલીટ કરવામાં નિષ્ફળ",
+      "errorCreating": "બેચ બનાવતી વખતે ત્રુટિ આવી",
+      "errorUpdating": "બેચ અપડેટ કરતી વખતે ત્રુટિ આવી",
+      "cohortNotFound": "બેચ મળી નથી"
+    },
+    "warning": {
+      "selectCohortsToDelete": "કૃપા કરીને ડિલીટ કરવા માટે ઓછામાં ઓછા એક ગ્રુલ પસંદ કરો"
+    }
+  },
+  "members": {
+    "title": "બેચ સભ્યો",
+    "subtitle": "આ બેચમાં પહેલેથી ઉમેરાયેલા યુઝર્સને મેનેજ કરો",
+    "addTitle": "બેચમાં સભ્યો ઉમેરો",
+    "addSubtitle": "આ બેચમાં હજી સામેલ ન થતા યુઝર્સ ઉમેરો",
+    "loading": "બેચ સભ્યો લોડ થઈ રહ્યા છે...",
+    "empty": "આ બેચમાં હજી કોઈ સભ્ય ઉમેરાયો નથી.",
+    "emptyAdd": "ઉમેરવા માટે કોઈ યુઝર ઉપલબ્ધ નથી.",
+    "removed": "સભ્યને.grpમાંથી સફળતાપૂર્વક કાઢવામાં આવ્યો",
+    "added": "સભ્યને બેચમાં સફળતાપૂર્વક ઉમેરાયો",
+    "loadFailed": "બેચના સભ્યો લોડ કરવામાં નિષ્ફળ",
+    "fallbackName": "બેચ {{id}}",
+    "userFallback": "યુઝર {{id}}",
+    "tabs": {
+      "members": "સભ્યો",
+      "courses": "કોર્સ",
+      "ariaLabel": "બેચ વિગતો"
+    },
+    "buttons": {
+      "addUser": "બેચમાં યુઝર ઉમેરો",
+      "addCourse": "કોર્સ ઉમેરો",
+      "add": "ઉમેરો",
+      "remove": "હટાવો",
+      "addSelected": "પસંદ કરેલાઓ ઉમેરો",
+      "bulkAdd": "બલ્ક ઉમેરો",
+      "confirmAdd": "ઉમેરો પુષ્ટિ કરો",
+      "adding": "ઉમેરાઈ રહ્યું છે...",
+      "cancelBulk": "બલ્ક રદ કરો",
+      "back": "પાછા"
+    },
+    "table": {
+      "serialNumber": "સિરીયલ નં.",
+      "name": "નામ",
+      "email": "ઈમેલ",
+      "action": "ક્રિયા"
+    },
+    "search": {
+      "members": "સભ્યો શોધો...",
+      "users": "યુઝર્સ શોધો...",
+      "noMembers": "કોઈ મેચ થતા સભ્યો મળ્યા નથી.",
+      "noUsers": "કોઈ મેચ થતા યુઝર્સ મળ્યા નથી."
+    },
+    "errors": {
+      "removeFailed": "સભ્ય હટાવવામાં નિષ્ફળ",
+      "loadUsersFailed": "યુઝર્સ લોડ કરવામાં નિષ્ફળ",
+      "addFailed": "સભ્ય ઉમેરવામાં નિષ્ફળ",
+      "addSelectedFailed": "પસંદ કરેલા સભ્યો ઉમેરવામાં નિષ્ફળ"
+    },
+    "selectedAdded": "પસંદ કરેલા સભ્યો સફળતાપૂર્વક ઉમેરાયા",
+    "bulkResult": "{{added}} ઉમેરાયા, {{failed}} નિષ્ફળ",
+    "noAvailableUsers": "ઉમેરવા માટે ઉપલબ્ધ કોઈ વપરાશકર્તા નથી."
+  },
+  "courses": {
+    "table": {
+      "serialNumber": "ક્રમ નં.",
+      "name": "કોર્સનું નામ",
+      "shortName": "શોર્ટ નામ",
+      "role": "એનરોલમેન્ટ રોલ"
+    },
+    "search": {
+      "placeholder": "કોર્સ શોધો...",
+      "modalPlaceholder": "નામ અથવા શોર્ટ નામ દ્વારા કોર્સ શોધો...",
+      "noMatches": "મેચ થતા કોઇ કોર્સ મળ્યા નથી."
+    },
+    "empty": "આ બેચને હજી સુધી કોઈ કોર્સ ફાળવવામાં આવ્યો નથી.",
+    "loadFailed": "ફાળવાયેલા કોર્સ લોડ કરવામાં નિષ્ફળ.",
+    "listLoadFailed": "કોર્સ લોડ કરવામાં નિષ્ફળ.",
+    "assignFailed": "કોર્સ ફાળવવામાં નિષ્ફળ.",
+    "assigned": "કોર્સ બેચમાં સફળતાપૂર્વક ઉમેરાયો",
+    "addModal": {
+      "title": "કોર્સ ઉમેરો",
+      "description": "{{groupName}} સોંપવા માટે એક કોર્સ પસંદ કરો.",
+      "loading": "કોર્સ લોડ થઈ રહ્યા છે...",
+      "allAssigned": "મૌજૂદા તમામ કોર્સ પહેલાથી જ આ બેચને ફાળવવામાં આવ્યા છે.",
+      "adding": "ઉમેરાઈ રહ્યું છે..."
+    }
+  },
+  "roles": {
+    "student": "વિદ્યાર્થી",
+    "teacher": "શિક્ષક",
+    "unknown": "-",
+    "modalTitle": "એનરોલમેન્ટ રોલ પસંદ કરો",
+    "addCoursePrompt": "પસંદ કરેલા કોર્સમાં આ બેચ માટે રોલ પસંદ કરો.",
+    "assignGroupPrompt": "{{groupName}} માટે રોલ પસંદ કરો.",
+    "confirmAssignment": "ફાળવણી પુષ્ટિ કરો"
+  },
+  "enrollment": {
+    "description": "{{courseName}} માટે મેનેજ કરવા માટે એક બેચ પસંદ કરો.",
+    "searchPlaceholder": "નામ અથવા આઈડી નંબર દ્વારા બેચ શોધો...",
+    "loading": "બેચ લોડ થઈ રહ્યા છે...",
+    "untitled": "નામ વગરનું બેચ",
+    "groupId": "બેચ આઈડી: {{id}}",
+    "assigned": "સોંપાયેલ",
+    "noMatches": "મેચ કરતા કોઈ બેચ મળ્યા નથી.",
+    "empty": "કોઈ બેચ ઉપલબ્ધ નથી.",
+    "selected": "પસંદ:",
+    "assignedCourses": "કોર્સમાં સોંપાયેલ",
+    "loadingCourses": "કોર્સ લોડ થઈ રહ્યું છે...",
+    "noCourses": "હજી સુધી કોઈ કોર્સ સોંપાયેલ નથી.",
+    "courseFallback": "કોર્સ {{id}}",
+    "courseId": "કોર્સ આઈડી: {{id}}",
+    "remove": "બેચ હટાવો",
+    "assign": "બેચ સોંપો",
+    "removing": "હટાવી રહ્યું છે...",
+    "assigning": "સોંપી રહ્યું છે...",
+    "loadFailed": "બેચ લોડ કરવામાં નિષ્ફળ.",
+    "loadAssignedFailed": "સોંપાયેલા બેચ લોડ કરવામાં નિષ્ફળ.",
+    "loadCoursesFailed": "બેચના કોર્સ લોડ કરવામાં નિષ્ફળ.",
+    "assignFailed": "બેચ સોંપવામાં નિષ્ફળ.",
+    "removeFailed": "બેચ હટાવવામાં નિષ્ફળ.",
+    "assignedSuccess": "બેચ સફળતાપૂર્વક કોર્સને સોંપાયો.",
+    "removedSuccess": "બેચ સફળતાપૂર્વક કોર્સમાંથી હટાવવામાં આવ્યો."
+  }
+}

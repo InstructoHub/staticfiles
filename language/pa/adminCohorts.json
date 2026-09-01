@@ -1,0 +1,248 @@
+{
+  "page": {
+    "title": "ਬੈਚ ਪ੍ਰਬੰਧਨ",
+    "subtitle": "ਯੂਜ਼ਰ ਬੈਚ ਬਣਾਓ ਅਤੇ ਪ੍ਰਬੰਧ ਕਰੋ",
+    "loading": "ਬੈਚ ਲੋਡ ਹੋ ਰਹੇ ਹਨ...",
+    "noDescription": "ਕੋਈ ਵਰਣਨ ਨਹੀਂ",
+    "emptyMessage": "ਕੋਈ ਬੈਚ ਉਪਲਬਧ ਨਹੀਂ ਨਵਾਂ ਬੈਚ ਜੋੜ ਕੇ ਸ਼ੁਰੂ ਕਰੋ",
+    "noGroupsFound": "ਤੁਹਾਡੇ ਖੋਜ ਮਾਪਦੰਡਾਂ ਨਾਲ ਕੋਈ ਬੈਚ ਨਹੀਂ ਮਿਲੇ"
+  },
+  "emptyState": {
+    "title": "ਹੁਣ ਤੱਕ ਕੋਈ ਬੈਚ ਨਹੀਂ",
+    "description": "ਪਹਿਲਾ ਬੈਚ ਬਣਾਕੇ ਸ਼ੁਰੂ ਕਰੋ.",
+    "createButton": "ਬੈਚ ਬਣਾਓ"
+  },
+  "navigation": {
+    "editCohort": "ਬੈਚ ਸੋਧੋ",
+    "createCohort": "ਨਵਾਂ ਬੈਚ ਬਣਾਓ",
+    "deleteCohort": "ਬੈਚ ਹਟਾਓ",
+    "deleteCohorts": "ਬੈਚ ਹਟਾਓ"
+  },
+  "buttons": {
+    "addCohort": "ਬੈਚ ਜੋੜੋ",
+    "selectAll": "ਸਭ ਚੁਣੋ",
+    "deselectAll": "ਸਭ ਦੀ ਚੋਣ ਹਟਾਓ",
+    "deleteSelected": "ਚੁਣੇ ਗਏ ਬੈਚ ਹਟਾਓ",
+    "edit": "ਬੈਚ ਸੋਧੋ",
+    "delete": "ਬੈਚ ਹਟਾਓ",
+    "cancel": "ਰੱਦ ਕਰੋ",
+    "create": "ਬੈਚ ਬਣਾਓ",
+    "update": "ਬੈਚ ਅਪਡੇਟ ਕਰੋ",
+    "creating": "ਬਣਾਇਆ ਜਾ ਰਿਹਾ ਹੈ...",
+    "updating": "ਅਪਡੇਟ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ...",
+    "deleting": "ਹਟਾਇਆ ਜਾ ਰਿਹਾ ਹੈ..."
+  },
+  "table": {
+    "headers": {
+      "serialNumber": "ਕ੍ਰਮ ਨੰ.",
+      "cohortName": "ਬੈਚ ਨਾਮ",
+      "idNumber": "ਆਈਡੀ ਨੰਬਰ",
+      "description": "ਵੇਰਵਾ",
+      "visible": "ਵਿਜ਼ੀਬਲ",
+      "actions": "ਕਾਰਵਾਈਆਂ"
+    },
+    "search": {
+      "placeholder": "ਬੈਚ ਖੋਜੋ..."
+    },
+    "visible": {
+      "yes": "ਹਾਂ",
+      "no": "ਨਹੀਂ"
+    },
+    "fallbacks": {
+      "untitledCohort": "ਬੇਸਿਰਲੇਖ ਬੈਚ"
+    }
+  },
+  "form": {
+    "labels": {
+      "cohortName": "ਬੈਚ ਦਾ ਨਾਮ",
+      "idNumber": "ਆਈਡੀ ਨੰਬਰ",
+      "description": "ਵੇਰਵਾ",
+      "visible": "ਦਿਖਾਈ ਦੇ ਰਿਹਾ"
+    },
+    "placeholders": {
+      "cohortName": "ਬੈਚ ਦਾ ਨਾਮ ਦਰਜ ਕਰੋ",
+      "idNumber": "ਆਈਡੀ ਨੰਬਰ ਦਰਜ ਕਰੋ (ਵਿਕਲਪਿਕ)",
+      "description": "ਵੇਰਵਾ ਦਰਜ ਕਰੋ (ਵਿਕਲਪਿਕ)"
+    },
+    "validation": {
+      "cohortNameRequired": "ਬੈਚ ਦਾ ਨਾਮ ਜ਼ਰੂਰੀ ਹੈ",
+      "cohortNameMinLength": "ਬੈਚ ਦਾ ਨਾਮ ਘੱਟੋ-ਘੱਟ 2 ਅੱਖਰਾਂ ਦਾ ਹੋਣਾ ਚਾਹੀਦਾ ਹੈ",
+      "cohortNameMaxLength": "ਬੈਚ ਦਾ ਨਾਮ 200 ਅੱਖਰਾਂ ਤੋਂ ਵੱਧ ਨਹੀਂ ਹੋ ਸਕਦਾ",
+      "idNumberMaxLength": "ਆਈਡੀ ਨੰਬਰ 50 ਅੱਖਰਾਂ ਤੋਂ ਵੱਧ ਨਹੀਂ ਹੋ ਸਕਦਾ",
+      "descriptionMaxLength": "ਵੇਰਵਾ 1000 ਅੱਖਰਾਂ ਤੋਂ ਵੱਧ ਨਹੀਂ ਹੋ ਸਕਦਾ"
+    },
+    "modes": {
+      "edit": {
+        "title": "ਬੈਚ ਸੋਧੋ",
+        "subtitle": "{{cohortName}} ਦੀ ਜਾਣਕਾਰੀ ਅਪਡੇਟ ਕਰੋ"
+      },
+      "create": {
+        "title": "ਨਵਾਂ ਬੈਚ ਬਣਾਓ",
+        "subtitle": "ਸਿਸਟਮ ਵਿੱਚ ਨਵਾਂ ਬੈਚ ਜੋੜੋ"
+      }
+    },
+    "visibility": {
+      "visible": "ਦਿਖਾਈ ਦੇ ਰਿਹਾ",
+      "hidden": "ਛੁਪਿਆ ਹੋਇਆ",
+      "visibleDescription": "ਇਹ ਬੈਚ ਦਿਖਾਈ ਦੇ ਰਿਹਾ ਹੈ ਅਤੇ ਵਰਤੋਂ ਲਈ ਉਪਲਬਧ ਹੈ",
+      "hiddenDescription": "ਇਹ ਬੈਚ ਆਮ ਨਜ਼ਰ ਤੋਂ ਛੁਪਿਆ ਹੋਇਆ ਹੈ"
+    }
+  },
+  "modals": {
+    "deleteSingle": {
+      "title": "ਬੈਚ ਮਿਟਾਓ",
+      "warning": "ਇਹ ਕਾਰਵਾਈ ਵਾਪਸ ਨਹੀਂ ਕੀਤੀ ਜਾ ਸਕਦੀ",
+      "description": "ਤੁਸੀਂ ਇਸ ਬੈਚ ਨੂੰ ਸਥਾਈ ਤੌਰ ਤੇ ਮਿਟਾਉਣ ਵਾਲੇ ਹੋ.",
+      "disclaimer": "ਇਸ ਬੈਚ ਰਾਹੀਂ ਜਿਹੜੇ ਯੂਜ਼ਰ ਕੋਰਸਾਂ ਵਿੱਚ ਦਾਖਲ ਹੋਏ ਸਨ, ਉਹਨਾਂ ਨੂੰ ਉਹ ਕੋਰਸਾਂ ਤੋਂ ਵੀ ਹਟਾ ਦਿੱਤਾ ਜਾਵੇਗਾ.",
+      "listLabel": "ਬੈਚ ਵੇਰਵਾ",
+      "confirmation": "ਕੀ ਤੁਸੀਂ ਇਸ ਬੈਚ ਨੂੰ ਮਿਟਾਉਣਾ ਚਾਹੁੰਦੇ ਹੋ?"
+    },
+    "deleteMultiple": {
+      "title": "ਬੈਚ ਮਿਟਾਓ",
+      "warning": "ਇਸ ਕਾਰਵਾਈ ਨੂੰ ਰੱਦ ਨਹੀਂ ਕੀਤਾ ਜਾ ਸਕਦਾ",
+      "description": "ਤੁਸੀਂ {{count}} ਬੈਚ ਸਥਾਈ ਤੌਰ 'ਤੇ ਮਿਟਾਉਣ ਵਾਲੇ ਹੋ.",
+      "disclaimer": "ਇਹਨਾਂ ਬੈਚਾਂ ਰਾਹੀਂ ਜੋ ਯੂਜ਼ਰ ਕੋਰਸਾਂ ਵਿੱਚ ਦਰਜ ਕੀਤੇ ਗਏ ਸਨ, ਉਹਨਾਂ ਨੂੰ ਵੀ ਉਹਨਾਂ ਕੋਰਸਾਂ ਤੋਂ ਦਾਖਲਾ ਹਟਾ ਦਿੱਤਾ ਜਾਵੇਗਾ.",
+      "listLabel": "ਮਿਟਾਉਣ ਲਈ ਬੈਚ ({{count}})",
+      "confirmation": "ਕੀ ਤੁਸੀਂ ਯਕੀਨਨ {{count}} ਬੈਚ ਮਿਟਾਉਣਾ ਚਾਹੁੰਦੇ ਹੋ?"
+    },
+    "details": {
+      "name": "ਨਾਮ",
+      "description": "ਵੇਰਵਾ",
+      "idNumber": "ਆਈਡੀ ਨੰਬਰ"
+    }
+  },
+  "messages": {
+    "success": {
+      "cohortCreated": "ਬੈਚ ਸਫਲਤਾਪੂਰਵਕ ਬਣਾਇਆ ਗਿਆ",
+      "cohortUpdated": "ਬੈਚ ਸਫਲਤਾਪੂਰਵਕ ਅਪਡੇਟ ਕੀਤਾ ਗਿਆ",
+      "cohortDeleted": "ਬੈਚ ਸਫਲਤਾਪੂਰਵਕ ਮਿਟਾਇਆ ਗਿਆ",
+      "cohortsDeleted": "ਚੁਣੇ ਗਏ ਬੈਚ ਸਫਲਤਾਪੂਰਵਕ ਮਿਟਾਏ ਗਏ"
+    },
+    "error": {
+      "failedToLoad": "ਬੈਚ ਲੋਡ ਨਹੀਂ ਹੋ ਸਕੇ",
+      "failedToCreate": "ਬੈਚ ਬਣਾਇਆ ਨਹੀਂ ਜਾ ਸਕਿਆ",
+      "failedToUpdate": "ਬੈਚ ਅਪਡੇਟ ਨਹੀਂ ਕੀਤਾ ਜਾ ਸਕਿਆ",
+      "deleteFailed": "ਬੈਚ ਮਿਟਾਇਆ ਨਹੀਂ ਜਾ ਸਕਿਆ",
+      "deleteMultipleFailed": "ਚੁਣੇ ਗਏ ਬੈਚ ਮਿਟਾਏ ਨਹੀਂ ਜਾ ਸਕੇ",
+      "errorCreating": "ਬੈਚ ਬਣਾਉਂਦੇ ਸਮੇਂ ਇੱਕ ਗਲਤੀ ਹੋ ਗਈ",
+      "errorUpdating": "ਬੈਚ ਅਪਡੇਟ ਕਰਦੇ ਸਮੇਂ ਇੱਕ ਗਲਤੀ ਹੋ ਗਈ",
+      "cohortNotFound": "ਬੈਚ ਨਹੀਂ ਮਿਲਿਆ"
+    },
+    "warning": {
+      "selectCohortsToDelete": "ਕਿਰਪਾ ਕਰਕੇ ਘੱਟੋ-ਘੱਟ ਇੱਕ ਬੈਚ ਮਿਟਾਉਣ ਲਈ ਚੁਣੋ"
+    }
+  },
+  "members": {
+    "title": "ਬੈਚ ਦੇ ਮੈਂਬਰ",
+    "subtitle": "ਇਸ ਬੈਚ ਵਿੱਚ ਪਹਿਲਾਂ ਤੋਂ ਸ਼ਾਮਿਲ ਯੂਜ਼ਰਾਂ ਨੂੰ ਮੈਨੇਜ ਕਰੋ",
+    "addTitle": "ਬੈਚ ਮੈਂਬਰ ਜੋੜੋ",
+    "addSubtitle": "ਉਹ ਯੂਜ਼ਰ ਜੋ ਅਜੇ ਤੱਕ ਇਸ ਬੈਚ ਵਿੱਚ ਨਹੀਂ ਹਨ, ਉਹਨਾਂ ਨੂੰ ਜੋੜੋ",
+    "loading": "ਬੈਚ ਦੇ ਮੈਂਬਰ ਲੋਡ ਹੋ ਰਹੇ ਹਨ...",
+    "empty": "ਅਜੇ ਤੱਕ ਇਸ ਬੈਚ ਵਿੱਚ ਕੋਈ ਮੈਂਬਰ ਜੋੜੇ ਗਏ ਨਹੀਂ ਹਨ.",
+    "emptyAdd": "ਜੋੜਨ ਲਈ ਕੋਈ ਯੂਜ਼ਰ ਉਪਲਬਧ ਨਹੀਂ.",
+    "removed": "ਮੈਂਬਰ ਨੂੰ ਬੈਚ ਤੋਂ ਸਫਲਤਾਪੂਰਵਕ ਹਟਾ ਦਿੱਤਾ ਗਿਆ",
+    "added": "ਮੈਂਬਰ ਨੂੰ ਬੈਚ ਵਿੱਚ ਸਫਲਤਾਪੂਰਵਕ ਜੋੜਿਆ ਗਿਆ",
+    "loadFailed": "ਬੈਚ ਦੇ ਮੈਂਬਰ ਲੋਡ ਨਹੀਂ ਹੋ ਸਕੇ",
+    "fallbackName": "ਬੈਚ {{id}}",
+    "userFallback": "ਯੂਜ਼ਰ {{id}}",
+    "tabs": {
+      "members": "ਮੈਂਬਰ",
+      "courses": "ਕੋਰਸ",
+      "ariaLabel": "ਬੈਚ ਵੇਰਵੇ"
+    },
+    "buttons": {
+      "addUser": "ਬੈਚ ਵਿੱਚ ਯੂਜ਼ਰ ਜੋੜੋ",
+      "addCourse": "ਕੋਰਸ ਜੋੜੋ",
+      "add": "ਜੋੜੋ",
+      "remove": "ਹਟਾਓ",
+      "addSelected": "ਚੁਣੇ ਹੋਏ ਜੋੜੋ",
+      "bulkAdd": "ਬਲਕ ਜੋੜੋ",
+      "confirmAdd": "ਜੋੜਨ ਦੀ ਪੁਸ਼ਟੀ ਕਰੋ",
+      "adding": "ਜੋੜਿਆ ਜਾ ਰਿਹਾ...",
+      "cancelBulk": "ਬਲਕ ਰੱਦ ਕਰੋ",
+      "back": "ਵਾਪਸ"
+    },
+    "table": {
+      "serialNumber": "ਕ੍ਰਮ ਨੰ.",
+      "name": "ਨਾਮ",
+      "email": "ਈਮੇਲ",
+      "action": "ਕਾਰਵਾਈ"
+    },
+    "search": {
+      "members": "ਮੈਂਬਰ ਖੋਜੋ...",
+      "users": "ਯੂਜ਼ਰ ਖੋਜੋ...",
+      "noMembers": "ਕੋਈ ਮੇਲ ਖਾਂਦੇ ਮੈਂਬਰ ਨਹੀਂ ਮਿਲੇ.",
+      "noUsers": "ਕੋਈ ਮੇਲ ਖਾਂਦੇ ਯੂਜ਼ਰ ਨਹੀਂ ਮਿਲੇ."
+    },
+    "errors": {
+      "removeFailed": "ਮੈਂਬਰ ਹਟਾਉਣ ਵਿੱਚ ਅਸਫਲ",
+      "loadUsersFailed": "ਯੂਜ਼ਰ ਲੋਡ ਨਹੀਂ ਹੋ ਸਕੇ",
+      "addFailed": "ਮੈਂਬਰ ਜੋੜਣ ਵਿੱਚ ਅਸਫਲ",
+      "addSelectedFailed": "ਚੁਣੇ ਹੋਏ ਮੈਂਬਰ ਜੋੜਣ ਵਿੱਚ ਅਸਫਲ"
+    },
+    "selectedAdded": "ਚੁਣੇ ਮੈਂਬਰ ਸਫਲਤਾਪੂਰਵਕ ਜੋੜੇ ਗਏ",
+    "bulkResult": "{{added}} ਜੋੜੇ ਗਏ, {{failed}} ਫੇਲ ਹੋਏ",
+    "noAvailableUsers": "ਜੋੜਨ ਲਈ ਕੋਈ ਉਪਲਬਧ ਯੂਜ਼ਰ ਨਹੀਂ"
+  },
+  "courses": {
+    "table": {
+      "serialNumber": "ਕ੍ਰਮਿਕ ਨੰ.",
+      "name": "ਕੋਰਸ ਦਾ ਨਾਮ",
+      "shortName": "ਛੋਟਾ ਨਾਮ",
+      "role": "ਦਾਖਲਾ ਰੋਲ"
+    },
+    "search": {
+      "placeholder": "ਕੋਰਸ ਖੋਜੋ...",
+      "modalPlaceholder": "ਨਾਂ ਜਾਂ ਛੋਟੇ ਨਾਮ ਨਾਲ ਕੋਰਸ ਖੋਜੋ...",
+      "noMatches": "ਕੋਈ ਮਿਲਦਾ-ਜੁਲਦਾ ਕੋਰਸ ਨਹੀਂ ਮਿਲਿਆ"
+    },
+    "empty": "ਇਸ ਬੈਚ ਨੂੰ ਅਜੇ ਤੱਕ ਕਿਸੇ ਵੀ ਕੋਰਸ ਨਾਲ ਅਸਾਈਨ ਨਹੀਂ ਕੀਤਾ ਗਿਆ",
+    "loadFailed": "ਅਸਾਈਨ ਕੀਤੇ ਕੋਰਸ ਲੋਡ ਨਹੀਂ ਹੋ ਸਕੇ",
+    "listLoadFailed": "ਕੋਰਸ ਲੋਡ ਨਹੀਂ ਹੋ ਸਕੇ",
+    "assignFailed": "ਕੋਰਸ ਅਸਾਈਨ ਨਹੀਂ ਕੀਤਾ ਜਾ ਸਕਿਆ",
+    "assigned": "ਕੋਰਸ ਬੈਚ ਵਿੱਚ ਸਫਲਤਾਪੂਰਵਕ ਜੋੜਿਆ ਗਿਆ",
+    "addModal": {
+      "title": "ਕੋਰਸ ਜੋੜੋ",
+      "description": "ਕਿਸੇ ਕੋਰਸ ਦੀ ਚੋਣ ਕਰੋ ਜਿਸ ਨੂੰ {{groupName}} ਨਾਲ ਅਸਾਈਨ ਕਰਨਾ ਹੈ",
+      "loading": "ਕੋਰਸ ਲੋਡ ਹੋ ਰਹੇ ਹਨ...",
+      "allAssigned": "ਸਾਰੇ ਉਪਲਬਧ ਕੋਰਸ ਇਸ ਬੈਚ ਨੂੰ ਪਹਿਲਾਂ ਹੀ ਅਸਾਈਨ ਕੀਤੇ ਜਾ ਚੁੱਕੇ ਹਨ",
+      "adding": "ਜੋੜਿਆ ਜਾ ਰਿਹਾ ਹੈ..."
+    }
+  },
+  "roles": {
+    "student": "ਵਿਦਿਆਰਥੀ",
+    "teacher": "ਅਧਿਆਪਕ",
+    "unknown": "-",
+    "modalTitle": "ਦਾਖਲਾ ਰੋਲ ਚੁਣੋ",
+    "addCoursePrompt": "ਚੁਣੇ ਹੋਏ ਕੋਰਸ ਵਿੱਚ ਇਸ ਬੈਚ ਲਈ ਰੋਲ ਚੁਣੋ",
+    "assignGroupPrompt": "{{groupName}} ਲਈ ਰੋਲ ਚੁਣੋ",
+    "confirmAssignment": "ਅਸਾਈਨਮੈਂਟ ਦੀ ਪੁਸ਼ਟੀ ਕਰੋ"
+  },
+  "enrollment": {
+    "description": "{{courseName}} ਲਈ ਪ੍ਰਬੰਧਣ ਕਰਨ ਲਈ ਇੱਕ ਬੈਚ ਚੁਣੋ",
+    "searchPlaceholder": "ਨਾਮ ਜਾਂ ਪਹਚਾਣ ਨੰਬਰ ਨਾਲ ਬੈਚ ਖੋਜੋ...",
+    "loading": "ਬੈਚ ਲੋਡ ਹੋ ਰਹੇ ਹਨ...",
+    "untitled": "ਬਿਨਾਂ ਸਿਰਲੇਖ ਵਾਲਾ ਬੈਚ",
+    "groupId": "ਬੈਚ ਆਈਡੀ: {{id}}",
+    "assigned": "ਅਸਾਈਨ ਕੀਤਾ",
+    "noMatches": "ਕੋਈ ਮਿਲਦਾ-ਜੁਲਦਾ ਬੈਚ ਨਹੀਂ ਮਿਲਿਆ",
+    "empty": "ਕੋਈ ਬੈਚ ਉਪਲੱਬਧ ਨਹੀਂ",
+    "selected": "ਚੁਣਿਆ:",
+    "assignedCourses": "ਕੋਰਸਾਂ ਨੂੰ ਅਸਾਈਨ ਕੀਤਾ",
+    "loadingCourses": "ਕੋਰਸ ਲੋਡ ਹੋ ਰਹੇ ਹਨ...",
+    "noCourses": "ਹਾਲੇ ਕਿਸੇ ਵੀ ਕੋਰਸ ਨੂੰ ਅਸਾਈਨ ਨਹੀਂ ਕੀਤਾ ਗਿਆ",
+    "courseFallback": "ਕੋਰਸ {{id}}",
+    "courseId": "ਕੋਰਸ ਆਈਡੀ: {{id}}",
+    "remove": "ਬੈਚ ਹਟਾਓ",
+    "assign": "ਬੈਚ ਅਸਾਈਨ ਕਰੋ",
+    "removing": "ਹਟਾਇਆ ਜਾ ਰਿਹਾ...",
+    "assigning": "ਅਸਾਈਨ ਕੀਤਾ ਜਾ ਰਿਹਾ...",
+    "loadFailed": "ਬੈਚ ਲੋਡ ਕਰਨ ਵਿੱਚ ਅਸਫਲ",
+    "loadAssignedFailed": "ਅਸਾਈਨ ਕੀਤੇ ਬੈਚ ਲੋਡ ਕਰਨ ਵਿੱਚ ਅਸਫਲ",
+    "loadCoursesFailed": "ਬੈਚ ਦੇ ਕੋਰਸ ਲੋਡ ਕਰਨ ਵਿੱਚ ਅਸਫਲ",
+    "assignFailed": "ਬੈਚ ਅਸਾਈਨ ਕਰਨ ਵਿੱਚ ਅਸਫਲ",
+    "removeFailed": "ਬੈਚ ਹਟਾਉਣ ਵਿੱਚ ਅਸਫਲ",
+    "assignedSuccess": "ਬੈਚ ਸਫਲਤਾਪੂਰਵਕ ਕੋਰਸ ਨਾਲ ਅਸਾਈਨ ਹੋ ਗਿਆ",
+    "removedSuccess": "ਬੈਚ ਸਫਲਤਾਪੂਰਵਕ ਕੋਰਸ ਤੋਂ ਹਟਾਇਆ ਗਿਆ"
+  }
+}

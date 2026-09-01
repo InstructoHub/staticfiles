@@ -1,0 +1,381 @@
+{
+  "emailSetup": {
+    "title": "Email Template Setup",
+    "subtitle": "Configure and manage your email template",
+    "backToTemplates": "Back to Email Templates",
+    "templateVariables": "Template Variables",
+    "copyVariableTooltip": "Click to copy variable to clipboard",
+    "templateSubjectLabel": "Template Subject *",
+    "templateSenderEmailLabel": "Template Sender Email *",
+    "templateSenderDisplayNameLabel": "Template Sender Display Name *",
+    "emailLayoutColorLabel": "Email Layout Color",
+    "htmlBodyLabel": "HTML Body *",
+    "cancelButton": "Cancel",
+    "saveChangesButton": "Save Changes",
+    "savingButton": "Saving...",
+    "confirmBackWarning": "Changes not saved. Are you sure you want to go back?",
+    "toasts": {
+      "failedToLoadVariables": "Failed to load email variables",
+      "failedToUpdateTemplate": "Failed to update email template",
+      "variableCopied": "Variable copied to clipboard!"
+    },
+    "validation": {
+      "slNoHeader": "Sl. No.",
+      "subjectRequired": "Template subject is required",
+      "subjectMinLength": "Template subject must be at least 2 characters",
+      "subjectMaxLength": "Template subject must not exceed 255 characters",
+      "senderEmailRequired": "Sender email is required",
+      "invalidEmailFormat": "Invalid email format",
+      "senderEmailMaxLength": "Sender email must not exceed 255 characters",
+      "displayNameRequired": "Sender display name is required",
+      "displayNameMinLength": "Sender display name must be at least 2 characters",
+      "displayNameMaxLength": "Sender display name must not exceed 255 characters"
+    }
+  },
+  "emailTemplates": {
+    "noTemplatesFound": "No email templates found",
+    "subjectLabel": "Subject:",
+    "contentPreview": "Template content preview",
+    "editButton": "Edit",
+    "templateNames": {
+      "set_password": "Set Password"
+    },
+    "toasts": {
+      "failedToLoad": "Failed to load email templates"
+    }
+  },
+  "moduleManagement": {
+    "title": "Module Management",
+    "subtitle": "Manage system modules and their metadata",
+    "addNewButton": "Add New Module",
+    "table": {
+      "slNoHeader": "Sl. No.",
+      "moduleHeader": "Module",
+      "descriptionHeader": "Description",
+      "moduleTypeHeader": "Module Type",
+      "createdAtHeader": "Created At",
+      "actionsHeader": "Actions",
+      "noModulesFound": "No modules found."
+    },
+    "form": {
+      "moduleNameLabel": "Module Name *",
+      "moduleDescriptionLabel": "Module Description",
+      "moduleTypeLabel": "Module Type *",
+      "moduleTypePlaceholder": "Select module type",
+      "courseTypeLabel": "Course Page Area *",
+      "courseTypePlaceholder": "Select course page area",
+      "moduleTypes": {
+        "adminMenu": "Admin Menu",
+        "dashboard": "Dashboard",
+        "leftMenu": "Left Side Bar",
+        "course": "Course Page",
+        "courseMain": "Course Main Content",
+        "courseRightbar": "Course Right Bar"
+      },
+      "saveChangesButton": "Save Changes",
+      "savingButton": "Saving...",
+      "cancelButton": "Cancel",
+      "createButton": "Create Module",
+      "creatingButton": "Creating...",
+      "editTitle": "Edit Module"
+    },
+    "deleteModal": {
+      "title": "Confirm Deletion",
+      "message": "Are you sure you want to delete the module",
+      "undoWarning": "This action cannot be undone.",
+      "deleteButton": "Delete Module",
+      "cancelButton": "Cancel"
+    },
+    "toasts": {
+      "failedToLoad": "Failed to load modules",
+      "createdSuccess": "Module created successfully",
+      "updatedSuccess": "Module updated successfully",
+      "createdFailed": "Failed to create module",
+      "updatedFailed": "Failed to update module",
+      "deletedSuccess": "Module deleted successfully",
+      "deletedFailed": "Failed to delete module"
+    },
+    "validation": {
+      "nameRequired": "Module name is required",
+      "nameMinLength": "Module name must be at least 2 characters",
+      "nameMaxLength": "Module name must not exceed 100 characters",
+      "descriptionMaxLength": "Description must not exceed 500 characters",
+      "moduleTypeRequired": "Module type is required",
+      "courseTypeRequired": "Course page area is required"
+    }
+  },
+  "pageHeader": {
+    "searchPlaceholder": "Search..."
+  },
+  "roleArchitectureDetail": {
+    "title": "Role Architecture Detail",
+    "subtitle": "Configure the default permissions for this role architecture across all modules.",
+    "backButton": "Back to Role Architectures",
+    "loading": "Loading modules...",
+    "loadFailed": "Failed to load data.",
+    "noModulesAvailable": "No modules available for configuration.",
+    "table": {
+      "moduleHeader": "Module",
+      "descriptionHeader": "Description",
+      "capabilitiesHeader": "Capabilities"
+    },
+    "capabilities": {
+      "create": "Create",
+      "read": "Read",
+      "edit": "Edit",
+      "delete": "Delete",
+      "enabledCount": "enabled"
+    },
+    "saveCapabilitiesButton": "Save Capabilities",
+    "savingButton": "Saving...",
+    "cancelButton": "Cancel",
+    "toasts": {
+      "failedToLoadModules": "Failed to load module list",
+      "saveSuccess": "Capabilities saved successfully",
+      "saveFailed": "Failed to save capabilities"
+    }
+  },
+  "roleArchitectureManagement": {
+    "title": "Role Architecture Management",
+    "subtitle": "Manage default permission sets for user roles",
+    "addNewButton": "Add New Architecture",
+    "table": {
+      "roleNameHeader": "Role Name",
+      "descriptionHeader": "Description",
+      "createdAtHeader": "Created At",
+      "actionsHeader": "Actions",
+      "noArchitecturesFound": "No role architectures found.",
+      "slNoHeader": "Sl. No."
+    },
+    "form": {
+      "architectureNameLabel": "Architecture Name *",
+      "architectureDescriptionLabel": "Architecture Description",
+      "saveChangesButton": "Save Changes",
+      "savingButton": "Saving...",
+      "cancelButton": "Cancel"
+    },
+    "deleteModal": {
+      "title": "Confirm Deletion",
+      "message": "Are you sure you want to delete the role architecture",
+      "undoWarning": "This action cannot be undone.",
+      "deleteButton": "Delete Role Architecture",
+      "cancelButton": "Cancel"
+    },
+    "toasts": {
+      "failedToLoad": "Failed to load role architectures",
+      "createdSuccess": "Role architecture created successfully",
+      "updatedSuccess": "Role architecture updated successfully",
+      "createdFailed": "Failed to create role architecture",
+      "updatedFailed": "Failed to update role architecture",
+      "deletedSuccess": "Role architecture deleted successfully",
+      "deletedFailed": "Failed to delete role architecture"
+    },
+    "validation": {
+      "nameRequired": "Role architecture name is required",
+      "nameMinLength": "Role name must be at least 2 characters",
+      "nameMaxLength": "Role name must not exceed 100 characters",
+      "descriptionMaxLength": "Description must not exceed 500 characters"
+    }
+  },
+  "roleManagement": {
+    "title": "Role Management",
+    "subtitle": "Manage custom user roles and assign role architectures",
+    "addNewButton": "Add New Role",
+    "table": {
+      "roleHeader": "Role",
+      "architectureHeader": "Architecture",
+      "descriptionHeader": "Description",
+      "createdAtHeader": "Created At",
+      "actionsHeader": "Actions",
+      "noRolesFound": "No custom roles found.",
+      "slNoHeader": "Sl. No."
+    },
+    "form": {
+      "roleNameLabel": "Role Name *",
+      "roleDescriptionLabel": "Role Description",
+      "architectureLabel": "Select Role Architecture *",
+      "architecturePlaceholder": "Select an architecture...",
+      "saveChangesButton": "Save Changes",
+      "savingButton": "Saving...",
+      "cancelButton": "Cancel"
+    },
+    "deleteModal": {
+      "title": "Confirm Deletion",
+      "message": "Are you sure you want to delete the role",
+      "undoWarning": "This action cannot be undone.",
+      "deleteButton": "Delete Role",
+      "cancelButton": "Cancel"
+    },
+    "toasts": {
+      "failedToLoadRoles": "Failed to load roles",
+      "failedToLoadArchitectures": "Failed to load role architectures",
+      "createdSuccess": "Role created successfully",
+      "updatedSuccess": "Role updated successfully",
+      "createdFailed": "Failed to create role",
+      "updatedFailed": "Failed to update role",
+      "deletedSuccess": "Role deleted successfully",
+      "deletedFailed": "Failed to delete role"
+    },
+    "validation": {
+      "nameRequired": "Role name is required",
+      "nameMinLength": "Role name must be at least 2 characters",
+      "nameMaxLength": "Role name must not exceed 100 characters",
+      "descriptionMaxLength": "Description must not exceed 500 characters",
+      "architectureRequired": "Role architecture is required"
+    }
+  },
+  "dashboardManagement": {
+    "title": "Dashboard Management",
+    "subtitle": "Manage and organize your Roles & Permissions",
+    "backButton": "Back",
+    "loading": "Loading Permissions...",
+    "errorPrefix": "Error: ",
+    "activePermissions": "Active Permissions:",
+    "dashboardModulesHeader": "Dashboard Modules",
+    "sidebarModulesHeader": "Sidebar Modules",
+    "moduleColumn": "Module",
+    "permissionsColumn": "Permissions",
+    "selectAll": "Select All",
+    "savePermissionsButton": "Save Permissions",
+    "savingButton": "Saving...",
+    "roleLabel": "Role",
+    "permissionsSectionTitle": "Module permissions",
+    "selectRoleDisclaimer": "Select a role to change permissions.",
+    "modulesCount": "{{count}} Modules",
+    "sidebarItemsCount": "{{count}} Items",
+    "noModulesForRole": "No modules available for this role",
+    "admin": "Admin",
+    "teacher": "Teacher",
+    "instructor": "Instructor",
+    "student": "Student",
+    "defaultRolesGroup": "Default Roles",
+    "customRolesGroup": "Custom Roles",
+    "customRoleTag": "Custom",
+    "toggleDisabled": "This permission is temporarily unavailable",
+    "toggleAlwaysOn": "This toggle cannot be turned off",
+    "toasts": {
+      "saveSuccess": "Permissions saved successfully",
+      "saveFailed": "Failed to save permissions"
+    }
+  },
+  "smtpConfiguration": {
+    "title": "SMTP Configuration",
+    "subtitle": "Set up your Simple Mail Transfer Protocol (SMTP) settings",
+    "backToControl": "Back to Access Control",
+    "hostLabel": "SMTP Host and Port *",
+    "hostPlaceholder": "e.g., mail.example.com:465 or mail1.com:587,mail2.com:587",
+    "securityLabel": "SMTP Security",
+    "securityHelpText": "Optional. Select 'ssl' for SMTPS on port 465, or 'tls' for STARTTLS on port 587. Leave blank for none.",
+    "securityNone": "None",
+    "securitySSL": "SSL",
+    "securityTLS": "TLS",
+    "usernameLabel": "SMTP Username *",
+    "usernamePlaceholder": "e.g., noreply@example.com",
+    "passwordLabel": "SMTP Password *",
+    "noreplyEmailLabel": "No-reply Email *",
+    "noreplyEmailHelpText": "This email will be used as the 'From' address for all automated notifications.",
+    "noreplyDisplayNameLabel": "No-reply Display Name *",
+    "noreplyDisplayNamePlaceholder": "e.g., InstructoHub Notifications",
+    "noreplyDisplayNameHelpText": "Display name shown as sender",
+    "cancelButton": "Cancel",
+    "saveConfigurationButton": "Save Configuration",
+    "savingButton": "Saving...",
+    "toasts": {
+      "failedToLoad": "Failed to load SMTP configuration",
+      "updateSuccess": "SMTP configuration updated successfully",
+      "updateFailed": "Failed to update SMTP configuration"
+    },
+    "validation": {
+      "hostRequired": "SMTP host is required",
+      "hostInvalidFormat": "Invalid format. Use host:port or host:port,host2:port2",
+      "securityInvalid": "Security must be empty, ssl, or tls",
+      "usernameRequired": "SMTP username is required",
+      "usernameMaxLength": "SMTP username must not exceed 255 characters",
+      "passwordRequired": "SMTP password is required",
+      "passwordMaxLength": "SMTP password must not exceed 255 characters",
+      "noreplyEmailRequired": "No-reply email is required",
+      "noreplyEmailInvalidFormat": "Invalid email format",
+      "noreplyEmailMaxLength": "No-reply email must not exceed 255 characters",
+      "noreplyDisplayNameRequired": "No-reply display name is required",
+      "noreplyDisplayNameMinLength": "No-reply display name must be at least 2 characters",
+      "noreplyDisplayNameMaxLength": "No-reply display name must not exceed 255 characters"
+    }
+  },
+  "accessControlDisplay": {
+    "emailSetupTitle": "Email Setup",
+    "emailSetupDescription": "Configure email templates and notification settings",
+    "smtpConfigurationTitle": "SMTP Configuration",
+    "smtpConfigurationDescription": "Configure SMTP server credentials and settings",
+    "dashboardManagementTitle": "Dashboard Management",
+    "dashboardManagementDescription": "Manage roles and permissions for dashboard modules",
+    "roleArchitectureManagementTitle": "Role Architecture Management",
+    "roleArchitectureManagementDescription": "Manage default permission sets for user roles",
+    "roleManagementTitle": "Role Management",
+    "roleManagementDescription": "Manage custom user roles and assign role architectures"
+  },
+  "customRoleDetail": {
+    "title": "Role Capability Customization",
+    "subtitle": "Customize permissions for this specific role across all modules. Changes here override the role architecture default.",
+    "backButton": "Back to Roles",
+    "pageHeader": {
+      "title": "Manage Capabilities: {{roleName}}",
+      "subtitle": "Set permissions for custom role (Architecture: {{architectureName}})",
+      "unknownArchitecture": "Unknown"
+    },
+    "saveCapabilitiesButton": "Save Capabilities",
+    "savingButton": "Saving...",
+    "loading": "Loading modules and capabilities...",
+    "loadFailed": "Failed to load data.",
+    "emptyState": {
+      "title": "No Modules Found",
+      "description": "Please create modules first before assigning capabilities",
+      "goToModuleManagementButton": "Go to Module Management"
+    },
+    "sections": {
+      "learningActivities": {
+        "title": "Learning Activities",
+        "description": "Configure View and Manage permissions for course-level activities.",
+        "manageActionsNote": "Create, edit and delete. Applies to all activities in the course — this is one course-wide permission.",
+        "courseModulesNote": "View the course outline and sections. Other activity permissions apply only when this is on."
+      },
+      "tools": {
+        "title": "Tools",
+        "description": "Configure visibility (View) for course tools."
+      }
+    },
+    "capabilities": {
+      "create": "Create",
+      "read": "View",
+      "access": "Access",
+      "edit": "Edit",
+      "delete": "Delete",
+      "manage": "Manage",
+      "manageAll": "Manage all activities",
+      "enabledCount": "enabled"
+    },
+    "table": {
+      "moduleNameHeader": "Module Name",
+      "toolNameHeader": "Tool Name",
+      "moduleHeader": "Module",
+      "descriptionHeader": "Description",
+      "capabilitiesHeader": "Capabilities"
+    },
+    "resetModal": {
+      "title": "Reset Capabilities to Default",
+      "message": "Are you sure you want to reset all capabilities for",
+      "message2": "to their default settings?",
+      "warning1": "This will restore the capabilities defined in the role's architecture template.",
+      "warning2": "Any custom changes will be lost.",
+      "cancelButton": "Cancel",
+      "resettingButton": "Resetting...",
+      "resetToDefaultButton": "Reset to Default"
+    },
+    "toasts": {
+      "loadError": "Failed to load role capabilities",
+      "resetSuccess": "Capabilities for {{roleName}} reset to defaults successfully!",
+      "resetFailed": "Failed to reset role capabilities",
+      "updateSuccess": "Role capabilities updated successfully",
+      "updateFailed": "Failed to update role capabilities"
+    }
+  }
+}

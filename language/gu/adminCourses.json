@@ -1,0 +1,245 @@
+{
+  "page": {
+    "title": "કોર્સ મેનેજમેન્ટ",
+    "subtitle": "તમારા કોર્સ મેનેજ અને ઓર્ગેનાઈઝ કરો",
+    "loading": "કોર્સ લોડ થઈ રહ્યા છે...",
+    "noCoursesFound": "તમારી સર્ચ ક્રાઈટેરિયા સાથે કોઈ કોર્સ મળ્યા નથી",
+    "noCoursesAvailable": "કોઈ કોર્સ ઉપલબ્ધ નથી. નવો કોર્સ એડ કરીને શરૂ કરો."
+  },
+  "navigation": {
+    "editCourse": "કોર્સ એડિટ કરો",
+    "createCourse": "નવો કોર્સ ક્રિએટ કરો",
+    "deleteCourse": "કોર્સ ડિલીટ કરો",
+    "deleteCourses": "કોર્સ ડિલીટ કરો",
+    "viewParticipants": "પાર્ટિસિપેન્ટ્સ જુઓ"
+  },
+  "buttons": {
+    "addCourse": "કોર્સ એડ કરો",
+    "selectAll": "બધું સિલેક્ટ કરો",
+    "deselectAll": "બધું અનસિલેક્ટ કરો",
+    "deleteSelected": "કોર્સ ડિલીટ કરો",
+    "edit": "કોર્સ એડિટ કરો",
+    "delete": "કોર્સ ડિલીટ કરો",
+    "cancel": "કેન્સલ કરો",
+    "create": "કોર્સ ક્રિએટ કરો",
+    "update": "કોર્સ અપડેટ કરો",
+    "creating": "ક્રિએટ થઈ રહ્યું છે...",
+    "updating": "અપડેટ થઈ રહ્યું છે...",
+    "deleting": "ડિલીટ થઈ રહ્યું છે...",
+    "save": "સેવ કરો",
+    "uploadImage": "ઈમેજ અપલોડ કરો",
+    "removeImage": "ઈમેજ રિમૂવ કરો",
+    "hide": "છુપાવો",
+    "show": "દર્શાવો",
+    "report": "રિપોર્ટ"
+  },
+  "table": {
+    "headers": {
+      "courseName": "કોર્સ નું નામ",
+      "shortName": "શોર્ટ નામ",
+      "category": "કેટેગરી",
+      "startDate": "સ્ટાર્ટ ડેટ",
+      "endDate": "એન્ડ ડેટ",
+      "modifiedOn": "સુધારેલ",
+      "teachers": "શિક્ષકો",
+      "students": "વિદ્યાર્થીઓ",
+      "actions": "એક્શન્સ",
+      "S": {
+        "No": "ક્રમાંક"
+      }
+    },
+    "search": {
+      "placeholder": "કોર્સ સર્ચ કરો..."
+    },
+    "fallbacks": {
+      "untitledCourse": "બિનશીર્ષક કોર્સ",
+      "noCategory": "કોઈ કેટેગરી નહીં",
+      "noTeachers": "કોઈ શિક્ષક નહીં",
+      "noStudents": "કોઈ વિદ્યાર્થી નહીં"
+    },
+    "badges": {
+      "hidden": "છુપાયું"
+    }
+  },
+  "form": {
+    "labels": {
+      "courseName": "કોર્સ નું નામ",
+      "shortName": "ટૂંક નામ",
+      "category": "કેટેગરી",
+      "description": "વર્ણન",
+      "startDate": "શરૂ તારીખ",
+      "endDate": "સમાપ્ત તારીખ",
+      "courseImage": "કોર્સ ઇમેજ",
+      "enrollmentMethods": "એનરોલમેન્ટ પધ્દતિઓ",
+      "selfEnrollment": "સ્વ એનરોલમેન્ટ",
+      "manualEnrollment": "મેન્યુઅલ એનરોલમેન્ટ",
+      "guestAccess": "અતિથિ એક્સેસ",
+      "courseVisibility": "કોર્સ દેખાવ"
+    },
+    "placeholders": {
+      "courseName": "સંપૂર્ણ કોર્સ નામ દાખલ કરો",
+      "shortName": "ટૂંક કોર્સ નામ દાખલ કરો",
+      "category": "કેટેગરી પસંદ કરો",
+      "description": "કોર્સ વર્ણન દાખલ કરો",
+      "selectStartDate": "શરૂ તારીખ પસંદ કરો",
+      "selectEndDate": "સમાપ્ત તારીખ પસંદ કરો"
+    },
+    "validation": {
+      "courseNameRequired": "કોર્સ નામ જરૂરી છે",
+      "courseNameMinLength": "કોર્સ નામ ઓછામાં ઓછા 3 અક્ષર હોવો જોઈએ",
+      "courseNameMaxLength": "કોર્સ નામ 250 અક્ષર કરતા વધુ ન હોવો જોઈએ",
+      "shortNameRequired": "શોર્ટ નેમ જરૂરી છે",
+      "shortNameMinLength": "શોર્ટ નેમ ઓછામાં ઓછા 2 અક્ષર હોવા જોઈએ",
+      "shortNameMaxLength": "શોર્ટ નેમ 30 અક્ષર કરતા વધુ ન હોવો જોઈએ",
+      "shortNameFormat": "શોર્ટ નેમમાં માત્ર અક્ષર, સંખ્યા, અંડરસ્કોર અને ડેશ હોઈ શકે છે",
+      "shortNameTaken": "શોર્ટ નેમ પહેલેથી ઉપયોગમાં છે!",
+      "categoryRequired": "કેટેગરી જરૂરી છે",
+      "categoryPositive": "કેટેગરી ID પોઝિટિવ હોવો જોઈએ",
+      "descriptionMaxLength": "ડિસ્ક્રિપ્શન 1000 અક્ષર કરતા વધુ ન હોવું જોઈએ",
+      "startDateBeforeEnd": "સ્ટાર્ટ ડેટ એન્ડ ડેટ પહેલાં હોવો જોઈએ",
+      "endDateAfterStart": "એન્ડ ડેટ સ્ટાર્ટ ડેટ પછી હોવો જોઈએ",
+      "invalidDate": "કૃપા કરીને સાચો ડેટ દાખલ કરો",
+      "checkingShortName": "શોર્ટ નામની ઉપલબ્ધતા તપાસી રહ્યા છીએ...",
+      "fixErrorsFirst": "સબમિટ કરતા પહેલા કૃપા કરીને બધા જરૂરી ફિલ્ડ્સ યોગ્ય રીતે ભરો"
+    },
+    "modes": {
+      "edit": {
+        "title": "કોર્સ એડિટ કરો",
+        "subtitle": "નીચે કોર્સના વિગતો અપડેટ કરો"
+      },
+      "create": {
+        "title": "નવો કોર્સ ક્રિએટ કરો",
+        "subtitle": "સિસ્ટમમાં નવો કોર્સ ઉમેરો"
+      }
+    },
+    "imageUpload": {
+      "dropzoneText": "અહીં ઈમેજ ફાઈલ ડ્રેગ અને ડ્રોપ કરો, અથવા સિલેક્ટ કરવા માટે ક્લિક કરો",
+      "supportedFormats": "સપોર્ટેડ ફોર્મેટ્સ: JPG, PNG, GIF (મહત્તમ: 2MB)",
+      "uploadError": "કોર્સ ઈમેજ અપલોડ કરવામાં નિષ્ફળ",
+      "setImageError": "કોર્સ ઓવરવ્યુ ઈમેજ સેટ કરવામાં નિષ્ફળ",
+      "fileSizes": "['બાઈટ્સ', 'KB', 'MB']",
+      "currentImage": "વર્તમાન ઇમેજ",
+      "chooseDifferent": "અલગ પસંદ કરો",
+      "currentImageAlt": "વર્તમાન કોર્સ છબી",
+      "newImagePreviewAlt": "નવો કોર્સ ઇમેજ પ્રિવ્યુ",
+      "removeNewImageTooltip": "નવો ઇમેજ હટાવો",
+      "newImage": "નવો ઇમેજ",
+      "zeroBytes": "0 બાઇટ્સ"
+    },
+    "visibility": {
+      "visible": "દેખાશે",
+      "hidden": "છુપાયું",
+      "visibleDescription": "વિદ્યાર્થીઓ આ કોર્સ શોધી અને એક્સેસ કરી શકશે",
+      "hiddenDescription": "તમે તેને દેખાવ બનાવ્યા વગર આ કોર્સ વિદ્યાર્થીઓ માટે છુપાયેલું રહેશે"
+    }
+  },
+  "modals": {
+    "deleteMultiple": {
+      "title": "બહુવિધ કોર્સ ડિલીટ કરો",
+      "warning": "ચેતવણી: આ એક્શન પાછું ફેરવી શકાતું નથી",
+      "description": "આ {{count}} કોર્સ ડિલીટ કરવાથી તેઓ સિસ્ટમ પરથી કાયમી રીતે દૂર થશે. એનરોલમેન્ટ, ગ્રેડ અને કન્ટેન્ટ સહિતનો તમામ સંબંધિત ડેટા ખોવાશે.",
+      "listLabel": "ડિલીટ કરવા માટે કોર્સ ({{count}}):",
+      "confirmation": "શું તમે ખરેખર આગળ વધવા માટે ચોક્કસ છો? આ તમામ પસંદ કરેલા કોર્સ કાયમી રીતે ડિલીટ કરશે અને તેને રિવર્સ કરી શકાશે નહીં."
+    },
+    "deleteSingle": {
+      "title": "કોર્સ ડિલીટ કરો",
+      "warning": "ચેતવણી: આ એક્શન પાછું ફેરવી શકાતું નથી",
+      "description": "આ કોર્સ ડિલીટ કરવાથી તે સિસ્ટમ પરથી કાયમી રીતે દૂર થશે. એનરોલમેન્ટ, ગ્રેડ અને કન્ટેન્ટ સહિતનો તમામ સંબંધિત ડેટા ખોવાશે.",
+      "listLabel": "ડિલીટ કરવા માટે કોર્સ:",
+      "confirmation": "શું તમે ખરેખર આ કોર્સ ડિલીટ કરવા માટે ચોક્કસ છો? આ એક્શન પાછું ફેરવી શકાતું નથી."
+    },
+    "details": {
+      "name": "નાম:",
+      "shortName": "ટૂંકું નામ:",
+      "category": "કેટેગરી:",
+      "description": "વર્ણન:",
+      "startDate": "શરૂ કરવાની તારીખ:",
+      "endDate": "સમાપ્ત કરવાની તારીખ:",
+      "teachers": "શિક્ષકો:",
+      "students": "વિદ્યાર્થીઓ:"
+    }
+  },
+  "messages": {
+    "success": {
+      "courseCreated": "કોર્સ સફળતાપૂર્વક બનાવવામાં આવ્યો",
+      "courseUpdated": "કોર્સ સફળતાપૂર્વક અપડેટ થયો",
+      "coursesDeleted": "કોર્સેસ સફળતાપૂર્વક ડિલીટ થયા",
+      "courseDeleted": "કોર્સ સફળતાપૂર્વક ડિલીટ થયો",
+      "imageUploaded": "કોર્સ ઇમેજ સફળતાપૂર્વક અપલોડ થયી",
+      "imageRemoved": "કોર્સ ઇમેજ સફળતાપૂર્વક દૂર કરવામાં આવી",
+      "courseShown": "કોર્સ હવે વિદ્યાર્થીઓ માટે દેખાશે",
+      "courseHidden": "કોર્સ હવે વિદ્યાર્થીઓ માટે છુપાયેલું છે"
+    },
+    "error": {
+      "courseNotFound": "કોર્સ મળ્યો નથી",
+      "failedToLoad": "કોર્સેસ લોડ કરવામાં નિષ્ફળ",
+      "failedToLoadCourse": "કોર્સ ડેટા લોડ કરવામાં નિષ્ફળ",
+      "failedToLoadCategories": "કેટેગરીઓ લોડ કરવામાં નિષ્ફળ",
+      "errorUpdating": "કોર્સ અપડેટ કરવામાં ભૂલ",
+      "errorCreating": "કોર્સ બનાવવામાં ભૂલ",
+      "failedToUpdate": "કોર્સ અપડેટ કરવામાં નિષ્ફળ",
+      "failedToCreate": "કોર્સ બનાવવામાં નિષ્ફળ",
+      "deleteFailed": "કોર્સ ડિલીટ કરવામાં નિષ્ફળ",
+      "deleteMultipleFailed": "કોર્સેસ ડિલીટ કરવામાં નિષ્ફળ",
+      "uploadImageFailed": "ઇમેજ ફાઈલ અપલોડ કરવામાં નિષ્ફળ",
+      "setImageFailed": "કોર્સ ઓવરવ્યુ ઇમેજ સેટ કરવામાં નિષ્ફળ",
+      "invalidImageFormat": "અમાન્ય ઇમેજ ફોર્મેટ. કૃપયા JPG, PNG અથવા GIF વાપરો",
+      "imageTooLarge": "ઇમેજ ફાઈલ ખૂબ મોટી છે. મહત્તમ સાઈઝ 2MB છે",
+      "enrollmentConfigFailed": "સેલ્ફ-એનરોલમેન્ટ કોંફિગર કરવામાં નિષ્ફળ",
+      "selfEnrollmentMethodNotFound": "આ કોર્સ માટે સેલ્ફ-એનરોલમેન્ટ પદ્ધતિ મળી નથી",
+      "toggleSelfEnrollmentFailed": "સ્વ-એનરોલમેન્ટ ટોગલ કરવામાં નિષ્ફળ થયું"
+    },
+    "warning": {
+      "selectCoursesToDelete": "કૃપયા ડિલીટ કરવા માટે ઓછામાં ઓછો એક કોર્સ પસંદ કરો",
+      "unsavedChanges": "તમારે અનસેવ કરેલ બદલાવો છે. શું તમે ચોક્કસ છો કે તમે લીધું છોડવા માંગો છો?",
+      "removeImageConfirm": "શું તમે ચોક્કસ છો કે તમે કોર્સ ઇમેજ રિમૂવ કરવા માંગો છો?",
+      "createCategoryFirst": "કોઈ કેટેગરી ઉપલબ્ધ નથી. કૃપા કરીને પહેલા એક કેટેગરી બનાવો."
+    }
+  },
+  "enrollment": {
+    "methods": {
+      "self": "સેલ્ફ એનરોલમેન્ટ",
+      "manual": "મેનુઅલ એનરોલમેન્ટ",
+      "guest": "ગેસ્ટ એક્સેસ"
+    },
+    "descriptions": {
+      "self": "સ્ટુડેન્ટને આ કોર્સમાં પોતાને એનરોલ કરવા દો",
+      "manual": "অ্যাডમિનિস্ટ્રેટર દ્વારા મેનુઅલ એનરોલમેન્ટ જરૂરી છે",
+      "guest": "ગેસ્ટ યુઝરને કોર્સ કન્ટેન્ટ એક્સેસ કરવા દો"
+    },
+    "status": {
+      "enabled": "એનેબલ કરેલ",
+      "disabled": "ડિસેબલ કરેલ"
+    }
+  },
+  "status": {
+    "loading": "લોડ થઇ રહ્યું છે...",
+    "saving": "સેવ થઇ રહ્યું છે...",
+    "deleting": "ડિલીટ થઇ રહ્યું છે...",
+    "processing": "પ્રોસેસ થઇ રહ્યું છે...",
+    "uploading": "અપલોડ થઇ રહ્યું છે...",
+    "active": "એક્ટિવ",
+    "inactive": "ઇનેક્ટિવ",
+    "draft": "ડ્રાફ્ટ",
+    "published": "પબ્લિશ કરેલ"
+  },
+  "emptyState": {
+    "title": "હજી કોઈ કોર્સ નથી",
+    "description": "પ્રથમ કોર્સ બનાવીને શરૂ કરો.",
+    "createButton": "કોર્સ બનાવો"
+  },
+  "report": {
+    "title": "કોર્સ રિપોર્ટ",
+    "loading": "કોર્સ રિપોર્ટ લોડ થઈ રહ્યો છે...",
+    "back": "કોર્સ પર પાછા જાઓ",
+    "overview": "કોર્સ ઓવરવ્યૂ",
+    "schedule": "શેડ્યુલ",
+    "participants": "ભાગીદારો",
+    "completed": "સંપૂર્ણ",
+    "inProgress": "ચાલુ છે",
+    "notStarted": "શરૂ થઈ નથી",
+    "noStudentData": "વિદ્યાર્થીઓની નોંધણી માહિતી ઉપલબ્ધ નથી.",
+    "noEnrollmentMethods": "કોઈ નોંધણી પદ્ધતિઓ સેટ થયેલી નથી.",
+    "unknownMethod": "અજાણ્ય પદ્ધતિ"
+  }
+}

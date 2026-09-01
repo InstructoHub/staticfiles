@@ -1,0 +1,176 @@
+{
+  "common": {
+    "grade": "Grade",
+    "grades": "Grades",
+    "student": "Student",
+    "students": "Students",
+    "assignment": "Assignment",
+    "assignments": "Assignments",
+    "quiz": "Quiz",
+    "quizzes": "Quizzes",
+    "average": "Average",
+    "overall": "Overall",
+    "dueDate": "Due Date",
+    "submitted": "Submitted",
+    "status": "Status",
+    "actions": "Actions",
+    "details": "Details",
+    "name": "Name",
+    "email": "Email",
+    "points": "Points",
+    "maxPoints": "Max Points",
+    "percentage": "Percentage",
+    "loading": "Loading",
+    "error": "Error",
+    "noData": "No Data",
+    "pts": "pts",
+    "days": "days"
+  },
+  "student": {
+    "dashboard": {
+      "title": "Your Grade Dashboard",
+      "overallGrade": "Overall Grade",
+      "excellent": "Excellent",
+      "needsImprovement": "Needs Improvement",
+      "assignmentsSubmitted": "Assignments Submitted",
+      "assignmentsGraded": "Assignments Graded",
+      "quizzesCompleted": "Quizzes Completed",
+      "pendingGrades": "Pending Grades",
+      "overdueItems": "Overdue Items",
+      "upcomingDeadlines": "Upcoming Deadlines",
+      "overdue": "Overdue",
+      "noUpcomingDeadlines": "No upcoming deadlines",
+      "noOverdueItems": "No overdue items"
+    },
+    "header": {
+      "backToDashboard": "Back to Dashboard",
+      "viewAllGrades": "View All Grades"
+    },
+    "table": {
+      "allGrades": "All Grades",
+      "activity": "Activity",
+      "type": "Type",
+      "grade": "Grade",
+      "pending": "Pending"
+    },
+    "modal": {
+      "submissionDetails": "Submission Details",
+      "yourScore": "Your Score",
+      "close": "Close"
+    },
+    "messages": {
+      "loadingGrades": "Loading Grades...",
+      "fetchingData": "Just a moment while we fetch the latest data.",
+      "errorLoadingGrades": "Error Loading Grades",
+      "noCourseSelected": "No Course Selected",
+      "selectCourse": "Please select a course to view its grade information.",
+      "noGradableItems": "No Gradable Items Found",
+      "noGradableItemsDesc": "We successfully connected to Moodle and loaded the data for this course, but we didn't find any gradable activities (like Assignments or Quizzes) for your account.",
+      "whatToCheckNext": "What to check next:",
+      "checkCourseContent": "Course Content: Make sure the course in Moodle (ID: {{courseId}}) actually contains \"Assignment\" or \"Quiz\" activities.",
+      "checkEnrollment": "Enrollment: Verify that you are properly enrolled in this course.",
+      "tryDifferentCourse": "Different Course: Try viewing a different course to see if grades appear there."
+    }
+  },
+  "teacher": {
+    "gradebook": {
+      "title": "Grade Management Dashboard",
+      "overview": "Overview",
+      "gradeTable": "Grade Table",
+      "searchStudents": "Search Students",
+      "filterByName": "Filter by student name...",
+      "searchAssignment": "Search Quiz or Assignment",
+      "filterAssignment": "Filter...",
+      "filterByType": "Filter by Type",
+      "all": "All"
+    },
+    "overview": {
+      "requiresAttention": "Requires Attention",
+      "pendingGrades": "Pending Grades",
+      "overdueAssignments": "Overdue Assignments",
+      "toGrade": "to Grade",
+      "noPendingGrades": "No Pending Grades",
+      "allSubmissionsGraded": "All submissions are graded",
+      "noOverdueAssignments": "No Overdue Assignments",
+      "allOnTrack": "All assignments are on track",
+      "totalStudents": "Total Students",
+      "classAverage": "Class Average",
+      "allCaughtUp": "All Caught Up!",
+      "noPendingSubmissions": "There are no pending submissions to grade."
+    },
+    "stats": {
+      "totalStudents": "Total Students",
+      "assignments": "Assignments",
+      "quizzes": "Quizzes",
+      "overdueItems": "Overdue Items",
+      "pendingGrades": "Pending Grades",
+      "classAverage": "Class Average"
+    },
+    "studentList": {
+      "allStudents": "All Students",
+      "averageGrade": "Average Grade",
+      "viewDetails": "View Details",
+      "backToOverview": "Back to Overview"
+    },
+    "studentDetail": {
+      "gradeDetailsFor": "Grade Details for",
+      "overallAverage": "Overall Average",
+      "noGradesAvailable": "No grades available",
+      "backToStudentList": "Back to Student List",
+      "dueDate": "Due Date",
+      "gradedSubmittedOn": "Graded / Submitted On",
+      "notGraded": "Not Graded"
+    },
+    "assignment": {
+      "pendingGradesView": "Pending Grades",
+      "overdueStudents": "Overdue Students",
+      "studentsToGrade": "Students to Grade",
+      "studentsOverdue": "Students Overdue",
+      "submittedOn": "Submitted On",
+      "daysOverdue": "Days Overdue",
+      "enterGrade": "Enter Grade",
+      "backToListing": "Back to Listing",
+      "allPendingGrades": "All Pending Grades",
+      "total": "total",
+      "submissionsToGrade": "Submissions to Grade",
+      "overdueItems": "Overdue Items",
+      "noOverdueStudents": "No overdue students for this assignment.",
+      "noPendingSubmissionsForAssignment": "No pending submissions to grade for this assignment.",
+      "noOverdueItemsDesc": "No Overdue Items"
+    },
+    "gradeTable": {
+      "enterGrade": "Enter Grade"
+    },
+    "messages": {
+      "loadingGradebook": "Loading Gradebook...",
+      "errorLoadingGradebook": "Error Loading Gradebook",
+      "noGradableItems": "There are no gradable items (assignments or quizzes) in this course yet.",
+      "invalidGrade": "Please enter a valid grade between 0 and {{maxGrade}}.",
+      "errorSavingGrade": "Error saving grade. Please try again."
+    }
+  },
+  "status": {
+    "graded": "Graded",
+    "submitted": "Submitted",
+    "notSubmitted": "Not Submitted",
+    "overdue": "Overdue",
+    "inProgress": "In Progress",
+    "pending": "Pending",
+    "noDueDate": "No due date"
+  },
+  "buttons": {
+    "viewDetails": "View Details",
+    "backToOverview": "Back to Overview",
+    "backToDashboard": "Back to Dashboard",
+    "close": "Close",
+    "save": "Save",
+    "cancel": "Cancel",
+    "enterGrade": "Enter Grade",
+    "edit": "Edit"
+  },
+  "labels": {
+    "due": "Due",
+    "na": "N/A",
+    "of": "of"
+  }
+}

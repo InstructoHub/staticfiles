@@ -1,0 +1,355 @@
+{
+  "emailSetup": {
+    "title": "ईमेल टेम्पलेट सेटअप",
+    "subtitle": "आपल्या ईमेल टेम्पलेट कॉन्फिगर आणि व्यवस्थापित करा",
+    "backToTemplates": "ईमेल टेम्पलेट्सवर परत जा",
+    "templateVariables": "टेम्पलेट व्हेरिएबल्स",
+    "copyVariableTooltip": "क्लिपबोर्डमध्ये व्हेरिएबल कॉपी करण्यासाठी क्लिक करा",
+    "templateSubjectLabel": "टेम्पलेट विषय *",
+    "templateSenderEmailLabel": "टेम्पलेट प्रेषक ईमेल *",
+    "templateSenderDisplayNameLabel": "टेम्पलेट प्रेषक प्रदर्शन नाव *",
+    "emailLayoutColorLabel": "ईमेल लेआउट रंग",
+    "htmlBodyLabel": "HTML बॉडी *",
+    "cancelButton": "रद्द करा",
+    "saveChangesButton": "बदल सेव करा",
+    "savingButton": "सेव करत आहे...",
+    "confirmBackWarning": "बदल सेव नाहीत. आप विश्वास करता की परत जायचे आहे?",
+    "toasts": {
+      "failedToLoadVariables": "ईमेल व्हेरिएबल्स लोड करण्यात अयशस्वी",
+      "failedToUpdateTemplate": "ईमेल टेम्पलेट अपडेट करण्यात अयशस्वी",
+      "variableCopied": "व्हेरिएबल क्लिपबोर्डमध्ये कॉपी केले!"
+    },
+    "validation": {
+      "slNoHeader": "अनु. क्र.",
+      "subjectRequired": "टेम्पलेट विषय आवश्यक आहे",
+      "subjectMinLength": "टेम्पलेट विषय किमान 2 अक्षर असणे आवश्यक आहे",
+      "subjectMaxLength": "टेम्पलेट विषय 255 अक्षरांपेक्षा जास्त असू शकत नाही",
+      "senderEmailRequired": "प्रेषक ईमेल आवश्यक आहे",
+      "invalidEmailFormat": "अमान्य ईमेल फॉरमॅट",
+      "senderEmailMaxLength": "प्रेषक ईमेल 255 अक्षरांपेक्षा जास्त असू शकत नाही",
+      "displayNameRequired": "प्रेषक प्रदर्शन नाव आवश्यक आहे",
+      "displayNameMinLength": "प्रेषक प्रदर्शन नाव किमान 2 अक्षर असणे आवश्यक आहे",
+      "displayNameMaxLength": "प्रेषक प्रदर्शन नाव 255 अक्षरांपेक्षा जास्त असू शकत नाही"
+    }
+  },
+  "emailTemplates": {
+    "noTemplatesFound": "कोणतेही ईमेल टेम्पलेट्स सापडले नाहीत",
+    "subjectLabel": "विषय:",
+    "contentPreview": "टेम्पलेट सामग्री पूर्वावलोकन",
+    "editButton": "संपादित करा",
+    "toasts": {
+      "failedToLoad": "ईमेल टेम्पलेट्स लोड करण्यात अयशस्वी"
+    },
+    "templateNames": {
+      "set_password": "पासवर्ड सेट करा"
+    }
+  },
+  "moduleManagement": {
+    "title": "मॉड्यूल व्यवस्थापन",
+    "subtitle": "प्रणाली मॉड्यूल्स आणि त्यांचे मेटाडेटा व्यवस्थापित करा",
+    "addNewButton": "नवीन मॉड्यूल जोडा",
+    "table": {
+      "moduleHeader": "मॉड्यूल",
+      "descriptionHeader": "वर्णन",
+      "createdAtHeader": "यावर तयार केले",
+      "actionsHeader": "क्रिया",
+      "noModulesFound": "कोणतेही मॉड्यूल्स सापडले नाहीत.",
+      "slNoHeader": "क्र. नं."
+    },
+    "form": {
+      "moduleNameLabel": "मॉड्यूलचे नाव *",
+      "moduleDescriptionLabel": "मॉड्यूल वर्णन",
+      "saveChangesButton": "बदल सेव करा",
+      "savingButton": "सेव करत आहे...",
+      "cancelButton": "रद्द करा"
+    },
+    "deleteModal": {
+      "title": "हटविणे पुष्टी करा",
+      "message": "आप विश्वास करता की हा मॉड्यूल हटवायचा आहे",
+      "undoWarning": "हे क्रिया पूर्ववत करता येणार नाही.",
+      "deleteButton": "मॉड्यूल हटवा",
+      "cancelButton": "रद्द करा"
+    },
+    "toasts": {
+      "failedToLoad": "मॉड्यूल्स लोड करण्यात अयशस्वी",
+      "createdSuccess": "मॉड्यूल यशस्वीरित्या तयार केला",
+      "updatedSuccess": "मॉड्यूल यशस्वीरित्या अपडेट केला",
+      "createdFailed": "मॉड्यूल तयार करण्यात अयशस्वी",
+      "updatedFailed": "मॉड्यूल अपडेट करण्यात अयशस्वी",
+      "deletedSuccess": "मॉड्यूल यशस्वीरित्या हटवला",
+      "deletedFailed": "मॉड्यूल हटवण्यात अयशस्वी"
+    },
+    "validation": {
+      "nameRequired": "मॉड्यूलचे नाव आवश्यक आहे",
+      "nameMinLength": "मॉड्यूलचे नाव किमान 2 अक्षर असणे आवश्यक आहे",
+      "nameMaxLength": "मॉड्यूलचे नाव 100 अक्षरांपेक्षा जास्त असू शकत नाही",
+      "descriptionMaxLength": "वर्णन 500 अक्षरांपेक्षा जास्त असू शकत नाही"
+    }
+  },
+  "pageHeader": {
+    "searchPlaceholder": "शोध..."
+  },
+  "roleArchitectureDetail": {
+    "title": "भूमिका आर्किटेक्चर तपशील",
+    "subtitle": "सर्व मॉड्यूल्स भर या भूमिका आर्किटेक्चरसाठी डिफॉल्ट अनुमती कॉन्फिगर करा.",
+    "backButton": "भूमिका आर्किटेक्चर्सवर परत जा",
+    "loading": "मॉड्यूल्स लोड करत आहे...",
+    "loadFailed": "डेटा लोड करण्यात अयशस्वी.",
+    "noModulesAvailable": "कॉन्फिगरेशनसाठी कोणतेही मॉड्यूल्स उपलब्ध नाहीत.",
+    "table": {
+      "moduleHeader": "मॉड्यूल",
+      "descriptionHeader": "वर्णन",
+      "capabilitiesHeader": "क्षमता"
+    },
+    "capabilities": {
+      "create": "तयार करा",
+      "read": "वाचा",
+      "edit": "संपादित करा",
+      "delete": "हटवा",
+      "enabledCount": "सक्षम"
+    },
+    "saveCapabilitiesButton": "क्षमता सेव करा",
+    "savingButton": "सेव करत आहे...",
+    "cancelButton": "रद्द करा",
+    "toasts": {
+      "failedToLoadModules": "मॉड्यूल सूची लोड करण्यात अयशस्वी",
+      "saveSuccess": "क्षमता यशस्वीरित्या सेव केली",
+      "saveFailed": "क्षमता सेव करण्यात अयशस्वी"
+    }
+  },
+  "roleArchitectureManagement": {
+    "title": "भूमिका आर्किटेक्चर व्यवस्थापन",
+    "subtitle": "वापरकर्ता भूमिकांसाठी डिफॉल्ट अनुमती संच व्यवस्थापित करा",
+    "addNewButton": "नवीन आर्किटेक्चर जोडा",
+    "table": {
+      "roleNameHeader": "भूमिका नाव",
+      "descriptionHeader": "वर्णन",
+      "createdAtHeader": "यावर तयार केले",
+      "actionsHeader": "क्रिया",
+      "noArchitecturesFound": "कोणते भूमिका आर्किटेक्चर्स सापडले नाहीत.",
+      "slNoHeader": "अनु. क्र."
+    },
+    "form": {
+      "architectureNameLabel": "आर्किटेक्चर नाव *",
+      "architectureDescriptionLabel": "आर्किटेक्चर वर्णन",
+      "saveChangesButton": "बदल सेव करा",
+      "savingButton": "सेव करत आहे...",
+      "cancelButton": "रद्द करा"
+    },
+    "deleteModal": {
+      "title": "हटविणे पुष्टी करा",
+      "message": "आप विश्वास करता की हे भूमिका आर्किटेक्चर हटवायचे आहे",
+      "undoWarning": "हे क्रिया पूर्ववत करता येणार नाही.",
+      "deleteButton": "भूमिका आर्किटेक्चर हटवा",
+      "cancelButton": "रद्द करा"
+    },
+    "toasts": {
+      "failedToLoad": "भूमिका आर्किटेक्चर्स लोड करण्यात अयशस्वी",
+      "createdSuccess": "भूमिका आर्किटेक्चर यशस्वीरित्या तयार केला",
+      "updatedSuccess": "भूमिका आर्किटेक्चर यशस्वीरित्या अपडेट केला",
+      "createdFailed": "भूमिका आर्किटेक्चर तयार करण्यात अयशस्वी",
+      "updatedFailed": "भूमिका आर्किटेक्चर अपडेट करण्यात अयशस्वी",
+      "deletedSuccess": "भूमिका आर्किटेक्चर यशस्वीरित्या हटवला",
+      "deletedFailed": "भूमिका आर्किटेक्चर हटवण्यात अयशस्वी"
+    },
+    "validation": {
+      "nameRequired": "भूमिका आर्किटेक्चर नाव आवश्यक आहे",
+      "nameMinLength": "भूमिका नाव किमान 2 अक्षर असणे आवश्यक आहे",
+      "nameMaxLength": "भूमिका नाव 100 अक्षरांपेक्षा जास्त असू शकत नाही",
+      "descriptionMaxLength": "वर्णन 500 अक्षरांपेक्षा जास्त असू शकत नाही"
+    }
+  },
+  "roleManagement": {
+    "title": "भूमिका व्यवस्थापन",
+    "subtitle": "कस्टम वापरकर्ता भूमिका व्यवस्थापित करा आणि भूमिका आर्किटेक्चर्स नियुक्त करा",
+    "addNewButton": "नवीन भूमिका जोडा",
+    "table": {
+      "slNoHeader": "अनु. क्र.",
+      "roleHeader": "भूमिका",
+      "architectureHeader": "आर्किटेक्चर",
+      "descriptionHeader": "वर्णन",
+      "createdAtHeader": "यावर तयार केले",
+      "actionsHeader": "क्रिया",
+      "noRolesFound": "कोणत्याही कस्टम भूमिका सापडल्या नाहीत."
+    },
+    "form": {
+      "roleNameLabel": "भूमिका नाव *",
+      "roleDescriptionLabel": "भूमिका वर्णन",
+      "architectureLabel": "भूमिका आर्किटेक्चर निवडा *",
+      "architecturePlaceholder": "आर्किटेक्चर निवडा...",
+      "saveChangesButton": "बदल सेव करा",
+      "savingButton": "सेव करत आहे...",
+      "cancelButton": "रद्द करा"
+    },
+    "deleteModal": {
+      "title": "हटविणे पुष्टी करा",
+      "message": "आप विश्वास करता की ही भूमिका हटवायची आहे",
+      "undoWarning": "हे क्रिया पूर्ववत करता येणार नाही.",
+      "deleteButton": "भूमिका हटवा",
+      "cancelButton": "रद्द करा"
+    },
+    "toasts": {
+      "failedToLoadRoles": "भूमिका लोड करण्यात अयशस्वी",
+      "failedToLoadArchitectures": "भूमिका आर्किटेक्चर्स लोड करण्यात अयशस्वी",
+      "createdSuccess": "भूमिका यशस्वीरित्या तयार केली",
+      "updatedSuccess": "भूमिका यशस्वीरित्या अपडेट केली",
+      "createdFailed": "भूमिका तयार करण्यात अयशस्वी",
+      "updatedFailed": "भूमिका अपडेट करण्यात अयशस्वी",
+      "deletedSuccess": "भूमिका यशस्वीरित्या हटवली",
+      "deletedFailed": "भूमिका हटवण्यात अयशस्वी"
+    },
+    "validation": {
+      "nameRequired": "भूमिका नाव आवश्यक आहे",
+      "nameMinLength": "भूमिका नाव किमान 2 अक्षर असणे आवश्यक आहे",
+      "nameMaxLength": "भूमिका नाव 100 अक्षरांपेक्षा जास्त असू शकत नाही",
+      "descriptionMaxLength": "वर्णन 500 अक्षरांपेक्षा जास्त असू शकत नाही",
+      "architectureRequired": "भूमिका आर्किटेक्चर आवश्यक आहे"
+    }
+  },
+  "dashboardManagement": {
+    "title": "डॅशबोर्ड व्यवस्थापन",
+    "subtitle": "आपल्या भूमिका आणि अनुमती व्यवस्थापित आणि आयोजित करा",
+    "backButton": "मागे",
+    "loading": "अनुमती लोड करत आहे...",
+    "errorPrefix": "त्रुटी: ",
+    "activePermissions": "सक्रिय अनुमती:",
+    "dashboardModulesHeader": "डॅशबोर्ड मॉड्यूल्स",
+    "sidebarModulesHeader": "साइडबार मॉड्यूल्स",
+    "moduleColumn": "मॉड्यूल",
+    "permissionsColumn": "अनुमती",
+    "selectAll": "सर्व निवडा",
+    "savePermissionsButton": "अनुमती सेव करा",
+    "savingButton": "सेव करत आहे...",
+    "admin": "एडमिन ",
+    "instructor": "प्रशिक्षक",
+    "student": "विद्यार्थी",
+    "toasts": {
+      "saveSuccess": "अनुमती यशस्वीरित्या सेव केली",
+      "saveFailed": "अनुमती सेव करण्यात अयशस्वी"
+    },
+    "roleLabel": "भूमिका",
+    "permissionsSectionTitle": "मॉड्यूल परवानग्या",
+    "selectRoleDisclaimer": "परवानग्या बदलण्यासाठी भूमिका निवडा.",
+    "modulesCount": "{{count}} मॉड्यूल",
+    "sidebarItemsCount": "{{count}} आयटम",
+    "noModulesForRole": "या भूमिकेसाठी कोणतेही मॉड्यूल उपलब्ध नाहीत",
+    "teacher": "टीचर",
+    "toggleDisabled": "ही परवानगी सध्या उपलब्ध नाही",
+    "toggleAlwaysOn": "हा टॉगल बंद करता येणार नाही"
+  },
+  "smtpConfiguration": {
+    "title": "SMTP कॉन्फिगरेशन",
+    "subtitle": "आपली सिम्पल मेल ट्रान्सफर प्रोटोकॉल (SMTP) सेटिंग्ज सेट अप करा",
+    "backToControl": "प्रवेश नियंत्रणवर परत जा",
+    "hostLabel": "SMTP होस्ट आणि पोर्ट *",
+    "hostPlaceholder": "उदा. mail.example.com:465 किंवा mail1.com:587,mail2.com:587",
+    "securityLabel": "SMTP सुरक्षा",
+    "securityHelpText": "वैकल्पिक. पोर्ट 465 वर SMTPS साठी 'ssl' निवडा, किंवा पोर्ट 587 वर STARTTLS साठी 'tls' निवडा. कोणतेही नसल्यास रिक्त सोडा.",
+    "securityNone": "कोणती नाही",
+    "securitySSL": "SSL",
+    "securityTLS": "TLS",
+    "usernameLabel": "SMTP वापरकर्ता नाव *",
+    "usernamePlaceholder": "उदा. noreply@example.com",
+    "passwordLabel": "SMTP पासवर्ड *",
+    "noreplyEmailLabel": "कोणतीही उत्तरे ईमेल *",
+    "noreplyEmailHelpText": "हा ईमेल सर्व स्वयंचलित सूचनांसाठी 'पासून' पत्ता म्हणून वापरला जाईल.",
+    "noreplyDisplayNameLabel": "कोणतीही उत्तरे प्रदर्शन नाव *",
+    "noreplyDisplayNamePlaceholder": "उदा. InstructoHub सूचना",
+    "noreplyDisplayNameHelpText": "प्रेषक म्हणून दर्शविले जाणारे प्रदर्शन नाव",
+    "cancelButton": "रद्द करा",
+    "saveConfigurationButton": "कॉन्फिगरेशन सेव करा",
+    "savingButton": "सेव करत आहे...",
+    "toasts": {
+      "failedToLoad": "SMTP कॉन्फिगरेशन लोड करण्यात अयशस्वी",
+      "updateSuccess": "SMTP कॉन्फिगरेशन यशस्वीरित्या अपडेट केली",
+      "updateFailed": "SMTP कॉन्फिगरेशन अपडेट करण्यात अयशस्वी"
+    },
+    "validation": {
+      "hostRequired": "SMTP होस्ट आवश्यक आहे",
+      "hostInvalidFormat": "अमान्य फॉरमॅट. होस्ट:पोर्ट किंवा होस्ट:पोर्ट,होस्ट2:पोर्ट2 वापरा",
+      "securityInvalid": "सुरक्षा रिक्त, ssl, किंवा tls असणे आवश्यक आहे",
+      "usernameRequired": "SMTP वापरकर्ता नाव आवश्यक आहे",
+      "usernameMaxLength": "SMTP वापरकर्ता नाव 255 अक्षरांपेक्षा जास्त असू शकत नाही",
+      "passwordRequired": "SMTP पासवर्ड आवश्यक आहे",
+      "passwordMaxLength": "SMTP पासवर्ड 255 अक्षरांपेक्षा जास्त असू शकत नाही",
+      "noreplyEmailRequired": "कोणतीही उत्तरे ईमेल आवश्यक आहे",
+      "noreplyEmailInvalidFormat": "अमान्य ईमेल फॉरमॅट",
+      "noreplyEmailMaxLength": "कोणतीही उत्तरे ईमेल 255 अक्षरांपेक्षा जास्त असू शकत नाही",
+      "noreplyDisplayNameRequired": "कोणतीही उत्तरे प्रदर्शन नाव आवश्यक आहे",
+      "noreplyDisplayNameMinLength": "कोणतीही उत्तरे प्रदर्शन नाव किमान 2 अक्षर असणे आवश्यक आहे",
+      "noreplyDisplayNameMaxLength": "कोणतीही उत्तरे प्रदर्शन नाव 255 अक्षरांपेक्षा जास्त असू शकत नाही"
+    }
+  },
+  "accessControlDisplay": {
+    "emailSetupTitle": "ईमेल सेटअप",
+    "emailSetupDescription": "ईमेल टेम्पलेट्स आणि सूचना सेटिंग्ज कॉन्फिगर करा",
+    "smtpConfigurationTitle": "SMTP कॉन्फिगरेशन",
+    "smtpConfigurationDescription": "SMTP सर्व क्रेडेंशियल आणि सेटिंग्ज कॉन्फिगर करा",
+    "dashboardManagementTitle": "डॅशबोर्ड व्यवस्थापन",
+    "dashboardManagementDescription": "डॅशबोर्ड मॉड्यूल्सांसाठी भूमिका आणि अनुमती व्यवस्थापित करा",
+    "roleArchitectureManagementTitle": "भूमिका आर्किटेक्चर व्यवस्थापन",
+    "roleArchitectureManagementDescription": "वापरकर्ता भूमिकांसाठी डिफॉल्ट अनुमती संच व्यवस्थापित करा",
+    "roleManagementTitle": "भूमिका व्यवस्थापन",
+    "roleManagementDescription": "कस्टम वापरकर्ता भूमिका व्यवस्थापित करा आणि भूमिका आर्किटेक्चर्स नियुक्त करा"
+  },
+  "customRoleDetail": {
+    "title": "भूमिका क्षमता कस्टमाइজेशन",
+    "subtitle": "सर्व मॉड्यूल्स भर या विशिष्ट भूमिकासाठी अनुमती कस्टमाइज करा. येथे बदल भूमिका आर्किटेक्चर डिफॉल्ट ओव्हरराइड करतात.",
+    "backButton": "भूमिकांवर परत जा",
+    "saveCapabilitiesButton": "क्षमता सेव करा",
+    "savingButton": "सेव करत आहे...",
+    "loading": "मॉड्यूल्स आणि क्षमता लोड करत आहे...",
+    "loadFailed": "डेटा लोड करण्यात अयशस्वी.",
+    "capabilities": {
+      "create": "तयार करा",
+      "read": "वाचा",
+      "edit": "संपादित करा",
+      "delete": "हटवा",
+      "enabledCount": "सक्षम"
+    },
+    "table": {
+      "moduleHeader": "मॉड्यूल",
+      "descriptionHeader": "वर्णन",
+      "capabilitiesHeader": "क्षमता",
+      "moduleNameHeader": "मॉड्यूल का नाम",
+      "toolNameHeader": "टूल का नाम"
+    },
+    "resetModal": {
+      "title": "डिफॉल्टवर क्षमता रीसेट करा",
+      "message": "आप विश्वास करता की सर्व क्षमता रीसेट करायची आहे",
+      "message2": "त्यांच्या डिफॉल्ट सेटिंग्जवर?",
+      "warning1": "हे भूमिका आर्किटेक्चर टेम्पलेटमध्ये परिभाषित केलेली क्षमता पुनर्स्थापित करेल.",
+      "warning2": "कोणतेही कस्टम बदल हरवेल.",
+      "cancelButton": "रद्द करा",
+      "resettingButton": "रीसेट करत आहे...",
+      "resetToDefaultButton": "डिफॉल्टवर रीसेट करा"
+    },
+    "toasts": {
+      "loadError": "भूमिका क्षमता लोड करण्यात अयशस्वी",
+      "resetSuccess": "भूमिका क्षमता डिफॉल्टवर यशस्वीरित्या रीसेट केली",
+      "resetFailed": "भूमिका क्षमता रीसेट करण्यात अयशस्वी",
+      "updateSuccess": "भूमिका क्षमता यशस्वीरित्या अपडेट केली",
+      "updateFailed": "भूमिका क्षमता अपडेट करण्यात अयशस्वी"
+    },
+    "pageHeader": {
+      "title": "कैपेबिलिटीज़ मेनेज करें: {{roleName}}",
+      "subtitle": "कस्टम रोल के लिए परमिशन सेट करें (आर्किटेक्चर: {{architectureName}})",
+      "unknownArchitecture": "अनजान"
+    },
+    "emptyState": {
+      "title": "कोई मॉड्यूल नहीं मिला",
+      "description": "कैपेबिलिटीज़ असाइन करने से पहले पहले मॉड्यूल क्रिएट करें",
+      "goToModuleManagementButton": "मॉड्यूल मेनेजमेंट पर जाएं"
+    },
+    "sections": {
+      "learningActivities": {
+        "title": "लर्निंग एक्टिविटीज़",
+        "description": "कोर्स-लेवल एक्टिविटीज़ के लिए व्यू, क्रिएट, एडिट और डिलीट परमिशन कॉन्फ़िगर करें।"
+      },
+      "tools": {
+        "title": "टूल्स",
+        "description": "कोर्स टूल्स के लिए विज़िबिलिटी (व्यू) कॉन्फ़िगर करें।"
+      }
+    }
+  }
+}

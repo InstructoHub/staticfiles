@@ -1,0 +1,176 @@
+{
+  "common": {
+    "grade": "Note",
+    "grades": "Notes",
+    "student": "Étudiant",
+    "students": "Étudiants",
+    "assignment": "Devoir",
+    "assignments": "Devoirs",
+    "quiz": "Quiz",
+    "quizzes": "Quiz",
+    "average": "Moyenne",
+    "overall": "Global",
+    "dueDate": "Date d'Échéance",
+    "submitted": "Soumis",
+    "status": "Statut",
+    "actions": "Actions",
+    "details": "Détails",
+    "name": "Nom",
+    "email": "E-mail",
+    "points": "Points",
+    "maxPoints": "Points Maximal",
+    "percentage": "Pourcentage",
+    "loading": "Chargement",
+    "error": "Erreur",
+    "noData": "Aucune Donnée",
+    "pts": "pts",
+    "days": "jours"
+  },
+  "student": {
+    "dashboard": {
+      "title": "Votre Tableau de Bord des Notes",
+      "overallGrade": "Note Globale",
+      "excellent": "Excellent",
+      "needsImprovement": "Besoin d'Amélioration",
+      "assignmentsSubmitted": "Devoirs Soumis",
+      "assignmentsGraded": "Devoirs Notés",
+      "quizzesCompleted": "Quiz Complétés",
+      "pendingGrades": "Notes en Attente",
+      "overdueItems": "Éléments en Retard",
+      "upcomingDeadlines": "Prochaines Dates d'Échéance",
+      "overdue": "En Retard",
+      "noUpcomingDeadlines": "Aucune prochaine date d'échéance",
+      "noOverdueItems": "Aucun élément en retard"
+    },
+    "header": {
+      "backToDashboard": "Retour au Tableau de Bord",
+      "viewAllGrades": "Afficher Toutes les Notes"
+    },
+    "table": {
+      "allGrades": "Toutes les Notes",
+      "activity": "Activité",
+      "type": "Type",
+      "grade": "Note",
+      "pending": "En Attente"
+    },
+    "modal": {
+      "submissionDetails": "Détails de la Soumission",
+      "yourScore": "Votre Score",
+      "close": "Fermer"
+    },
+    "messages": {
+      "loadingGrades": "Chargement des Notes...",
+      "fetchingData": "Un moment pendant que nous récupérons les dernières données.",
+      "errorLoadingGrades": "Erreur lors du Chargement des Notes",
+      "noCourseSelected": "Aucun Cours Sélectionné",
+      "selectCourse": "Veuillez sélectionner un cours pour afficher ses informations de notes.",
+      "noGradableItems": "Aucun Élément Notable Trouvé",
+      "noGradableItemsDesc": "Nous nous sommes correctement connectés à Moodle et avons chargé les données pour ce cours, mais nous n'avons trouvé aucune activité notable (comme des Devoirs ou Quiz) pour votre compte.",
+      "whatToCheckNext": "Qu'à vérifier ensuite:",
+      "checkCourseContent": "Contenu du Cours: Assurez-vous que le cours dans Moodle (ID: {{courseId}}) contient effectivement des activités \"Devoir\" ou \"Quiz\".",
+      "checkEnrollment": "Inscription: Vérifiez que vous êtes correctement inscrit à ce cours.",
+      "tryDifferentCourse": "Cours Différent: Essayez d'afficher un cours différent pour voir si les notes y apparaissent."
+    }
+  },
+  "teacher": {
+    "gradebook": {
+      "title": "Tableau de Bord de Gestion des Notes",
+      "overview": "Aperçu",
+      "gradeTable": "Tableau des Notes",
+      "searchStudents": "Rechercher des Étudiants",
+      "filterByName": "Filtrer par nom d'étudiant...",
+      "searchAssignment": "Rechercher Quiz ou Devoir",
+      "filterAssignment": "Filtrer...",
+      "filterByType": "Filtrer par Type",
+      "all": "Tous"
+    },
+    "overview": {
+      "requiresAttention": "Nécessite une Attention",
+      "pendingGrades": "Notes en Attente",
+      "overdueAssignments": "Devoirs en Retard",
+      "toGrade": "à Noter",
+      "noPendingGrades": "Aucune Note en Attente",
+      "allSubmissionsGraded": "Toutes les soumissions sont notées",
+      "noOverdueAssignments": "Aucun Devoir en Retard",
+      "allOnTrack": "Tous les devoirs sont à jour",
+      "totalStudents": "Nombre Total d'Étudiants",
+      "classAverage": "Moyenne de la Classe",
+      "allCaughtUp": "Tout est à Jour!",
+      "noPendingSubmissions": "Il n'y a pas de soumissions en attente à noter."
+    },
+    "stats": {
+      "totalStudents": "Nombre Total d'Étudiants",
+      "assignments": "Devoirs",
+      "quizzes": "Quiz",
+      "overdueItems": "Éléments en Retard",
+      "pendingGrades": "Notes en Attente",
+      "classAverage": "Moyenne de la Classe"
+    },
+    "studentList": {
+      "allStudents": "Tous les Étudiants",
+      "averageGrade": "Note Moyenne",
+      "viewDetails": "Afficher les Détails",
+      "backToOverview": "Retour à l'Aperçu"
+    },
+    "studentDetail": {
+      "gradeDetailsFor": "Détails des Notes pour",
+      "overallAverage": "Moyenne Globale",
+      "noGradesAvailable": "Aucune note disponible",
+      "backToStudentList": "Retour à la Liste des Étudiants",
+      "dueDate": "Date d'Échéance",
+      "gradedSubmittedOn": "Noté / Soumis Le",
+      "notGraded": "Non Noté"
+    },
+    "assignment": {
+      "pendingGradesView": "Notes en Attente",
+      "overdueStudents": "Étudiants en Retard",
+      "studentsToGrade": "Étudiants à Noter",
+      "studentsOverdue": "Étudiants en Retard",
+      "submittedOn": "Soumis Le",
+      "daysOverdue": "Jours en Retard",
+      "enterGrade": "Entrer la Note",
+      "backToListing": "Retour à la Liste",
+      "allPendingGrades": "Toutes les Notes en Attente",
+      "total": "total",
+      "submissionsToGrade": "Soumissions à Noter",
+      "overdueItems": "Éléments en Retard",
+      "noOverdueStudents": "Aucun étudiant en retard pour ce devoir.",
+      "noPendingSubmissionsForAssignment": "Aucune soumission en attente à noter pour ce devoir.",
+      "noOverdueItemsDesc": "Aucun Élément en Retard"
+    },
+    "gradeTable": {
+      "enterGrade": "Entrer la Note"
+    },
+    "messages": {
+      "loadingGradebook": "Chargement du Carnet de Notes...",
+      "errorLoadingGradebook": "Erreur lors du Chargement du Carnet de Notes",
+      "noGradableItems": "Il n'y a pas encore d'éléments notables (devoirs ou quiz) dans ce cours.",
+      "invalidGrade": "Veuillez entrer une note valide entre 0 et {{maxGrade}}.",
+      "errorSavingGrade": "Erreur lors de l'enregistrement de la note. Veuillez réessayer."
+    }
+  },
+  "status": {
+    "graded": "Noté",
+    "submitted": "Soumis",
+    "notSubmitted": "Non Soumis",
+    "overdue": "En Retard",
+    "inProgress": "En Cours",
+    "pending": "En Attente",
+    "noDueDate": "Pas de date d'échéance"
+  },
+  "buttons": {
+    "viewDetails": "Afficher les Détails",
+    "backToOverview": "Retour à l'Aperçu",
+    "backToDashboard": "Retour au Tableau de Bord",
+    "close": "Fermer",
+    "save": "Enregistrer",
+    "cancel": "Annuler",
+    "enterGrade": "Entrer la Note",
+    "edit": "Modifier"
+  },
+  "labels": {
+    "due": "Dû",
+    "na": "N/A",
+    "of": "sur"
+  }
+}

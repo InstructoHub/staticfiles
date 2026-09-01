@@ -1,0 +1,128 @@
+{
+  "page": {
+    "title": "Gestion des Catégories",
+    "subtitle": "Gérez et organisez les catégories de cours",
+    "loading": "Chargement des catégories...",
+    "noDescription": "Aucune description"
+  },
+
+  "navigation": {
+    "editCategory": "Modifier la Catégorie",
+    "createCategory": "Créer une Nouvelle Catégorie",
+    "deleteCategory": "Supprimer la Catégorie",
+    "deleteCategories": "Supprimer les Catégories"
+  },
+
+  "buttons": {
+    "addCategory": "Ajouter une Catégorie",
+    "deleteSelected": "Supprimer les Catégories",
+    "edit": "Modifier la Catégorie",
+    "delete": "Supprimer la Catégorie",
+    "cancel": "Annuler",
+    "create": "Créer une Catégorie",
+    "update": "Mettre à Jour la Catégorie",
+    "creating": "Création en cours...",
+    "updating": "Mise à Jour...",
+    "deleting": "Suppression en cours..."
+  },
+
+  "table": {
+    "headers": {
+      "serialNumber": "S.No",
+      "categoryName": "Nom de la Catégorie",
+      "description": "Description",
+      "courseCount": "Nombre de Cours",
+      "actions": "Actions"
+    },
+    "search": {
+      "placeholder": "Rechercher les catégories..."
+    },
+    "courseCount": {
+      "label": "cours"
+    },
+    "fallbacks": {
+      "untitledCategory": "Catégorie Sans Titre"
+    }
+  },
+
+  "form": {
+    "labels": {
+      "categoryName": "Nom de la Catégorie",
+      "idNumber": "Numéro d'ID",
+      "description": "Description"
+    },
+    "placeholders": {
+      "categoryName": "Entrez le nom de la catégorie",
+      "idNumber": "Entrez le numéro d'ID (facultatif)",
+      "description": "Entrez la description (facultatif)"
+    },
+    "validation": {
+      "categoryNameRequired": "Le nom de la catégorie est requis",
+      "categoryNameMinLength": "Le nom de la catégorie doit contenir au moins 2 caractères",
+      "categoryNameMaxLength": "Le nom de la catégorie ne doit pas dépasser 200 caractères",
+      "idNumberMaxLength": "Le numéro d'ID ne doit pas dépasser 50 caractères",
+      "descriptionMaxLength": "La description ne doit pas dépasser 1000 caractères"
+    },
+    "modes": {
+      "edit": {
+        "title": "Modifier la Catégorie",
+        "subtitle": "Mettre à jour les informations de {{categoryName}}"
+      },
+      "create": {
+        "title": "Créer une Nouvelle Catégorie",
+        "subtitle": "Ajouter une nouvelle catégorie au système"
+      }
+    }
+  },
+
+  "modals": {
+    "deleteMultiple": {
+      "title": "Supprimer Plusieurs Catégories",
+      "warning": "Avertissement: Cette action ne peut pas être annulée",
+      "description": "La suppression de ces {{count}} catégories les supprimera définitivement du système. Tous les cours associés devront être réaffectés.",
+      "listLabel": "Catégories à supprimer ({{count}}):",
+      "confirmation": "Êtes-vous absolument sûr de vouloir continuer? Cela supprimera définitivement toutes les catégories sélectionnées et ne peut pas être annulé."
+    },
+    "deleteSingle": {
+      "title": "Supprimer la Catégorie",
+      "warning": "Avertissement: Cette action ne peut pas être annulée",
+      "description": "La suppression de cette catégorie la supprimera définitivement du système. Tous les cours associés devront être réaffectés.",
+      "listLabel": "Catégorie à supprimer:",
+      "confirmation": "Êtes-vous absolument sûr de vouloir continuer? Cela supprimera définitivement cette catégorie et ne peut pas être annulé."
+    },
+    "details": {
+      "name": "Nom:",
+      "description": "Description:",
+      "courses": "Cours:"
+    }
+  },
+
+  "messages": {
+    "success": {
+      "categoryCreated": "Catégorie créée avec succès",
+      "categoryUpdated": "Catégorie mise à jour avec succès",
+      "categoriesDeleted": "Catégories supprimées avec succès",
+      "categoryDeleted": "Catégorie supprimée avec succès"
+    },
+    "error": {
+      "categoryNotFound": "Catégorie non trouvée",
+      "failedToLoad": "Échec du chargement de la catégorie",
+      "errorUpdating": "Erreur lors de la mise à jour de la catégorie",
+      "errorCreating": "Erreur lors de la création de la catégorie",
+      "failedToUpdate": "Impossible de mettre à jour la catégorie",
+      "failedToCreate": "Impossible de créer la catégorie",
+      "deleteFailed": "Impossible de supprimer la catégorie",
+      "deleteMultipleFailed": "Impossible de supprimer les catégories"
+    },
+    "warning": {
+      "selectCategoriesToDelete": "Veuillez sélectionner les catégories à supprimer"
+    }
+  },
+
+  "status": {
+    "loading": "Chargement...",
+    "saving": "Enregistrement...",
+    "deleting": "Suppression en cours...",
+    "processing": "Traitement..."
+  }
+}

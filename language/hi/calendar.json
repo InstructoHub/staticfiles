@@ -1,0 +1,46 @@
+{
+  "title": "कैलेंडर",
+  "subtitle": "अपना शेड्यूल और इवेंट्स मेनेज करें।",
+  "navigation": {
+    "previousMonth": "पिछला महीना",
+    "nextMonth": "अगला महीना",
+    "backToMonth": "महीने के व्यू पर वापस जाएँ"
+  },
+  "search": {
+    "placeholder": "इवेंट्स सर्च करें",
+    "ariaLabel": "इवेंट्स सर्च करें"
+  },
+  "filter": {
+    "ariaLabel": "इवेंट के टाइप से फ़िल्टर करें",
+    "options": {
+      "all": "सभी टाइप्स",
+      "assignment": "असाइनमेंट्स",
+      "quiz": "क्विज़ेस",
+      "discussion": "डिस्कशन्स",
+      "meeting": "मीटिंग्स",
+      "project": "प्रोजेक्ट्स"
+    }
+  },
+  "days": {
+    "sun": "रवि",
+    "mon": "सोम",
+    "tue": "मंगल",
+    "wed": "बुध",
+    "thu": "गुरु",
+    "fri": "शुक्र",
+    "sat": "शनि"
+  },
+  "grid": {
+    "dayAriaLabel": "दिन {{day}}",
+    "moreEvents": "+ {{count}} और"
+  },
+  "events": {
+    "title": "इवेंट्स की डेट:",
+    "viewButton": "व्यू",
+    "noEvents": "इस दिन कोई इवेंट नहीं है।",
+    "selectDay": "इवेंट देखने के लिए दिन चुनें।",
+    "eventCount": "{{count}} इवेंट",
+    "eventCount_plural": "{{count}} इवेंट्स"
+  },
+  "loadingcalendar": "कैलेंडर लोड हो रहा है..."
+}

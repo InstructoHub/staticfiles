@@ -1,0 +1,817 @@
+{
+  "introduction": {
+    "courseOverview": {
+      "title": "Aperçu du Cours",
+      "startLearning": "Commencer à Apprendre",
+      "continueLearning": "Continuer l'Apprentissage",
+      "noSummary": "Aucun résumé du cours fourni"
+    },
+    "courseDetails": {
+      "title": "Détails du Cours",
+      "courseId": "ID du Cours",
+      "instructor": "Instructeur",
+      "instructors": "Instructeurs",
+      "category": "Catégorie",
+      "startDate": "Date de Début",
+      "endDate": "Date de Fin",
+      "enrolledStudents": "Étudiants Inscrits",
+      "notAvailable": "N/A",
+      "showMore": "afficher plus",
+      "showLess": "afficher moins"
+    },
+    "actions": {
+      "addModule": "Ajouter un Module",
+      "moreActions": "Plus d'Actions",
+      "courseEdit": "Modifier le Cours",
+      "organizeModules": "Organiser les Modules",
+      "viewCertificate": "Afficher le Certificat",
+      "enableAIForCourse": "Activer l'IA pour ce cours",
+      "disableAIForCourse": "Désactiver l'IA pour ce cours"
+    },
+    "aria": {
+      "createModuleButton": "Créer un nouveau module",
+      "moreActionsButton": "Plus d'actions du cours",
+      "courseEditButton": "Modifier les paramètres du cours",
+      "organizeModulesButton": "Organiser les modules du cours",
+      "enableAIForCourseButton": "Activer l'IA pour ce cours",
+      "disableAIForCourseButton": "Désactiver l'IA pour ce cours"
+    },
+    "ai": {
+      "confirmEnableAIForCourse": "Êtes-vous sûr de vouloir activer l'IA pour ce cours ?",
+      "confirmDisableAIForCourse": "Êtes-vous sûr de vouloir désactiver l'IA pour ce cours ?"
+    }
+  },
+  "studentSummary": {
+    "title": "Mon Résumé d'Apprentissage",
+    "tabs": {
+      "assignments": "Devoirs",
+      "quizzes": "Quiz",
+      "forums": "Discussions",
+      "liveSessions": "Séances en Direct"
+    },
+    "dateRanges": {
+      "today": "Aujourd'hui",
+      "week": "7 Prochains Jours",
+      "month": "30 Prochains Jours",
+      "custom": "Personnalisé"
+    },
+    "assignments": {
+      "dueSoon": "À Remettre Bientôt",
+      "recentlySubmitted": "Récemment Soumis",
+      "noAssignmentsDue": "Aucun devoir à remettre bientôt",
+      "noRecentSubmissions": "Aucune soumission récente",
+      "notSubmitted": "Non Soumis",
+      "awaitingGrade": "En Attente de Note",
+      "graded": "Noté",
+      "grade": "Note"
+    },
+    "emptyStates": {
+      "quizzes": "Aucun quiz à venir",
+      "forums": "Aucune discussion ne nécessite d'attention",
+      "liveSessions": "Aucune séance en direct programmée"
+    },
+    "footer": {
+      "item": "élément",
+      "items": "éléments",
+      "updated": "Mis à Jour"
+    },
+    "config": {
+      "title": "Personnalisez vos préférences de vue de résumé:",
+      "options": [
+        "Choisissez les plages de dates pour filtrer vos tâches",
+        "Affichez les devoirs par date d'échéance ou état de soumission",
+        "Suivez les quiz et examens à venir"
+      ]
+    }
+  },
+  "teacherSummary": {
+    "title": "Résumé d'Enseignement",
+    "tabs": {
+      "assignments": "Devoirs",
+      "forums": "Discussions",
+      "liveSessions": "Séances en Direct"
+    },
+    "dateRanges": {
+      "today": "Aujourd'hui",
+      "week": "7 Prochains Jours",
+      "month": "30 Prochains Jours",
+      "custom": "Personnalisé"
+    },
+    "assignments": {
+      "dueSoon": "À Remettre Bientôt",
+      "pendingGrading": "En Attente de Notation",
+      "noAssignmentsDue": "Aucun devoir à remettre bientôt",
+      "allCaughtUp": "Tout est à jour!",
+      "pending": "en attente"
+    },
+    "emptyStates": {
+      "forums": "Aucune discussion ne nécessite d'attention",
+      "liveSessions": "Aucune séance en direct programmée",
+      "quizzes": "Aucun quiz à remettre bientôt"
+    },
+    "footer": {
+      "item": "élément",
+      "items": "éléments",
+      "updated": "Mis à Jour"
+    }
+  },
+  "userProfile": {
+    "title": "Profil Utilisateur",
+    "profilePage": "Page de Profil",
+    "viewManageInfo": "Afficher et gérer les informations utilisateur",
+    "personalInfo": "Informations Personnelles",
+    "contactInfo": "Informations de Contact",
+    "courseEnrollments": "Inscriptions aux Cours",
+    "preferences": "Préférences",
+    "firstName": "Prénom",
+    "lastName": "Nom de Famille",
+    "email": "Adresse E-mail",
+    "phone": "Numéro de Téléphone",
+    "description": "Description",
+    "profilePicture": "Photo de Profil",
+    "timezone": "Fuseau Horaire",
+    "language": "Langue",
+    "lastLogin": "Dernière Connexion",
+    "accountCreated": "Compte Créé",
+    "editProfile": "Modifier le Profil",
+    "changePassword": "Changer le Mot de Passe",
+    "updatePicture": "Mettre à Jour la Photo",
+    "removePicture": "Supprimer la Photo",
+    "saveChanges": "Enregistrer les Modifications",
+    "discardChanges": "Abandonner les Modifications",
+    "enrolledCourses": "Cours Inscrits",
+    "completedCourses": "Cours Complétés",
+    "inProgressCourses": "Cours en Cours",
+    "upcomingCourses": "Cours à Venir",
+    "noCourses": "Aucun cours trouvé",
+    "courseRole": "Rôle",
+    "enrollmentDate": "Date d'Inscription",
+    "lastAccessed": "Dernier Accès",
+    "progress": "Progression",
+    "grade": "Note",
+    "certificate": "Certificat",
+    "viewCourse": "Afficher le Cours",
+    "dropCourse": "Abandonner le Cours",
+    "backToUsers": "Retour aux Utilisateurs",
+    "selectOption": "Sélectionner...",
+    "updateError": "Erreur lors de la mise à jour de {{field}}.",
+    "username": "Nom d'Utilisateur",
+    "city": "Ville",
+    "country": "Pays",
+    "password": "Mot de Passe",
+    "firstActive": "Première Activité",
+    "lastActive": "Dernière Activité",
+    "validation": {
+      "usernameTaken": "Ce nom d'utilisateur existe déjà. Veuillez en choisir un autre.",
+      "emailTaken": "Cet e-mail est déjà enregistré. Veuillez utiliser un e-mail différent.",
+      "usernameInvalid": "Le nom d'utilisateur doit être en minuscules et contenir uniquement des lettres, des chiffres et ces caractères: . _ @ -",
+      "emailInvalid": "Format d'e-mail invalide. Veuillez vérifier votre saisie.",
+      "fieldInvalid": "Format {{field}} invalide. Veuillez vérifier votre saisie.",
+      "fieldTaken": "Ce {{field}} est déjà pris. Veuillez en choisir un autre.",
+      "usernameHelper": "Lettres minuscules, chiffres et ces caractères: . _ @ - (pas d'espaces ni de majuscules)",
+      "passwordHelper": "8+ caractères, 1 chiffre, 1 minuscule, 1 majuscule, 1 caractère spécial",
+      "emailHelper": "Entrez une adresse e-mail valide"
+    }
+  },
+  "profilePicture": {
+    "label": "Photo de Profil",
+    "previewLabel": "Aperçu de la nouvelle photo de profil",
+    "chooseDifferent": "Choisir une image différente",
+    "dragDropText": "Glissez-déposez une image ici",
+    "orText": "ou",
+    "chooseFileButton": "Choisir un Fichier",
+    "saveTitle": "Enregistrer les modifications",
+    "cancelTitle": "Annuler les modifications",
+    "uploading": "Téléversement...",
+    "clickToChange": "Cliquez pour changer la photo",
+    "invalidImageError": "Veuillez sélectionner un fichier image valide.",
+    "updateSuccess": "Photo de profil mise à jour avec succès.",
+    "updateError": "Erreur lors de la mise à jour de la photo de profil."
+  },
+  "userCourses": {
+    "title": "Cours Inscrits",
+    "courseName": "Nom du Cours",
+    "shortName": "Nom Court",
+    "startDate": "Date de Début",
+    "endDate": "Date de Fin",
+    "lastAccessed": "Dernier Accès",
+    "progress": "Progression",
+    "totalCourses": "Total des Cours",
+    "notStarted": "Non Commencés",
+    "activeCourses": "Cours Actifs",
+    "completedCourses": "Cours Terminés",
+    "overallProgress": "Progression Globale",
+    "category": "Catégorie",
+    "firstAccessed": "Premier Accès",
+    "singleCourse": "Cours",
+    "multipleCourses": "Cours",
+    "noCoursesFound": "Aucun Cours Trouvé",
+    "notEnrolledMessage": "Cet utilisateur n'est inscrit à aucun cours."
+  },
+  "enrollment": {
+    "title": "Gestion des Inscriptions",
+    "enrollUsers": "Inscrire les Utilisateurs",
+    "manageEnrollments": "Gérer les Inscriptions",
+    "searchUsers": "Rechercher les Utilisateurs",
+    "searchBy": "Rechercher par",
+    "username": "Nom d'Utilisateur",
+    "email": "E-mail",
+    "firstName": "Prénom",
+    "lastName": "Nom de Famille",
+    "enterSearchTerm": "Entrez le terme de recherche (minimum 2 caractères)",
+    "selectRole": "Sélectionner le Rôle",
+    "enrollSelected": "Inscrire les Utilisateurs Sélectionnés",
+    "enrollmentRole": "Rôle d'Inscription",
+    "searchResults": "Résultats de Recherche",
+    "selectedUsers": "Utilisateurs Sélectionnés",
+    "noUsersFound": "Aucun utilisateur trouvé",
+    "allUsersEnrolled": "Tous les utilisateurs trouvés sont déjà inscrits",
+    "selectUsersToEnroll": "Sélectionnez les utilisateurs à inscrire",
+    "enrollmentSuccess": "Utilisateurs inscrits avec succès",
+    "enrollmentError": "Erreur lors de l'inscription des utilisateurs",
+    "partialSuccess": "Certains utilisateurs inscrits avec succès",
+    "loadingRoles": "Chargement des rôles disponibles...",
+    "errorLoadingRoles": "Erreur lors du chargement des rôles disponibles",
+    "userAlreadyEnrolled": "Utilisateur déjà inscrit",
+    "bulkEnrollment": "Inscription en Lot",
+    "individualEnrollment": "Inscription Individuelle",
+    "enrollmentMethod": "Méthode d'Inscription",
+    "selfEnrollment": "Auto-Inscription",
+    "manualEnrollment": "Inscription Manuelle",
+    "csvUpload": "Téléversement CSV"
+  },
+  "participants": {
+    "title": "Participants",
+    "courseParticipants": "Participants du Cours",
+    "allParticipants": "Tous les Participants",
+    "students": "Étudiants",
+    "teachers": "Enseignants",
+    "searchParticipants": "Rechercher les participants...",
+    "filterByRole": "Filtrer par Rôle",
+    "allRoles": "Tous les Rôles",
+    "sortBy": "Trier par",
+    "name": "Nom",
+    "fullName": "Nom Complet",
+    "username": "Nom d'Utilisateur",
+    "email": "E-mail",
+    "lastAccess": "Dernier Accès",
+    "lastAccessCourse": "Dernier Accès",
+    "enrollmentDate": "Date d'Inscription",
+    "progress": "Progression",
+    "roles": "Rôles",
+    "totalParticipants": "Total des Participants",
+    "activeParticipants": "Participants Actifs",
+    "participantDetails": "Détails du Participant",
+    "viewProfile": "Afficher le Profil",
+    "sendMessage": "Envoyer un Message",
+    "removeUser": "Supprimer l'Utilisateur",
+    "changeRole": "Changer le Rôle",
+    "bulkActions": "Actions en Lot",
+    "selectAll": "Sélectionner Tout",
+    "deselectAll": "Désélectionner Tout",
+    "exportList": "Exporter la Liste",
+    "never": "Jamais",
+    "online": "En Ligne",
+    "offline": "Hors Ligne",
+    "lastSeen": "Dernière visite {{time}}",
+    "noParticipantsYet": "Aucun Participant Pour Le Moment",
+    "dontHaveAnyEnrolledParticipants": "Ce cours n'a pas encore de participants inscrits.",
+    "action": "Action",
+    "loading": "Chargement des participants...",
+    "message": "Message",
+    "addContacts": "Ajouter aux Contacts",
+    "removeContacts": "Supprimer des Contacts",
+    "leaveCourse": "Quitter le Cours",
+    "confirmLeaveMessage": "Vous perdrez l'accès à tous les matériaux du cours, aux devoirs et à votre progression. Vous pouvez vous réinscrire après si le cours le permet.",
+    "unenrollUser": "Désinscrire l'Utilisateur",
+    "confirmUnenrollMessage": "Cela supprimera l'utilisateur du cours et il perdra l'accès à tous les matériaux. Cette action ne peut pas être annulée.",
+    "youHaveSuccessfullyUnenrolled": "Vous vous êtes avec succès désinscrit du cours.",
+    "successfullyUnenrolled": "{{name}} s'est avec succès désinscrit du cours.",
+    "failedToUnenroll": "Échec de la désinscription. Veuillez réessayer.",
+    "failedToUnenrollUser": "Échec de la désinscription de {{name}}. Veuillez réessayer.",
+    "leavingCourse": "Départ...",
+    "FULL_NAME": "Nom Complet",
+    "ROLES": "Rôles",
+    "LAST_ACCESS_COURSE": "Dernier Accès",
+    "ACTION": "Action"
+  },
+  "navigation": {
+    "dashboard": "Tableau de Bord",
+    "myCourses": "Mes Cours",
+    "allCourses": "Tous les Cours",
+    "calendar": "Calendrier",
+    "messages": "Messages",
+    "notifications": "Notifications",
+    "profile": "Profil",
+    "settings": "Paramètres",
+    "help": "Aide",
+    "logout": "Déconnexion",
+    "home": "Accueil",
+    "grades": "Notes",
+    "gradebook": "Carnet de Notes",
+    "reports": "Rapports",
+    "tools": "Outils",
+    "administration": "Administration",
+    "courseManagement": "Gestion des Cours",
+    "userManagement": "Gestion des Utilisateurs",
+    "systemSettings": "Paramètres du Système"
+  },
+  "quizForm": {
+    "title": "Créer un Quiz",
+    "fields": {
+      "name": "Nom du Quiz",
+      "availability": "Disponibilité",
+      "dueDate": "Date d'Échéance",
+      "timeLimit": "Limite de Temps",
+      "attempts": "Tentatives Autorisées",
+      "gradeMethod": "Méthode de Notation",
+      "maxGrade": "Note Maximale",
+      "passingGrade": "Note de Passage (%)",
+      "description": "Description"
+    },
+    "placeholders": {
+      "name": "Entrez le nom du quiz",
+      "attempts": "Entrez le nombre de tentatives",
+      "gradeMethod": "Sélectionnez la Méthode de Notation",
+      "maxGrade": "Entrez la note maximale",
+      "selectPassingGrade": "Sélectionnez la note de passage"
+    },
+    "gradeMethod": {
+      "highest": "Note la Plus Élevée",
+      "average": "Note Moyenne",
+      "first": "Première Tentative",
+      "last": "Dernière Tentative"
+    },
+    "labels": {
+      "enable": "Activer",
+      "minutes": "minutes",
+      "unlimited": "Illimité"
+    },
+    "buttons": {
+      "cancel": "Annuler",
+      "creating": "Création...",
+      "createAndAddQuestions": "Créer Quiz et Ajouter des Questions"
+    },
+    "validation": {
+      "nameRequired": "Le nom du quiz est requis",
+      "nameMinLength": "Le nom du quiz doit contenir au moins 2 caractères",
+      "nameMaxLength": "Le nom du quiz doit contenir 70 caractères ou moins",
+      "descriptionMinLength": "La description doit contenir au moins 2 caractères",
+      "descriptionMaxLength": "La description doit contenir 150 caractères ou moins",
+      "minutesMin": "Les minutes doivent être au moins 1",
+      "minutesRequired": "Les minutes sont requises quand la limite de temps est activée",
+      "attemptsMin": "Les tentatives doivent être au moins 1",
+      "attemptsRequired": "Les tentatives sont requises",
+      "gradeMethodRequired": "La méthode de notation est requise",
+      "maxgradeMin": "La note minimale est 5",
+      "maxgradeMax": "La note maximale est 100",
+      "multipleOf5": "Doit être un multiple de 5",
+      "dueDatePast": "La date d'échéance ne peut pas être dans le passé",
+      "invalidDate": "Veuillez entrer une date valide"
+    },
+    "messages": {
+      "createSuccess": "Quiz créé avec succès!",
+      "createWarning": "Quiz créé mais impossible de naviguer vers l'éditeur de questions.",
+      "createError": "Erreur lors de la création du quiz."
+    }
+  },
+  "quizFlow": {
+    "step1": {
+      "title": "Sélectionnez un Module",
+      "subtitle": "Choisissez un module et les pages de contenu ci-dessous pour générer un quiz adapté au contenu sélectionné."
+    },
+    "step2": {
+      "title": "Assistant de Configuration du Quiz",
+      "subtitle": "Concevez votre quiz parfait en personnalisant les questions et les paramètres"
+    },
+    "step3": {
+      "title": "Améliorer le Cours du Module",
+      "subtitle": "Passez en revue et affinez vos questions de quiz avant de les publier à votre cours"
+    },
+    "fields": {
+      "quizTitle": "Titre du Quiz",
+      "quizPrompt": "Invite du Quiz"
+    },
+    "placeholders": {
+      "prompt": "Entrez ou modifiez l'invite du quiz...",
+      "quizTitle": "Titre du Quiz",
+      "questionTitle": "Titre de la Question",
+      "questionContent": "Contenu de la Question"
+    },
+    "buttons": {
+      "back": "Retour",
+      "continue": "Continuer",
+      "loading": "Chargement...",
+      "selectAll": "Sélectionner Tout",
+      "deselectAll": "Désélectionner Tout",
+      "regenerate": "Régénérer",
+      "regenerating": "Régénération...",
+      "creating": "Création...",
+      "createQuiz": "Créer Quiz",
+      "submitting": "Soumission...",
+      "submitQuiz": "Soumettre le Quiz",
+      "addOption": "Ajouter une Option",
+      "saveChanges": "Enregistrer les Modifications",
+      "cancel": "Annuler"
+    },
+    "labels": {
+      "itemsSelected": "{{selected}} sur {{total}} sélectionnés",
+      "questionTypes": "Types de Questions",
+      "multipleChoice": "Choix Multiples",
+      "trueFalse": "Vrai/Faux",
+      "multiAnswer": "Réponses Multiples",
+      "fillBlanks": "Remplir les Espaces",
+      "quizGrade": "Note du Quiz",
+      "timeLimit": "Limite de Temps",
+      "min": "min",
+      "quizOptions": "Options du Quiz",
+      "shuffleQuestions": "Mélanger les Questions",
+      "shuffleAnswers": "Mélanger les Réponses",
+      "multipleAttempts": "Autoriser les Tentatives Multiples",
+      "contentSource": "Source de Contenu ({{count}})",
+      "page": "Page",
+      "resource": "Ressource",
+      "characters": "caractères",
+      "answers": "Réponses (glissez pour réorganiser)",
+      "answer": "Réponse"
+    },
+    "validation": {
+      "selectContent": "Veuillez sélectionner au moins un élément de contenu",
+      "selectAtLeastOne": "(veuillez en sélectionner au moins un)",
+      "enterPrompt": "Veuillez entrer une invite",
+      "selectQuestion": "Veuillez sélectionner au moins un type de question",
+      "promptOverLimit": "L'invite du quiz ne peut pas dépasser {{limit}} caractères",
+      "titleOverLimit": "Le titre du quiz ne peut pas dépasser {{limit}} caractères"
+    },
+    "messages": {
+      "noItems": "Aucune page ou ressource trouvée",
+      "noItemsSelected": "Aucun élément sélectionné",
+      "quizCreated": "Quiz créé avec succès!",
+      "noQuestions": "Aucune question générée",
+      "untitledQuestion": "Question Sans Titre"
+    },
+    "errors": {
+      "title": "Erreur",
+      "noPagesFound": "Aucune page ou ressource trouvée dans ce module.",
+      "noItemsFound": "Aucun élément trouvé dans ce module.",
+      "loadError": "Erreur lors du chargement des éléments du module. Veuillez réessayer.",
+      "generationFailed": "Échec de la génération de l'invite",
+      "regenerationFailed": "Échec de la régénération de l'invite",
+      "contentGenerationFailed": "Échec de la génération des questions",
+      "noQuizId": "Quiz créé mais impossible de récupérer l'ID",
+      "submitFailed": "Échec de la soumission du quiz",
+      "errorOccurred": "Une erreur s'est produite lors de la génération de l'invite",
+      "generationError": "Erreur de Génération",
+      "refresh": "Actualiser la Page",
+      "close": "Fermer"
+    },
+    "defaults": {
+      "courseName": "Cours",
+      "moduleName": "Module",
+      "quizTitle": "Quiz Généré par IA"
+    },
+    "dialog": {
+      "discardTitle": "Abandonner la Progression",
+      "discardMessage": "Revenir en arrière abandonnera la progression. Voulez-vous continuer?",
+      "unsavedTitle": "Modifications Non Enregistrées",
+      "unsavedMessage": "Vous avez des modifications non enregistrées. Voulez-vous les abandonner?"
+    },
+    "loader": {
+      "loading": "Chargement",
+      "generating": "Génération",
+      "creating": "Création"
+    }
+  },
+  "forumForm": {
+    "title": {
+      "create": "Créer un Forum de Discussion",
+      "edit": "Modifier le Forum de Discussion"
+    },
+    "fields": {
+      "name": "Nom du Forum",
+      "description": "Description du Forum",
+      "additionalFile": "Fichier Supplémentaire",
+      "additionalFileDescription": "Téléversez un matériel de référence ou une ressource supplémentaire pour ce forum",
+      "currentFile": "Fichier actuel"
+    },
+    "placeholders": {
+      "name": "Entrez le nom du forum"
+    },
+    "buttons": {
+      "cancel": "Annuler",
+      "download": "Télécharger",
+      "creating": "Création",
+      "updating": "Mise à Jour"
+    },
+    "validation": {
+      "nameRequired": "Le nom du forum est requis",
+      "nameMinLength": "Le nom du forum doit contenir au moins 3 caractères",
+      "nameMaxLength": "Le nom du forum doit contenir 200 caractères ou moins",
+      "descriptionMaxLength": "La description du forum doit contenir 2000 caractères ou moins"
+    },
+    "messages": {
+      "createSuccess": "Forum créé avec succès",
+      "updateSuccess": "Forum mis à jour avec succès",
+      "createError": "Erreur lors de la création du forum",
+      "updateError": "Erreur lors de la mise à jour du forum",
+      "aiCreateSuccess": "Forum créé avec succès grâce à l'assistance IA!"
+    }
+  },
+  "forumFlow": {
+    "step1": {
+      "title": "Sélectionnez le Contenu pour le Forum",
+      "subtitle": "Choisissez des pages ou des ressources à inclure dans votre discussion de forum"
+    },
+    "step2": {
+      "title": "Personnalisez l'Invite du Forum",
+      "subtitle": "Affinez l'invite générée par IA pour votre forum"
+    },
+    "step3": {
+      "title": "Créer le Forum",
+      "subtitle": "Examinez et finalisez les détails de votre forum"
+    },
+    "step4": {
+      "title": "Ajouter des Questions de Discussion",
+      "subtitle": "Ajoutez plusieurs questions de discussion à votre forum"
+    },
+    "fields": {
+      "prompt": "Invite du Forum",
+      "title": "Titre du Forum",
+      "description": "Description du Forum (Introduction et Directives)"
+    },
+    "placeholders": {
+      "prompt": "Modifiez l'invite du forum...",
+      "title": "Entrez le titre du forum",
+      "description": "Description du forum (les questions seront ajoutées séparément)",
+      "question": "Entrez votre question de discussion..."
+    },
+    "buttons": {
+      "back": "Retour",
+      "continue": "Continuer",
+      "loading": "Chargement...",
+      "selectAll": "Sélectionner Tout",
+      "deselectAll": "Désélectionner Tout",
+      "generating": "Génération...",
+      "regenerating": "Régénération...",
+      "regenerate": "Régénérer",
+      "generateContent": "Générer le Contenu",
+      "creating": "Création...",
+      "createForum": "Créer le Forum",
+      "completing": "Fin...",
+      "completeCreate": "Finaliser et Créer les Discussions",
+      "add": "Ajouter",
+      "addQuestion": "Ajouter une Question",
+      "remove": "Supprimer"
+    },
+    "labels": {
+      "itemsSelected": "{{selected}} sur {{total}} sélectionnés",
+      "words": "mots",
+      "contentSource": "Source de Contenu ({{count}})",
+      "preview": "Aperçu",
+      "extractedQuestions": "Questions Extraites ({{count}})",
+      "customQuestion": "Ajouter une Question Personnalisée",
+      "questionsToAdd": "Questions à Ajouter ({{count}})",
+      "questionNumber": "Question {{num}} sur {{total}}",
+      "page": "Page",
+      "resource": "Ressource",
+      "characters": "caractères"
+    },
+    "validation": {
+      "selectContent": "Veuillez sélectionner au moins un élément de contenu",
+      "selectAtLeastOne": "(veuillez en sélectionner au moins un)",
+      "enterPrompt": "Veuillez entrer une invite",
+      "promptOverLimit": "L'invite ne peut pas dépasser 500 mots",
+      "enterTitle": "Veuillez entrer le titre du forum",
+      "enterDescription": "Veuillez entrer la description du forum",
+      "enterQuestion": "Veuillez entrer une question",
+      "addQuestion": "Veuillez ajouter au moins une question de discussion",
+      "titleOverLimit": "Le titre du forum ne peut pas dépasser {{limit}} caractères"
+    },
+    "messages": {
+      "noItems": "Aucune page ou ressource trouvée",
+      "noItemsSelected": "Aucun élément sélectionné",
+      "forumCreated": "Forum créé avec succès!",
+      "descriptionWillAppear": "La description apparaîtra ici...",
+      "noQuestionsAdded": "Aucune question ajoutée pour le moment. Ajoutez au moins une pour continuer.",
+      "discussionsCreated": "{{count}} discussion{{plural}} créée{{plural}} avec succès!{{failed}}"
+    },
+    "hints": {
+      "questionsNextStep": "Remarque: Les questions de discussion seront ajoutées à l'étape suivante"
+    },
+    "errors": {
+      "title": "Erreur",
+      "noPagesFound": "Aucune page ou ressource trouvée dans ce module.",
+      "noItemsFound": "Aucun élément trouvé dans ce module.",
+      "loadError": "Erreur lors du chargement des éléments du module. Veuillez réessayer.",
+      "generationFailed": "Échec de la génération de l'invite",
+      "regenerationFailed": "Échec de la régénération de l'invite",
+      "noContent": "Aucun contenu reçu du service IA",
+      "contentGenerationFailed": "Échec de la génération du contenu",
+      "creationFailed": "Erreur lors de la création du forum. Veuillez réessayer.",
+      "discussionCreationFailed": "Erreur lors de l'ajout des questions de discussion. Veuillez réessayer.",
+      "errorOccurred": "Une erreur s'est produite",
+      "generationError": "Erreur de Génération",
+      "refresh": "Actualiser la Page",
+      "close": "Fermer"
+    },
+    "defaults": {
+      "courseName": "Cours",
+      "moduleName": "Module",
+      "forumTitle": "Forum Généré par IA",
+      "questionsSubject": "Questions"
+    },
+    "dialog": {
+      "discardTitle": "Abandonner la Progression",
+      "discardMessage": "Revenir en arrière abandonnera la progression. Voulez-vous continuer?"
+    },
+    "loader": {
+      "loading": "Chargement",
+      "generating": "Génération",
+      "regenerating": "Régénération",
+      "creating": "Création"
+    }
+  },
+  "assignmentForm": {
+    "title": {
+      "create": "Créer une Tâche",
+      "edit": "Modifier la Tâche"
+    },
+    "fields": {
+      "name": "Nom de la Tâche",
+      "description": "Description",
+      "instructions": "Instructions de l'Activité",
+      "availability": "Disponibilité",
+      "dueDate": "Date d'Échéance",
+      "submissionType": "Type de Soumission",
+      "maximumGrade": "Note Maximale",
+      "passingGrade": "Note de Passage (%)",
+      "additionalFile": "Fichier Supplémentaire",
+      "additionalFileDescription": "Téléversez un matériel de référence ou une ressource supplémentaire pour cette tâche",
+      "currentFile": "Fichier actuel"
+    },
+    "placeholders": {
+      "name": "Entrez le nom de la tâche",
+      "description": "Entrez la description de la tâche",
+      "maximumGrade": "Entrez la note maximale"
+    },
+    "fileTypes": {
+      "pdf": "PDF (.pdf)",
+      "word": "Documents Word (.doc, .docx)",
+      "presentation": "Présentations (.ppt, .pptx)",
+      "image": "Images (.jpg, .png, .gif)",
+      "excel": "Feuilles de Calcul Excel (.xls, .xlsx)",
+      "text": "Fichiers Texte (.txt)"
+    },
+    "submissionTypes": {
+      "onlineText": "Texte en Ligne",
+      "fileUpload": "Téléversement de Fichier"
+    },
+    "buttons": {
+      "cancel": "Annuler",
+      "download": "Télécharger",
+      "creating": "Création",
+      "updating": "Mise à Jour"
+    },
+    "validation": {
+      "nameRequired": "Le nom de la tâche est requis",
+      "nameMinLength": "Le nom de la tâche doit contenir au moins 2 caractères",
+      "nameMaxLength": "Le nom de la tâche doit contenir 70 caractères ou moins",
+      "descriptionRequired": "La description est requise",
+      "descriptionMinLength": "La description doit contenir au moins 2 caractères",
+      "descriptionMaxLength": "La description doit contenir 150 caractères ou moins",
+      "instructionRequired": "L'instruction de l'activité est requise",
+      "submissionTypeRequired": "Veuillez sélectionner au moins un type de soumission",
+      "dueDateInPast": "La date d'échéance ne peut pas être dans le passé",
+      "invalidDate": "Veuillez entrer une date valide",
+      "gradeMin": "La note minimale est 5",
+      "gradeMax": "La note maximale est 100",
+      "gradeMultiple": "Doit être un multiple de 5"
+    },
+    "messages": {
+      "createSuccess": "Tâche créée avec succès!",
+      "createError": "Erreur lors de la création de la tâche",
+      "updateSuccess": "Tâche mise à jour avec succès!",
+      "updateError": "Erreur lors de la mise à jour de la tâche"
+    },
+    "selectPassingGrade": "Sélectionnez la note de passage",
+    "ai": {
+      "selectContentTitle": "Sélectionner le Contenu",
+      "selectContentSubtitle": "Choisissez les pages ou ressources à inclure dans votre tâche",
+      "noItemsMessage": "Aucune page ou ressource trouvée",
+      "deselectAll": "Désélectionner Tout",
+      "selectAll": "Sélectionner Tout",
+      "itemsSelected": "{{selected}} sur {{total}} sélectionnés",
+      "selectAtLeastOne": "(veuillez en sélectionner au moins un)",
+      "generating": "Génération...",
+      "continue": "Continuer",
+      "refinePromptTitle": "Affinez Votre Invite",
+      "refinePromptSubtitle": "Personnalisez l'invite générée par IA pour mieux correspondre aux besoins de votre tâche",
+      "contentSource": "Source de Contenu",
+      "noItemsSelected": "Aucun élément sélectionné",
+      "assignmentPrompt": "Invite de la Tâche",
+      "promptPlaceholder": "Entrez ou modifiez l'invite de la tâche...",
+      "characters": "caractères",
+      "charLimitExceeded": "L'invite de la tâche ne peut pas dépasser {{limit}} caractères",
+      "generateContent": "Générer le Contenu",
+      "regenerating": "Régénération...",
+      "regenerate": "Régénérer",
+      "selectContent": "Veuillez sélectionner au moins un élément de contenu",
+      "noPagesFound": "Aucune page ou ressource trouvée dans ce module.",
+      "noItemsFound": "Aucun élément trouvé dans ce module. Veuillez vérifier si le module a une activité.",
+      "errorLoadingItems": "Erreur lors du chargement des éléments du module. Veuillez réessayer.",
+      "defaultCourseName": "Cours",
+      "defaultModuleName": "Module",
+      "generationFailed": "Échec de la génération de l'invite",
+      "generationError": "Une erreur s'est produite lors de la génération de l'invite",
+      "regenerationFailed": "Échec de la régénération de l'invite",
+      "regenerationError": "Une erreur s'est produite lors de la régénération de l'invite",
+      "emptyPrompt": "Veuillez entrer une invite",
+      "contentGenerationFailed": "Échec de la génération du contenu",
+      "contentGeneratedSuccess": "Contenu de tâche généré avec succès!",
+      "contentGenerationError": "Une erreur s'est produite lors de la génération du contenu",
+      "confirmTitle": "Abandonner la Progression",
+      "confirmMessage": "Revenir en arrière abandonnera la progression. Voulez-vous continuer?"
+    }
+  },
+  "notificationsModal": {
+    "sidebarTitle": "Catégories",
+    "emptyTitle": "Aucune notification",
+    "emptySubtitle": "Vous êtes à jour !",
+    "showLabel": "Afficher :",
+    "markAllAsRead": "Marquer comme lu",
+    "previousButton": "Précédent",
+    "nextButton": "Suivant",
+    "unreadCount": "{{count}} non lues",
+    "categories": {
+      "all": "Toutes les notifications",
+      "signIn": "Alertes de connexion",
+      "updates": "Mises à jour système",
+      "assignments": "Devoirs",
+      "courses": "Cours",
+      "messages": "Messages",
+      "other": "Autres"
+    }
+  },
+  "messagingSection": {
+    "contactsHeader": "Contacts",
+    "backToMessages": "Back to messages",
+    "searchContactsPlaceholder": "Search contacts...",
+    "noSearchResults": "No results found",
+    "noCourseMembersFound": "No course members found",
+    "tryDifferentName": "Try a different name",
+    "usersFromCoursesAppearHere": "Users from your enrolled courses will appear here",
+    "searchConversationsPlaceholder": "Search conversations...",
+    "filters": {
+      "all": "All",
+      "unread": "Unread",
+      "private": "Private",
+      "groups": "Groups"
+    },
+    "noUnreadConversations": "No unread conversations",
+    "noConversationSearchResults": "No conversations match your search",
+    "noConversationsYet": "No conversations yet",
+    "sendMessage": "Send message",
+    "startConversation": "Start a conversation",
+    "sendFirstMessageTo": "Send your first message to",
+    "noConversationSelected": "Aucune conversation sélectionnée",
+    "chooseConversation": "Choisissez une conversation dans la liste ou commencez-en une nouvelle",
+    "remove": "Remove",
+    "removeContactMessage": "Are you sure you want to remove {{name}} from your contacts?",
+    "confirmDeleteConversation": "Are you sure you would like to delete this conversation",
+    "confirmDeleteEntireConversation": "Are you sure you would like to delete this entire conversation? This will not delete it for other conversation participants.",
+    "you": "You",
+    "typeAMessagePlaceholder": "Type a message...",
+    "selectMessagesToDelete": "Select messages to delete",
+    "messageSelected": "{{count}} message selected",
+    "messagesSelected": "{{count}} messages selected",
+    "scrollToBottom": "Scroll to bottom",
+    "jumpToBottom": "Jump to bottom",
+    "deleteMessage": "Delete Message",
+    "myContacts": "My Contacts",
+    "noContactsYet": "No contacts yet",
+    "contactsListEmpty": "Contacts from your enrolled courses will appear here",
+    "totalUsersLabel": "Total users:",
+    "enrolledUsersSummary": "There are {{totalEnrolledCount}} total users. Showing {{showingCount}}. For other users you can search.",
+    "openEmoji": "Open Emoji",
+    "hideEmoji": "Hide Emoji"
+  },
+  "qrLogin": {
+    "title": "Connexion à l'application mobile",
+    "description": "Scannez ce code QR avec votre appareil mobile pour vous connecter instantanément",
+    "generatingQr": "Génération du QR...",
+    "qrCodeAlt": "Code QR pour connexion mobile",
+    "success": "Succès !",
+    "expired": "Expiré",
+    "unavailable": "Code QR indisponible",
+    "waitingForScan": "En attente du scan... {{time}}",
+    "scannedCompleting": "Code QR scanné ! Connexion en cours...",
+    "loggedInMobile": "Connexion réussie à l'application mobile !",
+    "expiredGenerateNew": "Le code QR a expiré. Générez-en un nouveau.",
+    "step1": "Ouvrez l'application mobile InstructoHub",
+    "step2": "Appuyez sur le bouton scanner QR ou utilisez l'appareil photo",
+    "step3": "Scannez ce code QR pour vous connecter instantanément",
+    "generating": "Génération...",
+    "qrActive": "QR actif",
+    "generateNewQr": "Générer un nouveau code QR"
+  }
+}

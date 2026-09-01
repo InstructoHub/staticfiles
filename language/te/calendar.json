@@ -1,0 +1,46 @@
+{
+  "title": "క్యాలెండర్",
+  "subtitle": "మీ షెడ్యూల్ మరియు ఈవెంట్స్‌ను మెనేజ్ చేయండి.",
+  "navigation": {
+    "previousMonth": "మునుపటి నెల",
+    "nextMonth": "తర్వాతి నెల",
+    "backToMonth": "నెలా వీక్షణకు తిరిగి"
+  },
+  "search": {
+    "placeholder": "ఈవెంట్స్‌ను శోధించండి",
+    "ariaLabel": "ఈవెంట్స్‌ను శోధించండి"
+  },
+  "filter": {
+    "ariaLabel": "ఈవెంట్ రకం ప్రకారం ఫిల్టర్ చేయండి",
+    "options": {
+      "all": "అన్ని రకాల",
+      "assignment": "అసైన్‌మెంట్స్",
+      "quiz": "క్విజ్",
+      "discussion": "చర్చలు",
+      "meeting": "మీటింగ్స్",
+      "project": "ప్రాజెక్ట్స్"
+    }
+  },
+  "days": {
+    "sun": "ఆదివారం",
+    "mon": "సోమవారం",
+    "tue": "మంగళవారం",
+    "wed": "బుధవారం",
+    "thu": "గురువారం",
+    "fri": "శుక్రవారం",
+    "sat": "శనివారం"
+  },
+  "grid": {
+    "dayAriaLabel": "రోజు {{day}}",
+    "moreEvents": "+ {{count}} మరిన్ని"
+  },
+  "events": {
+    "title": "ఈవెంట్స్",
+    "viewButton": "చూడండి",
+    "noEvents": "ఈ రోజుకు ఎలాంటి ఈవెంట్స్ లేవు.",
+    "selectDay": "సంఘటనలు చూడటానికి ఒక రోజు ఎంచుకోండి.",
+    "eventCount": "{{count}} సంఘటన",
+    "eventCount_plural": "{{count}} సంఘటనలు"
+  },
+  "loadingcalendar": "క్యాలెండర్ లోడ్ అవుతోంది..."
+}

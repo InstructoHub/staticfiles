@@ -1,0 +1,407 @@
+{
+  "header": {
+    "greetings": {
+      "morning": "શુભ સવાર",
+      "afternoon": "શુભ બપોર",
+      "evening": "શુભ સાંજ"
+    }
+  },
+  "home": {
+    "edit": "તમારો ડેશબોર્ડ વ્યક્તિગત બનાવો",
+    "save": "લેઆઉટ સાચવો",
+    "dragToReposition": "પુનઃસ્થાપિત કરવા માટે ખેંચો",
+    "dropItems": "અહીં વસ્તુઓ છોડો",
+    "layoutSave": "લેઆઉટ સફળતાપૂર્વક સાચવાયો",
+    "errorSaveDashboard": "ડેશબોર્ડ લેઆઉટ સાચવવામાં ભૂલ",
+    "dashboardLoading": "ડેશબોર્ડ લોડ થઈ રહ્યું છે...",
+    "emptyDashboard": {
+      "title": "તમારે કોઈ ડેશબોર્ડ બ્લોક્સ જોવા માટે પરવાનગી નથી.",
+      "description": "ડેશબોર્ડ ઘટકો માટે ઍક્સેસ માટે તમારા એડમિનિસ્ટ્રેટરનો સંપર્ક કરો."
+    },
+    "dragModeClickHint": "વિજેટ્સને ખેંચીને ખસેડો."
+  },
+  "continLearning": {
+    "title": "મારા કોર્સેસ",
+    "buttonDescription": "મારા કોર્સેસ જુઓ",
+    "emptyState": {
+      "noTeacherCourses": "કોઈ શિક્ષક કોર્સ નથી",
+      "noStudentCourses": "કોઈ વિદ્યાર્થી કોર્સ નથી",
+      "noEnrolledCourses": "કોઈ નોંધાયેલા કોર્સ નથી",
+      "noCoursesAvailable": "કોઈ કોર્સ ઉપલબ્ધ નથી",
+      "teacherDescription": "તમે શિક્ષક તરીકે નોંધાયેલા કોઈ કોર્સમાં નથી.",
+      "studentDescription": "તમે વિદ્યાર્થી તરીકે નોંધાયેલા કોઈ કોર્સમાં નથી.",
+      "adminDescription": "તમે હજુ સુધી કોઈ કોર્સમાં નોંધાયેલા નથી.",
+      "generalDescription": "તમારી શીખવાની સફર શરૂ કરવા માટે કોર્સમાં નોંધણી કરો.",
+      "browseCourses": "કોર્સ બ્રાઉઝ કરો"
+    },
+    "viewAll": {
+      "title": "મારા બધા કોર્સ જુઓ",
+      "subtitle": "મારા કોર્સમાં જાઓ"
+    }
+  },
+  "allCourses": {
+    "title": "બધા કોર્સ",
+    "buttonDescription": "બધા કોર્સ જુઓ",
+    "emptyState": {
+      "title": "હજી કોઈ કોર્સ નથી",
+      "description": "હવે કોઈ કોર્સ ઉપલબ્ધ નથી.",
+      "button": "કોર્સ બ્રાઉઝ કરો",
+      "adminDescription": "પ્રથમ કોર્સ બનાવીને શરૂ કરો.",
+      "createButton": "કોર્સ બનાવો"
+    },
+    "viewAll": {
+      "title": "બધા કોશો શોધો",
+      "subtitle": "બધા કોશો જુઓ"
+    }
+  },
+  "keyMetrics": {
+    "title": "તમારા લર્નિંગ મેટ્રિક્સ",
+    "totalCourse": "ભરતેલા કોશો",
+    "notStarted": "શરૂઆત નથી થઈ",
+    "inProcess": "ચાલુ છે",
+    "completed": "પૂર્ણ થયું",
+    "emptyState": {
+      "title": "કોઈ કોર્સ ઉપલબ્ધ નથી",
+      "description": "તમારી શીખવાની યાત્રા શરૂ કરવા માટે કોર્સોમાં નોંધણી કરો."
+    }
+  },
+  "teachingMetrics": {
+    "title": "શિક્ષણ મેટ્રિક્સ",
+    "totalCourses": "કુલ કોશો",
+    "totalStudents": "કુલ વિદ્યાર્થીઓ",
+    "pendingGrading": "બાકી ગ્રેડિંગ",
+    "avgGrade": "સરેરાશ ગ્રેડ"
+  },
+  "gradingStatus": {
+    "title": "ગ્રેડિંગ સ્થિતિ",
+    "totalAssignments": "કુલ અસાઇનમેન્ટ",
+    "totalSubmissions": "કુલ સબમિશન",
+    "pendingGrading": "બાકી ગ્રેડિંગ",
+    "pendingSubmissions": "બાકી સબમિશન"
+  },
+  "platformMetrics": {
+    "title": "પ્લેટફોર્મ મેટ્રિક્સ",
+    "totalCourses": "કુલ કોશો",
+    "totalUsers": "કુલ યુઝર્સ",
+    "activeEnrollments": "સક્રિય નોંધણી",
+    "platformActivity": "પ્લેટફોર્મ પ્રવૃત્તિ",
+    "card view": "કાર્ડ વ્યૂ",
+    "list view": "લિસ્ટ વ્યૂ"
+  },
+  "quickActions": {
+    "title": "ઝડપી ક્રિયાઓ",
+    "assignments": "અસાઇનમેન્ટ",
+    "quiz": "ક્વિઝ",
+    "certificate": "પ્રમાણપત્ર",
+    "discussions": "ચર્ચાઓ"
+  },
+  "recentActivity": {
+    "title": "તાજેતરની પ્રવૃત્તિ",
+    "seeAllActivity": "બધા પ્રવૃત્તિઓ જુઓ",
+    "showLess": "ઓછી બતાવો",
+    "noActivity": "કોઈ પ્રવૃત્તિ મળી નથી. પછીથી તપાસો!",
+    "description": "તમારી તાજેતરની પ્રવૃત્તિઓ અહીં દેખાશે"
+  },
+  "recommendedCourses": {
+    "title": "તમારા માટે ટ્રેન્ડિંગ કોર્સ",
+    "noSummaryMessage": "ઓહ! અહીં કોઈ વર્ણન નથી — જોતા રહો!",
+    "buttonDesc": "કોર્સ વિગતો જુઓ",
+    "students": "ભણતા",
+    "views": "દૃશ્યો",
+    "emptyState": {
+      "title": "કોઈ ભલામણ કરેલ કોર્સ નથી",
+      "categoryDescription": "આ શ્રેણીમાં કોઈ કોર્સ મળ્યા નથી. અન્ય શ્રેણીઓ બ્રાઉઝ કરવાનો પ્રયાસ કરો અથવા તમામ ઉપલબ્ધ કોર્સ તપાસો.",
+      "generalDescription": "હવે કોઈ ટ્રેન્ડિંગ કોર્સ ઉપલબ્ધ નથી. શીખવાની તકો શોધવા માટે અમારા કોર્સ કૅટલોગને બ્રાઉઝ કરો.",
+      "button": "બધા કોર્સ બ્રાઉઝ કરો"
+    },
+    "enrollmentType": {
+      "enrolled": "નોંધાયેલ",
+      "locked": "લોક્ડ",
+      "selfEnroll": "સ્વ-નોંધણી"
+    }
+  },
+  "upcomingEvents": {
+    "title": "આગામી ઇવેન્ટ્સ",
+    "noEvents": "હવે કોઈ આગમી ઇવેન્ટ્સ નથી",
+    "description": "હવે કોઈ આગમી ઇવેન્ટ્સ નથી"
+  },
+  "todaysTeachingSummary": {
+    "title": "શિક્ષક સારાંશ",
+    "totalClasses": "કુલ ક્લાસીસ",
+    "completedClasses": "પૂર્ણ થયેલ ક્લાસીસ",
+    "pendingClasses": "લંબિત ક્લાસીસ"
+  },
+  "studentSummary": {
+    "title": "મારો શીખવાની સારાંશ",
+    "tabs": {
+      "assignments": "અસાઇનમેન્ટ",
+      "quizzes": "ક્વિઝ",
+      "forums": "ચર્ચાઓ",
+      "liveSessions": "લાઇવ સત્રો"
+    },
+    "dateRanges": {
+      "today": "આજે",
+      "week": "આગામી 7 દિવસ",
+      "month": "આગામી 30 દિવસ",
+      "custom": "કસ્ટમ"
+    },
+    "assignments": {
+      "dueSoon": "જલ્દી જ આવનારા",
+      "recentlySubmitted": "હમણાં જ સબમિટ કરેલ",
+      "noAssignmentsDue": "જલ્દી જ આવનારા કોઈ અસાઇનમેન્ટ નથી",
+      "noRecentSubmissions": "કોઈ હમણાંની સબમિશન નથી",
+      "notSubmitted": "સબમિટ નથી કરેલ",
+      "awaitingGrade": "ગ્રેડની રાહ જોઈ રહ્યા છે",
+      "graded": "ગ્રેડેડ",
+      "grade": "ગ્રેડ"
+    },
+    "emptyStates": {
+      "quizzes": "કોઈ આવનારા ક્વિઝ નથી",
+      "forums": "કોઈ ચર્ચાઓને ધ્યાનની જરૂર નથી",
+      "liveSessions": "કોઈ લાઈવ સેશન શેડ્યૂલ નથી"
+    },
+    "footer": {
+      "item": "આઇટમ",
+      "items": "આઇટમ્સ",
+      "updated": "અપડેટેડ"
+    },
+    "config": {
+      "title": "તમારા સમરી દૃશ્ય પસંદગીઓ કસ્ટમાઇઝ કરો:",
+      "options": "['તમારા કાર્યને ફિલ્ટર કરવા માટે તારીખની શ્રેણીઓ પસંદ કરો', 'અસાઇનમેન્ટને ડ્યૂ તારીખ અથવા સબમિશન સ્થિતિ દ્વારા જુઓ', 'આવનારા ક્વિઝ અને પરીક્ષાઓને ટ્રેક કરો']"
+    },
+    "validation": {
+      "endDateBeforeStart": "સમાપνης તારીખ શરૂઆતથી પહેલા હોઈ શકે નહીં"
+    }
+  },
+  "teacherSummary": {
+    "title": "શિક્ષણ સમરી",
+    "tabs": {
+      "assignments": "અસાઇનમેન્ટ્સ",
+      "forums": "ચર્ચાઓ",
+      "liveSessions": "લાઈવ સેશન",
+      "quizzes": "ક્વિઝ"
+    },
+    "dateRanges": {
+      "today": "આજે",
+      "week": "આગામી 7 દિવસ",
+      "month": "આગામી 30 દિવસ",
+      "custom": "કસ્ટમ"
+    },
+    "assignments": {
+      "dueSoon": "જલ્દી જ આવનારા",
+      "pendingGrading": "ગ્રેડિંગની રાહ જોઈ રહ્યા છે",
+      "noAssignmentsDue": "જલ્દી જ આવનારા કોઈ અસાઇનમેન્ટ નથી",
+      "allCaughtUp": "બધા સમાપ્ત થઈ ગયા!",
+      "pending": "લંબિત"
+    },
+    "quizzes": {
+      "dueSoon": "જલ્દી જ આવનાર",
+      "pendingGrading": "ગ્રેડિંગ બાકી છે",
+      "noQuizzesDue": "જલ્દી જ આવનાર કોઈ ક્વિઝ નથી",
+      "allCaughtUp": "બધું ઠીક છે!",
+      "pending": "બાકી"
+    },
+    "forums": {
+      "dueSoon": "જલ્દી જ આવનાર",
+      "noForumsDue": "જલ્દી જ આવનાર કોઈ ચર્ચા નથી",
+      "allCaughtUp": "બધું ઠીક છે!",
+      "pending": "બાકી"
+    },
+    "emptyStates": {
+      "forums": "કોઈ ચર્ચાઓને ધ્યાનની જરૂર નથી",
+      "liveSessions": "કોઈ લાઈવ સત્રો શેડ્યૂલ નથી",
+      "quizzes": "કોઈ ક્વિઝને ધ્યાનની જરૂર નથી"
+    },
+    "footer": {
+      "item": "આઇટમ",
+      "items": "આઇટમ્સ",
+      "updated": "અપડેટેડ"
+    },
+    "validation": {
+      "endDateBeforeStart": "સમાપνης તારીખ શરૂઆતથી પહેલા હોઈ શકે નહીં"
+    }
+  },
+  "studentList": {
+    "title": "બધા વિદ્યાર્થીઓ",
+    "totalStudents": "કુલ વિદ્યાર્થીઓ હાજર છે",
+    "courses": "કોર્સેસ",
+    "loading": "વિદ્યાર્થીઓ લોડ થઈ રહ્યા છે...",
+    "loadingCourses": "તમારા કોર્સેસ લોડ થઈ રહ્યા છે...",
+    "emptyStates": {
+      "noCourses": "કોઈ કોર્સ મળ્યા નથી",
+      "noCoursesDescription": "તમે શિક્ષક તરીકે કોઈ કોર્સમાં નોંધાયેલા નથી.",
+      "noStudents": "આ કોર્સમાં કોઈ વિદ્યાર્થીઓ નોંધાયેલા નથી."
+    },
+    "errors": {
+      "loadingCourses": "કોર્સ લોડ કરવામાં ભૂલ",
+      "failedToLoad": "કોર્સ લોડ કરવામાં નિષ્ફળ"
+    }
+  },
+  "assignments": {
+    "title": "અસાઇનમેન્ટ્સ",
+    "header": {
+      "assignmentsText": "અસાઇનમેન્ટ્સ",
+      "coursesText": "કોર્સેસ",
+      "pendingText": "તમારા પાસે છે",
+      "pendingSingular": "બાકીનું અસાઇનમેન્ટ",
+      "pendingPlural": "પેન્ડિંગ અસાઇનમેન્ટ્સ",
+      "needGradingText": "ગ્રેડિંગની જરૂર છે",
+      "needGradingSingular": "અસાઇનમેન્ટ",
+      "needGradingPlural": "અસાઇનમેન્ટ્સ",
+      "noNeedGrading": "કોઈ અસાઇનમેન્ટ્સને ગ્રેડિંગની જરૂર નથી."
+    },
+    "emptyState": {
+      "title": "કોઈ અસાઇનમેન્ટ્સ ઉપલબ્ધ નથી",
+      "description": "હવે કોઈ કોર્સ સાથે અસાઇનમેન્ટ્સ નથી."
+    },
+    "courseLevel": {
+      "graded": "ગ્રેડેડ",
+      "submitted": "સબમિટેડ",
+      "total": "કુલ",
+      "needGrading": "ગ્રેડિંગની જરૂર છે",
+      "allGraded": "બધા ગ્રેડેડ ✓",
+      "noSubmissions": "કોઈ સબમિશન્સ નથી"
+    },
+    "assignmentLevel": {
+      "graded": "ગ્રેડેડ",
+      "submitted": "સબમિટેડ",
+      "notStarted": "શરૂ નથી થયું",
+      "noStatus": "કોઈ સ્થિતિ નથી"
+    },
+    "status": {
+      "graded": "ગ્રેડેડ",
+      "submitted": "સબમિટેડ",
+      "notStarted": "શરૂ નથી થયું"
+    },
+    "dueDate": {
+      "noDueDate": "કોઈ ડ્યૂ ડેટ નથી"
+    },
+    "errors": {
+      "loadingCourses": "કોર્સ લોડ કરવામાં ભૂલ",
+      "failedToLoad": "કોર્સ લોડ કરવામાં નિષ્ફળ"
+    }
+  },
+  "forums": {
+    "title": "ફોરમ્સ",
+    "header": {
+      "forumsText": "ફોરમ્સ",
+      "coursesText": "કોર્સ"
+    },
+    "emptyState": {
+      "title": "કોઈ ફોરમ્સ ઉપલબ્ધ નથી",
+      "description": "હવે કોઈ ફોરમ્સ ઉપલબ્ધ નથી."
+    },
+    "courseLevel": {
+      "forumSingular": "ફોરમ",
+      "forumPlural": "ફોરમ્સ"
+    },
+    "postCount": {
+      "postSingular": "પોસ્ટ",
+      "postPlural": "પોસ્ટ્સ"
+    },
+    "errors": {
+      "loadingForums": "ફોરમ લોડ કરવામાં ભૂલ",
+      "failedToLoad": "ફોરમ લોડ કરવામાં નિષ્ફળ"
+    }
+  },
+  "quizzes": {
+    "title": "ક્વિઝઝ",
+    "header": {
+      "quizzesText": "ક્વિઝઝ",
+      "coursesText": "કોર્સેસ",
+      "pendingText": "તમારા પાસે છે",
+      "pendingSingular": "પેન્ડિંગ ક્વિઝ",
+      "pendingPlural": "પેન્ડિંગ ક્વિઝઝ"
+    },
+    "emptyState": {
+      "title": "કોઈ ક્વિઝઝ ઉપલબ્ધ નથી",
+      "description": "હવે કોઈ ક્વિઝ સાથેના કોર્સ નથી."
+    },
+    "courseLevel": {
+      "graded": "ગ્રેડેડ",
+      "submitted": "સબમિટેડ",
+      "total": "કુલ",
+      "needGrading": "ગ્રેડિંગની જરૂર છે",
+      "allGraded": "બધા ગ્રેડેડ ✓",
+      "noSubmissions": "કોઈ સબમિશન નથી"
+    },
+    "quizLevel": {
+      "graded": "ગ્રેડેડ",
+      "submitted": "સબમિટેડ"
+    },
+    "status": {
+      "graded": "ગ્રેડેડ",
+      "submitted": "સબમિટેડ",
+      "inProgress": "ચાલુ છે",
+      "notAttempted": "પ્રયત્ન કર્યો નથી",
+      "completed": "પૂર્ણ",
+      "noStatus": "કોઈ સ્થિતિ નથી"
+    },
+    "dueDate": {
+      "dueLabel": "અવધિ:",
+      "noDueDate": "કોઈ અવધિ નથી"
+    },
+    "loading": "તમારા ક્વિઝઝ લોડ થઈ રહ્યા છે...",
+    "errors": {
+      "loadingCourses": "કોર્સ લોડ કરવામાં ભૂલ",
+      "failedToLoad": "લોડ કરવામાં નિષ્ફળ"
+    }
+  },
+  "certificates": {
+    "title": "મારા સર્ટિફિકેટ્સ",
+    "header": {
+      "earnedText": "તમે કમાવ્યા છે",
+      "certificateSingular": "સર્ટિફિકેટ",
+      "certificatePlural": "સર્ટિફિકેટ્સ"
+    },
+    "emptyState": {
+      "title": "હજી કોઈ સર્ટિફિકેટ્સ નથી કમાવ્યા",
+      "description": "તમારા સર્ટિફિકેટ મેળવવા માટે 100% સુધી એક કોપસ પૂર્ણ કરો."
+    },
+    "loading": "તમારા સર્ટિફિકેટ્સ લોડ થઈ રહ્યા છે...",
+    "errors": {
+      "loadingCourses": "કોર્સેસ લોડ કરવામાં ભૂલ",
+      "failedToLoad": "કોર્સેસ લોડ કરવામાં નિષ્ફળ"
+    }
+  },
+  "adminNoCourseBanner": {
+    "title": "એઆઈથી તમારો પહેલો કોર્સ જીવંત બનાવો",
+    "description": "એક કોર્સ બનાવો, શીખનારોને આમંત્રિત કરો અને આ ખાલી ડેશબોર્ડને એક જીવંત શીખવાની જગ્યા બનાવો.",
+    "createButton": "તમારી યાત્રા શરૂ કરો",
+    "spotlightHint": "તમારો પહેલો કોર્સ બનાવવા અને શીખવાની કેટલોગ બનાવવાનું શરૂ કરવા માટે અહીં ક્લિક કરો.",
+    "cancel": "રદ કરો"
+  },
+  "assignmentForm": {
+    "fields": {
+      "additionalFile": "અતિરિક્ત ફાઇલ",
+      "additionalFileDescription": "આ અસાઇનમેન્ટ માટે સંદર્ભ સામગ્રી અથવા વધારાનું સંસાધન અપલોડ કરો"
+    },
+    "validation": {
+      "allowSubmissionsFromDateRequired": "કૃપા કરીને માન્ય તારીખ દાખલ કરો",
+      "allowSubmissionsFromAfterDue": "સબમિશન્સ શરૂ કરવાની તારીખ સમાપ્તિ તારીખથી પહેલા હોવી જોઈએ",
+      "availabilityAfterDue": "સબમિશન્સ શરૂ કરવાની તારીખ સમાપ્તિ તારીખથી પહેલા હોવી જોઈએ",
+      "dueDateRequired": "કૃપા કરીને માન્ય અંતિમ તારીખ દાખલ કરો",
+      "dueDateInPast": "અંતિમ તારીખ ભૂતકાળમાં હોઈ શકે નહીં",
+      "dueDateBeforeAllowFrom": "અંતિમ તારીખ સબમિશન્સ શરૂ કરવાની તારીખ પછી હોવી જોઈએ"
+    }
+  },
+  "rubric": {
+    "deleteConfirmTitle": "રૂબ્રિક કાઢી નાખવી?",
+    "deleteConfirm": "આ અસાઇનમેન્ટ પાસે હાલમાં રૂબ્રિક છે. સ્કોર આધારિત ગ્રેડિંગ પર સ્વિચ કરવામાં રૂબ્રિક કાઢી નાખવામાં આવશે. શું તમે ચાલુ રાખવા માંગો છો?",
+    "selectTemplate": "ટેમ્પલેટ પસંદ કરો",
+    "criterionRow": {
+      "editDescription": "વર્ણન સંપાદિત કરો",
+      "removeCriterion": "માપદંડ હટાવો",
+      "editRating": "રેટિંગ સંપાદિત કરો",
+      "removeRating": "રેટિંગ હટાવો",
+      "addRatingHere": "અહીં રેટિંગ ઉમેરો"
+    },
+    "confirmDeleteCriterion": {
+      "title": "માપદંડ કાઢી નાખો",
+      "message": "શું તમે ખરેખર માપદંડ \"{{name}}\" કાઢી નાખવા માંગો છો? આ તેના બધા રેટિંગ્સ પણ હટાવી દેશે."
+    },
+    "builder": {
+      "totalPointsHint": "બધા માપદંડોને પ્રમાણરૂપે ફરીથી ફાળવવા માટે સંપાદિત કરો"
+    }
+  }
+}

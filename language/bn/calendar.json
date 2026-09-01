@@ -1,0 +1,46 @@
+{
+  "title": "ক্যালেন্ডার",
+  "subtitle": "আপনার সময়সূচী এবং ইভেন্টগুলি পরিচালনা করুন",
+  "navigation": {
+    "previousMonth": "পূর্ববর্তী মাস",
+    "nextMonth": "পরবর্তী মাস",
+    "backToMonth": "মাস ভিউতে ফিরুন"
+  },
+  "search": {
+    "placeholder": "ইভেন্টগুলি অনুসন্ধান করুন",
+    "ariaLabel": "ইভেন্টগুলি অনুসন্ধান করুন"
+  },
+  "filter": {
+    "ariaLabel": "ইভেন্টের প্রকার অনুযায়ী ফিল্টার করুন",
+    "options": {
+      "all": "সব প্রকার",
+      "assignment": "অ্যাসাইনমেন্ট",
+      "quiz": "কুইজ",
+      "discussion": "আলোচনা",
+      "meeting": "মিটিং",
+      "project": "প্রজেক্ট"
+    }
+  },
+  "days": {
+    "sun": "রবি",
+    "mon": "সোম",
+    "tue": "মঙ্গল",
+    "wed": "বুধ",
+    "thu": "বৃহস্পতি",
+    "fri": "শুক্র",
+    "sat": "শনি"
+  },
+  "grid": {
+    "dayAriaLabel": "দিন {{day}}",
+    "moreEvents": "+ {{count}} আরও"
+  },
+  "events": {
+    "title": "ইভেন্টগুলি",
+    "viewButton": "দেখুন",
+    "noEvents": "এই দিনের জন্য কোনো ইভেন্ট নেই",
+    "selectDay": "ইভেন্ট দেখতে একটা দিন বেছে নিন",
+    "eventCount": "{{count}}টি ইভেন্ট",
+    "eventCount_plural": "{{count}}টি ইভেন্ট"
+  },
+  "loadingcalendar": "ক্যালেন্ডার লোড হচ্ছে..."
+}

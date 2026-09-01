@@ -1,0 +1,354 @@
+{
+  "header": {
+    "greetings": {
+      "morning": "Buenos días",
+      "afternoon": "Buenas tardes",
+      "evening": "Buenas noches"
+    }
+  },
+  "home": {
+    "edit": "Personaliza Tu Panel",
+    "save": "Guardar Diseño",
+    "dragToReposition": "Arrastra para reposicionar",
+    "dropItems": "Suelta los elementos aquí",
+    "layoutSave": "Diseño guardado exitosamente",
+    "errorSaveDashboard": "Error al guardar el diseño del panel",
+    "dashboardLoading": "Panel Cargando...",
+    "emptyDashboard": {
+      "title": "No tienes permisos para ver ningún bloque del panel.",
+      "description": "Contacta a tu administrador para acceder a los componentes del panel."
+    }
+  },
+  "continLearning": {
+    "title": "Mis Cursos",
+    "buttonDescription": "Ver Mis Cursos",
+    "emptyState": {
+      "noTeacherCourses": "Sin Cursos de Profesor",
+      "noStudentCourses": "Sin Cursos de Estudiante",
+      "noEnrolledCourses": "Sin Cursos Inscritos",
+      "noCoursesAvailable": "Sin Cursos Disponibles",
+      "teacherDescription": "No tienes ningún curso donde estés inscrito como profesor.",
+      "studentDescription": "No tienes ningún curso donde estés inscrito como estudiante.",
+      "adminDescription": "Aún no estás inscrito en ningún curso.",
+      "generalDescription": "Inscríbete en cursos para comenzar tu viaje de aprendizaje.",
+      "browseCourses": "Explorar Cursos"
+    },
+    "viewAll": {
+      "title": "Ver Todos Mis Cursos",
+      "subtitle": "Ir a Mis Cursos"
+    }
+  },
+  "allCourses": {
+    "title": "Todos los Cursos",
+    "buttonDescription": "Ver Todos los Cursos",
+    "emptyState": {
+      "title": "Sin Cursos Aún",
+      "description": "No hay cursos disponibles en este momento.",
+      "button": "Explorar Cursos"
+    },
+    "viewAll": {
+      "title": "Explorar Todos los Cursos",
+      "subtitle": "Ver Todos los Cursos"
+    }
+  },
+  "keyMetrics": {
+    "title": "Tus Métricas de Aprendizaje",
+    "totalCourse": "Cursos Inscritos",
+    "notStarted": "No Iniciado",
+    "inProcess": "En Progreso",
+    "completed": "Completado"
+  },
+  "teachingMetrics": {
+    "title": "Métricas de Enseñanza",
+    "totalCourses": "Cursos Totales",
+    "totalStudents": "Estudiantes Totales",
+    "pendingGrading": "Pendiente de Calificación",
+    "avgGrade": "Calificación Promedio"
+  },
+  "gradingStatus": {
+    "title": "Estado de Calificación",
+    "totalAssignments": "Tareas Totales",
+    "totalSubmissions": "Envíos Totales",
+    "pendingGrading": "Pendiente de Calificación",
+    "pendingSubmissions": "Envíos Pendientes"
+  },
+  "platformMetrics": {
+    "title": "Métricas de la Plataforma",
+    "totalCourses": "Cursos Totales",
+    "totalUsers": "Usuarios Totales",
+    "activeEnrollments": "Inscripciones Activas",
+    "platformActivity": "Actividad de la Plataforma",
+    "card view": "Vista de Tarjetas",
+    "list view": "Vista de Lista"
+  },
+  "quickActions": {
+    "title": "Acciones Rápidas",
+    "assignments": "Tareas",
+    "quiz": "Quiz",
+    "certificate": "Certificado",
+    "discussions": "Discusiones"
+  },
+  "recentActivity": {
+    "title": "Actividad Reciente",
+    "seeAllActivity": "Ver Toda la Actividad",
+    "showLess": "Mostrar Menos",
+    "noActivity": "No se encontró actividad. ¡Vuelve más tarde!",
+    "description": "Tus actividades recientes aparecerán aquí"
+  },
+  "recommendedCourses": {
+    "title": "Cursos Tendencia Para Ti",
+    "noSummaryMessage": "¡Ups! No hay descripción aquí aún — ¡sigue atento!",
+    "buttonDesc": "Ver Detalles del Curso",
+    "course": "Curso #",
+    "students": "Inscritos",
+    "views": "Vistas",
+    "emptyState": {
+      "title": "Sin Cursos Recomendados",
+      "categoryDescription": "Sin cursos encontrados en esta categoría. Intenta explorar otras categorías o descubre todos los cursos disponibles.",
+      "generalDescription": "Sin cursos tendencia disponibles en este momento. Explora nuestro catálogo de cursos para descubrir oportunidades de aprendizaje.",
+      "button": "Explorar Todos los Cursos"
+    }
+  },
+  "upcomingEvents": {
+    "title": "Eventos Próximos",
+    "noEvents": "Actualmente no hay eventos próximos",
+    "description": "Sin eventos próximos en este momento"
+  },
+  "todaysTeachingSummary": {
+    "title": "Resumen del Profesor",
+    "totalClasses": "Clases Totales",
+    "completedClasses": "Clases Completadas",
+    "pendingClasses": "Clases Pendientes"
+  },
+  "studentSummary": {
+    "title": "Mi Resumen de Aprendizaje",
+    "tabs": {
+      "assignments": "Tareas",
+      "quizzes": "Quizzes",
+      "forums": "Discusiones",
+      "liveSessions": "Sesiones en Vivo"
+    },
+    "dateRanges": {
+      "today": "Hoy",
+      "week": "Próximos 7 Días",
+      "month": "Próximos 30 Días",
+      "custom": "Personalizado"
+    },
+    "assignments": {
+      "dueSoon": "Vence Pronto",
+      "recentlySubmitted": "Enviado Recientemente",
+      "noAssignmentsDue": "Sin tareas próximas",
+      "noRecentSubmissions": "Sin envíos recientes",
+      "notSubmitted": "No Enviado",
+      "awaitingGrade": "Esperando Calificación",
+      "graded": "Calificado",
+      "grade": "Calificación"
+    },
+    "emptyStates": {
+      "quizzes": "Sin quizzes próximos",
+      "forums": "Sin discusiones que necesiten atención",
+      "liveSessions": "Sin sesiones en vivo programadas"
+    },
+    "footer": {
+      "item": "elemento",
+      "items": "elementos",
+      "updated": "Actualizado"
+    },
+    "config": {
+      "title": "Personaliza tus preferencias de vista de resumen:",
+      "options": [
+        "Elige rangos de fechas para filtrar tus tareas",
+        "Ver tareas por fecha de entrega o estado de envío",
+        "Rastrear quizzes y exámenes próximos"
+      ]
+    }
+  },
+  "teacherSummary": {
+    "title": "Resumen de Enseñanza",
+    "tabs": {
+      "assignments": "Tareas",
+      "forums": "Discusiones",
+      "liveSessions": "Sesiones en Vivo",
+      "quizzes": "Quizzes"
+    },
+    "dateRanges": {
+      "today": "Hoy",
+      "week": "Próximos 7 Días",
+      "month": "Próximos 30 Días",
+      "custom": "Personalizado"
+    },
+    "assignments": {
+      "dueSoon": "Vence Pronto",
+      "pendingGrading": "Pendiente de Calificación",
+      "noAssignmentsDue": "Sin tareas próximas",
+      "allCaughtUp": "¡Todo al día!",
+      "pending": "pendiente"
+    },
+    "quizzes": {
+      "dueSoon": "Vence Pronto",
+      "pendingGrading": "Pendiente de Calificación",
+      "noQuizzesDue": "Sin quizzes próximos",
+      "allCaughtUp": "¡Todo al día!",
+      "pending": "pendiente"
+    },
+    "forums": {
+      "dueSoon": "Vence Pronto",
+      "noForumsDue": "Sin discusiones próximas",
+      "allCaughtUp": "¡Todo al día!",
+      "pending": "pendiente"
+    },
+    "emptyStates": {
+      "forums": "Sin discusiones que necesiten atención",
+      "liveSessions": "Sin sesiones en vivo programadas",
+      "quizzes": "Sin quizzes que necesiten atención"
+    },
+    "footer": {
+      "item": "elemento",
+      "items": "elementos",
+      "updated": "Actualizado"
+    }
+  },
+  "studentList": {
+    "title": "Todos los Estudiantes",
+    "totalStudents": "Estudiantes Totales Presentes en",
+    "courses": "cursos",
+    "loading": "Cargando estudiantes...",
+    "loadingCourses": "Cargando tus cursos...",
+    "emptyStates": {
+      "noCourses": "Sin Cursos Encontrados",
+      "noCoursesDescription": "No estás inscrito en ningún curso como profesor.",
+      "noStudents": "No hay estudiantes inscritos en este curso."
+    },
+    "errors": {
+      "loadingCourses": "Error al Cargar Cursos",
+      "failedToLoad": "Error al cargar cursos"
+    }
+  },
+  "assignments": {
+    "title": "Tareas",
+    "header": {
+      "assignmentsText": "tareas a través de",
+      "coursesText": "cursos",
+      "pendingText": "Tienes",
+      "pendingSingular": "tarea pendiente",
+      "pendingPlural": "tareas pendientes",
+      "needGradingText": "necesitan calificación",
+      "needGradingSingular": "tarea",
+      "needGradingPlural": "tareas",
+      "noNeedGrading": "Sin tareas que necesiten calificación."
+    },
+    "emptyState": {
+      "title": "Sin Tareas Disponibles",
+      "description": "No hay cursos con tareas en este momento."
+    },
+    "courseLevel": {
+      "graded": "Calificado",
+      "submitted": "Enviado",
+      "total": "Total",
+      "needGrading": "necesitan calificación",
+      "allGraded": "Todo calificado ✓",
+      "noSubmissions": "Sin envíos"
+    },
+    "assignmentLevel": {
+      "graded": "Calificado",
+      "submitted": "Enviado",
+      "notStarted": "No Iniciado",
+      "noStatus": "Sin Estado"
+    },
+    "status": {
+      "graded": "Calificado",
+      "submitted": "Enviado",
+      "notStarted": "No Iniciado"
+    },
+    "dueDate": {
+      "noDueDate": "Sin Fecha de Vencimiento"
+    },
+    "errors": {
+      "loadingCourses": "Error al Cargar Cursos",
+      "failedToLoad": "Error al cargar cursos"
+    }
+  },
+  "forums": {
+    "title": "Foros",
+    "header": {
+      "forumsText": "foros a través de",
+      "coursesText": "cursos"
+    },
+    "emptyState": {
+      "title": "Sin Foros Disponibles",
+      "description": "No hay foros disponibles en este momento."
+    },
+    "courseLevel": {
+      "forumSingular": "foro",
+      "forumPlural": "foros"
+    },
+    "postCount": {
+      "postSingular": "publicación",
+      "postPlural": "publicaciones"
+    },
+    "errors": {
+      "loadingForums": "Error al Cargar Foros",
+      "failedToLoad": "Error al cargar foros"
+    }
+  },
+  "quizzes": {
+    "title": "Quizzes",
+    "header": {
+      "quizzesText": "quizzes a través de",
+      "coursesText": "cursos",
+      "pendingText": "Tienes",
+      "pendingSingular": "quiz pendiente",
+      "pendingPlural": "quizzes pendientes"
+    },
+    "emptyState": {
+      "title": "Sin Quizzes Disponibles",
+      "description": "No hay cursos con quizzes en este momento."
+    },
+    "courseLevel": {
+      "graded": "Calificado",
+      "submitted": "Enviado",
+      "total": "Total",
+      "needGrading": "necesitan calificación",
+      "allGraded": "Todo calificado ✓",
+      "noSubmissions": "Sin envíos"
+    },
+    "quizLevel": {
+      "graded": "Calificado",
+      "submitted": "Enviado"
+    },
+    "status": {
+      "graded": "Calificado",
+      "submitted": "Enviado",
+      "inProgress": "En Progreso",
+      "notAttempted": "No Intentado",
+      "completed": "Completado",
+      "noStatus": "Sin Estado"
+    },
+    "dueDate": {
+      "dueLabel": "Vence:",
+      "noDueDate": "Sin Fecha de Vencimiento"
+    },
+    "loading": "Cargando tus quizzes...",
+    "errors": {
+      "loadingCourses": "Error al Cargar Cursos",
+      "failedToLoad": "Error al cargar cursos"
+    }
+  },
+  "certificates": {
+    "title": "Mis Certificados",
+    "header": {
+      "earnedText": "Has ganado",
+      "certificateSingular": "certificado",
+      "certificatePlural": "certificados"
+    },
+    "emptyState": {
+      "title": "Sin Certificados Ganados Aún",
+      "description": "Completa un curso al 100% para ganar tu certificado."
+    },
+    "loading": "Cargando tus certificados...",
+    "errors": {
+      "loadingCourses": "Error al Cargar Cursos",
+      "failedToLoad": "Error al cargar cursos"
+    }
+  }
+}

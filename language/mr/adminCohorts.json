@@ -1,0 +1,248 @@
+{
+  "page": {
+    "title": "बॅच मॅनेजमेंट",
+    "subtitle": "यूजर बॅच क्रिएट आणि मॅनेज करा",
+    "loading": "बॅच लोड होत आहेत...",
+    "noDescription": "कोणतेही वर्णन नाही",
+    "emptyMessage": "कोणतेही बॅच उपलब्ध नाहीत. नवीन बॅच अॅड करून सुरू करा.",
+    "noGroupsFound": "तुमच्या सर्च निकषांशी जुळणारे कोणतेही बॅच सापडले नाहीत"
+  },
+  "emptyState": {
+    "title": "अजून बॅच नाहीत",
+    "description": "पहिला बॅच क्रिएट करून सुरू करा.",
+    "createButton": "बॅच तयार करा"
+  },
+  "navigation": {
+    "editCohort": "बॅच एडिट करा",
+    "createCohort": "नवीन बॅच क्रिएट करा",
+    "deleteCohort": "बॅच डिलीट करा",
+    "deleteCohorts": "बॅच डिलीट करा"
+  },
+  "buttons": {
+    "addCohort": "बॅच जोडा",
+    "selectAll": "सर्व निवडा",
+    "deselectAll": "सर्व निवड रद्द करा",
+    "deleteSelected": "निवडलेल्या बॅच डिलीट करा",
+    "edit": "बॅच एडिट करा",
+    "delete": "बॅच डिलीट करा",
+    "cancel": "रद्द करा",
+    "create": "क्रिएट बॅच",
+    "update": "बॅच अपडेट करा",
+    "creating": "क्रिएट करत आहे...",
+    "updating": "अपडेट करत आहे...",
+    "deleting": "डिलीट करत आहे..."
+  },
+  "table": {
+    "headers": {
+      "serialNumber": "क्र.नं.",
+      "cohortName": "बॅच नाव",
+      "idNumber": "आयडी नंबर",
+      "description": "वर्णन",
+      "visible": "दृश्य",
+      "actions": "क्रिया"
+    },
+    "search": {
+      "placeholder": "बॅच शोधा..."
+    },
+    "visible": {
+      "yes": "होय",
+      "no": "नाही"
+    },
+    "fallbacks": {
+      "untitledCohort": "नाव नसलेला बॅच"
+    }
+  },
+  "form": {
+    "labels": {
+      "cohortName": "बॅच नाव",
+      "idNumber": "आयडी क्रमांक",
+      "description": "वर्णन",
+      "visible": "दिसतेय"
+    },
+    "placeholders": {
+      "cohortName": "बॅच नाव टाका",
+      "idNumber": "आयडी क्रमांक टाका (ऐच्छिक)",
+      "description": "वर्णन टाका (ऐच्छिक)"
+    },
+    "validation": {
+      "cohortNameRequired": "बॅच नाव आवश्यक आहे",
+      "cohortNameMinLength": "बॅच नाव किमान 2 अक्षरांचं असावं",
+      "cohortNameMaxLength": "बॅच नाव 200 अक्षरांपेक्षा जास्त नसावं",
+      "idNumberMaxLength": "आयडी क्रमांक 50 अक्षरांपेक्षा जास्त नसावा",
+      "descriptionMaxLength": "वर्णन 1000 अक्षरांपेक्षा जास्त नसावे"
+    },
+    "modes": {
+      "edit": {
+        "title": "बॅच संपादित करा",
+        "subtitle": "अपडेट करा {{cohortName}} ची माहिती"
+      },
+      "create": {
+        "title": "बॅच तयार करा",
+        "subtitle": "सिस्टममध्ये नवीन बॅच जोडा"
+      }
+    },
+    "visibility": {
+      "visible": "दिसतेय",
+      "hidden": "लपवलेले",
+      "visibleDescription": "हा बॅच दिसतो आहे आणि वापरासाठी उपलब्ध आहे.",
+      "hiddenDescription": "हा बॅच सामान्य दृश्यातून लपवलेला आहे."
+    }
+  },
+  "modals": {
+    "deleteSingle": {
+      "title": "बॅच हटवा",
+      "warning": "ही क्रिया पूर्ववत करता येणार नाही",
+      "description": "आपण हा बॅच कायमचा हटवणार आहात.",
+      "disclaimer": "या बॅचद्वारे जे वापरकर्ते कोर्समध्ये नोंदणीकृत झाले असतील, त्यांची नोंदणी त्या कोर्समधून देखील रद्द केली जाईल.",
+      "listLabel": "बॅच तपशील",
+      "confirmation": "हा बॅच खरंच डिलीट करायचा आहे का?"
+    },
+    "deleteMultiple": {
+      "title": "बॅच डिलीट करा",
+      "warning": "ही क्रिया पूर्ववत करता येणार नाही",
+      "description": "तुम्ही कायमसाठी {{count}} बॅच डिलीट करणार आहात.",
+      "disclaimer": "या बॅचद्वारे कोर्ससाठी एनरोल झालेले यूजरांची त्या कोर्समधून नोंदणी रद्द केली जाईल.",
+      "listLabel": "डिलीट करायचे बॅच ({{count}})",
+      "confirmation": "तुम्हाला खरंच {{count}} बॅच डिलीट करायचे आहेत का?"
+    },
+    "details": {
+      "name": "नाव",
+      "description": "वर्णन",
+      "idNumber": "आयडी नंबर"
+    }
+  },
+  "messages": {
+    "success": {
+      "cohortCreated": "बॅच यशस्वीरित्या तयार झाला",
+      "cohortUpdated": "बॅच यशस्वीरित्या अपडेट झाला",
+      "cohortDeleted": "बॅच यशस्वीरित्या डिलीट झाला",
+      "cohortsDeleted": "निवडलेले बॅच यशस्वीरित्या डिलीट झाले"
+    },
+    "error": {
+      "failedToLoad": "बॅच लोड होऊ शकले नाहीत",
+      "failedToCreate": "बॅच तयार करता आला नाही",
+      "failedToUpdate": "बॅच अपडेट करता आला नाही",
+      "deleteFailed": "बॅच डिलीट करता आला नाही",
+      "deleteMultipleFailed": "निवडलेले बॅच डिलीट करता आले नाहीत",
+      "errorCreating": "बॅच तयार करताना त्रुटी आली",
+      "errorUpdating": "बॅच अपडेट करताना त्रुटी आली",
+      "cohortNotFound": "बॅच सापडला नाही"
+    },
+    "warning": {
+      "selectCohortsToDelete": "कृपया डिलीट करण्यासाठी किमान एक बॅच निवडा"
+    }
+  },
+  "members": {
+    "title": "बॅच सदस्य",
+    "subtitle": "या बॅचमध्ये आधीच जोडलेल्या यूजरना व्यवस्थापित करा",
+    "addTitle": "बॅच सदस्य जोडा",
+    "addSubtitle": "अजून या बॅचमध्ये नाहीत अशा यूजरना जोडा",
+    "loading": "बॅच सदस्य लोड करत आहोत...",
+    "empty": "या बॅचमध्ये अजून कोणतेही सदस्य जोडलेले नाहीत.",
+    "emptyAdd": "जोडण्यासाठी कोणतेही यूजर उपलब्ध नाहीत.",
+    "removed": "मेंबर बॅचमधून यशस्वीरित्या काढला गेला",
+    "added": "मेंबर बॅचमध्ये यशस्वीरित्या जोडला गेला",
+    "loadFailed": "बॅच मेंबर्स लोड करता आले नाहीत",
+    "fallbackName": "बॅच {{id}}",
+    "userFallback": "यूजर {{id}}",
+    "tabs": {
+      "members": "मेंबर्स",
+      "courses": "कोर्सेस",
+      "ariaLabel": "बॅच तपशील"
+    },
+    "buttons": {
+      "addUser": "बॅचमध्ये यूजर जोडा",
+      "addCourse": "कोर्स जोडा",
+      "add": "जोडा",
+      "remove": "काढा",
+      "addSelected": "निवडलेले जोडा",
+      "bulkAdd": "बुल्क जोडा",
+      "confirmAdd": "जोडण्याची पुष्टी करा",
+      "adding": "जोडत आहे...",
+      "cancelBulk": "बुल्क रद्द करा",
+      "back": "परत"
+    },
+    "table": {
+      "serialNumber": "अनुक्रमांक",
+      "name": "नाव",
+      "email": "ईमेल",
+      "action": "क्रिया"
+    },
+    "search": {
+      "members": "मेंबर्स शोधा...",
+      "users": "यूजर शोधा...",
+      "noMembers": "कोणतेही जुळणारे मेंबर्स सापडले नाहीत.",
+      "noUsers": "कोणतेही जुळणारे यूजर सापडले नाहीत."
+    },
+    "errors": {
+      "removeFailed": "मेंबर काढता आला नाही",
+      "loadUsersFailed": "यूजर लोड करता आले नाहीत",
+      "addFailed": "मेंबर जोडता आला नाही",
+      "addSelectedFailed": "निवडलेले मेंबर्स जोडता आले नाहीत"
+    },
+    "selectedAdded": "निवडलेले सदस्य यशस्वीरित्या जोडले गेले",
+    "bulkResult": "{{added}} जोडले, {{failed}} अयशस्वी",
+    "noAvailableUsers": "जोडण्यासाठी उपलब्ध युजर नाहीत."
+  },
+  "courses": {
+    "table": {
+      "serialNumber": "अ.क्र.",
+      "name": "कोर्स नाव",
+      "shortName": "शॉर्ट नाव",
+      "role": "एनरोलमेंट भूमिका"
+    },
+    "search": {
+      "placeholder": "कोर्स शोधा...",
+      "modalPlaceholder": "नाव किंवा शॉर्ट नावाने कोर्स शोधा...",
+      "noMatches": "कोणतेही जुळणारे कोर्स सापडले नाहीत."
+    },
+    "empty": "या बॅचला अद्याप कोणत्याही कोर्सना असाइन केलेले नाही.",
+    "loadFailed": "असाइन केलेले कोर्स लोड करण्यात अयशस्वी",
+    "listLoadFailed": "कोर्स लोड करण्यात अयशस्वी",
+    "assignFailed": "कोर्स असाइन करण्यात अयशस्वी",
+    "assigned": "कोर्स बॅचमध्ये यशस्वीरित्या जोडले गेले",
+    "addModal": {
+      "title": "कोर्स जोडा",
+      "description": "ज्या कोर्सला {{groupName}} असाइन करायचे ते निवडा.",
+      "loading": "कोर्स लोड होत आहेत...",
+      "allAssigned": "उपलब्ध सर्व कोर्स आधीच या बॅचला असाइन केले गेले आहेत.",
+      "adding": "जोडत आहे..."
+    }
+  },
+  "roles": {
+    "student": "विद्यार्थी",
+    "teacher": "शिक्षक",
+    "unknown": "-",
+    "modalTitle": "एनरोलमेंट रोल निवडा",
+    "addCoursePrompt": "निवडलेल्या कोर्समध्ये या बॅचसाठी रोल निवडा.",
+    "assignGroupPrompt": "{{groupName}} साठी रोल निवडा.",
+    "confirmAssignment": "असाइनमेंट पुष्टी करा"
+  },
+  "enrollment": {
+    "description": "{{courseName}} साठी व्यवस्थापित करण्यासाठी एक बॅच निवडा.",
+    "searchPlaceholder": "नाव किंवा आयडी नंबरने बॅच शोधा...",
+    "loading": "बॅच लोड करत आहोत...",
+    "untitled": "नाव नसलेला बॅच",
+    "groupId": "बॅच आयडी: {{id}}",
+    "assigned": "असाइन केले",
+    "noMatches": "कोणताही जुळणारा बॅच सापडला नाही.",
+    "empty": "कोणतेही बॅच उपलब्ध नाहीत.",
+    "selected": "निवडले:",
+    "assignedCourses": "कोर्सांना असाइन केले",
+    "loadingCourses": "कोर्स लोड करत आहोत...",
+    "noCourses": "अजून कोणत्याही कोर्सला असाइन केलेले नाही.",
+    "courseFallback": "कोर्स {{id}}",
+    "courseId": "कोर्स आयडी: {{id}}",
+    "remove": "बॅच काढा",
+    "assign": "बॅच असाइन करा",
+    "removing": "काढत आहोत...",
+    "assigning": "असाइन करत आहोत...",
+    "loadFailed": "बॅच लोड करणे अयशस्वी",
+    "loadAssignedFailed": "असाइन केलेले बॅच लोड करू शकले नाहीत",
+    "loadCoursesFailed": "बॅचचे कोर्स लोड करू शकले नाहीत",
+    "assignFailed": "बॅच असाइन करू शकले नाही",
+    "removeFailed": "बॅच काढू शकले नाही",
+    "assignedSuccess": "बॅच यशस्वीरित्या कोर्सला असाइन झाला",
+    "removedSuccess": "बॅच यशस्वीरित्या कोर्समधून काढला गेला"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "title": "Calendar",
+  "subtitle": "Manage your schedule and events.",
+  "navigation": {
+    "previousMonth": "Previous Month",
+    "nextMonth": "Next Month",
+    "backToMonth": "Back to month view"
+  },
+  "search": {
+    "placeholder": "Search events",
+    "ariaLabel": "Search events"
+  },
+  "filter": {
+    "ariaLabel": "Filter by event type",
+    "options": {
+      "all": "All Types",
+      "assignment": "Assignments",
+      "quiz": "Quizzes",
+      "discussion": "Discussions",
+      "meeting": "Meetings",
+      "project": "Projects"
+    }
+  },
+  "days": {
+    "sun": "Sun",
+    "mon": "Mon",
+    "tue": "Tue",
+    "wed": "Wed",
+    "thu": "Thu",
+    "fri": "Fri",
+    "sat": "Sat"
+  },
+  "grid": {
+    "dayAriaLabel": "Day {{day}}",
+    "moreEvents": "+ {{count}} more"
+  },
+  "events": {
+    "title": "Events on",
+    "viewButton": "View",
+    "noEvents": "No events for this day.",
+    "selectDay": "Select a day to view events.",
+    "eventCount": "{{count}} event",
+    "eventCount_plural": "{{count}} events"
+  },
+  "loadingcalendar": "Loading calendar..."
+}

@@ -1,0 +1,67 @@
+{
+  "title": "एडमिन पॅनल",
+  "navigation": {
+    "courses": "अभ्यासक्रम व्यवस्थापित करा",
+    "categories": "वर्ग व्यवस्थापित करा",
+    "users": "वापरकर्ता व्यवस्थापित करा",
+    "rolesPermissions": "भूमिका आणि अनुमती",
+    "theme": "थीम्स",
+    "report": "अहवाल",
+    "tenantManagement": "टेनेंट व्यवस्थापन",
+    "instructonex": "InstructoNex",
+    "accessControl": "प्रवेश नियंत्रण",
+    "rubrics": "रुब्रिक्स",
+    "tenantsReport": "टेनंट्स रिपोर्ट",
+    "cohorts": "बॅच मॅनेज करा"
+  },
+  "tenantReport": {
+    "title": "टेनंट्स रिपोर्ट",
+    "subtitle": "क्रॉस-टेनंट क्रियाकलापाचा स्नॅपशॉट आणि जलद अंतर्दृष्टी.",
+    "generatedAt": "तयार केलेले: {{time}}",
+    "noData": "कोणतीही टेनंट रिपोर्ट डेटा उपलब्ध नाही.",
+    "fetchError": "टेनंट रिपोर्ट लोड करण्यात अयशस्वी.",
+    "notAvailable": "उपलब्ध नाही",
+    "tenantSelector": "डीप डाईव्हसाठी टेनंट निवडा",
+    "selectedTenantDetails": "निवडलेला टेनंट: {{name}}",
+    "tableTitle": "टेनंट मेट्रिक्स टेबल",
+    "tableSubtitle": "सर्व टेनंट्सची मुख्य मेट्रिक्समध्ये तुलना.",
+    "roles": {
+      "students": "विद्यार्थी",
+      "teachers": "शिक्षक",
+      "others": "इतर"
+    },
+    "cards": {
+      "totalTenants": "एकूण टेनंट्स",
+      "totalTenantsSubtitle": "या रिपोर्टमध्ये समाविष्ट टेनंट्स",
+      "totalUsers": "एकूण युजर्स",
+      "totalUsersSubtitle": "सर्व टेनंट्समधील युजर्स",
+      "activeUsers": "सक्रिय युजर्स",
+      "activeUsersSubtitle": "अलीकडे सक्रिय युजर्स",
+      "inactiveUsers": "निष्क्रिय युजर्स",
+      "inactiveUsersSubtitle": "अलीकडे कोणतीही क्रिया नसलेले युजर्स",
+      "neverLoggedIn": "कधीही लॉगिन केलेले नाही",
+      "activeRate": "सक्रिय दर: {{rate}}%"
+    },
+    "charts": {
+      "comparisonTitle": "टेनंट तुलना",
+      "comparisonSubtitle": "प्रत्येक टेनंटसाठी एकूण, सक्रिय, आणि निष्क्रिय युजर्स",
+      "roleSplitTitle": "{{name}} साठी भूमिका मिश्रण",
+      "roleSplitSubtitle": "विद्यार्थी, शिक्षक, आणि इतर युजर्सचे वितरण"
+    },
+    "columns": {
+      "name": "टेनंट नाव"
+    },
+    "metrics": {
+      "total_users": "एकूण युजर्स",
+      "total_students": "एकूण विद्यार्थी",
+      "total_teachers": "एकूण शिक्षक",
+      "active_users": "सक्रिय यूजर्स",
+      "inactive_users": "निष्क्रिय यूजर्स",
+      "never_logged_in": "कधीच लॉगिन केलेलं नाही",
+      "course_categories": "कोर्स कॅटेगरीज",
+      "total_enrollments": "एकूण एनरोलमेंट्स",
+      "completed_courses": "पूर्ण झालेले कोर्सेस",
+      "pending_completions": "पूर्ण होणे बाकी"
+    }
+  }
+}

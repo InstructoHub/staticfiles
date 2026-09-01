@@ -1,0 +1,374 @@
+{
+  "page": {
+    "title": "User Management",
+    "subtitle": "Manage and organize your users",
+    "createTitle": "Create New User",
+    "createSubtitle": "Add a new user or multiple users to the system",
+    "adminTitle": "Admin Management",
+    "adminSubtitle": "Add or remove admin users from the system",
+    "loading": "Loading users...",
+    "noUsersFound": "No users found matching your search criteria",
+    "noUsersAvailable": "No User available. Start by adding a new User .",
+    "tryAdjustingSearch": "Try adjusting your search criteria"
+  },
+  "emptyState": {
+    "title": "No Users Yet",
+    "description": "Get started by creating first user.",
+    "createButton": "Create User"
+  },
+
+  "navigation": {
+    "createUser": "Create User",
+    "addAdminUsers": "Add Admin Users",
+    "backToUsers": "Back to Users"
+  },
+
+  "tabs": {
+    "singleUser": "Create Single User",
+    "bulkUpload": "Bulk Upload Users",
+    "addAdmin": "Mark as Admin",
+    "addUser": "Add User",
+    "currentAdmins": "Current Admins ({{count}})",
+    "currentAdminsNoCount": "Current Admins"
+  },
+
+  "buttons": {
+    "selectAll": "Select All",
+    "deselectAll": "Deselect All",
+    "createUser": "Create User",
+    "addUsers": "Add Users",
+    "addUser": "Add User",
+    "cancel": "Cancel",
+    "creating": "Creating...",
+    "addAdmin": "Mark as Admin",
+    "adding": "Marking as Admin...",
+    "removeAdmin": "Remove Admin",
+    "removing": "Removing...",
+    "deleting": "Deleting...",
+    "deleteUser": "Delete User",
+    "deleteUsers": "Delete {{count}} Users",
+    "deleteSelected": "Delete Users",
+    "activateUser": "Activate User",
+    "suspendUser": "Suspend User",
+    "editUser": "Edit User",
+    "refresh": "Refresh",
+    "browseFiles": "Browse Files",
+    "chooseDifferentImage": "Choose a different image",
+    "chooseDifferentFile": "Choose a different file",
+    "downloadSampleCSV": "Download Sample CSV",
+    "uploadCSV": "Upload CSV File",
+    "browseForCSV": "Browse for CSV",
+    "tryAgain": "Try Again"
+  },
+
+  "form": {
+    "labels": {
+      "username": "Username",
+      "email": "Email",
+      "firstName": "First Name",
+      "lastName": "Last Name",
+      "city": "City",
+      "country": "Country",
+      "profilePicture": "Profile Picture (Optional)",
+      "password": "Password",
+      "searchUsers": "Search users by name, username, email",
+      "searchAdminUsers": "Search admin users...",
+      "searchToAdd": "Search users by name, username, or email",
+      "uploadCsvFile": "Upload CSV File"
+    },
+    "placeholders": {
+      "username": "Enter username",
+      "email": "Enter email",
+      "firstName": "Enter first name",
+      "lastName": "Enter last name",
+      "city": "Enter city",
+      "country": "Select a country",
+      "password": "Enter password",
+      "searchUsers": "Search users by name, username, email",
+      "searchAdminUsers": "Search admin users...",
+      "searchToAdd": "Search users by name, username, or email"
+    },
+    "validation": {
+      "usernameRequired": "Username is required",
+      "usernameMaxLength": "Username must not exceed 50 characters",
+      "usernameFormat": "Username can only contain letters, numbers, and these characters: @ . + - _ (no spaces)",
+      "usernameAlphanumeric": "Username must contain at least one letter or number",
+      "emailRequired": "Email is required",
+      "emailInvalid": "Invalid email format. Please check your input.",
+      "emailMaxLength": "Email must not exceed 254 characters",
+      "firstNameRequired": "First name is required",
+      "firstNameMaxLength": "First name must not exceed 50 characters",
+      "firstNameFormat": "First name can only contain letters, spaces, apostrophes, and hyphens",
+      "lastNameRequired": "Last name is required",
+      "lastNameMaxLength": "Last name must not exceed 50 characters",
+      "lastNameFormat": "Last name can only contain letters, spaces, apostrophes, and hyphens",
+      "cityMaxLength": "City must not exceed 100 characters",
+      "cityMinLength": "City must be at least 2 characters",
+      "cityFormat": "City can only contain letters, spaces, hyphens (-), apostrophes ('), and periods (.)",
+      "cityNumericOnly": "City cannot contain only numbers",
+      "countryInvalid": "Please select a valid country",
+      "passwordRequired": "Password is required",
+      "passwordMinLength": "Password must be at least 8 characters",
+      "passwordDigit": "Password must contain at least 1 digit",
+      "passwordLowercase": "Password must contain at least 1 lowercase letter",
+      "passwordUppercase": "Password must contain at least 1 uppercase letter",
+      "passwordSpecialChar": "Password must contain at least 1 non-alphanumeric character",
+      "usernameTaken": "This username is already taken",
+      "emailTaken": "This email is already registered"
+    },
+    "passwordRequirements": "8+ characters, 1 digit, 1 lowercase, 1 uppercase, 1 special character"
+    ,
+    "passwordMode": {
+      "manual": {
+        "title": "Set Password",
+        "description": "Admin sets the password"
+      },
+      "email": {
+        "title": "Password via Email",
+        "description": "User sets via email link"
+      }
+    },
+    "passwordViaEmail": {
+      "sentTo": "An account setup email will be sent to",
+      "fallbackEmail": "the user's email address",
+      "withLink": "with a link to set their password."
+    }
+  },
+
+  "table": {
+    "headers": {
+      "serialNo": "S.No",
+      "user": "User",
+      "username": "Username",
+      "email": "Email",
+      "location": "Location",
+      "lastAccess": "Last Access",
+      "actions": "Actions",
+      "line": "Line",
+      "reason": "Reason"
+    },
+    "status": {
+      "suspended": "Suspended"
+    },
+    "tooltips": {
+      "cannotSuspendSelf": "You cannot suspend your own account",
+      "cannotRemoveSelfAdmin": "You cannot remove yourself from admin role",
+      "activateUser": "Activate User",
+      "suspendUser": "Suspend User",
+      "editUser": "Edit User",
+      "deleteUser": "Delete User",
+      "removeAdminRole": "Remove admin role",
+      "cannotModifyMainAdmin": "This main administrator account cannot be modified.",
+      "cannotDeleteSelf": "You cannot delete your own account."
+    }
+  },
+
+  "imageUpload": {
+    "dragAndDrop": "Drag and drop an image here",
+    "or": "or",
+    "supportedImageTypes": "Supported types: {{types}}",
+    "invalidImageFile": "Please select a JPEG or PNG image file.",
+    "uploadFailed": "Failed to upload profile picture.",
+    "previewAlt": "Preview"
+  },
+
+  "bulkUpload": {
+    "instructions": "Instructions",
+    "step1": "1. Download the sample CSV file to see the required format.",
+    "step2": "2. Fill in the user details following the column requirements below.",
+    "step3": "3. Upload the completed CSV file below and click 'Add Users'.",
+    "fieldRequirementsTitle": "CSV column requirements",
+    "requiredLabel": "Required",
+    "optionalLabel": "Optional",
+    "fields": {
+      "username": {
+        "label": "username",
+        "required": true,
+        "rules": [
+          "Required",
+          "Maximum 50 characters",
+          "Letters, numbers, and @ . + - _ only (no spaces)",
+          "Must contain at least one letter or number",
+          "Must be unique and not already registered"
+        ]
+      },
+      "firstname": {
+        "label": "firstname",
+        "required": true,
+        "rules": [
+          "Required",
+          "Maximum 50 characters",
+          "Letters, spaces, apostrophes, and hyphens only"
+        ]
+      },
+      "lastname": {
+        "label": "lastname",
+        "required": true,
+        "rules": [
+          "Required",
+          "Maximum 50 characters",
+          "Letters, spaces, apostrophes, and hyphens only"
+        ]
+      },
+      "email": {
+        "label": "email",
+        "required": true,
+        "rules": [
+          "Required",
+          "Maximum 254 characters",
+          "Must be a valid email address",
+          "Must be unique and not already registered"
+        ]
+      },
+      "password": {
+        "label": "password",
+        "required": false,
+        "rules": [
+          "Optional — leave blank to send a password setup email to the user",
+          "If provided: 8+ characters, 1 digit, 1 lowercase letter, 1 uppercase letter, and 1 special character"
+        ]
+      },
+      "city": {
+        "label": "city",
+        "required": false,
+        "rules": [
+          "Optional",
+          "2–100 characters if provided",
+          "Letters, spaces, hyphens (-), apostrophes ('), and periods (.) only",
+          "Cannot be only numbers (e.g. 12345)"
+        ]
+      },
+      "country": {
+        "label": "country",
+        "required": false,
+        "rules": [
+          "Optional",
+          "Must be a valid 2-letter country code (e.g. US, GB, IN)"
+        ]
+      }
+    },
+    "dragAndDropCSV": "Drag and drop a CSV file here",
+    "selectCSVFile": "Please select a CSV file to upload.",
+    "uploadSummary": "Upload Summary",
+    "usersCreated": "users created successfully.",
+    "usersFailed": "users failed to be created.",
+    "errorDetails": "Error Details:",
+    "line": "Line",
+    "reason": "Reason",
+    "username": "Username",
+    "sampleCsvFileName": "bulk_users_sample.csv"
+  },
+
+  "adminManagement": {
+    "searchingUsers": "Searching users...",
+    "noUsersFound": "No users found matching your search",
+    "foundUsers": "Found {{count}} user(s) matching your search",
+    "availableUsers": "{{count}} users available",
+    "startTypingToSearch": "Start typing to search for users to add as admin",
+    "totalAdminUsers": "Total admin users: {{count}}",
+    "loadingAdminUsers": "Loading admin users...",
+    "noAdminUsers": "No admin users found",
+    "apiConfigIssue": "This might indicate an API configuration issue. Check the console for details.",
+    "noAdminUsersMatch": "No admin users match your search"
+  },
+
+  "modals": {
+    "deleteUser": {
+      "title": "Delete User",
+      "titleMultiple": "Delete Multiple Users",
+      "warning": "Warning: This action cannot be undone",
+      "description": "Deleting this user will permanently remove all associated data and access.",
+      "descriptionMultiple": "Deleting these {{count}} users will permanently remove all associated data and access.",
+      "listLabel": "User to be deleted:",
+      "listLabelMultiple": "Users to be deleted ({{count}}):",
+      "confirmation": "Are you absolutely sure you want to delete this user? This action cannot be undone.",
+      "confirmationMultiple": "Are you absolutely sure you want to delete these {{count}} users? This action cannot be undone.",
+      "details": {
+        "name": "Name:",
+        "username": "Username:",
+        "email": "Email:",
+        "location": "Location:"
+      }
+    },
+    "addAdmin": {
+      "title": "Add Admin User",
+      "confirmation": "Confirm Admin Addition",
+      "description": "This will grant admin privileges to the selected user.",
+      "listLabel": "User to be added as admin:",
+      "confirmationText": "Are you sure you want to add this user as an admin? They will have administrative privileges.",
+      "details": {
+        "fullName": "Full Name:",
+        "email": "Email:"
+      }
+    },
+    "removeAdmin": {
+      "title": "Remove Admin User",
+      "confirmation": "Confirm Admin Removal",
+      "description": "This will revoke admin privileges from the selected user.",
+      "listLabel": "User to be removed from admin role:",
+      "confirmationText": "Are you sure you want to remove this user from admin role? They will lose administrative privileges.",
+      "details": {
+        "fullName": "Full Name:",
+        "email": "Email:"
+      }
+    }
+  },
+
+  "messages": {
+    "success": {
+      "userCreated": "User created successfully",
+      "usersDeleted": "{{count}} user(s) deleted successfully",
+      "userDeleted": "User deleted successfully",
+      "userSuspended": "User suspended successfully",
+      "userActivated": "User activated successfully",
+      "adminAdded": "{{userName}} has been added as admin successfully",
+      "adminRemoved": "{{userName}} has been removed from admin role successfully",
+      "allUsersCreated": "All users created successfully! Total: {{totalCreated}}",
+      "bulkUploadPartial": "Processed with {{totalErrors}} error(s). {{totalCreated}} users created."
+    },
+    "error": {
+      "failedToFetchUsers": "Failed to fetch users",
+      "failedToCreateUser": "Failed to create user",
+      "userCreationFailed": "User creation failed",
+      "failedToDeleteUsers": "Failed to delete user(s)",
+      "failedToSuspendUser": "Failed to suspend user",
+      "failedToActivateUser": "Failed to activate user",
+      "cannotSuspendSelf": "You cannot suspend your own account",
+      "cannotRemoveSelfAdmin": "You cannot remove yourself from admin role",
+      "cannotModifyMainAdmin": "This main administrator account cannot be modified.",
+      "cannotDeleteSelf": "You cannot delete your own account.",
+      "failedToFetchAdminUsers": "Failed to fetch admin users",
+      "failedToSearchUsers": "Failed to search users",
+      "failedToAddAdmin": "Failed to add user as admin",
+      "failedToRemoveAdmin": "Failed to remove user from admin role",
+      "bulkUploadError": "An unexpected error occurred during bulk upload.",
+      "usernameAlreadyExists": "This username already exists. Please choose another.",
+      "emailAlreadyRegistered": "This email is already registered. Please use a different email.",
+      "invalidCsvFile": "Please select a valid .csv file.",
+      "selectCsvToUpload": "Please select a CSV file to upload.",
+      "uploadCsvNoId": "Failed to upload CSV file. No valid item ID received.",
+      "noResponseBulk": "No response received from bulk upload API."
+      ,
+      "unknownError": "Unknown error"
+    },
+    "warning": {
+      "selectUsersToDelete": "Please select users to delete",
+      "errorOccurred": "Error occurred"
+    }
+  },
+  "common": {
+    "na": "N/A"
+  },
+
+  "status": {
+    "loading": "Loading...",
+    "creating": "Creating...",
+    "deleting": "Deleting...",
+    "processing": "Processing...",
+    "searching": "Searching...",
+    "uploading": "Uploading...",
+    "active": "Active",
+    "inactive": "Inactive",
+    "suspended": "Suspended"
+  }
+}

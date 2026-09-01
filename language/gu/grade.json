@@ -1,0 +1,176 @@
+{
+  "common": {
+    "pts": "pts",
+    "grade": "ગ્રેડ",
+    "grades": "ગ્રેડ્સ",
+    "student": "વિદ્યાર્થી",
+    "students": "વિદ્યાર્થીઓ",
+    "assignment": "અસાઇનમેન્ટ",
+    "assignments": "અસાઇનમેન્ટ્સ",
+    "quiz": "ક્વિઝ",
+    "quizzes": "ક્વિઝઝ",
+    "average": "સરેરાશ",
+    "overall": "કુલ",
+    "dueDate": "અવધિ તારીખ",
+    "submitted": "સબમિટ કરેલ",
+    "status": "સ્થિતિ",
+    "actions": "ક્રિયાઓ",
+    "details": "વિગતો",
+    "name": "નામ",
+    "email": "ઈમેલ",
+    "points": "પોઈન્ટ્સ",
+    "maxPoints": "મહત્તમ પોઈન્ટ્સ",
+    "percentage": "શતક",
+    "loading": "લોડ થઈ રહ્યું છે",
+    "error": "ભૂલ",
+    "noData": "કોઈ ડેટા નથી",
+    "days": "દિવસ"
+  },
+  "student": {
+    "messages": {
+      "loadingGrades": "...",
+      "fetchingData": ",",
+      "noGradableItemsDesc": "Moodle            ,         (   )",
+      "whatToCheckNext": ":",
+      "checkCourseContent": ":    Moodle   (ID: {{courseId}})   ''  ''",
+      "checkEnrollment": ":",
+      "tryDifferentCourse": ":",
+      "errorLoadingGrades": "ગ્રેડ લોડ કરવામાં ભૂલ",
+      "noCourseSelected": "કોઈ કોર્સ પસંદ કરેલ નથી",
+      "selectCourse": "કૃપા કરીને ગ્રેડ માહિતી જોવા માટે એક કોર્સ પસંદ કરો.",
+      "noGradableItems": "કોઈ ગ્રેડ કરી શકાય તેવી વસ્તુઓ મળી નથી"
+    },
+    "dashboard": {
+      "title": "તમારો ગ્રેડ ડેશબોર્ડ",
+      "overallGrade": "કુલ ગ્રેડ",
+      "excellent": "ઉત્કૃષ્ટ",
+      "needsImprovement": "સુધારાની જરૂર છે",
+      "assignmentsSubmitted": "અસાઇનમેન્ટ્સ સબમિટ કરેલ",
+      "assignmentsGraded": "અસાઇનમેન્ટ્સ ગ્રેડ કરેલ",
+      "quizzesCompleted": "ક્વિઝ પૂરી થઈ ગઈ",
+      "pendingGrades": "બાકી ગ્રેડ",
+      "overdueItems": "વિલંબિત વસ્તુઓ",
+      "upcomingDeadlines": "આવતી કાળજીની તારીખો",
+      "overdue": "વિલંબિત",
+      "noUpcomingDeadlines": "કોઈ આવતી કાળજીની તારીખો નથી",
+      "noOverdueItems": "કોઈ વિલંબિત વસ્તુઓ નથી"
+    },
+    "header": {
+      "backToDashboard": "ડેશબોર્ડ પર પાછા જાઓ",
+      "viewAllGrades": "બધા ગ્રેડ જુઓ"
+    },
+    "table": {
+      "allGrades": "બધા ગ્રેડ",
+      "activity": "ક્રિયાકલાપ",
+      "type": "પ્રકાર",
+      "grade": "ગ્રેડ",
+      "pending": "બાકી"
+    },
+    "modal": {
+      "submissionDetails": "સબમિશન વિગતો",
+      "yourScore": "તમારો સ્કોર",
+      "close": "બંધ કરો"
+    }
+  },
+  "teacher": {
+    "gradebook": {
+      "overview": "ઓવરવ્યૂ",
+      "gradeTable": "ગ્રેડ ટેબલ",
+      "searchStudents": "વિદ્યાર્થીઓને શોધો",
+      "filterByName": "વિદ્યાર્થીના નામ દ્વારા ફિલ્ટર...",
+      "searchAssignment": "ક્વિઝ અથવા અસાઇનમેન્ટ શોધો",
+      "filterAssignment": "ફિલ્ટર...",
+      "filterByType": "ટાઈપ દ્વારા ફિલ્ટર",
+      "all": "બધા",
+      "title": "ગ્રેડ મેનેજમેન્ટ ડેશબોર્ડ"
+    },
+    "overview": {
+      "requiresAttention": "ધ્યાનની જરૂર છે",
+      "pendingGrades": "પેન્ડિંગ ગ્રેડ્સ",
+      "overdueAssignments": "ઓવરડ્યુ અસાઇનમેન્ટ્સ",
+      "toGrade": "ગ્રેડ કરવા",
+      "noPendingGrades": "કોઈ પેન્ડિંગ ગ્રેડ્સ નથી",
+      "allSubmissionsGraded": "બધી સબમિશન્સ ગ્રેડ કરવામાં આવી છે",
+      "noOverdueAssignments": "કોઈ ઓવરડ્યુ અસાઇનમેન્ટ્સ નથી",
+      "allOnTrack": "બધી અસાઇનમેન્ટ્સ ટ્રેક પર છે",
+      "totalStudents": "કુલ વિદ્યાર્થીઓ",
+      "classAverage": "ક્લાસ સરેરાશ",
+      "allCaughtUp": "બધા કેચ અપ થયા!",
+      "noPendingSubmissions": "ગ્રેડ કરવા માટે કોઈ પેન્ડિંગ સબમિશન્સ નથી."
+    },
+    "stats": {
+      "totalStudents": "કુલ વિદ્યાર્થીઓ",
+      "assignments": "અસાઇનમેન્ટ્સ",
+      "quizzes": "ક્વિઝઝ",
+      "overdueItems": "ઓવરડ્યુ આઇટમ્સ",
+      "pendingGrades": "પેન્ડિંગ ગ્રેડ્સ",
+      "classAverage": "ક્લાસ સરેરાશ"
+    },
+    "studentList": {
+      "allStudents": "બધા વિદ્યાર્થીઓ",
+      "averageGrade": "સરેરાશ ગ્રેડ",
+      "viewDetails": "વિગતો જુઓ",
+      "backToOverview": "ઓવરવ્યૂ પર પાછા જાઓ"
+    },
+    "studentDetail": {
+      "gradeDetailsFor": "ગ્રેડ વિગતો માટે",
+      "overallAverage": "કુલ સરેરાશ",
+      "noGradesAvailable": "કોઈ ગ્રેડ ઉપલબ્ધ નથી",
+      "backToStudentList": "વિદ્યાર્થી યાદી પર પાછા જાઓ",
+      "dueDate": "અંતિમ તારીખ",
+      "gradedSubmittedOn": "ગ્રેડેડ / સબમિટેડ પર",
+      "notGraded": "ગ્રેડેડ નથી"
+    },
+    "assignment": {
+      "pendingGradesView": "પેન્ડિંગ ગ્રેડ્સ",
+      "overdueStudents": "અંતિમ તારીખ પસાર થયેલા વિદ્યાર્થીઓ",
+      "studentsToGrade": "ગ્રેડ કરવા માટેના વિદ્યાર્થીઓ",
+      "studentsOverdue": "અંતિમ તારીખ પસાર થયેલા વિદ્યાર્થીઓ",
+      "submittedOn": "સબમિટેડ પર",
+      "daysOverdue": "અંતિમ તારીખ પસાર થયેલા દિવસો",
+      "enterGrade": "ગ્રેડ દાખલ કરો",
+      "backToListing": "યાદી પર પાછા જાઓ",
+      "allPendingGrades": "બધા પેન્ડિંગ ગ્રેડ્સ",
+      "total": "કુલ",
+      "submissionsToGrade": "ગ્રેડ કરવા માટેની સબમિશન્સ",
+      "overdueItems": "અંતિમ તારીખ પસાર થયેલ વસ્તુઓ",
+      "noOverdueStudents": "આ અસાઇનમેન્ટ માટે કોઈ અંતિમ તારીખ પસાર થયેલા વિદ્યાર્થીઓ નથી.",
+      "noPendingSubmissionsForAssignment": "આ અસાઇનમેન્ટ માટે ગ્રેડ કરવા માટે કોઈ પેન્ડિંગ સબમિશન્સ નથી.",
+      "noOverdueItemsDesc": "કોઈ અંતિમ તારીખ પસાર થયેલ વસ્તુઓ નથી"
+    },
+    "gradeTable": {
+      "enterGrade": "ગ્રેડ દાખલ કરો"
+    },
+    "messages": {
+      "loadingGradebook": "ગ્રેડબુક લોડ થઈ રહી છે...",
+      "errorLoadingGradebook": "ગ્રેડબુક લોડ કરવામાં ભૂલ",
+      "noGradableItems": "આ કોર્સમાં હજુ સુધી કોઈ ગ્રેડ કરવા યોગ્ય વસ્તુઓ (અસાઇનમેન્ટ અથવા ક્વિઝ) નથી.",
+      "invalidGrade": "કૃપા કરીને 0 અને {{maxGrade}} વચ્ચે માન્ય ગ્રેડ દાખલ કરો.",
+      "errorSavingGrade": "ગ્રેડ સાચવવામાં ભૂલ. કૃપા કરીને ફરી પ્રયાસ કરો."
+    }
+  },
+  "status": {
+    "graded": "ગ્રેડેડ",
+    "submitted": "સબમિટેડ",
+    "notSubmitted": "નહીં સબમિટ કરાયું",
+    "overdue": "અતિવ્યાજ",
+    "inProgress": "ચાલુ છે",
+    "pending": "પેન્ડિંગ",
+    "noDueDate": "કોઈ ડ્યૂ તારીખ નથી"
+  },
+  "buttons": {
+    "viewDetails": "વિગતો જુઓ",
+    "backToOverview": "ઓવરવ્યૂ પર પાછા જાઓ",
+    "backToDashboard": "ડેશબોર્ડ પર પાછા જાઓ",
+    "close": "બંધ કરો",
+    "save": "સાચવો",
+    "cancel": "રદ કરો",
+    "enterGrade": "ગ્રેડ દાખલ કરો",
+    "edit": "સંપાદિત કરો"
+  },
+  "labels": {
+    "due": "ડ્યૂ",
+    "na": "N/A",
+    "of": "નો"
+  }
+}

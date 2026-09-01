@@ -1,0 +1,67 @@
+{
+  "title": "অ্যাডমিন প্যানেল",
+  "navigation": {
+    "courses": "কোর্সেস মেনেজ করুন",
+    "categories": "ক্যাটাগরিস মেনেজ করুন",
+    "users": "ইউজারস মেনেজ করুন",
+    "rolesPermissions": "রোলস ও পারমিশনস",
+    "theme": "থিমস",
+    "report": "রিপোর্ট",
+    "tenantManagement": "ইন্সটিটিউশনস মেনেজ করুন",
+    "instructonex": "InstructoNex",
+    "accessControl": "অ্যাক্সেস কন্ট্রোল",
+    "rubrics": "রুব্রিক্স",
+    "cohorts": "ব্যাচ ম্যানেজ করুন",
+    "tenantsReport": "টেন্যান্টস রিপোর্ট"
+  },
+  "tenantReport": {
+    "title": "টেন্যান্টস রিপোর্ট",
+    "subtitle": "ক্রস-টেন্যান্ট অ্যাকটিভিটির স্ন্যাপশট ও দ্রুত ইনসাইট",
+    "generatedAt": "তৈরি হয়েছে: {{time}}",
+    "noData": "টেন্যান্ট রিপোর্টের কোনো ডেটা নেই",
+    "fetchError": "টেন্যান্ট রিপোর্ট লোড করা যায়নি",
+    "notAvailable": "উপলব্ধ নেই",
+    "tenantSelector": "বিস্তারিত দেখতে টেন্যান্ট নির্বাচন করুন",
+    "selectedTenantDetails": "নির্বাচিত টেন্যান্ট: {{name}}",
+    "tableTitle": "টেন্যান্ট মেট্রিক্স টেবিল",
+    "tableSubtitle": "সব টেন্যান্টকে মূল মেট্রিক্স অনুযায়ী তুলনা করা হয়েছে",
+    "roles": {
+      "students": "শিক্ষার্থীরা",
+      "teachers": "শিক্ষকরা",
+      "others": "অন্যান্য"
+    },
+    "cards": {
+      "totalTenants": "মোট টেন্যান্ট",
+      "totalTenantsSubtitle": "এই রিপোর্টে অন্তর্ভুক্ত টেন্যান্টগুলো",
+      "totalUsers": "মোট ইউজার",
+      "totalUsersSubtitle": "সব টেন্যান্ট জুড়ে ইউজার",
+      "activeUsers": "সক্রিয় ইউজার",
+      "activeUsersSubtitle": "সম্প্রতি সক্রিয় ইউজার",
+      "inactiveUsers": "নিষ্ক্রিয় ইউজার",
+      "inactiveUsersSubtitle": "সম্প্রতি কোনো অ্যাকটিভিটি নেই এমন ইউজার",
+      "neverLoggedIn": "কখনও লগইন করেনি",
+      "activeRate": "সক্রিয় রেট: {{rate}}%"
+    },
+    "charts": {
+      "comparisonTitle": "টেন্যান্ট তুলনা",
+      "comparisonSubtitle": "প্রতিটি টেন্যান্টের মোট, সক্রিয় ও নিষ্ক্রিয় ইউজার",
+      "roleSplitTitle": "{{name}}-এর রোল মিক্স",
+      "roleSplitSubtitle": "শিক্ষার্থী, শিক্ষক ও অন্যান্য ইউজারদের বণ্টন"
+    },
+    "columns": {
+      "name": "টেন্যান্টের নাম"
+    },
+    "metrics": {
+      "total_users": "মোট ইউজার",
+      "total_students": "মোট স্টুডেন্ট",
+      "total_teachers": "মোট শিক্ষক",
+      "active_users": "সক্রিয় ইউজার",
+      "inactive_users": "নিষ্ক্রিয় ইউজার",
+      "never_logged_in": "একবারও লগইন করেনি",
+      "course_categories": "কোর্স ক্যাটাগরি",
+      "total_enrollments": "মোট এনরোলমেন্ট",
+      "completed_courses": "সম্পন্ন কোর্স",
+      "pending_completions": "সমাপ্তি বাকি"
+    }
+  }
+}

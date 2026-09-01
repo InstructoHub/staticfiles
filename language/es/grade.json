@@ -1,0 +1,176 @@
+{
+  "common": {
+    "grade": "Calificación",
+    "grades": "Calificaciones",
+    "student": "Estudiante",
+    "students": "Estudiantes",
+    "assignment": "Tarea",
+    "assignments": "Tareas",
+    "quiz": "Quiz",
+    "quizzes": "Quizzes",
+    "average": "Promedio",
+    "overall": "General",
+    "dueDate": "Fecha de Vencimiento",
+    "submitted": "Enviado",
+    "status": "Estado",
+    "actions": "Acciones",
+    "details": "Detalles",
+    "name": "Nombre",
+    "email": "Correo",
+    "points": "Puntos",
+    "maxPoints": "Puntos Máximos",
+    "percentage": "Porcentaje",
+    "loading": "Cargando",
+    "error": "Error",
+    "noData": "Sin Datos",
+    "pts": "pts",
+    "days": "días"
+  },
+  "student": {
+    "dashboard": {
+      "title": "Tu Panel de Calificaciones",
+      "overallGrade": "Calificación General",
+      "excellent": "Excelente",
+      "needsImprovement": "Necesita Mejorar",
+      "assignmentsSubmitted": "Tareas Entregadas",
+      "assignmentsGraded": "Tareas Calificadas",
+      "quizzesCompleted": "Quizzes Completados",
+      "pendingGrades": "Calificaciones Pendientes",
+      "overdueItems": "Elementos Vencidos",
+      "upcomingDeadlines": "Próximas Fechas de Vencimiento",
+      "overdue": "Vencido",
+      "noUpcomingDeadlines": "Sin próximas fechas de vencimiento",
+      "noOverdueItems": "Sin elementos vencidos"
+    },
+    "header": {
+      "backToDashboard": "Volver al Panel",
+      "viewAllGrades": "Ver Todas las Calificaciones"
+    },
+    "table": {
+      "allGrades": "Todas las Calificaciones",
+      "activity": "Actividad",
+      "type": "Tipo",
+      "grade": "Calificación",
+      "pending": "Pendiente"
+    },
+    "modal": {
+      "submissionDetails": "Detalles de la Entrega",
+      "yourScore": "Tu Puntuación",
+      "close": "Cerrar"
+    },
+    "messages": {
+      "loadingGrades": "Cargando Calificaciones...",
+      "fetchingData": "Un momento mientras obtenemos los datos más recientes.",
+      "errorLoadingGrades": "Error al Cargar Calificaciones",
+      "noCourseSelected": "Ningún Curso Seleccionado",
+      "selectCourse": "Por favor selecciona un curso para ver su información de calificaciones.",
+      "noGradableItems": "No se Encontraron Elementos Calificables",
+      "noGradableItemsDesc": "Nos conectamos exitosamente a Moodle y cargamos los datos para este curso, pero no encontramos ninguna actividad calificable (como Tareas o Quizzes) para tu cuenta.",
+      "whatToCheckNext": "Qué verificar a continuación:",
+      "checkCourseContent": "Contenido del Curso: Asegúrate de que el curso en Moodle (ID: {{courseId}}) contenga actividades de \"Tarea\" o \"Quiz\".",
+      "checkEnrollment": "Inscripción: Verifica que estés correctamente inscrito en este curso.",
+      "tryDifferentCourse": "Curso Diferente: Intenta ver un curso diferente para ver si las calificaciones aparecen allí."
+    }
+  },
+  "teacher": {
+    "gradebook": {
+      "title": "Panel de Gestión de Calificaciones",
+      "overview": "Descripción General",
+      "gradeTable": "Tabla de Calificaciones",
+      "searchStudents": "Buscar Estudiantes",
+      "filterByName": "Filtrar por nombre de estudiante...",
+      "searchAssignment": "Buscar Quiz o Tarea",
+      "filterAssignment": "Filtrar...",
+      "filterByType": "Filtrar por Tipo",
+      "all": "Todo"
+    },
+    "overview": {
+      "requiresAttention": "Requiere Atención",
+      "pendingGrades": "Calificaciones Pendientes",
+      "overdueAssignments": "Tareas Vencidas",
+      "toGrade": "para Calificar",
+      "noPendingGrades": "Sin Calificaciones Pendientes",
+      "allSubmissionsGraded": "Todas las entregas están calificadas",
+      "noOverdueAssignments": "Sin Tareas Vencidas",
+      "allOnTrack": "Todas las tareas están al día",
+      "totalStudents": "Total de Estudiantes",
+      "classAverage": "Promedio de Clase",
+      "allCaughtUp": "¡Todo al Día!",
+      "noPendingSubmissions": "No hay entregas pendientes para calificar."
+    },
+    "stats": {
+      "totalStudents": "Total de Estudiantes",
+      "assignments": "Tareas",
+      "quizzes": "Quizzes",
+      "overdueItems": "Elementos Vencidos",
+      "pendingGrades": "Calificaciones Pendientes",
+      "classAverage": "Promedio de Clase"
+    },
+    "studentList": {
+      "allStudents": "Todos los Estudiantes",
+      "averageGrade": "Calificación Promedio",
+      "viewDetails": "Ver Detalles",
+      "backToOverview": "Volver a la Descripción General"
+    },
+    "studentDetail": {
+      "gradeDetailsFor": "Detalles de Calificación para",
+      "overallAverage": "Promedio General",
+      "noGradesAvailable": "Sin calificaciones disponibles",
+      "backToStudentList": "Volver a la Lista de Estudiantes",
+      "dueDate": "Fecha de Vencimiento",
+      "gradedSubmittedOn": "Calificado / Entregado El",
+      "notGraded": "Sin Calificar"
+    },
+    "assignment": {
+      "pendingGradesView": "Calificaciones Pendientes",
+      "overdueStudents": "Estudiantes Vencidos",
+      "studentsToGrade": "Estudiantes para Calificar",
+      "studentsOverdue": "Estudiantes Vencidos",
+      "submittedOn": "Entregado El",
+      "daysOverdue": "Días Vencidos",
+      "enterGrade": "Ingresar Calificación",
+      "backToListing": "Volver al Listado",
+      "allPendingGrades": "Todas las Calificaciones Pendientes",
+      "total": "total",
+      "submissionsToGrade": "Entregas para Calificar",
+      "overdueItems": "Elementos Vencidos",
+      "noOverdueStudents": "Sin estudiantes vencidos para esta tarea.",
+      "noPendingSubmissionsForAssignment": "Sin entregas pendientes para calificar para esta tarea.",
+      "noOverdueItemsDesc": "Sin Elementos Vencidos"
+    },
+    "gradeTable": {
+      "enterGrade": "Ingresar Calificación"
+    },
+    "messages": {
+      "loadingGradebook": "Cargando Libro de Calificaciones...",
+      "errorLoadingGradebook": "Error al Cargar Libro de Calificaciones",
+      "noGradableItems": "Aún no hay elementos calificables (tareas o quizzes) en este curso.",
+      "invalidGrade": "Por favor ingresa una calificación válida entre 0 y {{maxGrade}}.",
+      "errorSavingGrade": "Error al guardar la calificación. Por favor intenta de nuevo."
+    }
+  },
+  "status": {
+    "graded": "Calificado",
+    "submitted": "Entregado",
+    "notSubmitted": "No Entregado",
+    "overdue": "Vencido",
+    "inProgress": "En Progreso",
+    "pending": "Pendiente",
+    "noDueDate": "Sin fecha de vencimiento"
+  },
+  "buttons": {
+    "viewDetails": "Ver Detalles",
+    "backToOverview": "Volver a la Descripción General",
+    "backToDashboard": "Volver al Panel",
+    "close": "Cerrar",
+    "save": "Guardar",
+    "cancel": "Cancelar",
+    "enterGrade": "Ingresar Calificación",
+    "edit": "Editar"
+  },
+  "labels": {
+    "due": "Vence",
+    "na": "N/A",
+    "of": "de"
+  }
+}

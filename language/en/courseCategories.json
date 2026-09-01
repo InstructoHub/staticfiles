@@ -1,0 +1,155 @@
+{
+  "page": {
+    "title": "Category Management",
+    "subtitle": "Manage and organize course categories",
+    "loading": "Loading categories...",
+    "noDescription": "No description",
+    "emptyMessage": "No Category available. Start by adding a new Category .",
+    "noCategoriesFound": "No categories found matching your search criteria"
+  },
+  "emptyState": {
+    "title": "No Categories Yet",
+    "description": "Get started by creating first category.",
+    "createButton": "Create Category"
+  },
+
+  "navigation": {
+    "editCategory": "Edit Category",
+    "createCategory": "Create New Category",
+    "deleteCategory": "Delete Category",
+    "deleteSubCategory": "Delete Sub-category",
+    "deleteCategories": "Delete Categories"
+  },
+
+  "buttons": {
+    "addCategory": "Add Category",
+    "addSubCategory": "Add Sub-category",
+    "selectAll": "Select All",
+    "deselectAll": "Deselect All",
+    "deleteSelected": "Delete Categories",
+    "edit": "Edit Category",
+    "delete": "Delete Category",
+    "cancel": "Cancel",
+    "create": "Create Category",
+    "update": "Update Category",
+    "creating": "Creating...",
+    "updating": "Updating...",
+    "deleting": "Deleting...",
+    "collapse": "Collapse",
+    "expand": "Expand"
+  },
+
+  "table": {
+    "headers": {
+      "serialNumber": "S.No",
+      "categoryName": "Category Name",
+      "description": "Description",
+      "courseCount": "Course Count",
+      "actions": "Actions"
+    },
+    "search": {
+      "placeholder": "Search categories..."
+    },
+    "courseCount": {
+      "label": "courses"
+    },
+    "fallbacks": {
+      "untitledCategory": "Untitled Category"
+    }
+  },
+
+  "form": {
+    "labels": {
+      "categoryName": "Category Name",
+      "parentCategory": "Parent Category",
+      "idNumber": "ID Number",
+      "description": "Description"
+    },
+    "placeholders": {
+      "categoryName": "Enter category name",
+      "idNumber": "Enter ID number (optional)",
+      "description": "Enter description (optional)"
+    },
+    "validation": {
+      "categoryNameRequired": "Category name is required",
+      "categoryNameMinLength": "Category name must be at least 2 characters",
+      "categoryNameMaxLength": "Category name must not exceed 200 characters",
+      "idNumberMaxLength": "ID number must not exceed 50 characters",
+      "idNumberTaken": "This ID number is already in use by another category",
+      "descriptionMaxLength": "Description must not exceed 1000 characters"
+    },
+    "modes": {
+      "edit": {
+        "title": "Edit Category",
+        "subtitle": "Update {{categoryName}} information"
+      },
+      "create": {
+        "title": "Create New Category",
+        "subtitle": "Add a new category to the system"
+      },
+      "createSub": {
+        "title": "Create Sub-category",
+        "subtitle": "Add a sub-category under {{parentName}}"
+      }
+    }
+  },
+
+  "modals": {
+    "deleteMultiple": {
+      "title": "Delete Multiple Categories",
+      "warning": "Warning: This action cannot be undone",
+      "description": "Deleting these {{count}} categories will permanently remove them from the system. All associated course assignments will need to be reassigned.",
+      "listLabel": "Categories to be deleted ({{count}}):",
+      "confirmation": "Are you absolutely sure you want to proceed? This will permanently delete all selected categories and cannot be reversed."
+    },
+    "deleteSingle": {
+      "title": "Delete Category",
+      "warning": "Warning: This action cannot be undone",
+      "description": "Deleting this category will permanently remove it from the system. All associated course assignments will need to be reassigned.",
+      "listLabel": "Category to be deleted:",
+      "confirmation": "Are you absolutely sure you want to proceed? This will permanently delete this category and cannot be reversed."
+    },
+    "deleteSubCategory": {
+      "title": "Delete Sub-category",
+      "warning": "Warning: This action cannot be undone",
+      "description": "Deleting this sub-category will permanently remove it from the system. All associated course assignments will need to be reassigned.",
+      "listLabel": "Sub-category to be deleted:",
+      "confirmation": "Are you absolutely sure you want to proceed? This will permanently delete this sub-category and cannot be reversed."
+    },
+    "details": {
+      "name": "Name:",
+      "description": "Description:",
+      "courses": "Courses:"
+    }
+  },
+
+  "messages": {
+    "success": {
+      "categoryCreated": "Category created successfully",
+      "categoryUpdated": "Category updated successfully",
+      "categoriesDeleted": "Categories deleted successfully",
+      "categoryDeleted": "Category deleted successfully",
+      "subCategoryDeleted": "Sub-category deleted successfully"
+    },
+    "error": {
+      "categoryNotFound": "Category not found",
+      "failedToLoad": "Failed to load category",
+      "errorUpdating": "Error updating category",
+      "errorCreating": "Error creating category",
+      "failedToUpdate": "Failed to update category",
+      "failedToCreate": "Failed to create category",
+      "deleteFailed": "Failed to delete category",
+      "deleteMultipleFailed": "Failed to delete categories"
+    },
+    "warning": {
+      "selectCategoriesToDelete": "Please select categories to delete"
+    }
+  },
+
+  "status": {
+    "loading": "Loading...",
+    "saving": "Saving...",
+    "deleting": "Deleting...",
+    "processing": "Processing..."
+  }
+}

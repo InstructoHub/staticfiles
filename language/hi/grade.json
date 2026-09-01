@@ -1,0 +1,176 @@
+{
+  "common": {
+    "grade": "ग्रेड",
+    "grades": "ग्रेड्स",
+    "student": "स्टूडेंट",
+    "students": "स्टूडेंट्स",
+    "assignment": "असाइनमेंट",
+    "assignments": "असाइनमेंट",
+    "quiz": "क्विज़",
+    "quizzes": "क्विज़",
+    "average": "एवरेज",
+    "overall": "ओवरऑल",
+    "dueDate": "ड्यू डेट",
+    "submitted": "सबमिट किया गया",
+    "status": "स्टेटस",
+    "actions": "एक्शंस",
+    "details": "डिटेल्स",
+    "name": "नाम",
+    "email": "ईमेल",
+    "points": "पॉइंट्स",
+    "maxPoints": "मैक्स पॉइंट्स",
+    "percentage": "परसेंटेज",
+    "loading": "लोड हो रहा है",
+    "error": "एरर",
+    "noData": "कोई डेटा नहीं है",
+    "pts": "pts",
+    "days": "दिन"
+  },
+  "student": {
+    "dashboard": {
+      "title": "आपका ग्रेड डैशबोर्ड",
+      "overallGrade": "ओवरऑल ग्रेड",
+      "excellent": "एक्सीलेंट",
+      "needsImprovement": "इम्प्रूवमेंट की जरूरत है",
+      "assignmentsSubmitted": "असाइनमेंट सबमिट किए गए",
+      "assignmentsGraded": "असाइनमेंट ग्रेड किए गए",
+      "quizzesCompleted": "क्विज़ कम्प्लीट किए गए",
+      "pendingGrades": "पेंडिंग ग्रेड्स",
+      "overdueItems": "ओवरड्यू आइटम्स",
+      "upcomingDeadlines": "अपकमिंग डेडलाइन्स",
+      "overdue": "ओवरड्यू",
+      "noUpcomingDeadlines": "कोई अपकमिंग डेडलाइन्स नहीं हैं",
+      "noOverdueItems": "कोई ओवरड्यू आइटम्स नहीं हैं"
+    },
+    "header": {
+      "backToDashboard": "डैशबोर्ड पर वापस जाएं",
+      "viewAllGrades": "सभी ग्रेड्स देखें"
+    },
+    "table": {
+      "allGrades": "सभी ग्रेड्स",
+      "activity": "एक्टिविटी",
+      "type": "टाइप",
+      "grade": "ग्रेड",
+      "pending": "पेंडिंग"
+    },
+    "modal": {
+      "submissionDetails": "सबमिशन की डिटेल्स",
+      "yourScore": "आपका स्कोर",
+      "close": "क्लोज"
+    },
+    "messages": {
+      "loadingGrades": "ग्रेड्स लोड हो रहे हैं...",
+      "fetchingData": "बस एक पल, हम लेटेस्ट डेटा ला रहे हैं।",
+      "errorLoadingGrades": "ग्रेड्स लोड करने में एरर",
+      "noCourseSelected": "कोई कोर्स सिलेक्ट नहीं किया गया",
+      "selectCourse": "ग्रेड की इन्फॉर्मेशन देखने के लिए प्लीज एक कोर्स सिलेक्ट करें।",
+      "noGradableItems": "कोई ग्रेडेबल आइटम्स नहीं मिले",
+      "noGradableItemsDesc": "हमने सक्सेसफुली मूडल से कनेक्ट कर लिया और इस कोर्स का डेटा लोड कर लिया, लेकिन हमें आपके अकाउंट के लिए कोई ग्रेडेबल एक्टिविटीज (जैसे असाइनमेंट या क्विज़) नहीं मिलीं।",
+      "whatToCheckNext": "आगे क्या चेक करें:",
+      "checkCourseContent": "कोर्स कंटेंट: पक्का कर लें कि मूडल (ID: {{courseId}}) के कोर्स में वाकई \"असाइनमेंट\" या \"क्विज़\" एक्टिविटीज हैं।",
+      "checkEnrollment": "एनरोलमेंट: वेरीफाई करें कि आप इस कोर्स में सही तरीके से एनरोल्ड हैं।",
+      "tryDifferentCourse": "दूसरा कोर्स: यह देखने के लिए कि क्या वहां ग्रेड्स दिखते हैं, कोई दूसरा कोर्स देख कर ट्राई करें।"
+    }
+  },
+  "teacher": {
+    "gradebook": {
+      "title": "ग्रेड मैनेजमेंट डैशबोर्ड",
+      "overview": "ओवरव्यू",
+      "gradeTable": "ग्रेड टेबल",
+      "searchStudents": "स्टूडेंट्स सर्च करें",
+      "filterByName": "स्टूडेंट के नाम से फिल्टर करें...",
+      "searchAssignment": "क्विज़ या असाइनमेंट सर्च करें",
+      "filterAssignment": "फिल्टर...",
+      "filterByType": "टाइप से फिल्टर करें",
+      "all": "सभी"
+    },
+    "overview": {
+      "requiresAttention": "ध्यान देने की जरूरत है",
+      "pendingGrades": "पेंडिंग ग्रेड्स",
+      "overdueAssignments": "ओवरड्यू असाइनमेंट",
+      "toGrade": "ग्रेड करने के लिए",
+      "noPendingGrades": "कोई पेंडिंग ग्रेड्स नहीं हैं",
+      "allSubmissionsGraded": "सभी सबमिशन्स ग्रेड हो चुके हैं",
+      "noOverdueAssignments": "कोई ओवरड्यू असाइनमेंट नहीं हैं",
+      "allOnTrack": "सभी असाइनमेंट ट्रैक पर हैं",
+      "totalStudents": "टोटल स्टूडेंट्स",
+      "classAverage": "क्लास का एवरेज",
+      "allCaughtUp": "सब काम पूरा है!",
+      "noPendingSubmissions": "ग्रेड करने के लिए कोई पेंडिंग सबमिशन्स नहीं हैं।"
+    },
+    "stats": {
+      "totalStudents": "टोटल स्टूडेंट्स",
+      "assignments": "असाइनमेंट",
+      "quizzes": "क्विज़",
+      "overdueItems": "ओवरड्यू आइटम्स",
+      "pendingGrades": "पेंडिंग ग्रेड्स",
+      "classAverage": "क्लास का एवरेज"
+    },
+    "studentList": {
+      "allStudents": "सभी स्टूडेंट्स",
+      "averageGrade": "एवरेज ग्रेड",
+      "viewDetails": "डिटेल्स देखें",
+      "backToOverview": "ओवरव्यू पर वापस जाएं"
+    },
+    "studentDetail": {
+      "gradeDetailsFor": "ग्रेड की डिटेल्स इनके लिए",
+      "overallAverage": "ओवरऑल एवरेज",
+      "noGradesAvailable": "कोई ग्रेड्स अवेलेबल नहीं हैं",
+      "backToStudentList": "स्टूडेंट लिस्ट पर वापस जाएं",
+      "dueDate": "ड्यू डेट",
+      "gradedSubmittedOn": "ग्रेड किया गया / सबमिट किया गया",
+      "notGraded": "ग्रेड नहीं किया गया"
+    },
+    "assignment": {
+      "pendingGradesView": "पेंडिंग ग्रेड्स",
+      "overdueStudents": "ओवरड्यू स्टूडेंट्स",
+      "studentsToGrade": "ग्रेड करने के लिए स्टूडेंट्स",
+      "studentsOverdue": "ओवरड्यू स्टूडेंट्स",
+      "submittedOn": "सबमिट किया गया",
+      "daysOverdue": "दिन ओवरड्यू",
+      "enterGrade": "ग्रेड एंटर करें",
+      "backToListing": "लिस्टिंग पर वापस जाएं",
+      "allPendingGrades": "सभी पेंडिंग ग्रेड्स",
+      "total": "टोटल",
+      "submissionsToGrade": "ग्रेड करने के लिए सबमिशन्स",
+      "overdueItems": "ओवरड्यू आइटम्स",
+      "noOverdueStudents": "इस असाइनमेंट के लिए कोई ओवरड्यू स्टूडेंट्स नहीं हैं।",
+      "noPendingSubmissionsForAssignment": "इस असाइनमेंट के लिए ग्रेड करने को कोई पेंडिंग सबमिशन्स नहीं हैं।",
+      "noOverdueItemsDesc": "कोई ओवरड्यू आइटम्स नहीं हैं"
+    },
+    "gradeTable": {
+      "enterGrade": "ग्रेड एंटर करें"
+    },
+    "messages": {
+      "loadingGradebook": "ग्रेडबुक लोड हो रही है...",
+      "errorLoadingGradebook": "ग्रेडबुक लोड करने में एरर",
+      "noGradableItems": "इस कोर्स में अभी तक कोई ग्रेडेबल आइटम्स (असाइनमेंट या क्विज़) नहीं हैं।",
+      "invalidGrade": "प्लीज 0 और {{maxGrade}} के बीच एक वैलिड ग्रेड एंटर करें।",
+      "errorSavingGrade": "ग्रेड सेव करने में एरर। प्लीज फिर से ट्राई करें।"
+    }
+  },
+  "status": {
+    "graded": "ग्रेड हो गया",
+    "submitted": "सबमिट किया गया",
+    "notSubmitted": "सबमिट नहीं किया",
+    "overdue": "ओवरड्यू",
+    "inProgress": "इन प्रोग्रेस",
+    "pending": "पेंडिंग",
+    "noDueDate": "कोई ड्यू डेट नहीं"
+  },
+  "buttons": {
+    "viewDetails": "डिटेल्स देखें",
+    "backToOverview": "ओवरव्यू पर वापस जाएं",
+    "backToDashboard": "डैशबोर्ड पर वापस जाएं",
+    "close": "क्लोज",
+    "save": "सेव",
+    "cancel": "कैंसिल",
+    "enterGrade": "ग्रेड एंटर करें",
+    "edit": "एडिट"
+  },
+  "labels": {
+    "due": "ड्यू",
+    "na": "एन/ए",
+    "of": "का"
+  }
+}

@@ -1,0 +1,205 @@
+{
+  "pageActions": {
+    "saveAndContinue": "&",
+    "save": "ಉಳಿಸಿ"
+  },
+  "uploadFiles": {
+    "description": ".",
+    "dragDropText": "&",
+    "supportedFilesText": ": PDF, HTML, MP4",
+    "selectedFilesLabel": ":",
+    "errors": {
+      "unsupportedFiles": "()   . : PDF, HTML, MP4",
+      "maxFilesExceeded": "{{max}}",
+      "fileSizeExceeded": "1 GB",
+      "NotReadable": ".       .",
+      "noFilesSelected": "ಮುಂದುವರಿಯಲು ಕನಿಷ್ಠ ಒಂದು ಫೈಲ್ ಆಯ್ಕೆ ಮಾಡಿ",
+      "uploadFailed": "ಫೈಲ್‌ಗಳನ್ನು ಅಪ್ಲೋಡ್ ಮಾಡಲು ವಿಫಲವಾಗಿದೆ"
+    },
+    "alerts": {
+      "loadState": {
+        "title": ".              ?",
+        "confirmText": "ಮರುಪ್ರಾರಂಭಿಸಿ",
+        "cancelText": "ಮರುಪ್ರಾರಂಭಿಸಿ"
+      }
+    },
+    "tooltips": {
+      "uploadInfo": "PDF, HTML,  MP4",
+      "fileSizeInfo": "1 GB"
+    },
+    "title": "ನಿಮ್ಮ ವಿಷಯವನ್ನು ಅಪ್ಲೋಡ್ ಮಾಡಿ",
+    "uploadTitle": "ಮೂಲಗಳನ್ನು ಅಪ್ಲೋಡ್ ಮಾಡಿ",
+    "sourceLimitLabel": "ಮೂಲಗಳ ಮಿತಿಯು",
+    "continueButtonText": "ಮುಂದುವರಿಯಿರಿ"
+  },
+  "createModules": {
+    "description": "ದಯವಿಟ್ಟು ನಿಮ್ಮ ಕೋರ್ಸ್‌ಗಾಗಿ ನೀವು ಎಷ್ಟು ಮಾದರಿಗಳನ್ನು ರಚಿಸಲು ಬಯಸುತ್ತೀರಿ ಎಂಬುದನ್ನು ನಿರ್ದಿಷ್ಟಪಡಿಸಿ.",
+    "moduleLabel": "ಮಾಡ್ಯೂಲ್‌ಗಳು:",
+    "errors": {
+      "saveFailed": "ಮಾಡ್ಯೂಲ್ ಸಂಖ್ಯೆಯನ್ನು ಉಳಿಸಲು ವಿಫಲವಾಗಿದೆ. ದಯವಿಟ್ಟು ಪುನಃ ಪ್ರಯತ್ನಿಸಿ.",
+      "networkError": "ನೆಟ್ವರ್ಕ್ ದೋಷ. ದಯವಿಟ್ಟು ನಿಮ್ಮ ಸಂಪರ್ಕವನ್ನು ಪರಿಶೀಲಿಸಿ."
+    },
+    "tooltips": {
+      "moduleInfo": "ನೀವು 1 ರಿಂದ 8 ಮಾದರಿಗಳನ್ನು ರಚಿಸಬಹುದು"
+    },
+    "title": "ಮಾಡ್ಯೂಲ್‌ಗಳ ಸಂಖ್ಯೆಯನ್ನು ಆಯ್ಕೆ ಮಾಡಿ",
+    "promptLabel": "ಆರಂಭಿಕ ಪ್ರಾಂಪ್ಟ್:",
+    "promptPlaceholder": "ಮಾಡ್ಯೂಲ್ ರಚನೆಗೆ ಮಾರ್ಗದರ್ಶನ ನೀಡಲು ಆರಂಭಿಕ ಪ್ರಾಂಪ್ಟ್ ನೀಡಿ (ಐಚ್ಛಿಕ)"
+  },
+  "defineStructure": {
+    "quickTips": "ತ್ವರಿತ ಸಲಹೆಗಳು",
+    "title": "ರಚನೆ ನಿರ್ಧರಿಸಿ",
+    "description": "ಮಾಡ್ಯೂಲ್‌ಗಳನ್ನು ರಚಿಸುವ ಮೂಲಕ ನಿಮ್ಮ ಕೋರ್ಸ್ ರಚನೆಯನ್ನು ವಿನ್ಯಾಸಗೊಳಿಸಿ ಮತ್ತು ಕಲಿಕಾ ವಸ್ತುಗಳನ್ನು ಸೇರಿಸಿ.",
+    "learningObjectsTitle": "ಕಲಿಕಾ ವಸ್ತುಗಳು",
+    "quickTipsText": "ಮಾಡ್ಯೂಲ್‌ಗಳನ್ನು ಪುನರ್‌ಕ್ರಮಬದ್ಧಗೊಳಿಸಲು ಎಳೆಯಿರಿ. ಬಲ ಪ್ಯಾನಲ್‌ನಿಂದ ಮಾಡ್ಯೂಲ್‌ಗಳಲ್ಲಿ ಕಲಿಕಾ ವಸ್ತುಗಳನ್ನು ಎಳೆಯಿರಿ ಮತ್ತು ಬಿಡಿ.",
+    "addModuleButton": "ಮಾಡ್ಯೂಲ್ ಸೇರಿಸಿ",
+    "dragDropText": "ಇಲ್ಲಿ ಕಲಿಕಾ ವಸ್ತುಗಳನ್ನು ಎಳೆಯಿರಿ ಮತ್ತು ಬಿಡಿ",
+    "noDataTitle": "ದತ್ತಾಂಶವಿಲ್ಲ",
+    "noDataContent": "ಪ್ರದರ್ಶಿಸಲು ಯಾವುದೇ ಐಟಂಗಳಿಲ್ಲ",
+    "modulePlaceholder": "ಇಲ್ಲಿ ಶೀರ್ಷಿಕೆ ನಮೂದಿಸಿ",
+    "moduleContentPlaceholder": "ಇಲ್ಲಿ ವಿಷಯವನ್ನು ಸೇರಿಸಿ",
+    "learningObjects": {
+      "moduleIntroduction": "ಮಾಡ್ಯೂಲ್ ಪರಿಚಯ",
+      "learningObjectives": "ಕಲಿಕಾ ಉದ್ದೇಶಗಳು",
+      "readingMaterial": "ಓದು ಸಾಮಗ್ರಿ",
+      "assignment": "ಅಸೈನ್‌ಮೆಂಟ್",
+      "discussionForum": "ಚರ್ಚಾ ಫೋರಮ್",
+      "caseStudy": "ಕೇಸ್ ಅಧ್ಯಯನ",
+      "experiments": "ಪ್ರಾಯೋಗಿಕಗಳು",
+      "learningOutcomes": "ಕಲಿಕಾ ಫಲಿತಾಂಶಗಳು"
+    },
+    "errors": {
+      "titleRequired": "ಶೀರ್ಷಿಕೆ ಕ್ಷೇತ್ರ ಅಗತ್ಯವಿದೆ",
+      "noLearningObjects": "ದಯವಿಟ್ಟು ಎಲ್ಲಾ ಮಾದರಿಗಳಲ್ಲಿ ಕಲಿಕಾ ವಸ್ತುಗಳನ್ನು ಸೇರಿಸಿ.",
+      "lo_Required": "ಕಲಿಕಾ ಫಲಿತಾಂಶ ಫೀಲ್ಡ್ ಅಗತ್ಯವಿದೆ"
+    },
+    "alerts": {
+      "confirm": {
+        "title": "ನಿಮ್ಮ ಕೋರ್ಸ್ ಅದ್ಭುತವಾಗಿ ರೂಪುಗೊಳ್ಳುತ್ತಿದೆ! ನಾನು ಮುಂದುವರಿಯುತ್ತೆನೆ?",
+        "confirmText": "ಹೌದು"
+      }
+    },
+    "tooltips": {
+      "dragModules": "ಮಾಡ್ಯೂಲ್‌ಗಳನ್ನು ಪುನರ್‌ಕ್ರಮಬದ್ಧಗೊಳಿಸಲು ಕ್ಲಿಕ್ ಮಾಡಿ ಮತ್ತು ಎಳೆಯಿರಿ",
+      "dragObjects": "ಬಲ ಪ್ಯಾನಲ್‌ನಿಂದ ಕಲಿಕಾ ವಸ್ತುಗಳನ್ನು ಮಾಡ್ಯೂಲ್‌ಗಳಿಗೆ ಎಳೆಯಿರಿ"
+    }
+  },
+  "reviewPrompts": {
+    "title": "ರಿವ್ಯೂ ಪ್ರಾಂಪ್ಟ್‌ಗಳು",
+    "description": "ನಿಮ್ಮ ಮಾದರಿ ವಿಷಯವನ್ನು ಪರಿಶೀಲಿಸಿ ಮತ್ತು ಸುಧಾರಿಸಿ.",
+    "moduleStructure": "ಯೋಜಿತ ಮಾದರಿ ರಚನೆ",
+    "quickTipsText": "ಮಾಡ್ಯೂಲ್ ಹೆಸರುಗಳು ಮತ್ತು ವಿವರಣೆಗಳನ್ನು ಬದಲಾಯಿಸಲು ಸಂಪಾದನೆ ಬಟನ್ ಕ್ಲಿಕ್ ಮಾಡಿ. ನೀವು ಉಳಿಸಲು ಬಟನ್ ಕ್ಲಿಕ್ ಮಾಡಿದಾಗ ಎಲ್ಲಾ ಬದಲಾವಣೆಗಳು ಸ್ವಯಂಚಾಲಿತವಾಗಿ ಉಳಿಸಲಾಗುತ್ತದೆ.",
+    "addButton": "ಊರಿಸಿ",
+    "moduleNamePlaceholder": "ಮಾಡ್ಯೂಲ್ ಹೆಸರನ್ನು ನಮೂದಿಸಿ",
+    "titlePlaceholder": "ಶೀರ್ಷಿಕೆಯನ್ನು ನಮೂದಿಸಿ",
+    "promptPlaceholder": "ಪ್ರಾಂಪ್ಟ್ ಅನ್ನು ನಮೂದಿಸಿ",
+    "untitledContent": "ಶೀರ್ಷಿಕೆ ಇಲ್ಲದ ವಿಷಯ",
+    "titleText": "ಶೀರ್ಷಿಕೆ",
+    "promptText": "ಪ್ರಾಂಪ್ಟ್",
+    "addDropdown": {
+      "page": "ಪುಟ",
+      "assignment": "ಅಸೈನ್‌ಮೆಂಟ್",
+      "forum": "ಫೋರಮ್"
+    },
+    "contentTypes": {
+      "page": "ಪುಟ",
+      "assignment": "ಅಸೈನ್‌ಮೆಂಟ್",
+      "forum": "ಫೋರಮ್"
+    },
+    "noContentMessage": "ಇನ್ನೂ ಯಾವುದೇ ವಿಷಯ ಐಟಂಗಳಿಲ್ಲ. ಒಂದು ರಚಿಸಲು 'ಊರಿಸಿ' ಕ್ಲಿಕ್ ಮಾಡಿ.",
+    "errors": {
+      "moduleNameRequired": "ಮಾಡ್ಯೂಲ್ ಹೆಸರು ಕ್ಷೇತ್ರ ಅಗತ್ಯವಿದೆ",
+      "titleRequired": "ಶೀರ್ಷಿಕೆ ಕ್ಷೇತ್ರ ಅಗತ್ಯವಿದೆ",
+      "promptRequired": "ಪ್ರಾಂಪ್ಟ್ ಕ್ಷೇತ್ರ ಅಗತ್ಯವಿದೆ"
+    },
+    "alerts": {
+      "confirm": {
+        "title": "ನೀವು ನಿಮ್ಮ ಎಲ್ಲಾ ಮಾದರಿಗಳಿಗೆ ಬದಲಾವಣೆಗಳನ್ನು ಮಾಡಿದ್ದೀರಾ ಎಂದು ಖಚಿತಪಡಿಸಿಕೊಳ್ಳಿ. ನಾನು ಮುಂದುವರಿಯುತ್ತೆನೆ?",
+        "confirmText": "ಹೌದು"
+      }
+    },
+    "tooltips": {
+      "editInfo": "ಮಾಡ್ಯೂಲ್ ಹೆಸರುಗಳು ಮತ್ತು ವಿವರಣೆಗಳನ್ನು ಸಂಪಾದಿಸಲು ಕ್ಲಿಕ್ ಮಾಡಿ"
+    }
+  },
+  "courseReview": {
+    "title": "ಕೋರ್ಸ್ ರಿವ್ಯೂ",
+    "description": "ನಿಮ್ಮ ಕೋರ್ಸ್ ವಿಷಯದ ಅಂತಿಮ ವಿಮರ್ಶೆ.",
+    "addTitleHere": "ಇಲ್ಲಿ ಶೀರ್ಷಿಕೆ ಸೇರಿಸಿ",
+    "addContentHere": "ಇಲ್ಲಿ ವಿಷಯ ಸೇರಿಸಿ",
+    "noDataTitle": "ದತ್ತಾಂಶ ದೊರಕಲಿಲ್ಲ",
+    "noDataContent": "ಪ್ರದರ್ಶಿಸಲು ಯಾವುದೇ ಐಟಂಗಳಿಲ್ಲ",
+    "regenerateButton": "ರೀಜನರೇಟ್",
+    "saveChangesButton": "ಬದಲಾವಣೆಗಳನ್ನು ಉಳಿಸಿ",
+    "createCourseButton": "ಮುಂದುವರಿಯಿರಿ ಮತ್ತು ಕೋರ್ಸ್ ರಚಿಸಿ",
+    "contentTypes": {
+      "page": "ಪೇಜ್",
+      "assignment": "ಅಸೈನ್‌ಮೆಂಟ್",
+      "forum": "ಫೋರಮ್"
+    },
+    "errors": {
+      "moduleNameRequired": "ಮಾಡ್ಯೂಲ್ ಹೆಸರು ಕ್ಷೇತ್ರ ಅಗತ್ಯವಿದೆ",
+      "titleRequired": "ಶೀರ್ಷಿಕೆ ಕ್ಷೇತ್ರ ಅಗತ್ಯವಿದೆ",
+      "contentRequired": "ವಿಷಯ ಕ್ಷೇತ್ರ ಅಗತ್ಯವಿದೆ"
+    },
+    "alerts": {
+      "confirm": {
+        "title": "ನಾನು ಕೇವಲ ಕೃತ್ರಿಮ, ಆದರೆ ನೀವು ವಾಸ್ತವದಲ್ಲಿ ತಜ್ಞ! ನಿಮ್ಮ ದೃಷ್ಟಿ, ನಿಮ್ಮ ಪ್ರಜ್ಞೆ—ನಾನು ಇದನ್ನು ಜೀವಂತಗೊಳಿಸಬೇಕೆ?",
+        "confirmText": "ಹೌದು"
+      }
+    },
+    "regeneratePrompt": {
+      "title": "ವಿಷಯವನ್ನು ಪುನಃ ಜನರೇಟ್ ಮಾಡಿ",
+      "submitButton": "ಸಲ್ಲಿಸು",
+      "cancelButton": "ರದ್ದುಮಾಡು"
+    },
+    "tooltips": {
+      "regenerateInfo": "ಈ ವಿಷಯವನ್ನು ಹೊಸ ಪ್ರಾಂಪ್ಟ್‌ನೊಂದಿಗೆ ಪುನಃ ಜನರೇಟ್ ಮಾಡಿ"
+    }
+  },
+  "commonMessages": {
+    "success": {
+      "saved": "ರಾಜ್ಯ ಯಶಸ್ವಿಯಾಗಿ ಉಳಿಸಲಾಗಿದೆ",
+      "uploadSuccess": "ಯಶಸ್ವಿಯಾಗಿ ಅಪ್ಲೋಡ್ ಮಾಡಲಾಗಿದೆ.",
+      "moduleSuccess": "ಮಾಡ್ಯೂಲ್ ಯಶಸ್ವಿಯಾಗಿ ರಚಿಸಲಾಗಿದೆ."
+    },
+    "error": {
+      "somethingWrong": "ಏನೋ ತಪ್ಪಾಗಿದೆ. ದಯವಿಟ್ಟು ಪುನಃ ಪ್ರಯತ್ನಿಸಿ.",
+      "dataNosave": "ಡೇಟಾ ಉಳಿಸಲಾಗಿಲ್ಲ. ದಯವಿಟ್ಟು ಪುನಃ ಪ್ರಯತ್ನಿಸಿ!"
+    },
+    "alerts": {
+      "backConfirm": {
+        "title": "ಹಿಂತೆಗೆದುಕೊಳ್ಳುವುದು ಪ್ರಗತಿಯನ್ನು ತ್ಯಜಿಸುತ್ತದೆ. ನೀವು ಮುಂದುವರಿಯಬೇಕೆ?",
+        "confirmText": "ಹೌದು",
+        "cancelText": "ಇಲ್ಲ"
+      },
+      "resetConfirm": {
+        "title": "ನೀವು ಶುದ್ಧವಾಗಿ ಪ್ರಾರಂಭಿಸಲು ಖಚಿತವಾಗಿದ್ದೀರಾ?",
+        "confirmText": "ಹೌದು",
+        "cancelText": "ಇಲ್ಲ"
+      }
+    }
+  },
+  "shared": {
+    "moduleLabel": "ಮಾಡ್ಯೂಲ್"
+  },
+  "alerts": {
+    "resetConfirm": "ನೀವು ನಿಮ್ಮ ಎಲ್ಲಾ ಮಾಡ್ಯೂಲ್‌ಗಳಲ್ಲಿ ಬದಲಾವಣೆಗಳನ್ನು ಮಾಡಿದಿರಿ ಎಂದು ಖಚಿತವಾಗಿರಿ. ನಾನು ಮುಂದುವರಿಯಬಹುದೆ?",
+    "confirmText": "ಹೌದು"
+  },
+  "contentPreference": {
+    "uploadingText": "ಅಪ್ಲೋಡ್ ಮಾಡುತ್ತಿದೆ..."
+  },
+  "stepper": {
+    "courseDetails": "ಕೋರ್ಸ್ ವಿವರಗಳು",
+    "contentPreference": "ನಿಮ್ಮ ವಿಷಯವನ್ನು ಅಪ್ಲೋಡ್ ಮಾಡಿ",
+    "moduleCreation": "ಮಾಡ್ಯೂಲ್ ರಚನೆ",
+    "defineStructure": "ರಚನೆಯನ್ನು ನಿರ್ಧರಿಸಿ",
+    "reviewPrompts": "ಪುನರ್‌ವೀಕ್ಷಣಾ ಸೂಚನೆಗಳು",
+    "courseReview": "ಕೋರ್ಸ್ ಪುನರ್‌ವೀಕ್ಷಣೆ"
+  },
+  "pageHeader": {
+    "backButtonTitle": "ಹಿಂದಿನ ಹಂತಕ್ಕೆ ಹಿಂತಿರುಗಿ",
+    "resetButtonTitle": "ಆರಂಭಿಕ ಸ್ಥಿತಿಗೆ ಪುನಃ ಸೆಟಿಂಗ್ ಮಾಡಿ"
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "title": "એડમિન પેનલ",
+  "navigation": {
+    "courses": "મેનેજ કોર્સેસ",
+    "categories": "મેનેજ કેટેગરીજ",
+    "users": "મેનેજ યુઝર્સ",
+    "rolesPermissions": "રોલ્સ અને પર્મિશન્સ",
+    "theme": "થીમ્સ",
+    "report": "રિપોર્ટ",
+    "tenantManagement": "મેનેજ ઇન્સ્ટિટ્યુશન્સ",
+    "instructonex": "InstructoNex",
+    "accessControl": "એક્સેસ કંટ્રોલ",
+    "rubrics": "રુબ્રિક્સ",
+    "cohorts": "બેચ મેનેજ કરો",
+    "tenantsReport": "ટેਨੇન્ટ્સ રિપોર્ટ"
+  },
+  "tenantReport": {
+    "title": "ટેનેન્ટ્સ રિપોર્ટ",
+    "subtitle": "ટેનેન્ટ્સ વચ્ચેની એક્ટિવિટીની સ્નેપશોટ અને ઝડપી ઇન્સાઇટ્સ.",
+    "generatedAt": "બનાવેલ સમય: {{time}}",
+    "noData": "ટેનેન્ટ રિપોર્ટ માટે ડેટા ઉપલબ્ધ નથી.",
+    "fetchError": "ટેનેન્ટ રિપોર્ટ લોડ કરવામાં નિષ્ફળ.",
+    "notAvailable": "ઉપલબ્ધ નથી",
+    "tenantSelector": "વિગત માટે ટેનેન્ટ પસંદ કરો",
+    "selectedTenantDetails": "પસંદ કરેલ ટેનેન્ટ: {{name}}",
+    "tableTitle": "ટેનેન્ટ મેટ્રિક્સ ટેબલ",
+    "tableSubtitle": "મુખ્ય મેટ્રિક્સ અનુસાર તમામ ટેનેન્ટ્સની સરખામણી.",
+    "roles": {
+      "students": "સ્ટુડન્ટ્સ",
+      "teachers": "ટીચર્સ",
+      "others": "અન્ય"
+    },
+    "cards": {
+      "totalTenants": "કુલ ટેનેન્ટ્સ",
+      "totalTenantsSubtitle": "આ રિપોર્ટમાં સમાવિષ્ટ ટેનેન્ટ્સ",
+      "totalUsers": "કુલ યુઝર્સ",
+      "totalUsersSubtitle": "બધા ટેનેન્ટ્સમાંના યુઝર્સ",
+      "activeUsers": "એક્ટિવ યુઝર્સ",
+      "activeUsersSubtitle": "તાજેતરમાં એક્ટિવ યુઝર્સ",
+      "inactiveUsers": "નિષ્ક્રિય યુઝર્સ",
+      "inactiveUsersSubtitle": "તાજેતરની એક્ટિવિટી વગરના યુઝર્સ",
+      "neverLoggedIn": "ક્યારેય લોગિન ન કર્યું",
+      "activeRate": "એક્ટિવ રેટ: {{rate}}%"
+    },
+    "charts": {
+      "comparisonTitle": "ટેનેન્ટ્સની સરખામણી",
+      "comparisonSubtitle": "દરેક ટેનેન્ટ માટે કુલ, એક્ટિવ અને નિષ્ક્રિય યુઝર્સ",
+      "roleSplitTitle": "{{name}} માટે રોલ મિક્સ",
+      "roleSplitSubtitle": "સ્ટુડન્ટ્સ, ટીચર્સ અને અન્ય યુઝર્સનું વિતરણ"
+    },
+    "columns": {
+      "name": "ટેનેન્ટનું નામ"
+    },
+    "metrics": {
+      "total_users": "કુલ યુઝર્સ",
+      "total_students": "કુલ સ્ટુડન્ટ્સ",
+      "total_teachers": "કુલ ટીચર્સ",
+      "active_users": "સક્રિય યુઝર્સ",
+      "inactive_users": "નિષ્ક્રિય યુઝર્સ",
+      "never_logged_in": "ક્યારેય લોગિન થયું નથી",
+      "course_categories": "કોર્સ કેટેગરીઝ",
+      "total_enrollments": "કુલ એનલોલમેન્ટ્સ",
+      "completed_courses": "સંપૂર્ણ થયેલા કોર્સ",
+      "pending_completions": "પૂર્ણ થવાની બાકી"
+    }
+  }
+}

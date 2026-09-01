@@ -1,0 +1,41 @@
+{
+  "title": "Calendario",
+  "subtitle": "Administra tu horario y eventos.",
+  "navigation": {
+    "previousMonth": "Mes Anterior",
+    "nextMonth": "Próximo Mes"
+  },
+  "search": {
+    "placeholder": "Buscar eventos",
+    "ariaLabel": "Buscar eventos"
+  },
+  "filter": {
+    "ariaLabel": "Filtrar por tipo de evento",
+    "options": {
+      "all": "Todos los Tipos",
+      "assignment": "Asignaciones",
+      "quiz": "Pruebas",
+      "discussion": "Discusiones",
+      "meeting": "Reuniones",
+      "project": "Proyectos"
+    }
+  },
+  "days": {
+    "sun": "Dom",
+    "mon": "Lun",
+    "tue": "Mar",
+    "wed": "Mié",
+    "thu": "Jue",
+    "fri": "Vie",
+    "sat": "Sab"
+  },
+  "grid": {
+    "dayAriaLabel": "Día {{day}}",
+    "moreEvents": "+ {{count}} más"
+  },
+  "events": {
+    "title": "Eventos en",
+    "viewButton": "Ver",
+    "noEvents": "No hay eventos para este día."
+  }
+}

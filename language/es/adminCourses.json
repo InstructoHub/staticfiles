@@ -1,0 +1,203 @@
+{
+  "page": {
+    "title": "Gestión de cursos",
+    "subtitle": "Gestiona y organiza tus cursos",
+    "loading": "Cargando cursos...",
+    "noCoursesFound": "No se encontraron cursos que coincidan con tu búsqueda",
+    "noCoursesAvailable": "No hay cursos disponibles. Comienza agregando un nuevo curso."
+  },
+
+  "navigation": {
+    "editCourse": "Editar curso",
+    "createCourse": "Crear nuevo curso",
+    "deleteCourse": "Eliminar curso",
+    "deleteCourses": "Eliminar cursos",
+    "viewParticipants": "Ver participantes"
+  },
+
+  "buttons": {
+    "addCourse": "Agregar curso",
+    "deleteSelected": "Eliminar curso",
+    "edit": "Editar curso",
+    "delete": "Eliminar curso",
+    "cancel": "Cancelar",
+    "create": "Crear",
+    "update": "Actualizar",
+    "creating": "Creando...",
+    "updating": "Actualizando...",
+    "deleting": "Eliminando...",
+    "save": "Guardar",
+    "uploadImage": "Subir imagen",
+    "removeImage": "Eliminar imagen"
+  },
+
+  "table": {
+    "headers": {
+      "courseName": "Nombre del curso",
+      "shortName": "Nombre corto",
+      "category": "Categoría",
+      "startDate": "Fecha de inicio",
+      "endDate": "Fecha de fin",
+      "modifiedOn": "Modificado",
+      "teachers": "Instructores",
+      "students": "Estudiantes",
+      "actions": "Acciones",
+      "S.No": "S.No"
+    },
+    "search": {
+      "placeholder": "Buscar cursos..."
+    },
+    "fallbacks": {
+      "untitledCourse": "Curso sin título",
+      "noCategory": "Sin categoría",
+      "noTeachers": "Sin instructores",
+      "noStudents": "Sin estudiantes"
+    }
+  },
+
+  "form": {
+    "labels": {
+      "courseName": "Nombre del curso",
+      "shortName": "Nombre corto",
+      "category": "Categoría",
+      "description": "Descripción",
+      "startDate": "Fecha de inicio",
+      "endDate": "Fecha de fin",
+      "courseImage": "Imagen del curso",
+      "enrollmentMethods": "Métodos de inscripción",
+      "selfEnrollment": "Auto inscripción",
+      "manualEnrollment": "Inscripción manual",
+      "guestAccess": "Acceso de invitado"
+    },
+    "placeholders": {
+      "courseName": "Ingresa el nombre completo del curso",
+      "shortName": "Ingresa el nombre corto",
+      "category": "Selecciona una categoría",
+      "description": "Ingresa la descripción del curso",
+      "selectStartDate": "Selecciona la fecha de inicio",
+      "selectEndDate": "Selecciona la fecha de fin"
+    },
+    "validation": {
+      "courseNameRequired": "El nombre del curso es requerido",
+      "courseNameMinLength": "El nombre debe tener al menos 3 caracteres",
+      "courseNameMaxLength": "El nombre no debe exceder 250 caracteres",
+      "shortNameRequired": "El nombre corto es requerido",
+      "shortNameMinLength": "El nombre corto debe tener al menos 2 caracteres",
+      "shortNameMaxLength": "El nombre corto no debe exceder 30 caracteres",
+      "shortNameFormat": "El nombre corto solo puede contener letras, números, guion bajo y guion",
+      "shortNameTaken": "¡Este nombre corto ya está en uso!",
+      "categoryRequired": "La categoría es requerida",
+      "categoryPositive": "El ID de categoría debe ser positivo",
+      "descriptionMaxLength": "La descripción no debe exceder 1500 caracteres",
+      "startDateBeforeEnd": "La fecha de inicio debe ser anterior a la fecha de fin",
+      "endDateAfterStart": "La fecha de fin debe ser posterior a la fecha de inicio",
+      "invalidDate": "Por favor ingresa una fecha válida"
+    },
+    "modes": {
+      "edit": {
+        "title": "Editar curso",
+        "subtitle": "Actualiza los detalles del curso abajo"
+      },
+      "create": {
+        "title": "Crear nuevo curso",
+        "subtitle": "Agrega un nuevo curso al sistema"
+      }
+    },
+    "imageUpload": {
+      "dropzoneText": "Arrastra una imagen aquí, o haz clic para seleccionar",
+      "supportedFormats": "Formatos soportados: JPG, PNG, GIF (Máximo: 2MB)",
+      "uploadError": "Falla al subir imagen del curso",
+      "setImageError": "Falla al establecer imagen del curso",
+      "fileSizes": ["Bytes", "KB", "MB"]
+    }
+  },
+
+  "modals": {
+    "deleteMultiple": {
+      "title": "Eliminar múltiples cursos",
+      "warning": "Advertencia: Esta acción no se puede deshacer",
+      "description": "Eliminar estos {{count}} cursos los eliminará permanentemente del sistema. Todos los datos asociados incluyendo inscripciones, calificaciones y contenido se perderán.",
+      "listLabel": "Cursos a ser eliminados ({{count}}):",
+      "confirmation": "¿Estás absolutamente seguro de que deseas proceder? Esto eliminará permanentemente todos los cursos seleccionados y no se puede revertir."
+    },
+    "deleteSingle": {
+      "title": "Eliminar curso",
+      "warning": "Advertencia: Esta acción no se puede deshacer",
+      "description": "Eliminar este curso lo eliminará permanentemente del sistema. Todos los datos asociados incluyendo inscripciones, calificaciones y contenido se perderán.",
+      "listLabel": "Curso a ser eliminado:",
+      "confirmation": "¿Estás absolutamente seguro de que deseas eliminar este curso? Esta acción no se puede deshacer."
+    },
+    "details": {
+      "name": "Nombre:",
+      "shortName": "Nombre corto:",
+      "category": "Categoría:",
+      "description": "Descripción:",
+      "startDate": "Fecha de inicio:",
+      "endDate": "Fecha de fin:",
+      "teachers": "Instructores:",
+      "students": "Estudiantes:"
+    }
+  },
+
+  "messages": {
+    "success": {
+      "courseCreated": "Curso creado correctamente",
+      "courseUpdated": "Curso actualizado correctamente",
+      "coursesDeleted": "Cursos eliminados correctamente",
+      "courseDeleted": "Curso eliminado correctamente",
+      "imageUploaded": "Imagen del curso subida correctamente",
+      "imageRemoved": "Imagen del curso eliminada correctamente"
+    },
+    "error": {
+      "courseNotFound": "Curso no encontrado",
+      "failedToLoad": "Falla al cargar cursos",
+      "failedToLoadCourse": "Falla al cargar datos del curso",
+      "failedToLoadCategories": "Falla al cargar categorías",
+      "errorUpdating": "Error al actualizar curso",
+      "errorCreating": "Error al crear curso",
+      "failedToUpdate": "Falla al actualizar curso",
+      "failedToCreate": "Falla al crear curso",
+      "deleteFailed": "Falla al eliminar curso",
+      "deleteMultipleFailed": "Falla al eliminar cursos",
+      "uploadImageFailed": "Falla al subir archivo de imagen",
+      "setImageFailed": "Falla al establecer imagen del curso",
+      "invalidImageFormat": "Formato de imagen inválido. Por favor usa JPG, PNG o GIF",
+      "imageTooLarge": "Archivo de imagen muy grande. El tamaño máximo es 2MB",
+      "enrollmentConfigFailed": "Falla al configurar auto inscripción"
+    },
+    "warning": {
+      "selectCoursesToDelete": "Por favor selecciona al menos un curso para eliminar",
+      "unsavedChanges": "Tienes cambios sin guardar. ¿Estás seguro de que deseas irte?",
+      "removeImageConfirm": "¿Estás seguro de que deseas eliminar la imagen del curso?"
+    }
+  },
+
+  "enrollment": {
+    "methods": {
+      "self": "Auto inscripción",
+      "manual": "Inscripción manual",
+      "guest": "Acceso de invitado"
+    },
+    "descriptions": {
+      "self": "Permite que los estudiantes se inscriban a sí mismos en este curso",
+      "manual": "Requiere inscripción manual por administradores",
+      "guest": "Permite que usuarios invitados accedan al contenido del curso"
+    },
+    "status": {
+      "enabled": "Habilitado",
+      "disabled": "Deshabilitado"
+    }
+  },
+
+  "status": {
+    "loading": "Cargando...",
+    "saving": "Guardando...",
+    "deleting": "Eliminando...",
+    "processing": "Procesando...",
+    "uploading": "Subiendo...",
+    "active": "Activo",
+    "inactive": "Inactivo",
+    "draft": "Borrador",
+    "published": "Publicado"
+  }
+}

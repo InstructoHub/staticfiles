@@ -1,0 +1,194 @@
+{
+  "stepper": {
+    "courseDetails": "Détails du cours",
+    "contentPreference": "Téléchargez votre contenu",
+    "moduleCreation": "Création de module",
+    "defineStructure": "Définir la structure",
+    "reviewPrompts": "Examiner les invites",
+    "courseReview": "Examen du cours"
+  },
+  "pageHeader": {
+    "backButtonTitle": "Revenir à l'étape précédente",
+    "resetButtonTitle": "Réinitialiser à l'état initial"
+  },
+  "pageActions": {
+    "save": "Enregistrer",
+    "saveAndContinue": "Enregistrer et continuer"
+  },
+  "uploadFiles": {
+    "title": "Téléchargez votre contenu",
+    "description": "Dites-moi simplement comment vous aimeriez commencer à créer votre contenu de cours.",
+    "uploadTitle": "Télécharger des sources",
+    "dragDropText": "Glissez-déposez ou choisissez un fichier",
+    "supportedFilesText": "Types de fichiers supportés: PDF, HTML, MP4",
+    "selectedFilesLabel": "Fichiers sélectionnés:",
+    "sourceLimitLabel": "Limite de source",
+    "continueButtonText": "Continuer",
+    "errors": {
+      "unsupportedFiles": "{count} fichier(s) ont des types non supportés. Supportés: PDF, HTML, MP4",
+      "maxFilesExceeded": "Maximum {max} fichiers autorisés",
+      "fileSizeExceeded": "La taille totale du fichier dépasse la limite de 1 GB",
+      "noFilesSelected": "Veuillez sélectionner au moins un fichier pour continuer",
+      "uploadFailed": "Échec de l'upload des fichiers"
+    },
+    "alerts": {
+      "loadState": {
+        "title": "Vous avez laissé votre dernier brouillon inachevé. Voulez-vous reprendre là où vous vous êtes arrêté ou recommencer à zéro?",
+        "confirmText": "Reprendre",
+        "cancelText": "Recommencer"
+      }
+    },
+    "tooltips": {
+      "uploadInfo": "Vous pouvez télécharger des fichiers PDF, HTML ou MP4",
+      "fileSizeInfo": "La taille totale maximale du fichier est de 1 GB"
+    }
+  },
+  "createModules": {
+    "title": "Sélectionnez le nombre de modules",
+    "description": "Veuillez spécifier le nombre de modules que vous souhaitez créer pour votre cours.",
+    "moduleLabel": "Modules:",
+    "errors": {
+      "saveFailed": "Échec de l'enregistrement du nombre de modules. Veuillez réessayer.",
+      "networkError": "Erreur réseau. Veuillez vérifier votre connexion."
+    },
+    "tooltips": {
+      "moduleInfo": "Vous pouvez créer entre 1 et 8 modules"
+    }
+  },
+  "defineStructure": {
+    "quickTips": "Conseils rapides",
+    "title": "Définir la structure",
+    "description": "Concevez votre structure de cours en créant des modules et en ajoutant des objets d'apprentissage.",
+    "learningObjectsTitle": "Objets d'apprentissage",
+    "quickTipsText": "Glissez les modules pour les réorganiser. Glissez-déposez les objets d'apprentissage dans les modules depuis le panneau de droite.",
+    "addModuleButton": "Ajouter un module",
+    "dragDropText": "Glissez-déposez les objets d'apprentissage ici",
+    "noDataTitle": "Aucune donnée trouvée",
+    "noDataContent": "Il n'y a rien à afficher",
+    "modulePlaceholder": "Entrez le titre ici",
+    "moduleContentPlaceholder": "Ajouter du contenu ici",
+    "learningObjects": {
+      "moduleIntroduction": "Introduction du module",
+      "learningObjectives": "Objectifs d'apprentissage",
+      "readingMaterial": "Matériel de lecture",
+      "assignment": "Devoir",
+      "discussionForum": "Forum de discussion",
+      "caseStudy": "Étude de cas",
+      "experiments": "Expériences"
+    },
+    "errors": {
+      "titleRequired": "Le champ titre est requis",
+      "promptRequired": "Le champ invite est requis",
+      "noLearningObjects": "Veuillez ajouter des objets d'apprentissage dans tous les modules."
+    },
+    "alerts": {
+      "confirm": {
+        "title": "Votre cours prend forme merveilleusement! Puis-je continuer?",
+        "confirmText": "Oui"
+      }
+    },
+    "tooltips": {
+      "dragModules": "Cliquez et glissez pour réorganiser",
+      "dragObjects": "Glissez les objets d'apprentissage depuis le panneau de droite dans les modules"
+    }
+  },
+  "reviewPrompts": {
+    "title": "Examiner les invites",
+    "description": "Examinez et affinez votre contenu de module.",
+    "moduleStructure": "Structure de module proposée",
+    "quickTipsText": "Cliquez sur le bouton modifier pour modifier les noms et descriptions des modules.",
+    "addButton": "Ajouter",
+    "moduleNamePlaceholder": "Entrez le nom du module",
+    "titlePlaceholder": "Entrez le titre",
+    "promptPlaceholder": "Entrez l'invite",
+    "untitledContent": "Contenu sans titre",
+    "titleText": "Titre",
+    "promptText": "Invite",
+    "addDropdown": {
+      "page": "Page",
+      "assignment": "Devoir",
+      "forum": "Forum"
+    },
+    "contentTypes": {
+      "page": "Page",
+      "assignment": "Devoir",
+      "forum": "Forum"
+    },
+    "noContentMessage": "Pas d'éléments de contenu pour le moment. Cliquez sur 'Ajouter' pour en créer un.",
+    "errors": {
+      "moduleNameRequired": "Le champ nom de module est requis",
+      "titleRequired": "Le champ titre est requis",
+      "promptRequired": "Le champ invite est requis"
+    },
+    "alerts": {
+      "confirm": {
+        "title": "Assurez-vous d'avoir apporté des modifications à tous vos modules. Puis-je continuer?",
+        "confirmText": "Oui"
+      }
+    },
+    "tooltips": {
+      "editInfo": "Cliquez pour éditer"
+    }
+  },
+  "courseReview": {
+    "title": "Examen du cours",
+    "description": "Examen final de votre contenu de cours.",
+    "addTitleHere": "Ajouter un titre ici",
+    "addContentHere": "Ajouter du contenu ici",
+    "noDataTitle": "Aucune donnée trouvée",
+    "noDataContent": "Il n'y a aucun élément à afficher",
+    "contentTypes": {
+      "page": "Page",
+      "assignment": "Devoir",
+      "forum": "Forum"
+    },
+    "regenerateButton": "Régénérer",
+    "saveChangesButton": "Enregistrer les modifications",
+    "createCourseButton": "Allez-y et créez le cours",
+    "errors": {
+      "moduleNameRequired": "Le champ nom de module est requis",
+      "titleRequired": "Le champ titre est requis",
+      "contentRequired": "Le champ contenu est requis"
+    },
+    "alerts": {
+      "confirm": {
+        "title": "Je ne suis que artificiel, mais vous êtes le vrai expert! Dois-je le réaliser?",
+        "confirmText": "Oui"
+      }
+    },
+    "regeneratePrompt": {
+      "title": "Régénérer le contenu",
+      "submitButton": "Soumettre",
+      "cancelButton": "Annuler"
+    },
+    "tooltips": {
+      "regenerateInfo": "Régénérez ce contenu avec une nouvelle invite"
+    }
+  },
+  "commonMessages": {
+    "success": {
+      "saved": "L'état a été enregistré avec succès",
+      "uploadSuccess": "Téléchargé avec succès.",
+      "moduleSuccess": "Les modules ont été créés avec succès."
+    },
+    "error": {
+      "somethingWrong": "Quelque chose s'est mal passé. Veuillez réessayer.",
+      "dataNosave": "Les données n'ont pas été enregistrées. Veuillez réessayer!"
+    },
+    "alerts": {
+      "backConfirm": {
+        "title": "Le retour en arrière annulera la progression. Voulez-vous continuer?",
+        "confirmText": "Oui",
+        "cancelText": "Non"
+      },
+      "resetConfirm": {
+        "title": "Êtes-vous sûr de vouloir recommencer?",
+        "confirmText": "Oui",
+        "cancelText": "Non"
+      }
+    }
+  },
+  "shared": {
+    "moduleLabel": "Module"
+  }
+}

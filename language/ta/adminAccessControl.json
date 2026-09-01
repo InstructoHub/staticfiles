@@ -1,0 +1,355 @@
+{
+  "emailSetup": {
+    "title": "இமெயில் மாதிரி அமைப்பு",
+    "subtitle": "உங்கள் இமெயில் மாதிரியை கட்டமைக்கவும் மற்றும் நிர்வகிக்கவும்",
+    "backToTemplates": "இமெயில் மாதிரிகளுக்கு திரும்பவும்",
+    "templateVariables": "மாதிரி மாறிகள்",
+    "copyVariableTooltip": "மாறியை கிளிப்போர்டுக்கு நகலெடுக்க கிளிக் செய்யவும்",
+    "templateSubjectLabel": "மாதிரி தலைப்பு *",
+    "templateSenderEmailLabel": "மாதிரி அனுப்புநரின் இமெயில் *",
+    "templateSenderDisplayNameLabel": "மாதிரி அனுப்புநரின் காட்சி பெயர் *",
+    "emailLayoutColorLabel": "இமெயில் வடிவமைப்பு நிறம்",
+    "htmlBodyLabel": "எச்.டி.எம்.எல் உடல் *",
+    "cancelButton": "ரத்து செய்",
+    "saveChangesButton": "மாற்றங்களை சேமிக்கவும்",
+    "savingButton": "சேமிக்கிறது...",
+    "confirmBackWarning": "மாற்றங்கள் சேமிக்கப்படவில்லை. நீங்கள் திரும்ப விரும்புகிறீர்களா?",
+    "toasts": {
+      "failedToLoadVariables": "இமெயில் மாறிகளை ஏற்றுவதில் தோல்வி",
+      "failedToUpdateTemplate": "இமெயில் மாதிரியை புதுப்பிப்பதில் தோல்வி",
+      "variableCopied": "மாறி கிளிப்போர்டுக்கு நகலெடுக்கப்பட்டது!"
+    },
+    "validation": {
+      "slNoHeader": "வரிசை எண்",
+      "subjectRequired": "மாதிரி தலைப்பு தேவை",
+      "subjectMinLength": "மாதிரி தலைப்பு குறைந்தது 2 எழுத்துகள் இருக்க வேண்டும்",
+      "subjectMaxLength": "மாதிரி தலைப்பு 255 எழுத்துகளை மீறக்கூடாது",
+      "senderEmailRequired": "அனுப்புநரின் இமெயில் தேவை",
+      "invalidEmailFormat": "தவறான இமெயில் வடிவம்",
+      "senderEmailMaxLength": "அனுப்புநரின் இமெயில் 255 எழுத்துகளை மீறக்கூடாது",
+      "displayNameRequired": "அனுப்புநரின் காட்சி பெயர் தேவை",
+      "displayNameMinLength": "அனுப்புநரின் காட்சி பெயர் குறைந்தது 2 எழுத்துகள் இருக்க வேண்டும்",
+      "displayNameMaxLength": "அனுப்புநரின் காட்சி பெயர் 255 எழுத்துகளை மீறக்கூடாது"
+    }
+  },
+  "emailTemplates": {
+    "noTemplatesFound": "இமெயில் மாதிரிகள் எதுவும் கிடைக்கவில்லை",
+    "subjectLabel": "தலைப்பு:",
+    "contentPreview": "மாதிரி உள்ளடக்க முன்னோட்டம்",
+    "editButton": "திருத்து",
+    "toasts": {
+      "failedToLoad": "மின்னஞ்சல் மாதிரிகளை ஏற்ற முடியவில்லை"
+    },
+    "templateNames": {
+      "set_password": "பாஸ்வேர்டு அமைக்கவும்"
+    }
+  },
+  "moduleManagement": {
+    "title": "மாடுல் மேலாண்மை",
+    "subtitle": "அமைப்பு மாடுல்களை மற்றும் அவற்றின் மெட்டாடேட்டாவை நிர்வகிக்கவும்",
+    "addNewButton": "புதிய மாடுல் சேர்க்கவும்",
+    "table": {
+      "moduleHeader": "மாடுல்",
+      "descriptionHeader": "விளக்கம்",
+      "createdAtHeader": "உருவாக்கப்பட்டது",
+      "actionsHeader": "செயல்கள்",
+      "noModulesFound": "மாடுல்கள் கிடைக்கவில்லை.",
+      "slNoHeader": "வரிசை எண்"
+    },
+    "form": {
+      "moduleNameLabel": "மாடுல் பெயர் *",
+      "moduleDescriptionLabel": "மாடுல் விளக்கம்",
+      "saveChangesButton": "மாற்றங்களை சேமிக்கவும்",
+      "savingButton": "சேமிக்கிறது...",
+      "cancelButton": "ரத்து செய்யவும்"
+    },
+    "deleteModal": {
+      "title": "அழிக்க உறுதிப்படுத்தவும்",
+      "message": "நீங்கள் மாடுல் அழிக்க விரும்புகிறீர்களா",
+      "undoWarning": "இந்த செயல் திரும்ப முடியாது.",
+      "deleteButton": "மாடுல் அழிக்கவும்",
+      "cancelButton": "ரத்து செய்யவும்"
+    },
+    "toasts": {
+      "failedToLoad": "மாடுல்களை ஏற்ற முடியவில்லை",
+      "createdSuccess": "மாடுல் வெற்றிகரமாக உருவாக்கப்பட்டது",
+      "updatedSuccess": "மாடுல் வெற்றிகரமாக புதுப்பிக்கப்பட்டது",
+      "createdFailed": "மாடுல் உருவாக்க முடியவில்லை",
+      "updatedFailed": "மாடுல் புதுப்பிக்க முடியவில்லை",
+      "deletedSuccess": "மாடுல் வெற்றிகரமாக அழிக்கப்பட்டது",
+      "deletedFailed": "மாடுல் அழிக்க முடியவில்லை"
+    },
+    "validation": {
+      "nameRequired": "மாடுல் பெயர் தேவை",
+      "nameMinLength": "மாடுல் பெயர் குறைந்தது 2 எழுத்துகள் இருக்க வேண்டும்",
+      "nameMaxLength": "மாடுல் பெயர் 100 எழுத்துகளை மீறக்கூடாது",
+      "descriptionMaxLength": "விளக்கம் 500 எழுத்துகளை மீறக்கூடாது"
+    }
+  },
+  "pageHeader": {
+    "searchPlaceholder": "தேடுங்கள்..."
+  },
+  "roleArchitectureDetail": {
+    "title": "பங்கு கட்டமைப்பு விவரம்",
+    "subtitle": "இந்த பங்கு கட்டமைப்பிற்கான இயல்புநிலை அனுமதிகளை அனைத்து மாடுல்களிலும் அமைக்கவும்.",
+    "backButton": "பங்கு கட்டமைப்புகளுக்கு திரும்பவும்",
+    "loading": "மாடுல்களை ஏற்றுகிறது...",
+    "loadFailed": "தரவை ஏற்றுவதில் தோல்வி.",
+    "noModulesAvailable": "அமைப்பிற்கான மாடுல்கள் கிடையாது.",
+    "table": {
+      "moduleHeader": "மாடுல்",
+      "descriptionHeader": "விவரம்",
+      "capabilitiesHeader": "சாத்தியங்கள்"
+    },
+    "capabilities": {
+      "create": "உருவாக்கவும்",
+      "read": "படிக்கவும்",
+      "edit": "திருத்தவும்",
+      "delete": "அழிக்கவும்",
+      "enabledCount": "செயல்படுத்தப்பட்டது"
+    },
+    "saveCapabilitiesButton": "சாத்தியங்களை சேமிக்கவும்",
+    "savingButton": "சேமிக்கிறது...",
+    "cancelButton": "ரத்து செய்யவும்",
+    "toasts": {
+      "failedToLoadModules": "மாடுல் பட்டியலை ஏற்றுவதில் தோல்வி",
+      "saveSuccess": "சாத்தியங்கள் வெற்றிகரமாக சேமிக்கப்பட்டது",
+      "saveFailed": "சாத்தியங்களை சேமிக்க தோல்வி"
+    }
+  },
+  "roleArchitectureManagement": {
+    "title": "பங்கு கட்டமைப்பு மேலாண்மை",
+    "subtitle": "பயனர் பங்குகளுக்கான இயல்புநிலை அனுமதி தொகுப்புகளை நிர்வகிக்கவும்",
+    "addNewButton": "புதிய கட்டமைப்பை சேர்க்கவும்",
+    "table": {
+      "roleNameHeader": "பங்கு பெயர்",
+      "descriptionHeader": "விவரம்",
+      "createdAtHeader": "உருவாக்கப்பட்டது",
+      "actionsHeader": "செயல்கள்",
+      "noArchitecturesFound": "பங்கு கட்டமைப்புகள் கிடையாது.",
+      "slNoHeader": "வரிசை எண்"
+    },
+    "form": {
+      "architectureNameLabel": "கட்டமைப்பு பெயர் *",
+      "architectureDescriptionLabel": "அமைப்பின் விளக்கம்",
+      "saveChangesButton": "மாற்றங்களை சேமிக்கவும்",
+      "savingButton": "சேமிக்கிறது...",
+      "cancelButton": "ரத்து செய்"
+    },
+    "deleteModal": {
+      "title": "அழிப்பை உறுதிப்படுத்தவும்",
+      "message": "நீங்கள் ரோல் கட்டமைப்பை அழிக்க விரும்புகிறீர்களா?",
+      "undoWarning": "இந்த நடவடிக்கையை திரும்பப் பெற முடியாது.",
+      "deleteButton": "ரோல் கட்டமைப்பை அழிக்கவும்",
+      "cancelButton": "ரத்து செய்"
+    },
+    "toasts": {
+      "failedToLoad": "ரோல் கட்டமைப்புகளை ஏற்றுவதில் தோல்வி",
+      "createdSuccess": "ரோல் கட்டமைப்பு வெற்றிகரமாக உருவாக்கப்பட்டது",
+      "updatedSuccess": "ரோல் கட்டமைப்பு வெற்றிகரமாக புதுப்பிக்கப்பட்டது",
+      "createdFailed": "ரோல் கட்டமைப்பை உருவாக்குவதில் தோல்வி",
+      "updatedFailed": "ரோல் கட்டமைப்பை புதுப்பிப்பதில் தோல்வி",
+      "deletedSuccess": "ரோல் கட்டமைப்பு வெற்றிகரமாக அழிக்கப்பட்டது",
+      "deletedFailed": "ரோல் கட்டமைப்பை அழிக்க தோல்வி"
+    },
+    "validation": {
+      "nameRequired": "ரோல் கட்டமைப்பின் பெயர் தேவை",
+      "nameMinLength": "ரோல் பெயர் குறைந்தது 2 எழுத்துகள் இருக்க வேண்டும்",
+      "nameMaxLength": "ரோல் பெயர் 100 எழுத்துகளை மீறக்கூடாது",
+      "descriptionMaxLength": "விளக்கம் 500 எழுத்துகளை மீறக்கூடாது"
+    }
+  },
+  "roleManagement": {
+    "title": "ரோல் மேலாண்மை",
+    "subtitle": "தனிப்பயன் பயனர் ரோல்களை நிர்வகிக்கவும் மற்றும் ரோல் கட்டமைப்புகளை ஒதுக்கவும்",
+    "addNewButton": "புதிய ரோலைச் சேர்க்கவும்",
+    "table": {
+      "slNoHeader": "வரிசை எண்",
+      "roleHeader": "ரோல்",
+      "architectureHeader": "கட்டமைப்பு",
+      "descriptionHeader": "விளக்கம்",
+      "createdAtHeader": "உருவாக்கப்பட்டது",
+      "actionsHeader": "செயல்கள்",
+      "noRolesFound": "தனிப்பயன் ரோல்கள் எதுவும் கிடைக்கவில்லை."
+    },
+    "form": {
+      "roleNameLabel": "ரோல் பெயர் *",
+      "roleDescriptionLabel": "பங்கு விளக்கம்",
+      "architectureLabel": "பங்கு கட்டமைப்பை தேர்ந்தெடுக்கவும் *",
+      "architecturePlaceholder": "ஒரு கட்டமைப்பை தேர்ந்தெடுக்கவும்...",
+      "saveChangesButton": "மாற்றங்களை சேமிக்கவும்",
+      "savingButton": "சேமிக்கிறது...",
+      "cancelButton": "ரத்து செய்யவும்"
+    },
+    "deleteModal": {
+      "title": "அழிப்பை உறுதிப்படுத்தவும்",
+      "message": "நீங்கள் பங்கினை அழிக்க விரும்புகிறீர்களா",
+      "undoWarning": "இந்த நடவடிக்கையை திரும்ப பெற முடியாது.",
+      "deleteButton": "பங்கினை அழிக்கவும்",
+      "cancelButton": "ரத்து செய்யவும்"
+    },
+    "toasts": {
+      "failedToLoadRoles": "பங்குகளை ஏற்றுவதில் தோல்வி",
+      "failedToLoadArchitectures": "பங்கு கட்டமைப்புகளை ஏற்றுவதில் தோல்வி",
+      "createdSuccess": "பங்கு வெற்றிகரமாக உருவாக்கப்பட்டது",
+      "updatedSuccess": "பங்கு வெற்றிகரமாக புதுப்பிக்கப்பட்டது",
+      "createdFailed": "பங்கினை உருவாக்குவதில் தோல்வி",
+      "updatedFailed": "பங்கினை புதுப்பிப்பதில் தோல்வி",
+      "deletedSuccess": "பங்கு வெற்றிகரமாக அழிக்கப்பட்டது",
+      "deletedFailed": "பங்கினை அழிக்குவதில் தோல்வி"
+    },
+    "validation": {
+      "nameRequired": "பங்கு பெயர் தேவை",
+      "nameMinLength": "பங்கு பெயர் குறைந்தது 2 எழுத்துகள் இருக்க வேண்டும்",
+      "nameMaxLength": "பங்கு பெயர் 100 எழுத்துகளை மீறக்கூடாது",
+      "descriptionMaxLength": "விளக்கம் 500 எழுத்துகளை மீறக்கூடாது",
+      "architectureRequired": "பங்கு கட்டமைப்பு தேவை"
+    }
+  },
+  "dashboardManagement": {
+    "title": "டாஷ்போர்ட் மேலாண்மை",
+    "subtitle": "உங்கள் பங்குகள் மற்றும் அனுமதிகளை நிர்வகிக்கவும் மற்றும் ஒழுங்குபடுத்தவும்",
+    "backButton": "மீண்டும்",
+    "loading": "அனுமதிகளை ஏற்றுகிறது...",
+    "errorPrefix": "தவறு: ",
+    "activePermissions": "செயலில் உள்ள அனுமதிகள்:",
+    "dashboardModulesHeader": "டாஷ்போர்ட் மாடுல்கள்",
+    "sidebarModulesHeader": "சைட்பார் மாடுல்கள்",
+    "moduleColumn": "மாடுல்",
+    "permissionsColumn": "அனுமதிகள்",
+    "selectAll": "அனைத்தையும் தேர்வு செய்",
+    "savePermissionsButton": "அனுமதிகளை சேமி",
+    "savingButton": "சேமிக்கிறது...",
+    "admin": "அட்மின்",
+    "instructor": "ஆசிரியர்",
+    "student": "மாணவர்",
+    "toasts": {
+      "saveSuccess": "அனுமதிகள் வெற்றிகரமாக சேமிக்கப்பட்டது",
+      "saveFailed": "அனுமதிகளை சேமிக்க முடியவில்லை"
+    },
+    "roleLabel": "பங்கு",
+    "permissionsSectionTitle": "மொட்யூல் அனுமதிகள்",
+    "selectRoleDisclaimer": "அனுமதிகளை மாற்ற ஒரு பங்கினை தேர்ந்தெடுக்கவும்.",
+    "modulesCount": "{{count}} மொட்யூல்கள்",
+    "sidebarItemsCount": "{{count}} பொருட்கள்",
+    "noModulesForRole": "இந்த பங்கிற்காக எந்த மொட்யூலும் கிடைக்கவில்லை",
+    "teacher": "ஆசிரியர்",
+    "toggleDisabled": "இந்த அனுமதி தற்காலிகமாக கிடைக்கவில்லை",
+    "toggleAlwaysOn": "இந்த டோகிள் ஆஃப் செய்யமுடியாது"
+  },
+  "smtpConfiguration": {
+    "title": "SMTP கட்டமைப்பு",
+    "subtitle": "உங்கள் எளிய மெயில் பரிமாற்ற நெறிமுறைகளை (SMTP) அமைக்கவும்",
+    "backToControl": "அணுகல் கட்டுப்பாட்டுக்கு திரும்பு",
+    "hostLabel": "SMTP ஹோஸ்ட் மற்றும் போர்ட் *",
+    "hostPlaceholder": "உதா., mail.example.com:465 அல்லது mail1.com:587,mail2.com:587",
+    "securityLabel": "SMTP பாதுகாப்பு",
+    "securityHelpText": "விருப்பமானது. 465 போர்டில் SMTPS க்காக 'ssl' ஐ தேர்வு செய்க, அல்லது 587 போர்டில் STARTTLS க்காக 'tls' ஐ தேர்வு செய்க. எதுவும் இல்லையெனில் வெறுமையாக வைக்கவும்.",
+    "securityNone": "எதுவும் இல்லை",
+    "securitySSL": "SSL",
+    "securityTLS": "TLS",
+    "usernameLabel": "SMTP பயனர் பெயர் *",
+    "usernamePlaceholder": "உதா., noreply@example.com",
+    "passwordLabel": "SMTP கடவுச்சொல் *",
+    "noreplyEmailLabel": "பதில் அளிக்காத மெயில் *",
+    "noreplyEmailHelpText": "இந்த மெயில் அனைத்து தானியங்கி அறிவிப்புகளுக்கான 'From' முகவரியாக பயன்படுத்தப்படும்.",
+    "noreplyDisplayNameLabel": "பதில் அளிக்காத காட்சி பெயர் *",
+    "noreplyDisplayNamePlaceholder": "உதா., InstructoHub அறிவிப்புகள்",
+    "noreplyDisplayNameHelpText": "அனுப்புநராகக் காணப்படும் காட்சி பெயர்",
+    "cancelButton": "ரத்து",
+    "saveConfigurationButton": "கட்டமைப்பை சேமிக்கவும்",
+    "savingButton": "சேமிக்கிறது...",
+    "toasts": {
+      "failedToLoad": "SMTP கட்டமைப்பை ஏற்றுவதில் தோல்வி",
+      "updateSuccess": "SMTP கட்டமைப்பு வெற்றிகரமாக புதுப்பிக்கப்பட்டது",
+      "updateFailed": "SMTP கட்டமைப்பை புதுப்பிக்க தோல்வி"
+    },
+    "validation": {
+      "hostRequired": "SMTP ஹோஸ்ட் தேவை",
+      "hostInvalidFormat": "தவறான வடிவம். ஹோஸ்ட்:போர்ட் அல்லது ஹோஸ்ட்:போர்ட்,ஹோஸ்ட்2:போர்ட்2 பயன்படுத்தவும்",
+      "securityInvalid": "பாதுகாப்பு காலியாக இருக்க வேண்டும், ssl, அல்லது tls",
+      "usernameRequired": "SMTP பயனர் பெயர் தேவை",
+      "usernameMaxLength": "SMTP பயனர் பெயர் 255 எழுத்துகளை மீறக்கூடாது",
+      "passwordRequired": "SMTP கடவுச்சொல் தேவை",
+      "passwordMaxLength": "SMTP கடவுச்சொல் 255 எழுத்துகளை மீறக்கூடாது",
+      "noreplyEmailRequired": "பதில் அளிக்காத மின்னஞ்சல் தேவை",
+      "noreplyEmailInvalidFormat": "தவறான மின்னஞ்சல் வடிவம்",
+      "noreplyEmailMaxLength": "பதில் அளிக்காத மின்னஞ்சல் 255 எழுத்துகளை மீறக்கூடாது",
+      "noreplyDisplayNameRequired": "பதில் அளிக்காத காட்சி பெயர் தேவை",
+      "noreplyDisplayNameMinLength": "பதில் அளிக்காத காட்சி பெயர் குறைந்தது 2 எழுத்துகள் இருக்க வேண்டும்",
+      "noreplyDisplayNameMaxLength": "பதில் அளிக்காத காட்சி பெயர் 255 எழுத்துகளை மீறக்கூடாது"
+    }
+  },
+  "accessControlDisplay": {
+    "emailSetupTitle": "மின்னஞ்சல் அமைப்பு",
+    "emailSetupDescription": "மின்னஞ்சல் மாதிரிகள் மற்றும் அறிவிப்பு அமைப்புகளை கட்டமைக்கவும்",
+    "smtpConfigurationTitle": "SMTP கட்டமைப்பு",
+    "smtpConfigurationDescription": "SMTP சேவையக அங்கீகாரங்கள் மற்றும் அமைப்புகளை கட்டமைக்கவும்",
+    "dashboardManagementTitle": "டாஷ்போர்ட் மேலாண்மை",
+    "dashboardManagementDescription": "டாஷ்போர்ட் மாட்யூல்களுக்கு பங்கு மற்றும் அனுமதிகளை நிர்வகிக்கவும்",
+    "roleArchitectureManagementTitle": "பங்கு கட்டமைப்பு மேலாண்மை",
+    "roleArchitectureManagementDescription": "பயனர் பங்குகளுக்கான இயல்புநிலை அனுமதி தொகுப்புகளை நிர்வகிக்கவும்",
+    "roleManagementTitle": "பங்கு மேலாண்மை",
+    "roleManagementDescription": "தனிப்பயன் பயனர் பங்குகளை நிர்வகிக்கவும் மற்றும் பங்கு கட்டமைப்புகளை ஒதுக்கவும்"
+  },
+  "customRoleDetail": {
+    "title": "பங்கு திறன்கள் தனிப்பயனாக்கம்",
+    "subtitle": "இந்த குறிப்பிட்ட வேலிக்கான அனுமதிகளை அனைத்து மாடுல்களிலும் தனிப்பயனாக்கவும். இங்கு செய்யப்பட்ட மாற்றங்கள் வேலியின் கட்டமைப்பு இயல்புகளை மீறும்.",
+    "backButton": "வேலிகளுக்கு திரும்பவும்",
+    "pageHeader": {
+      "title": "சாத்தியங்களை நிர்வகிக்கவும்: {{roleName}}",
+      "subtitle": "தனிப்பயன் வேலிக்கான அனுமதிகளை அமைக்கவும் (கட்டமைப்பு: {{architectureName}})",
+      "unknownArchitecture": "அறியப்படவில்லை"
+    },
+    "saveCapabilitiesButton": "சாத்தியங்களை சேமிக்கவும்",
+    "savingButton": "சேமிக்கிறது...",
+    "loading": "மாடுல்கள் மற்றும் சாத்தியங்களை ஏற்றுகிறது...",
+    "loadFailed": "தரவை ஏற்றுவதில் தோல்வி.",
+    "emptyState": {
+      "title": "மாடுல்கள் கிடைக்கவில்லை",
+      "description": "சாத்தியங்களை ஒதுக்குவதற்கு முன் முதலில் மாடுல்களை உருவாக்கவும்",
+      "goToModuleManagementButton": "மாடுல் நிர்வாகத்திற்கு செல்லவும்"
+    },
+    "sections": {
+      "learningActivities": {
+        "title": "கற்றல் செயல்பாடுகள்",
+        "description": "கோர்ஸ் நிலை செயல்பாடுகளுக்கான பார்வை, உருவாக்க, திருத்த மற்றும் அழிக்கும் அனுமதிகளை அமைக்கவும்."
+      },
+      "tools": {
+        "title": "கருவிகள்",
+        "description": "கோர்ஸ் கருவிகளுக்கான பார்வை (View) காட்சியை அமைக்கவும்."
+      }
+    },
+    "capabilities": {
+      "create": "உருவாக்கவும்",
+      "read": "பார்வை",
+      "edit": "திருத்தவும்",
+      "delete": "அழிக்கவும்",
+      "enabledCount": "செயல்படுத்தப்பட்டது"
+    },
+    "table": {
+      "moduleNameHeader": "மாடுல் பெயர்",
+      "toolNameHeader": "கருவி பெயர்",
+      "moduleHeader": "மாடுல்",
+      "descriptionHeader": "விளக்கம்",
+      "capabilitiesHeader": "சாத்தியங்கள்"
+    },
+    "resetModal": {
+      "title": "சாத்தியங்களை இயல்புக்கு மீட்டமைக்கவும்",
+      "message": "நீங்கள் உறுதியாக",
+      "message2": "அவர்களின் இயல்பான அமைப்புகளுக்கு அனைத்து சாத்தியங்களை மீட்டமைக்க விரும்புகிறீர்களா?",
+      "warning1": "இது வேலியின் கட்டமைப்பு மாதிரியில் வரையறுக்கப்பட்ட சாத்தியங்களை மீட்டமைக்கும்.",
+      "warning2": "எந்த தனிப்பயன் மாற்றங்களும் இழக்கப்படும்.",
+      "cancelButton": "ரத்து செய்",
+      "resettingButton": "மீட்டமைக்கப்படுகிறது...",
+      "resetToDefaultButton": "இயல்புக்கு மீட்டமை"
+    },
+    "toasts": {
+      "loadError": "பங்கு திறன்களை ஏற்றுவதில் தோல்வி",
+      "resetSuccess": "{{roleName}} க்கான திறன்கள் இயல்புகளுக்கு வெற்றிகரமாக மீட்டமைக்கப்பட்டது!",
+      "resetFailed": "பங்கு திறன்களை மீட்டமைக்க தோல்வி",
+      "updateSuccess": "பங்கு திறன்கள் வெற்றிகரமாக புதுப்பிக்கப்பட்டது",
+      "updateFailed": "பங்கு திறன்களை புதுப்பிக்க தோல்வி"
+    }
+  }
+}

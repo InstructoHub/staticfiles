@@ -1,0 +1,46 @@
+{
+  "title": "କ୍ୟାଲେଣ୍ଡର",
+  "subtitle": "ଆପଣଙ୍କର ସମୟସୂଚୀ ଏବଂ ଘଟଣାଗୁଡିକୁ ମେନେଜ୍ କରନ୍ତୁ",
+  "navigation": {
+    "previousMonth": "ପୂର୍ବ ମାସ",
+    "nextMonth": "ପରବର୍ତ୍ତୀ ମାସ",
+    "backToMonth": "ମାସ ଦୃଶ୍ୟକୁ ଫେରନ୍ତୁ"
+  },
+  "search": {
+    "placeholder": "ଘଟଣାଗୁଡିକୁ ସନ୍ଧାନ କରନ୍ତୁ",
+    "ariaLabel": "ଘଟଣାଗୁଡିକୁ ସନ୍ଧାନ କରନ୍ତୁ"
+  },
+  "filter": {
+    "ariaLabel": "ଘଟଣା ପ୍ରକାର ଦ୍ୱାରା ଫିଲ୍ଟର୍ କରନ୍ତୁ",
+    "options": {
+      "all": "ସମସ୍ତ ପ୍ରକାର",
+      "assignment": "ଅସାଇନ୍‌ମେଣ୍ଟ",
+      "quiz": "କ୍ୱିଜ୍",
+      "discussion": "ଚର୍ଚ୍ଚା",
+      "meeting": "ମିଟିଂ",
+      "project": "ପ୍ରୋଜେକ୍ଟ"
+    }
+  },
+  "days": {
+    "sun": "ରବିବାର",
+    "mon": "ସୋମବାର",
+    "tue": "ମଙ୍ଗଳବାର",
+    "wed": "ବୁଧବାର",
+    "thu": "ଗୁରୁବାର",
+    "fri": "ଶୁକ୍ରବାର",
+    "sat": "ଶନିବାର"
+  },
+  "grid": {
+    "dayAriaLabel": "ଦିନ {{day}}",
+    "moreEvents": "+ {{count}} ଅଧିକ"
+  },
+  "events": {
+    "title": "ଘଟଣାଗୁଡିକୁ",
+    "viewButton": "ଦେଖନ୍ତୁ",
+    "noEvents": "ଏହି ଦିନ ପାଇଁ କୌଣସି ଘଟଣା ନାହିଁ",
+    "selectDay": "ଇଭେଣ୍ଟ ଦେଖିବା ପାଇଁ ଏକ ଦିନ ଚୟନ କରନ୍ତୁ.",
+    "eventCount": "{{count}} ଇଭେଣ୍ଟ",
+    "eventCount_plural": "{{count}} ଇଭେଣ୍ଟଗୁଡ଼ିକ"
+  },
+  "loadingcalendar": "କ୍ୟାଲେଣ୍ଡର ଲୋଡ୍ ହେଉଛି..."
+}

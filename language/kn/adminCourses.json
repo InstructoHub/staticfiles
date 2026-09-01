@@ -1,0 +1,245 @@
+{
+  "page": {
+    "loading": "...",
+    "title": "ಕೋರ್ಸ್ ನಿರ್ವಹಣೆ",
+    "subtitle": "ನಿಮ್ಮ ಕೋರ್ಸ್‌ಗಳನ್ನು ನಿರ್ವಹಿಸಿ ಮತ್ತು ಸಂಘಟಿಸಿ",
+    "noCoursesFound": "ನಿಮ್ಮ ಶೋಧ ಮಾನದಂಡಗಳಿಗೆ ಹೊಂದುವ ಕೋರ್ಸ್‌ಗಳು ಕಂಡುಬಂದಿಲ್ಲ",
+    "noCoursesAvailable": "ಯಾವುದೇ ಕೋರ್ಸ್‌ಗಳು ಲಭ್ಯವಿಲ್ಲ. ಹೊಸ ಕೋರ್ಸ್ ಸೇರಿಸುವ ಮೂಲಕ ಪ್ರಾರಂಭಿಸಿ."
+  },
+  "buttons": {
+    "creating": "...",
+    "updating": "...",
+    "deleting": "...",
+    "addCourse": "ಕೋರ್ಸ್ ಸೇರಿಸಿ",
+    "selectAll": "ಎಲ್ಲವನ್ನು ಆಯ್ಕೆ ಮಾಡಿ",
+    "deselectAll": "ಎಲ್ಲವನ್ನು ಆಯ್ಕೆ ತೆಗೆದುಹಾಕಿ",
+    "deleteSelected": "ಕೋರ್ಸ್ ಅಳಿಸಿ",
+    "edit": "ಕೋರ್ಸ್ ಸಂಪಾದಿಸಿ",
+    "delete": "ಕೋರ್ಸ್ ಅಳಿಸಿ",
+    "cancel": "ರದ್ದು ಮಾಡಿ",
+    "create": "ಕೋರ್ಸ್ ರಚಿಸಿ",
+    "update": "ಕೋರ್ಸ್ ನವೀಕರಿಸಿ",
+    "save": "ಉಳಿಸಿ",
+    "uploadImage": "ಚಿತ್ರ ಅಪ್ಲೋಡ್ ಮಾಡಿ",
+    "removeImage": "ಚಿತ್ರ ತೆಗೆದುಹಾಕಿ",
+    "hide": "ಮರೆಮಾಡಿ",
+    "show": "ತೋರಿಸಿ",
+    "report": "ರಿಪೋರ್ಟ್ ಮಾಡಿ"
+  },
+  "table": {
+    "headers": {
+      "S": {
+        "No": ".."
+      },
+      "courseName": "ಕೋರ್ಸ್ ಹೆಸರು",
+      "shortName": "ಚಿಕ್ಕ ಹೆಸರು",
+      "category": "ವರ್ಗ",
+      "startDate": "ಆರಂಭ ದಿನಾಂಕ",
+      "endDate": "ಅಂತಿಮ ದಿನಾಂಕ",
+      "modifiedOn": "ತಿದ್ದುಪಡಿ ದಿನಾಂಕ",
+      "teachers": "ಶಿಕ್ಷಕರು",
+      "students": "ಶಿಕ್ಷಣಾರ್ಥಿಗಳು",
+      "actions": "ಕ್ರಿಯೆಗಳು"
+    },
+    "search": {
+      "placeholder": "..."
+    },
+    "fallbacks": {
+      "untitledCourse": "ಅನಾಮಿಕ ಕೋರ್ಸ್",
+      "noCategory": "ವರ್ಗವಿಲ್ಲ",
+      "noTeachers": "ಶಿಕ್ಷಕರಿಲ್ಲ",
+      "noStudents": "ಶಿಕ್ಷಣಾರ್ಥಿಗಳಿಲ್ಲ"
+    },
+    "badges": {
+      "hidden": "ಹಿಡನ್"
+    }
+  },
+  "form": {
+    "validation": {
+      "courseNameMinLength": "3",
+      "courseNameMaxLength": "250",
+      "shortNameMinLength": "2",
+      "shortNameMaxLength": "30",
+      "shortNameFormat": ", ,",
+      "shortNameTaken": "!",
+      "categoryPositive": "ID",
+      "descriptionMaxLength": "1000",
+      "courseNameRequired": "ಕೋರ್ಸ್ ಹೆಸರು ಅಗತ್ಯವಿದೆ",
+      "shortNameRequired": "ಚಿಕ್ಕ ಹೆಸರು ಅಗತ್ಯವಿದೆ",
+      "categoryRequired": "ವರ್ಗ ಅಗತ್ಯವಿದೆ",
+      "startDateBeforeEnd": "ಆರಂಭ ದಿನಾಂಕ ಅಂತ್ಯ ದಿನಾಂಕಕ್ಕಿಂತ ಮುಂಚೆ ಇರಬೇಕು",
+      "endDateAfterStart": "ಅಂತ್ಯ ದಿನಾಂಕ ಆರಂಭ ದಿನಾಂಕದ ನಂತರ ಇರಬೇಕು",
+      "invalidDate": "ದಯವಿಟ್ಟು ಮಾನ್ಯ ದಿನಾಂಕವನ್ನು ನಮೂದಿಸಿ",
+      "checkingShortName": "ಶಾರ್ಟ್ ನೇಮ್ ಲಭ್ಯತೆ ಪರಿಶೀಲಿಸಲಾಗುತ್ತಿದೆ...",
+      "fixErrorsFirst": "ಸಲ್ಲಿಸುವ ಮೊದಲು ಎಲ್ಲಾ ಅಗತ್ಯ ಫೀಲ್ಡ್‌ಗಳನ್ನು ಸರಿಯಾಗಿ ತುಂಬಿ"
+    },
+    "imageUpload": {
+      "dropzoneText": ",",
+      "supportedFormats": ": JPG, PNG, GIF (: 2MB)",
+      "fileSizes": "['', 'KB', 'MB']",
+      "uploadError": "ಕೋರ್ಸ್ ಚಿತ್ರವನ್ನು ಅಪ್ಲೋಡ್ ಮಾಡಲು ವಿಫಲವಾಗಿದೆ",
+      "setImageError": "ಕೋರ್ಸ್ ಒವರ್ವ್ಯೂ ಚಿತ್ರವನ್ನು ಹೊಂದಿಸಲು ವಿಫಲವಾಗಿದೆ",
+      "currentImage": "ಪ್ರಸ್ತುತ ಚಿತ್ರ",
+      "chooseDifferent": "ಬೇರೆ ಆಯ್ಕೆ ಮಾಡಿ",
+      "currentImageAlt": "ಪ್ರಸ್ತುತ ಕೋರ್ಸ್ ಚಿತ್ರ",
+      "newImagePreviewAlt": "ಹೊಸ ಕೋರ್ಸ್ ಚಿತ್ರದ ಪ್ರಿವ್ಯೂ",
+      "removeNewImageTooltip": "ಹೊಸ ಚಿತ್ರ ತೆಗೆದುಹಾಕಿ",
+      "newImage": "ಹೊಸ ಚಿತ್ರ",
+      "zeroBytes": "0 ಬೈಟ್ಸ್"
+    },
+    "labels": {
+      "courseName": "ಕೋರ್ಸ್ ಹೆಸರು",
+      "shortName": "ಚಿಕ್ಕ ಹೆಸರು",
+      "category": "ವರ್ಗ",
+      "description": "ವಿವರಣೆ",
+      "startDate": "ಆರಂಭ ದಿನಾಂಕ",
+      "endDate": "ಅಂತ್ಯ ದಿನಾಂಕ",
+      "courseImage": "ಕೋರ್ಸ್ ಚಿತ್ರ",
+      "enrollmentMethods": "ಭರ್ತಿಯ ವಿಧಾನಗಳು",
+      "selfEnrollment": "ಸ್ವಯಂ ಭರ್ತಿ",
+      "manualEnrollment": "ಹಸ್ತಚಾಲಿತ ಭರ್ತಿ",
+      "guestAccess": "ಅತಿಥಿ ಪ್ರವೇಶ",
+      "courseVisibility": "ಕೋರ್ಸ್ ವಿಸಿಬಿಲಿಟಿ"
+    },
+    "placeholders": {
+      "courseName": "ಪೂರ್ಣ ಕೋರ್ಸ್ ಹೆಸರನ್ನು ನಮೂದಿಸಿ",
+      "shortName": "ಚಿಕ್ಕ ಕೋರ್ಸ್ ಹೆಸರನ್ನು ನಮೂದಿಸಿ",
+      "category": "ಒಂದು ವರ್ಗವನ್ನು ಆಯ್ಕೆ ಮಾಡಿ",
+      "description": "ಕೋರ್ಸ್ ವಿವರಣೆಯನ್ನು ನಮೂದಿಸಿ",
+      "selectStartDate": "ಆರಂಭ ದಿನಾಂಕವನ್ನು ಆಯ್ಕೆ ಮಾಡಿ",
+      "selectEndDate": "ಅಂತ್ಯ ದಿನಾಂಕವನ್ನು ಆಯ್ಕೆ ಮಾಡಿ"
+    },
+    "modes": {
+      "edit": {
+        "title": "ಕೋರ್ಸ್ ಸಂಪಾದಿಸಿ",
+        "subtitle": "ಕೆಳಗಿನ ಕೋರ್ಸ್ ವಿವರಗಳನ್ನು ನವೀಕರಿಸಿ"
+      },
+      "create": {
+        "title": "ಹೊಸ ಕೋರ್ಸ್ ರಚಿಸಿ",
+        "subtitle": "ನೀವು ಹೊಸ ಕೋರ್ಸ್ ಅನ್ನು ವ್ಯವಸ್ಥೆಗೆ ಸೇರಿಸಿ"
+      }
+    },
+    "visibility": {
+      "visible": "ವಿಸಿಬಲ್",
+      "hidden": "ಹಿಡನ್",
+      "visibleDescription": "ವಿದ್ಯಾರ್ಥಿಗಳು ಈ ಕೋರ್ಸ್ ಅನ್ನು ಹುಡುಕಿ ಪ್ರವೇಶಿಸಬಹುದು",
+      "hiddenDescription": "ನೀವು ಇದನ್ನು ವಿಸಿಬಲ್ ಮಾಡುವವರೆಗೆ ಈ ಕೋರ್ಸ್ ವಿದ್ಯಾರ್ಥಿಗಳಿಗೆ ಮರೆ ಇರುತ್ತದೆ"
+    }
+  },
+  "modals": {
+    "deleteMultiple": {
+      "warning": ":",
+      "description": "{{count}}             ,",
+      "listLabel": "({{count}}):",
+      "confirmation": "?",
+      "title": "ಬಹು ಕೋರ್ಸ್‌ಗಳನ್ನು ಅಳಿಸಿ"
+    },
+    "deleteSingle": {
+      "warning": ":",
+      "description": ",",
+      "listLabel": ":",
+      "confirmation": "?",
+      "title": "ಕೋರ್ಸ್ ಅನ್ನು ಅಳಿಸಿ"
+    },
+    "details": {
+      "name": ":",
+      "shortName": ":",
+      "category": ":",
+      "description": ":",
+      "startDate": ":",
+      "endDate": ":",
+      "teachers": ":",
+      "students": ":"
+    }
+  },
+  "messages": {
+    "error": {
+      "invalidImageFormat": "JPG, PNG  GIF",
+      "imageTooLarge": "2MB",
+      "enrollmentConfigFailed": "-",
+      "courseNotFound": "ಕೋರ್ಸ್ ದೊರಕಲಿಲ್ಲ",
+      "failedToLoad": "ಕೋರ್ಸ್‌ಗಳನ್ನು ಪಡೆಯಲು ವಿಫಲವಾಗಿದೆ",
+      "failedToLoadCourse": "ಕೋರ್ಸ್ ಡೇಟಾವನ್ನು ಪಡೆಯಲು ವಿಫಲವಾಗಿದೆ",
+      "failedToLoadCategories": "ವರ್ಗಗಳನ್ನು ಪಡೆಯಲು ವಿಫಲವಾಗಿದೆ",
+      "errorUpdating": "ಕೋರ್ಸ್ ನವೀಕರಣದಲ್ಲಿ ದೋಷ",
+      "errorCreating": "ಕೋರ್ಸ್ ರಚನೆಯಲ್ಲಿ ದೋಷ",
+      "failedToUpdate": "ಕೋರ್ಸ್ ನವೀಕರಿಸಲು ವಿಫಲವಾಗಿದೆ",
+      "failedToCreate": "ಕೋರ್ಸ್ ರಚಿಸಲು ವಿಫಲವಾಗಿದೆ",
+      "deleteFailed": "ಕೋರ್ಸ್ ಅಳಿಸಲು ವಿಫಲವಾಗಿದೆ",
+      "deleteMultipleFailed": "ಕೋರ್ಸ್‌ಗಳನ್ನು ಅಳಿಸಲು ವಿಫಲವಾಗಿದೆ",
+      "uploadImageFailed": "ಚಿತ್ರ ಫೈಲ್ ಅನ್ನು ಅಪ್ಲೋಡ್ ಮಾಡಲು ವಿಫಲವಾಗಿದೆ",
+      "setImageFailed": "ಕೋರ್ಸ್ ಒವರ್ವ್ಯೂ ಚಿತ್ರವನ್ನು ಹೊಂದಿಸಲು ವಿಫಲವಾಗಿದೆ",
+      "selfEnrollmentMethodNotFound": "ಈ ಕೋರ್ಸ್‌ಗೆ ಸ್ವಯಂ ನೋಂದಣಿ ವಿಧಾನ ಸಿಗಲಿಲ್ಲ",
+      "toggleSelfEnrollmentFailed": "ಸ್ವಯಂ ನೋಂದಣಿಯನ್ನು ಟಾಗಲ್ ಮಾಡಲು ವಿಫಲವಾಗಿದೆ"
+    },
+    "warning": {
+      "unsavedChanges": "ನೀವು ಉಳಿಸದ ಬದಲಾವಣೆಗಳನ್ನು ಹೊಂದಿದ್ದೀರಿ. ನೀವು ಹೊರಡುವುದರಲ್ಲಿ ಖಚಿತವಾಗಿದ್ದೀರಾ?",
+      "removeImageConfirm": "ನೀವು ಕೋರ್ಸ್ ಇಮೇಜ್ ಅನ್ನು ತೆಗೆದುಹಾಕಲು ಖಚಿತವಾಗಿದ್ದೀರಾ?",
+      "selectCoursesToDelete": "ಅಳಿಸಲು ಕನಿಷ್ಠ ಒಂದು ಕೋರ್ಸ್ ಅನ್ನು ಆಯ್ಕೆ ಮಾಡಿ",
+      "createCategoryFirst": "ಯಾವುದೇ ವರ್ಗಗಳಿಲ್ಲ. ದಯವಿಟ್ಟು ಮೊದಲು ಒಂದು ವರ್ಗ ರಚಿಸಿ."
+    },
+    "success": {
+      "courseCreated": "ಕೋರ್ಸ್ ಯಶಸ್ವಿಯಾಗಿ ರಚಿಸಲಾಗಿದೆ",
+      "courseUpdated": "ಕೋರ್ಸ್ ಯಶಸ್ವಿಯಾಗಿ ನವೀಕರಿಸಲಾಗಿದೆ",
+      "coursesDeleted": "ಕೋರ್ಸ್‌ಗಳನ್ನು ಯಶಸ್ವಿಯಾಗಿ ಅಳಿಸಲಾಗಿದೆ",
+      "courseDeleted": "ಕೋರ್ಸ್ ಯಶಸ್ವಿಯಾಗಿ ಅಳಿಸಲಾಗಿದೆ",
+      "imageUploaded": "ಕೋರ್ಸ್ ಚಿತ್ರವನ್ನು ಯಶಸ್ವಿಯಾಗಿ ಅಪ್ಲೋಡ್ ಮಾಡಲಾಗಿದೆ",
+      "imageRemoved": "ಕೋರ್ಸ್ ಚಿತ್ರವನ್ನು ಯಶಸ್ವಿಯಾಗಿ ತೆಗೆದುಹಾಕಲಾಗಿದೆ",
+      "courseShown": "ಕೋರ್ಸ್ ಈಗ ವಿದ್ಯಾರ್ಥಿಗಳಿಗೆ ಕಾಣಿಸುತ್ತಿದೆ",
+      "courseHidden": "ಕೋರ್ಸ್ ಈಗ ವಿದ್ಯಾರ್ಥಿಗಳಿಂದ ಮರೆಮಾಚಲಾಗಿದೆ"
+    }
+  },
+  "enrollment": {
+    "methods": {
+      "self": "ಸ್ವಯಂ ನೋಂದಣಿ",
+      "manual": "ಹಸ್ತಚಾಲಿತ ನೋಂದಣಿ",
+      "guest": "ಅತಿಥಿ ಪ್ರವೇಶ"
+    },
+    "descriptions": {
+      "self": "ಶಿಕ್ಷಾರ್ಥಿಗಳಿಗೆ ಈ ಕೋರ್ಸ್‌ನಲ್ಲಿ ಸ್ವಯಂ ನೋಂದಾಯಿಸಲು ಅನುಮತಿಸಿ",
+      "manual": "ನಿರ್ದೇಶಕರಿಂದ ಹಸ್ತಚಾಲಿತ ನೋಂದಣಿಯನ್ನು ಅಗತ್ಯವಿದೆ",
+      "guest": "ಅತಿಥಿ ಯೂಜರ್‌ಗಳಿಗೆ ಕೋರ್ಸ್ ವಿಷಯವನ್ನು ಪ್ರವೇಶಿಸಲು ಅನುಮತಿಸಿ"
+    },
+    "status": {
+      "enabled": "ಸಕ್ರಿಯ",
+      "disabled": "ನಿಷ್ಕ್ರಿಯ"
+    }
+  },
+  "status": {
+    "loading": "ಲೋಡ್ ಆಗುತ್ತಿದೆ...",
+    "saving": "ಉಳಿಸುತ್ತಿದೆ...",
+    "deleting": "ತೆಗೆದುಹಾಕುತ್ತಿದೆ...",
+    "processing": "ಪ್ರಕ್ರಿಯೆ ನಡೆಯುತ್ತಿದೆ...",
+    "uploading": "ಅಪ್ಲೋಡ್ ಮಾಡುತ್ತಿದೆ...",
+    "active": "ಸಕ್ರಿಯ",
+    "inactive": "ನಿಷ್ಕ್ರಿಯ",
+    "draft": "ಡ್ರಾಫ್ಟ್",
+    "published": "ಪ್ರಕಟಿಸಲಾಗಿದೆ"
+  },
+  "navigation": {
+    "editCourse": "ಕೋರ್ಸ್ ಸಂಪಾದಿಸಿ",
+    "createCourse": "ಹೊಸ ಕೋರ್ಸ್ ರಚಿಸಿ",
+    "deleteCourse": "ಕೋರ್ಸ್ ಅಳಿಸಿ",
+    "deleteCourses": "ಕೋರ್ಸ್‌ಗಳನ್ನು ಅಳಿಸಿ",
+    "viewParticipants": "ಭಾಗವಹಿಸುವವರನ್ನು ನೋಡಿ"
+  },
+  "emptyState": {
+    "title": "ಇನ್ನೂ ಯಾವುದೇ ಕೋರ್ಸ್ ಇಲ್ಲ",
+    "description": "ಮೊದಲ ಕೋರ್ಸ್ ಕ್ರಿಯೇಟ್ ಮಾಡಿ ಪ್ರಾರಂಭಿಸಿ.",
+    "createButton": "ಕೋರ್ಸ್ ರಚಿಸಿ"
+  },
+  "report": {
+    "title": "ಕೋರ್ಸ್ ರಿಪೋರ್ಟ್",
+    "loading": "ಕೋರ್ಸ್ ರಿಪೋರ್ಟ್ ಲೋಡ್ ಆಗುತ್ತಿದೆ...",
+    "back": "ಕೋರ್ಸ್‌ಗಳಿಗೆ ಹಿಂತಿರುಗಿ",
+    "overview": "ಕೋರ್ಸ್ ಅವಲೋಕನ",
+    "schedule": "ಶೆಡ್ಯೂಲ್",
+    "participants": "ಭಾಗವಹಿಸುವವರು",
+    "completed": "ಮುಗಿದಿದೆ",
+    "inProgress": "ಪ್ರಗತಿಯಲ್ಲಿ",
+    "notStarted": "ಆರಂಭವಾಗಿಲ್ಲ",
+    "noStudentData": "ವಿದ್ಯಾರ್ಥಿಗಳ ನೋಂದಣಿ ಮಾಹಿತಿ ಲಭ್ಯವಿಲ್ಲ.",
+    "noEnrollmentMethods": "ಯಾವುದೇ ನೋಂದಣಿ ವಿಧಾನಗಳು ಸೆಟ್ ಆಗಿಲ್ಲ.",
+    "unknownMethod": "ಅಪರಿಚಿತ ವಿಧಾನ"
+  }
+}

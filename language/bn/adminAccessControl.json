@@ -1,0 +1,355 @@
+{
+  "emailSetup": {
+    "title": "ইমেইল টেমপ্লেট সেটআপ",
+    "subtitle": "আপনার ইমেইল টেমপ্লেট কনফিগার এবং পরিচালনা করুন",
+    "backToTemplates": "ইমেইল টেমপ্লেটসে ফিরে যান",
+    "templateVariables": "টেমপ্লেট ভেরিয়েবল",
+    "copyVariableTooltip": "ক্লিপবোর্ডে ভেরিয়েবল কপি করতে ক্লিক করুন",
+    "templateSubjectLabel": "টেমপ্লেট বিষয় *",
+    "templateSenderEmailLabel": "টেমপ্লেট প্রেরকের ইমেইল *",
+    "templateSenderDisplayNameLabel": "টেমপ্লেট প্রেরকের প্রদর্শন নাম *",
+    "emailLayoutColorLabel": "ইমেইল লেআউটের রঙ",
+    "htmlBodyLabel": "এইচটিএমএল বডি *",
+    "cancelButton": "বাতিল করুন",
+    "saveChangesButton": "পরিবর্তন সংরক্ষণ করুন",
+    "savingButton": "সংরক্ষণ করা হচ্ছে...",
+    "confirmBackWarning": "পরিবর্তনগুলি সংরক্ষিত হয়নি আপনি কি সত্যিই ফিরে যেতে চান?",
+    "toasts": {
+      "failedToLoadVariables": "ইমেইল ভেরিয়েবল লোড করতে ব্যর্থ",
+      "failedToUpdateTemplate": "ইমেইল টেমপ্লেট আপডেট করতে ব্যর্থ",
+      "variableCopied": "ভেরিয়েবল ক্লিপবোর্ডে কপি করা হয়েছে!"
+    },
+    "validation": {
+      "slNoHeader": "ক্রমিক নং",
+      "subjectRequired": "টেমপ্লেট বিষয় প্রয়োজন",
+      "subjectMinLength": "টেমপ্লেট বিষয় অন্তত 2 অক্ষর হতে হবে",
+      "subjectMaxLength": "টেমপ্লেট বিষয় 255 অক্ষর অতিক্রম করা উচিত নয়",
+      "senderEmailRequired": "প্রেরকের ইমেইল প্রয়োজন",
+      "invalidEmailFormat": "অবৈধ ইমেইল ফরম্যাট",
+      "senderEmailMaxLength": "প্রেরকের ইমেইল 255 অক্ষর অতিক্রম করা উচিত নয়",
+      "displayNameRequired": "প্রেরকের প্রদর্শন নাম প্রয়োজন",
+      "displayNameMinLength": "প্রেরকের প্রদর্শন নাম অন্তত 2 অক্ষর হতে হবে",
+      "displayNameMaxLength": "প্রেরকের প্রদর্শন নাম 255 অক্ষর অতিক্রম করা উচিত নয়"
+    }
+  },
+  "emailTemplates": {
+    "noTemplatesFound": "কোন ইমেইল টেমপ্লেট পাওয়া যায়নি",
+    "subjectLabel": "বিষয়:",
+    "contentPreview": "টেমপ্লেট বিষয়বস্তু প্রিভিউ",
+    "editButton": "সম্পাদনা করুন",
+    "toasts": {
+      "failedToLoad": "ইমেইল টেমপ্লেট লোড করতে ব্যর্থ"
+    },
+    "templateNames": {
+      "set_password": "পাসওয়ার্ড সেট করুন"
+    }
+  },
+  "moduleManagement": {
+    "title": "মডিউল ব্যবস্থাপনা",
+    "subtitle": "সিস্টেম মডিউল এবং তাদের মেটাডেটা পরিচালনা করুন",
+    "addNewButton": "নতুন মডিউল যোগ করুন",
+    "table": {
+      "slNoHeader": "ক্রমিক নং",
+      "moduleHeader": "মডিউল",
+      "descriptionHeader": "বিবরণ",
+      "createdAtHeader": "তৈরি হয়েছে",
+      "actionsHeader": "ক্রিয়াকলাপ",
+      "noModulesFound": "কোন মডিউল পাওয়া যায়নি"
+    },
+    "form": {
+      "moduleNameLabel": "মডিউল নাম *",
+      "moduleDescriptionLabel": "মডিউল বিবরণ",
+      "saveChangesButton": "পরিবর্তন সংরক্ষণ করুন",
+      "savingButton": "সংরক্ষণ করা হচ্ছে...",
+      "cancelButton": "বাতিল করুন"
+    },
+    "deleteModal": {
+      "title": "মুছে ফেলার নিশ্চিতকরণ",
+      "message": "আপনি কি মডিউল মুছে ফেলতে চান?",
+      "undoWarning": "এই ক্রিয়াটি পূর্বাবস্থায় ফিরিয়ে নেওয়া যাবে না",
+      "deleteButton": "মডিউল মুছুন",
+      "cancelButton": "বাতিল করুন"
+    },
+    "toasts": {
+      "failedToLoad": "মডিউল লোড করতে ব্যর্থ",
+      "createdSuccess": "মডিউল সফলভাবে তৈরি হয়েছে",
+      "updatedSuccess": "মডিউল সফলভাবে আপডেট হয়েছে",
+      "createdFailed": "মডিউল তৈরি করতে ব্যর্থ",
+      "updatedFailed": "মডিউল আপডেট করতে ব্যর্থ",
+      "deletedSuccess": "মডিউল সফলভাবে মুছে ফেলা হয়েছে",
+      "deletedFailed": "মডিউল মুছে ফেলতে ব্যর্থ"
+    },
+    "validation": {
+      "nameRequired": "মডিউল নাম প্রয়োজন",
+      "nameMinLength": "মডিউল নাম অন্তত 2 অক্ষর হতে হবে",
+      "nameMaxLength": "মডিউল নাম 100 অক্ষরের বেশি হতে পারবে না",
+      "descriptionMaxLength": "বিবরণ 500 অক্ষরের বেশি হতে পারবে না"
+    }
+  },
+  "pageHeader": {
+    "searchPlaceholder": "অনুসন্ধান করুন..."
+  },
+  "roleArchitectureDetail": {
+    "title": "ভূমিকা স্থাপত্যের বিস্তারিত",
+    "subtitle": "এই ভূমিকা স্থাপত্যের জন্য ডিফল্ট অনুমতিগুলি সমস্ত মডিউলে কনফিগার করুন",
+    "backButton": "ভূমিকা স্থাপত্যে ফিরে যান",
+    "loading": "মডিউল লোড হচ্ছে...",
+    "loadFailed": "ডেটা লোড করতে ব্যর্থ হয়েছে",
+    "noModulesAvailable": "কনফিগারেশনের জন্য কোন মডিউল উপলব্ধ নেই",
+    "table": {
+      "moduleHeader": "মডিউল",
+      "descriptionHeader": "বিবরণ",
+      "capabilitiesHeader": "সক্ষমতা"
+    },
+    "capabilities": {
+      "create": "তৈরি করুন",
+      "read": "পড়ুন",
+      "edit": "সম্পাদনা করুন",
+      "delete": "মুছুন",
+      "enabledCount": "সক্রিয়"
+    },
+    "saveCapabilitiesButton": "সক্ষমতা সংরক্ষণ করুন",
+    "savingButton": "সংরক্ষণ হচ্ছে...",
+    "cancelButton": "বাতিল করুন",
+    "toasts": {
+      "failedToLoadModules": "মডিউল তালিকা লোড করতে ব্যর্থ হয়েছে",
+      "saveSuccess": "সক্ষমতা সফলভাবে সংরক্ষিত হয়েছে",
+      "saveFailed": "সক্ষমতা সংরক্ষণ করতে ব্যর্থ হয়েছে"
+    }
+  },
+  "roleArchitectureManagement": {
+    "title": "ভূমিকা স্থাপত্য ব্যবস্থাপনা",
+    "subtitle": "ব্যবহারকারীর ভূমিকার জন্য ডিফল্ট অনুমতি সেট পরিচালনা করুন",
+    "addNewButton": "নতুন স্থাপত্য যোগ করুন",
+    "table": {
+      "roleNameHeader": "ভূমিকার নাম",
+      "descriptionHeader": "বিবরণ",
+      "createdAtHeader": "তৈরি হয়েছে",
+      "actionsHeader": "ক্রিয়াকলাপ",
+      "noArchitecturesFound": "কোন ভূমিকা স্থাপত্য পাওয়া যায়নি",
+      "slNoHeader": "ক্রমিক নং"
+    },
+    "form": {
+      "architectureNameLabel": "স্থাপত্যের নাম *",
+      "architectureDescriptionLabel": "আর্কিটেকচার বর্ণনা",
+      "saveChangesButton": "পরিবর্তন সংরক্ষণ করুন",
+      "savingButton": "সংরক্ষণ করা হচ্ছে...",
+      "cancelButton": "বাতিল করুন"
+    },
+    "deleteModal": {
+      "title": "মুছে ফেলার নিশ্চিতকরণ",
+      "message": "আপনি কি সত্যিই ভূমিকা আর্কিটেকচার মুছে ফেলতে চান?",
+      "undoWarning": "এই কার্যকলাপটি পূর্বাবস্থায় ফিরিয়ে নেওয়া যাবে না",
+      "deleteButton": "ভূমিকা আর্কিটেকচার মুছুন",
+      "cancelButton": "বাতিল করুন"
+    },
+    "toasts": {
+      "failedToLoad": "ভূমিকা আর্কিটেকচার লোড করতে ব্যর্থ",
+      "createdSuccess": "ভূমিকা আর্কিটেকচার সফলভাবে তৈরি হয়েছে",
+      "updatedSuccess": "ভূমিকা আর্কিটেকচার সফলভাবে আপডেট হয়েছে",
+      "createdFailed": "ভূমিকা আর্কিটেকচার তৈরি করতে ব্যর্থ",
+      "updatedFailed": "ভূমিকা আর্কিটেকচার আপডেট করতে ব্যর্থ",
+      "deletedSuccess": "ভূমিকা আর্কিটেকচার সফলভাবে মুছে ফেলা হয়েছে",
+      "deletedFailed": "ভূমিকা আর্কিটেকচার মুছতে ব্যর্থ"
+    },
+    "validation": {
+      "nameRequired": "ভূমিকা আর্কিটেকচারের নাম প্রয়োজন",
+      "nameMinLength": "ভূমিকা নাম অন্তত 2 অক্ষর হতে হবে",
+      "nameMaxLength": "ভূমিকা নাম 100 অক্ষর অতিক্রম করা যাবে না",
+      "descriptionMaxLength": "বর্ণনা 500 অক্ষর অতিক্রম করা যাবে না"
+    }
+  },
+  "roleManagement": {
+    "title": "ভূমিকা ব্যবস্থাপনা",
+    "subtitle": "কাস্টম ব্যবহারকারীর ভূমিকা পরিচালনা করুন এবং ভূমিকা আর্কিটেকচার বরাদ্দ করুন",
+    "addNewButton": "নতুন ভূমিকা যোগ করুন",
+    "table": {
+      "roleHeader": "ভূমিকা",
+      "architectureHeader": "আর্কিটেকচার",
+      "descriptionHeader": "বর্ণনা",
+      "createdAtHeader": "তৈরি হয়েছে",
+      "actionsHeader": "কার্যকলাপ",
+      "noRolesFound": "কোন কাস্টম ভূমিকা পাওয়া যায়নি",
+      "slNoHeader": "ক্রমিক নং"
+    },
+    "form": {
+      "roleNameLabel": "ভূমিকা নাম *",
+      "roleDescriptionLabel": "রোল বর্ণনা",
+      "architectureLabel": "রোল আর্কিটেকচার নির্বাচন করুন *",
+      "architecturePlaceholder": "একটি আর্কিটেকচার নির্বাচন করুন...",
+      "saveChangesButton": "পরিবর্তন সংরক্ষণ করুন",
+      "savingButton": "সংরক্ষণ করা হচ্ছে...",
+      "cancelButton": "বাতিল করুন"
+    },
+    "deleteModal": {
+      "title": "মুছে ফেলার নিশ্চিতকরণ",
+      "message": "আপনি কি সত্যিই রোলটি মুছে ফেলতে চান",
+      "undoWarning": "এই ক্রিয়া পূর্বাবস্থায় ফিরিয়ে নেওয়া যাবে না",
+      "deleteButton": "রোল মুছুন",
+      "cancelButton": "বাতিল করুন"
+    },
+    "toasts": {
+      "failedToLoadRoles": "রোলগুলি লোড করতে ব্যর্থ",
+      "failedToLoadArchitectures": "রোল আর্কিটেকচার লোড করতে ব্যর্থ",
+      "createdSuccess": "রোল সফলভাবে তৈরি হয়েছে",
+      "updatedSuccess": "রোল সফলভাবে আপডেট হয়েছে",
+      "createdFailed": "রোল তৈরি করতে ব্যর্থ",
+      "updatedFailed": "রোল আপডেট করতে ব্যর্থ",
+      "deletedSuccess": "রোল সফলভাবে মুছে ফেলা হয়েছে",
+      "deletedFailed": "রোল মুছতে ব্যর্থ"
+    },
+    "validation": {
+      "nameRequired": "রোলের নাম প্রয়োজন",
+      "nameMinLength": "রোলের নাম কমপক্ষে ২ অক্ষর হতে হবে",
+      "nameMaxLength": "রোলের নাম ১০০ অক্ষর অতিক্রম করা যাবে না",
+      "descriptionMaxLength": "বর্ণনা ৫০০ অক্ষর অতিক্রম করা যাবে না",
+      "architectureRequired": "রোল আর্কিটেকচার প্রয়োজন"
+    }
+  },
+  "dashboardManagement": {
+    "title": "ড্যাশবোর্ড ব্যবস্থাপনা",
+    "subtitle": "আপনার রোল এবং অনুমতিগুলি পরিচালনা এবং সংগঠিত করুন",
+    "backButton": "পিছনে",
+    "loading": "অনুমতিগুলি লোড হচ্ছে...",
+    "errorPrefix": "ত্রুটি:",
+    "activePermissions": "সক্রিয় অনুমতিগুলি:",
+    "dashboardModulesHeader": "ড্যাশবোর্ড মডিউল",
+    "sidebarModulesHeader": "সাইডবার মডিউল",
+    "moduleColumn": "মডিউল",
+    "permissionsColumn": "অনুমতি",
+    "selectAll": "সব নির্বাচন করুন",
+    "savePermissionsButton": "অনুমতি সংরক্ষণ করুন",
+    "savingButton": "সংরক্ষণ হচ্ছে...",
+    "admin": "অ্যাডমিন",
+    "instructor": "শিক্ষক",
+    "student": "ছাত্র",
+    "toasts": {
+      "saveSuccess": "অনুমতি সফলভাবে সংরক্ষিত হয়েছে",
+      "saveFailed": "অনুমতি সংরক্ষণ করতে ব্যর্থ"
+    },
+    "roleLabel": "রোল",
+    "permissionsSectionTitle": "মডিউল পারমিশন",
+    "selectRoleDisclaimer": "পারমিশন বদলাতে একটি রোল নির্বাচন করুন",
+    "modulesCount": "{{count}} মডিউল",
+    "sidebarItemsCount": "{{count}} আইটেম",
+    "noModulesForRole": "এই রোলের জন্য কোনো মডিউল নেই",
+    "teacher": "শিক্ষক",
+    "toggleDisabled": "এই পারমিশন সাময়িকভাবে উপলব্ধ নেই",
+    "toggleAlwaysOn": "এই টগল বন্ধ করা যাবে না"
+  },
+  "smtpConfiguration": {
+    "title": "SMTP কনফিগারেশন",
+    "subtitle": "আপনার সিম্পল মেইল ট্রান্সফার প্রোটোকল (SMTP) সেটিংস সেট আপ করুন",
+    "backToControl": "অ্যাক্সেস কন্ট্রোলে ফিরে যান",
+    "hostLabel": "SMTP হোস্ট এবং পোর্ট *",
+    "hostPlaceholder": "যেমন, mail.example.com:465 অথবা mail1.com:587,mail2.com:587",
+    "securityLabel": "SMTP নিরাপত্তা",
+    "securityHelpText": "ঐচ্ছিক পোর্ট 465 এর জন্য 'ssl' নির্বাচন করুন, অথবা পোর্ট 587 এর জন্য 'tls' নির্বাচন করুন কিছু না থাকলে খালি রাখুন",
+    "securityNone": "কিছুই নেই",
+    "securitySSL": "SSL",
+    "securityTLS": "TLS",
+    "usernameLabel": "SMTP ব্যবহারকারীর নাম *",
+    "usernamePlaceholder": "যেমন, noreply@example.com",
+    "passwordLabel": "SMTP পাসওয়ার্ড *",
+    "noreplyEmailLabel": "নো-রিপ্লাই ইমেইল *",
+    "noreplyEmailHelpText": "এই ইমেইলটি সমস্ত স্বয়ংক্রিয় বিজ্ঞপ্তির জন্য 'প্রেরক' ঠিকানা হিসাবে ব্যবহার করা হবে",
+    "noreplyDisplayNameLabel": "নো-রিপ্লাই প্রদর্শন নাম *",
+    "noreplyDisplayNamePlaceholder": "যেমন, InstructoHub Notifications",
+    "noreplyDisplayNameHelpText": "প্রেরক হিসাবে প্রদর্শিত নাম",
+    "cancelButton": "বাতিল",
+    "saveConfigurationButton": "কনফিগারেশন সংরক্ষণ করুন",
+    "savingButton": "সংরক্ষণ হচ্ছে...",
+    "toasts": {
+      "failedToLoad": "SMTP কনফিগারেশন লোড করতে ব্যর্থ",
+      "updateSuccess": "SMTP কনফিগারেশন সফলভাবে আপডেট হয়েছে",
+      "updateFailed": "SMTP কনফিগারেশন আপডেট করতে ব্যর্থ"
+    },
+    "validation": {
+      "hostRequired": "SMTP হোস্ট প্রয়োজন",
+      "hostInvalidFormat": "অবৈধ ফরম্যাট হোস্ট:পোর্ট বা হোস্ট:পোর্ট,হোস্ট2:পোর্ট2 ব্যবহার করুন",
+      "securityInvalid": "নিরাপত্তা খালি, ssl, বা tls হতে হবে",
+      "usernameRequired": "SMTP ব্যবহারকারীর নাম প্রয়োজন",
+      "usernameMaxLength": "SMTP ব্যবহারকারীর নাম 255 অক্ষরের বেশি হতে পারবে না",
+      "passwordRequired": "SMTP পাসওয়ার্ড প্রয়োজন",
+      "passwordMaxLength": "SMTP পাসওয়ার্ড 255 অক্ষরের বেশি হতে পারবে না",
+      "noreplyEmailRequired": "নো-রিপ্লাই ইমেইল প্রয়োজন",
+      "noreplyEmailInvalidFormat": "অবৈধ ইমেইল ফরম্যাট",
+      "noreplyEmailMaxLength": "নো-রিপ্লাই ইমেইল 255 অক্ষরের বেশি হতে পারবে না",
+      "noreplyDisplayNameRequired": "নো-রিপ্লাই ডিসপ্লে নাম প্রয়োজন",
+      "noreplyDisplayNameMinLength": "নো-রিপ্লাই ডিসপ্লে নাম কমপক্ষে 2 অক্ষর হতে হবে",
+      "noreplyDisplayNameMaxLength": "নো-রিপ্লাই ডিসপ্লে নাম 255 অক্ষরের বেশি হতে পারবে না"
+    }
+  },
+  "accessControlDisplay": {
+    "emailSetupTitle": "ইমেইল সেটআপ",
+    "emailSetupDescription": "ইমেইল টেমপ্লেট এবং নোটিফিকেশন সেটিংস কনফিগার করুন",
+    "smtpConfigurationTitle": "SMTP কনফিগারেশন",
+    "smtpConfigurationDescription": "SMTP সার্ভার ক্রেডেনশিয়াল এবং সেটিংস কনফিগার করুন",
+    "dashboardManagementTitle": "ড্যাশবোর্ড ব্যবস্থাপনা",
+    "dashboardManagementDescription": "ড্যাশবোর্ড মডিউলের জন্য ভূমিকা এবং অনুমতি পরিচালনা করুন",
+    "roleArchitectureManagementTitle": "ভূমিকা স্থাপত্য ব্যবস্থাপনা",
+    "roleArchitectureManagementDescription": "ব্যবহারকারীর ভূমিকার জন্য ডিফল্ট অনুমতি সেট পরিচালনা করুন",
+    "roleManagementTitle": "ভূমিকা ব্যবস্থাপনা",
+    "roleManagementDescription": "কাস্টম ব্যবহারকারীর ভূমিকা পরিচালনা করুন এবং ভূমিকা স্থাপত্য বরাদ্দ করুন"
+  },
+  "customRoleDetail": {
+    "title": "ভূমিকা সক্ষমতা কাস্টমাইজেশন",
+    "subtitle": "এই নির্দিষ্ট ভূমিকার জন্য সমস্ত মডিউলে অনুমতিগুলি কাস্টমাইজ করুন এখানে পরিবর্তনগুলি ভূমিকা স্থাপনার ডিফল্টকে অতিক্রম করে",
+    "backButton": "ভূমিতে ফিরে যান",
+    "pageHeader": {
+      "title": "ক্ষমতা পরিচালনা করুন: {{roleName}}",
+      "subtitle": "কাস্টম ভূমির জন্য অনুমতিগুলি সেট করুন (স্থাপনা: {{architectureName}})",
+      "unknownArchitecture": "অজানা"
+    },
+    "saveCapabilitiesButton": "ক্ষমতা সংরক্ষণ করুন",
+    "savingButton": "সংরক্ষণ করা হচ্ছে...",
+    "loading": "মডিউল এবং ক্ষমতা লোড হচ্ছে...",
+    "loadFailed": "ডেটা লোড করতে ব্যর্থ",
+    "emptyState": {
+      "title": "কোন মডিউল পাওয়া যায়নি",
+      "description": "ক্ষমতা বরাদ্দ করার আগে প্রথমে মডিউল তৈরি করুন",
+      "goToModuleManagementButton": "মডিউল ব্যবস্থাপনায় যান"
+    },
+    "sections": {
+      "learningActivities": {
+        "title": "শিক্ষণ কার্যক্রম",
+        "description": "কোর্স স্তরের কার্যক্রমের জন্য দেখার, তৈরি, সম্পাদনা এবং মুছে ফেলার অনুমতিগুলি কনফিগার করুন"
+      },
+      "tools": {
+        "title": "টুলস",
+        "description": "কোর্স টুলগুলির জন্য দৃশ্যমানতা (দেখুন) কনফিগার করুন"
+      }
+    },
+    "capabilities": {
+      "create": "তৈরি করুন",
+      "read": "দেখুন",
+      "edit": "সম্পাদনা করুন",
+      "delete": "মুছে ফেলুন",
+      "enabledCount": "সক্রিয়"
+    },
+    "table": {
+      "moduleNameHeader": "মডিউলের নাম",
+      "toolNameHeader": "টুলের নাম",
+      "moduleHeader": "মডিউল",
+      "descriptionHeader": "বিবরণ",
+      "capabilitiesHeader": "ক্ষমতা"
+    },
+    "resetModal": {
+      "title": "ডিফল্টে ক্ষমতা রিসেট করুন",
+      "message": "আপনি কি নিশ্চিত যে আপনি সমস্ত ক্ষমতা রিসেট করতে চান",
+      "message2": "তাদের ডিফল্ট সেটিংসে?",
+      "warning1": "এটি ভূমিকার স্থাপনার টেমপ্লেটে সংজ্ঞায়িত ক্ষমতাগুলি পুনরুদ্ধার করবে",
+      "warning2": "যেকোনো কাস্টম পরিবর্তন হারিয়ে যাবে",
+      "cancelButton": "বাতিল",
+      "resettingButton": "পুনরায় সেট করা হচ্ছে...",
+      "resetToDefaultButton": "ডিফল্টে পুনরায় সেট করুন"
+    },
+    "toasts": {
+      "loadError": "ভূমিকা সক্ষমতা লোড করতে ব্যর্থ হয়েছে",
+      "resetSuccess": "{{roleName}} এর সক্ষমতা সফলভাবে ডিফল্টে পুনরায় সেট করা হয়েছে!",
+      "resetFailed": "ভূমিকা সক্ষমতা পুনরায় সেট করতে ব্যর্থ হয়েছে",
+      "updateSuccess": "ভূমিকা সক্ষমতা সফলভাবে আপডেট করা হয়েছে",
+      "updateFailed": "ভূমিকা সক্ষমতা আপডেট করতে ব্যর্থ হয়েছে"
+    }
+  }
+}

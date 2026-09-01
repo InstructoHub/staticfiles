@@ -1,0 +1,203 @@
+{
+  "page": {
+    "title": "Gestion des cours",
+    "subtitle": "Gérez et organisez vos cours",
+    "loading": "Chargement des cours...",
+    "noCoursesFound": "Aucun cours ne correspond à vos critères de recherche",
+    "noCoursesAvailable": "Aucun cours disponible. Commencez par ajouter un nouveau cours."
+  },
+
+  "navigation": {
+    "editCourse": "Modifier le cours",
+    "createCourse": "Créer un nouveau cours",
+    "deleteCourse": "Supprimer le cours",
+    "deleteCourses": "Supprimer les cours",
+    "viewParticipants": "Voir les participants"
+  },
+
+  "buttons": {
+    "addCourse": "Ajouter un cours",
+    "deleteSelected": "Supprimer le cours",
+    "edit": "Modifier le cours",
+    "delete": "Supprimer le cours",
+    "cancel": "Annuler",
+    "create": "Créer",
+    "update": "Mettre à jour",
+    "creating": "Création...",
+    "updating": "Mise à jour...",
+    "deleting": "Suppression...",
+    "save": "Enregistrer",
+    "uploadImage": "Télécharger une image",
+    "removeImage": "Supprimer l'image"
+  },
+
+  "table": {
+    "headers": {
+      "courseName": "Nom du cours",
+      "shortName": "Nom court",
+      "category": "Catégorie",
+      "startDate": "Date de début",
+      "endDate": "Date de fin",
+      "modifiedOn": "Modifié",
+      "teachers": "Instructeurs",
+      "students": "Étudiants",
+      "actions": "Actions",
+      "S.No": "S.No"
+    },
+    "search": {
+      "placeholder": "Rechercher des cours..."
+    },
+    "fallbacks": {
+      "untitledCourse": "Cours sans titre",
+      "noCategory": "Sans catégorie",
+      "noTeachers": "Sans instructeurs",
+      "noStudents": "Sans étudiants"
+    }
+  },
+
+  "form": {
+    "labels": {
+      "courseName": "Nom du cours",
+      "shortName": "Nom court",
+      "category": "Catégorie",
+      "description": "Description",
+      "startDate": "Date de début",
+      "endDate": "Date de fin",
+      "courseImage": "Image du cours",
+      "enrollmentMethods": "Méthodes d'inscription",
+      "selfEnrollment": "Auto-inscription",
+      "manualEnrollment": "Inscription manuelle",
+      "guestAccess": "Accès invité"
+    },
+    "placeholders": {
+      "courseName": "Entrez le nom complet du cours",
+      "shortName": "Entrez le nom court",
+      "category": "Sélectionnez une catégorie",
+      "description": "Entrez la description du cours",
+      "selectStartDate": "Sélectionnez la date de début",
+      "selectEndDate": "Sélectionnez la date de fin"
+    },
+    "validation": {
+      "courseNameRequired": "Le nom du cours est requis",
+      "courseNameMinLength": "Le nom doit contenir au moins 3 caractères",
+      "courseNameMaxLength": "Le nom ne doit pas dépasser 250 caractères",
+      "shortNameRequired": "Le nom court est requis",
+      "shortNameMinLength": "Le nom court doit contenir au moins 2 caractères",
+      "shortNameMaxLength": "Le nom court ne doit pas dépasser 30 caractères",
+      "shortNameFormat": "Le nom court ne peut contenir que des lettres, des chiffres, des traits de soulignement et des tirets",
+      "shortNameTaken": "Ce nom court est déjà utilisé!",
+      "categoryRequired": "La catégorie est requise",
+      "categoryPositive": "L'ID de catégorie doit être positif",
+      "descriptionMaxLength": "La description ne doit pas dépasser 1500 caractères",
+      "startDateBeforeEnd": "La date de début doit être antérieure à la date de fin",
+      "endDateAfterStart": "La date de fin doit être postérieure à la date de début",
+      "invalidDate": "Veuillez entrer une date valide"
+    },
+    "modes": {
+      "edit": {
+        "title": "Modifier le cours",
+        "subtitle": "Mettez à jour les détails du cours ci-dessous"
+      },
+      "create": {
+        "title": "Créer un nouveau cours",
+        "subtitle": "Ajoutez un nouveau cours au système"
+      }
+    },
+    "imageUpload": {
+      "dropzoneText": "Déposez une image ici, ou cliquez pour sélectionner",
+      "supportedFormats": "Formats supportés: JPG, PNG, GIF (Max: 2MB)",
+      "uploadError": "Échec du téléchargement de l'image du cours",
+      "setImageError": "Échec de la définition de l'image du cours",
+      "fileSizes": ["Octets", "KB", "MB"]
+    }
+  },
+
+  "modals": {
+    "deleteMultiple": {
+      "title": "Supprimer plusieurs cours",
+      "warning": "Avertissement: Cette action ne peut pas être annulée",
+      "description": "La suppression de ces {{count}} cours les supprimera permanemment du système. Toutes les données associées incluant les inscriptions, les notes et le contenu seront perdues.",
+      "listLabel": "Cours à supprimer ({{count}}):",
+      "confirmation": "Êtes-vous absolument sûr de vouloir procéder? Cela supprimera définitivement tous les cours sélectionnés et ne peut pas être annulé."
+    },
+    "deleteSingle": {
+      "title": "Supprimer le cours",
+      "warning": "Avertissement: Cette action ne peut pas être annulée",
+      "description": "La suppression de ce cours le supprimera permanemment du système. Toutes les données associées incluant les inscriptions, les notes et le contenu seront perdues.",
+      "listLabel": "Cours à supprimer:",
+      "confirmation": "Êtes-vous absolument sûr de vouloir supprimer ce cours? Cette action ne peut pas être annulée."
+    },
+    "details": {
+      "name": "Nom:",
+      "shortName": "Nom court:",
+      "category": "Catégorie:",
+      "description": "Description:",
+      "startDate": "Date de début:",
+      "endDate": "Date de fin:",
+      "teachers": "Instructeurs:",
+      "students": "Étudiants:"
+    }
+  },
+
+  "messages": {
+    "success": {
+      "courseCreated": "Cours créé avec succès",
+      "courseUpdated": "Cours mis à jour avec succès",
+      "coursesDeleted": "Cours supprimés avec succès",
+      "courseDeleted": "Cours supprimé avec succès",
+      "imageUploaded": "Image du cours téléchargée avec succès",
+      "imageRemoved": "Image du cours supprimée avec succès"
+    },
+    "error": {
+      "courseNotFound": "Cours non trouvé",
+      "failedToLoad": "Échec du chargement des cours",
+      "failedToLoadCourse": "Échec du chargement des données du cours",
+      "failedToLoadCategories": "Échec du chargement des catégories",
+      "errorUpdating": "Erreur lors de la mise à jour du cours",
+      "errorCreating": "Erreur lors de la création du cours",
+      "failedToUpdate": "Échec de la mise à jour du cours",
+      "failedToCreate": "Échec de la création du cours",
+      "deleteFailed": "Échec de la suppression du cours",
+      "deleteMultipleFailed": "Échec de la suppression des cours",
+      "uploadImageFailed": "Échec du téléchargement du fichier image",
+      "setImageFailed": "Échec de la définition de l'image du cours",
+      "invalidImageFormat": "Format d'image invalide. Veuillez utiliser JPG, PNG ou GIF",
+      "imageTooLarge": "Le fichier image est trop volumineux. La taille maximale est 2MB",
+      "enrollmentConfigFailed": "Échec de la configuration de l'auto-inscription"
+    },
+    "warning": {
+      "selectCoursesToDelete": "Veuillez sélectionner au moins un cours à supprimer",
+      "unsavedChanges": "Vous avez des modifications non enregistrées. Êtes-vous sûr de vouloir partir?",
+      "removeImageConfirm": "Êtes-vous sûr de vouloir supprimer l'image du cours?"
+    }
+  },
+
+  "enrollment": {
+    "methods": {
+      "self": "Auto-inscription",
+      "manual": "Inscription manuelle",
+      "guest": "Accès invité"
+    },
+    "descriptions": {
+      "self": "Permettre aux étudiants de s'inscrire eux-mêmes à ce cours",
+      "manual": "Exiger une inscription manuelle par les administrateurs",
+      "guest": "Permettre aux utilisateurs invités d'accéder au contenu du cours"
+    },
+    "status": {
+      "enabled": "Activé",
+      "disabled": "Désactivé"
+    }
+  },
+
+  "status": {
+    "loading": "Chargement...",
+    "saving": "Enregistrement...",
+    "deleting": "Suppression...",
+    "processing": "Traitement...",
+    "uploading": "Téléchargement...",
+    "active": "Actif",
+    "inactive": "Inactif",
+    "draft": "Brouillon",
+    "published": "Publié"
+  }
+}

@@ -1,0 +1,176 @@
+{
+  "common": {
+    "pts": "pts",
+    "grade": "ଗ୍ରେଡ୍",
+    "grades": "ଗ୍ରେଡ୍ସ",
+    "student": "ଛାତ୍ର",
+    "students": "ଛାତ୍ରମାନେ",
+    "assignment": "ଆସାଇନ୍ମେଣ୍ଟ",
+    "assignments": "ଆସାଇନ୍ମେଣ୍ଟସ୍",
+    "quiz": "କ୍ୱିଜ୍",
+    "quizzes": "କ୍ୱିଜ୍ସ",
+    "average": "ସାଧାରଣ",
+    "overall": "ସମ୍ପୂର୍ଣ୍ଣ",
+    "dueDate": "ଦେୟ ତାରିଖ",
+    "submitted": "ସମ୍ପ୍ରେଷିତ",
+    "status": "ସ୍ଥିତି",
+    "actions": "କାର୍ଯ୍ୟ",
+    "details": "ବିବରଣୀ",
+    "name": "ନାମ",
+    "email": "ଇମେଲ୍",
+    "points": "ପଏଣ୍ଟସ୍",
+    "maxPoints": "ସର୍ବାଧିକ ପଏଣ୍ଟସ୍",
+    "percentage": "ଶତାଙ୍ଶ",
+    "loading": "ଲୋଡିଂ",
+    "error": "ତ୍ରୁଟି",
+    "noData": "କୌଣସି ତଥ୍ୟ ନାହିଁ",
+    "days": "ଦିନ"
+  },
+  "student": {
+    "messages": {
+      "loadingGrades": "...",
+      "fetchingData": ",",
+      "noGradableItemsDesc": "Moodle            ,         (   )",
+      "whatToCheckNext": ":",
+      "checkCourseContent": ":    Moodle   (ID: {{courseId}})   ''  ''",
+      "checkEnrollment": ":",
+      "tryDifferentCourse": ":",
+      "errorLoadingGrades": "ଗ୍ରେଡ୍‌ଗୁଡିକ ଲୋଡ୍‌ କରିବାରେ ତ୍ରୁଟି",
+      "noCourseSelected": "କୌଣସି କୋର୍ସ ଚୟନ କରାଯାଇନି",
+      "selectCourse": "ଦୟାକରି ଗ୍ରେଡ୍‌ ସୂଚନା ଦେଖିବା ପାଇଁ କୋର୍ସ ଚୟନ କରନ୍ତୁ",
+      "noGradableItems": "କୌଣସି ଗ୍ରେଡ୍‌ ହେବା ଯୋଗ୍ୟ ଆଇଟମ୍‌ ମିଳିଲା ନାହିଁ"
+    },
+    "dashboard": {
+      "title": "ତୁମର ଗ୍ରେଡ୍ ଡ୍ୟାସ୍ବୋର୍ଡ",
+      "overallGrade": "ସମ୍ପୂର୍ଣ୍ଣ ଗ୍ରେଡ୍",
+      "excellent": "ଉତ୍ତମ",
+      "needsImprovement": "ସୁଧାରଣା ଆବଶ୍ୟକ",
+      "assignmentsSubmitted": "ଆସାଇନ୍ମେଣ୍ଟସ୍ ସମ୍ପ୍ରେଷିତ",
+      "assignmentsGraded": "ଆସାଇନ୍ମେଣ୍ଟସ୍ ଗ୍ରେଡ୍ ହୋଇଛି",
+      "quizzesCompleted": "କୁଇଜ୍‌ଗୁଡିକ ସମ୍ପୂର୍ଣ୍ଣ",
+      "pendingGrades": "ପେଣ୍ଡିଂ ଗ୍ରେଡ୍‌ଗୁଡିକ",
+      "overdueItems": "ଓଭରଡ୍ୟୁ ଆଇଟମ୍‌ଗୁଡିକ",
+      "upcomingDeadlines": "ଆସନ୍ତା ଡେଡ୍‌ଲାଇନ୍‌ଗୁଡିକ",
+      "overdue": "ଓଭରଡ୍ୟୁ",
+      "noUpcomingDeadlines": "କୌଣସି ଆସନ୍ତା ଡେଡ୍‌ଲାଇନ୍‌ ନାହିଁ",
+      "noOverdueItems": "କୌଣସି ଓଭରଡ୍ୟୁ ଆଇଟମ୍‌ ନାହିଁ"
+    },
+    "header": {
+      "backToDashboard": "ଡ୍ୟାସ୍‌ବୋର୍ଡକୁ ଫେରିବେ",
+      "viewAllGrades": "ସମସ୍ତ ଗ୍ରେଡ୍‌ଗୁଡିକ ଦେଖନ୍ତୁ"
+    },
+    "table": {
+      "allGrades": "ସମସ୍ତ ଗ୍ରେଡ୍‌ଗୁଡିକ",
+      "activity": "କାର୍ଯ୍ୟ",
+      "type": "ପ୍ରକାର",
+      "grade": "ଗ୍ରେଡ୍‌",
+      "pending": "ପେଣ୍ଡିଂ"
+    },
+    "modal": {
+      "submissionDetails": "ସମ୍ପ୍ରେଷଣ ବିବରଣୀ",
+      "yourScore": "ଆପଣଙ୍କର ସ୍କୋର୍",
+      "close": "ବନ୍ଦ କରନ୍ତୁ"
+    }
+  },
+  "teacher": {
+    "gradebook": {
+      "filterByName": "...",
+      "filterAssignment": "...",
+      "title": "ଗ୍ରେଡ୍‌ ପରିଚାଳନା ଡ୍ୟାସ୍‌ବୋର୍ଡ",
+      "overview": "ସାରାଂଶ",
+      "gradeTable": "ଗ୍ରେଡ୍‌ ତାଲିକା",
+      "searchStudents": "ଛାତ୍ରମାନେ ଖୋଜନ୍ତୁ",
+      "searchAssignment": "କୁଇଜ୍‌ କିମ୍ବା ଆସାଇନ୍‌ମେଣ୍ଟ ଖୋଜନ୍ତୁ",
+      "filterByType": "ପ୍ରକାର ଦ୍ୱାରା ଫିଲ୍ଟର୍ କରନ୍ତୁ",
+      "all": "ସମସ୍ତ"
+    },
+    "overview": {
+      "allCaughtUp": "!",
+      "requiresAttention": "ଧ୍ୟାନ ଆବଶ୍ୟକ",
+      "pendingGrades": "ପେଣ୍ଡିଂ ଗ୍ରେଡ୍‌ଗୁଡିକ",
+      "overdueAssignments": "ଓଭରଡ୍ୟୁ ଆସାଇନ୍ମେଣ୍ଟସ୍",
+      "toGrade": "ଗ୍ରେଡ୍ କରିବାକୁ",
+      "noPendingGrades": "କୌଣସି ପେଣ୍ଡିଂ ଗ୍ରେଡ୍ ନାହିଁ",
+      "allSubmissionsGraded": "ସମସ୍ତ ସବମିସନ୍ ଗ୍ରେଡ୍ ହୋଇଛି",
+      "noOverdueAssignments": "କୌଣସି ଓଭରଡ୍ୟୁ ଆସାଇନ୍ମେଣ୍ଟସ୍ ନାହିଁ",
+      "allOnTrack": "ସମସ୍ତ ଆସାଇନ୍ମେଣ୍ଟସ୍ ଠିକ୍ ଅଛି",
+      "totalStudents": "ମୋଟ ଛାତ୍ର",
+      "classAverage": "କ୍ଲାସ୍ ଏଭେରେଜ୍",
+      "noPendingSubmissions": "ଗ୍ରେଡ୍ କରିବାକୁ କୌଣସି ପେଣ୍ଡିଂ ସବମିସନ୍ ନାହିଁ"
+    },
+    "studentDetail": {
+      "gradeDetailsFor": "ଗ୍ରେଡ୍ ବିବରଣୀ ପାଇଁ",
+      "overallAverage": "ସାଧାରଣ ମଧ୍ୟମ",
+      "noGradesAvailable": "କୌଣସି ଗ୍ରେଡ୍ ଉପଲବ୍ଧ ନାହିଁ",
+      "backToStudentList": "ଛାତ୍ର ତାଲିକାକୁ ପଛକୁ",
+      "dueDate": "ଦେୟ ତାରିଖ",
+      "gradedSubmittedOn": "ଗ୍ରେଡ୍ / ଦାଖଲ କରାଯାଇଛି",
+      "notGraded": "ଗ୍ରେଡ୍ ହୋଇନି"
+    },
+    "assignment": {
+      "pendingGradesView": "ପେଣ୍ଡିଂ ଗ୍ରେଡ୍ସ",
+      "overdueStudents": "ଦେୟ ଛାତ୍ର",
+      "studentsToGrade": "ଗ୍ରେଡ୍ କରିବାକୁ ଛାତ୍ର",
+      "studentsOverdue": "ଦେୟ ଛାତ୍ର",
+      "submittedOn": "ଦାଖଲ କରାଯାଇଛି",
+      "daysOverdue": "ଦିନ ଦେୟ",
+      "enterGrade": "ଗ୍ରେଡ୍ ଦିଅ",
+      "backToListing": "ଲିଷ୍ଟିଂକୁ ପଛକୁ",
+      "allPendingGrades": "ସମସ୍ତ ପେଣ୍ଡିଂ ଗ୍ରେଡ୍ସ",
+      "total": "ମୋଟ",
+      "submissionsToGrade": "ଗ୍ରେଡ୍ କରିବାକୁ ଦାଖଲ",
+      "overdueItems": "ଦେୟ ଆଇଟମ୍ସ",
+      "noOverdueStudents": "ଏହି ଅସାଇନ୍‌ମେଣ୍ଟ ପାଇଁ କୌଣସି ଦେୟ ଛାତ୍ର ନାହିଁ",
+      "noPendingSubmissionsForAssignment": "ଏହି ଅସାଇନ୍‌ମେଣ୍ଟ ପାଇଁ ଗ୍ରେଡ୍ କରିବାକୁ କୌଣସି ପେଣ୍ଡିଂ ଦାଖଲ ନାହିଁ",
+      "noOverdueItemsDesc": "କୌଣସି ଦେୟ ଆଇଟମ୍ସ ନାହିଁ"
+    },
+    "gradeTable": {
+      "enterGrade": "ଗ୍ରେଡ୍ ଦିଅ"
+    },
+    "messages": {
+      "loadingGradebook": "ଗ୍ରେଡ୍‌ବୁକ୍ ଲୋଡ୍ ହେଉଛି...",
+      "errorLoadingGradebook": "ଗ୍ରେଡ୍‌ବୁକ୍ ଲୋଡ୍ କରିବାରେ ତ୍ରୁଟି",
+      "noGradableItems": "ଏହି କୋର୍ସରେ କୌଣସି ଗ୍ରେଡ୍ କରିବା ଆଇଟମ୍ସ (ଅସାଇନ୍‌ମେଣ୍ଟ କିମ୍ବା କ୍ୱିଜ୍) ନାହିଁ",
+      "invalidGrade": "ଦୟାକରି 0 ଓ {{maxGrade}} ମଧ୍ୟରେ ଏକ ବୃହତ୍ ଗ୍ରେଡ୍ ଦିଅ",
+      "errorSavingGrade": "ଗ୍ରେଡ୍ ସଂରକ୍ଷଣରେ ତ୍ରୁଟି ଦୟାକରି ପୁନର୍ବାର ଚେଷ୍ଟା କରନ୍ତୁ"
+    },
+    "stats": {
+      "totalStudents": "ମୋଟ ଛାତ୍ର",
+      "assignments": "ଆସାଇନ୍ମେଣ୍ଟସ୍",
+      "quizzes": "କ୍ୱିଜ୍",
+      "overdueItems": "ଓଭରଡ୍ୟୁ ଆଇଟମ୍ସ",
+      "pendingGrades": "ପେଣ୍ଡିଂ ଗ୍ରେଡ୍",
+      "classAverage": "କ୍ଲାସ୍ ଏଭେରେଜ୍"
+    },
+    "studentList": {
+      "allStudents": "ସମସ୍ତ ଛାତ୍ର",
+      "averageGrade": "ଏଭେରେଜ୍ ଗ୍ରେଡ୍",
+      "viewDetails": "ବିବରଣୀ ଦେଖନ୍ତୁ",
+      "backToOverview": "ଓଭରଭ୍ୟୁକୁ ଫେରନ୍ତୁ"
+    }
+  },
+  "status": {
+    "graded": "ଗ୍ରେଡ୍",
+    "submitted": "ଦାଖଲ",
+    "notSubmitted": "ନାହିଁ ଦାଖଲ କରାଯାଇଛି",
+    "overdue": "ବିଳମ୍ବିତ",
+    "inProgress": "ଚାଲିଛି",
+    "pending": "ପ୍ରତୀକ୍ଷାରତ",
+    "noDueDate": "କୌଣସି ଦେୟ ତାରିଖ ନାହିଁ"
+  },
+  "buttons": {
+    "viewDetails": "ବିବରଣୀ ଦେଖନ୍ତୁ",
+    "backToOverview": "ସାରାଂଶକୁ ଫେରନ୍ତୁ",
+    "backToDashboard": "ଡ୍ୟାଶବୋର୍ଡକୁ ଫେରନ୍ତୁ",
+    "close": "ବନ୍ଦ କରନ୍ତୁ",
+    "save": "ସଂରକ୍ଷଣ କରନ୍ତୁ",
+    "cancel": "ବାତିଲ କରନ୍ତୁ",
+    "enterGrade": "ଗ୍ରେଡ୍ ଦିଅନ୍ତୁ",
+    "edit": "ସଂପାଦନା କରନ୍ତୁ"
+  },
+  "labels": {
+    "due": "ଦେୟ",
+    "na": "ନାହିଁ",
+    "of": "ର"
+  }
+}

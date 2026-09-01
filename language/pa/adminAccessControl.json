@@ -1,0 +1,355 @@
+{
+  "emailSetup": {
+    "title": "ਈਮੇਲ ਟੈਂਪਲੇਟ ਸੈਟਅਪ",
+    "subtitle": "ਆਪਣੇ ਈਮੇਲ ਟੈਂਪਲੇਟ ਨੂੰ ਕੰਫੀਗਰ ਅਤੇ ਮੈਨੇਜ ਕਰੋ",
+    "backToTemplates": "ਈਮੇਲ ਟੈਂਪਲੇਟਾਂ 'ਤੇ ਵਾਪਸ ਜਾਓ",
+    "templateVariables": "ਟੈਂਪਲੇਟ ਵੈਰੀਏਬਲਸ",
+    "copyVariableTooltip": "ਵੈਰੀਏਬਲ ਕਾਪੀ ਕਰਨ ਲਈ ਕਲਿੱਕ ਕਰੋ",
+    "templateSubjectLabel": "ਟੈਂਪਲੇਟ ਦਾ ਵਿਸ਼ਾ *",
+    "templateSenderEmailLabel": "ਭੇਜਣ ਵਾਲੇ ਦੀ ਈਮੇਲ *",
+    "templateSenderDisplayNameLabel": "ਭੇਜਣ ਵਾਲੇ ਦਾ ਡਿਸਪਲੇ ਨੇਮ *",
+    "emailLayoutColorLabel": "ਈਮੇਲ ਲੇਆਉਟ ਦਾ ਰੰਗ",
+    "htmlBodyLabel": "HTML ਬਾਡੀ *",
+    "cancelButton": "ਕੈਂਸਲ",
+    "saveChangesButton": "ਬਦਲਾਅ ਸੇਵ ਕਰੋ",
+    "savingButton": "ਸੇਵ ਹੋ ਰਿਹਾ ਹੈ...",
+    "confirmBackWarning": "ਬਦਲਾਅ ਸੇਵ ਨਹੀਂ ਕੀਤੇ ਗਏ ਕੀ ਤੁਸੀਂ ਯਕੀਨੀ ਤੌਰ 'ਤੇ ਵਾਪਸ ਜਾਣਾ ਚਾਹੁੰਦੇ ਹੋ?",
+    "toasts": {
+      "failedToLoadVariables": "ਈਮੇਲ ਵੈਰੀਏਬਲ ਲੋਡ ਕਰਨ ਵਿੱਚ ਫੇਲ",
+      "failedToUpdateTemplate": "ਈਮੇਲ ਟੈਂਪਲੇਟ ਅਪਡੇਟ ਕਰਨ ਵਿੱਚ ਫੇਲ",
+      "variableCopied": "ਵੈਰੀਏਬਲ ਕਲਿੱਪਬੋਰਡ 'ਤੇ ਕਾਪੀ ਹੋ ਗਿਆ!"
+    },
+    "validation": {
+      "slNoHeader": "ਕ੍ਰਮ ਸੰ.",
+      "subjectRequired": "ਟੈਂਪਲੇਟ ਦਾ ਵਿਸ਼ਾ ਲਾਜ਼ਮੀ ਹੈ",
+      "subjectMinLength": "ਵਿਸ਼ਾ ਘੱਟੋ-ਘੱਟ 2 ਅੱਖਰਾਂ ਦਾ ਹੋਣਾ ਚਾਹੀਦਾ ਹੈ",
+      "subjectMaxLength": "ਵਿਸ਼ਾ 255 ਅੱਖਰਾਂ ਤੋਂ ਵੱਧ ਨਹੀਂ ਹੋਣਾ ਚਾਹੀਦਾ",
+      "senderEmailRequired": "ਭੇਜਣ ਵਾਲੇ ਦੀ ਈਮੇਲ ਲਾਜ਼ਮੀ ਹੈ",
+      "invalidEmailFormat": "ਈਮੇਲ ਦਾ ਫਾਰਮੈਟ ਗਲਤ ਹੈ",
+      "senderEmailMaxLength": "ਈਮੇਲ 255 ਅੱਖਰਾਂ ਤੋਂ ਵੱਧ ਨਹੀਂ ਹੋਣੀ ਚਾਹੀਦੀ",
+      "displayNameRequired": "ਡਿਸਪਲੇ ਨੇਮ ਲਾਜ਼ਮੀ ਹੈ",
+      "displayNameMinLength": "ਡਿਸਪਲੇ ਨੇਮ ਘੱਟੋ-ਘੱਟ 2 ਅੱਖਰਾਂ ਦਾ ਹੋਣਾ ਚਾਹੀਦਾ ਹੈ",
+      "displayNameMaxLength": "ਡਿਸਪਲੇ ਨੇਮ 255 ਅੱਖਰਾਂ ਤੋਂ ਵੱਧ ਨਹੀਂ ਹੋਣਾ ਚਾਹੀਦਾ"
+    }
+  },
+  "emailTemplates": {
+    "noTemplatesFound": "ਕੋਈ ਈਮੇਲ ਟੈਂਪਲੇਟ ਨਹੀਂ ਮਿਲਿਆ",
+    "subjectLabel": "ਵਿਸ਼ਾ:",
+    "contentPreview": "ਟੈਂਪਲੇਟ ਦਾ ਪ੍ਰੀਵਿਊ",
+    "editButton": "ਐਡਿਟ ਕਰੋ",
+    "toasts": {
+      "failedToLoad": "ਈਮੇਲ ਟੈਂਪਲੇਟ ਲੋਡ ਕਰਨ ਵਿੱਚ ਫੇਲ"
+    },
+    "templateNames": {
+      "set_password": "ਪਾਸਵਰਡ ਸੈੱਟ ਕਰੋ"
+    }
+  },
+  "moduleManagement": {
+    "title": "ਮੋਡੀਊਲ ਮੈਨੇਜਮੈਂਟ",
+    "subtitle": "ਸਿਸਟਮ ਮੋਡੀਊਲ ਅਤੇ ਉਨ੍ਹਾਂ ਦੇ ਮੈਟਾਡੇਟਾ ਨੂੰ ਮੈਨੇਜ ਕਰੋ",
+    "addNewButton": "ਨਵਾਂ ਮੋਡੀਊਲ ਜੋੜੋ",
+    "table": {
+      "moduleHeader": "ਮੋਡੀਊਲ",
+      "descriptionHeader": "ਵਰਣਨ",
+      "createdAtHeader": "ਬਣਾਇਆ ਗਿਆ",
+      "actionsHeader": "ਐਕਸ਼ਨਸ",
+      "noModulesFound": "ਕੋਈ ਮੋਡੀਊਲ ਨਹੀਂ ਮਿਲਿਆ",
+      "slNoHeader": "ਕ੍ਰਮ ਨੰ."
+    },
+    "form": {
+      "moduleNameLabel": "ਮੋਡੀਊਲ ਦਾ ਨਾਮ *",
+      "moduleDescriptionLabel": "ਮੋਡੀਊਲ ਦਾ ਵਰਣਨ",
+      "saveChangesButton": "ਬਦਲਾਅ ਸੇਵ ਕਰੋ",
+      "savingButton": "ਸੇਵ ਹੋ ਰਿਹਾ ਹੈ...",
+      "cancelButton": "ਕੈਂਸਲ"
+    },
+    "deleteModal": {
+      "title": "ਡਿਲੀਟ ਕਰਨ ਦੀ ਪੁਸ਼ਟੀ",
+      "message": "ਕੀ ਤੁਸੀਂ ਯਕੀਨੀ ਤੌਰ 'ਤੇ ਮੋਡੀਊਲ ਡਿਲੀਟ ਕਰਨਾ ਚਾਹੁੰਦੇ ਹੋ",
+      "undoWarning": "ਇਹ ਕਾਰਵਾਈ ਵਾਪਸ ਨਹੀਂ ਲਈ ਜਾ ਸਕਦੀ",
+      "deleteButton": "ਮੋਡੀਊਲ ਡਿਲੀਟ ਕਰੋ",
+      "cancelButton": "ਕੈਂਸਲ"
+    },
+    "toasts": {
+      "failedToLoad": "ਮੋਡੀਊਲ ਲੋਡ ਕਰਨ ਵਿੱਚ ਫੇਲ",
+      "createdSuccess": "ਮੋਡੀਊਲ ਸਫਲਤਾਪੂਰਵਕ ਬਣ ਗਿਆ",
+      "updatedSuccess": "ਮੋਡੀਊਲ ਸਫਲਤਾਪੂਰਵਕ ਅਪਡੇਟ ਹੋਇਆ",
+      "createdFailed": "ਮੋਡੀਊਲ ਬਣਾਉਣ ਵਿੱਚ ਫੇਲ",
+      "updatedFailed": "ਮੋਡੀਊਲ ਅਪਡੇਟ ਕਰਨ ਵਿੱਚ ਫੇਲ",
+      "deletedSuccess": "ਮੋਡੀਊਲ ਸਫਲਤਾਪੂਰਵਕ ਡਿਲੀਟ ਹੋਇਆ",
+      "deletedFailed": "ਮੋਡੀਊਲ ਡਿਲੀਟ ਕਰਨ ਵਿੱਚ ਫੇਲ"
+    },
+    "validation": {
+      "nameRequired": "ਮੋਡੀਊਲ ਦਾ ਨਾਮ ਲਾਜ਼ਮੀ ਹੈ",
+      "nameMinLength": "ਨਾਮ ਘੱਟੋ-ਘੱਟ 2 ਅੱਖਰਾਂ ਦਾ ਹੋਣਾ ਚਾਹੀਦਾ ਹੈ",
+      "nameMaxLength": "ਨਾਮ 100 ਅੱਖਰਾਂ ਤੋਂ ਵੱਧ ਨਹੀਂ ਹੋਣਾ ਚਾਹੀਦਾ",
+      "descriptionMaxLength": "ਵਰਣਨ 500 ਅੱਖਰਾਂ ਤੋਂ ਵੱਧ ਨਹੀਂ ਹੋਣਾ ਚਾਹੀਦਾ"
+    }
+  },
+  "pageHeader": {
+    "searchPlaceholder": "ਸਰਚ ਕਰੋ..."
+  },
+  "roleArchitectureDetail": {
+    "title": "ਰੋਲ ਆਰਕੀਟੈਕਚਰ ਦੀ ਡਿਟੇਲ",
+    "subtitle": "ਸਾਰੇ ਮੋਡੀਊਲਾਂ ਵਿੱਚ ਇਸ ਰੋਲ ਆਰਕੀਟੈਕਚਰ ਲਈ ਡਿਫਾਲਟ ਪਰਮਿਸ਼ਨਸ ਸੈੱਟ ਕਰੋ",
+    "backButton": "ਰੋਲ ਆਰਕੀਟੈਕਚਰਾਂ 'ਤੇ ਵਾਪਸ ਜਾਓ",
+    "loading": "ਮੋਡੀਊਲ ਲੋਡ ਹੋ ਰਹੇ ਹਨ...",
+    "loadFailed": "ਡੇਟਾ ਲੋਡ ਕਰਨ ਵਿੱਚ ਫੇਲ",
+    "noModulesAvailable": "ਕੰਫੀਗਰੇਸ਼ਨ ਲਈ ਕੋਈ ਮੋਡੀਊਲ ਉਪਲਬਧ ਨਹੀਂ ਹੈ",
+    "table": {
+      "moduleHeader": "ਮੋਡੀਊਲ",
+      "descriptionHeader": "ਵਰਣਨ",
+      "capabilitiesHeader": "ਸਮਰੱਥਾਵਾਂ (Capabilities)"
+    },
+    "capabilities": {
+      "create": "ਕ੍ਰਿਏਟ",
+      "read": "ਰੀਡ",
+      "edit": "ਐਡਿਟ",
+      "delete": "ਡਿਲੀਟ",
+      "enabledCount": "ਸਰਗਰਮ (enabled)"
+    },
+    "saveCapabilitiesButton": "ਸਮਰੱਥਾਵਾਂ ਸੇਵ ਕਰੋ",
+    "savingButton": "ਸੇਵ ਹੋ ਰਿਹਾ ਹੈ...",
+    "cancelButton": "ਕੈਂਸਲ",
+    "toasts": {
+      "failedToLoadModules": "ਮੋਡੀਊਲ ਲਿਸਟ ਲੋਡ ਕਰਨ ਵਿੱਚ ਫੇਲ",
+      "saveSuccess": "ਸਮਰੱਥਾਵਾਂ ਸਫਲਤਾਪੂਰਵਕ ਸੇਵ ਹੋ ਗਈਆਂ",
+      "saveFailed": "ਸਮਰੱਥਾਵਾਂ ਸੇਵ ਕਰਨ ਵਿੱਚ ਫੇਲ"
+    }
+  },
+  "roleArchitectureManagement": {
+    "title": "ਰੋਲ ਆਰਕੀਟੈਕਚਰ ਮੈਨੇਜਮੈਂਟ",
+    "subtitle": "ਯੂਜ਼ਰ ਰੋਲਾਂ ਲਈ ਡਿਫਾਲਟ ਪਰਮਿਸ਼ਨ ਸੈੱਟ ਮੈਨੇਜ ਕਰੋ",
+    "addNewButton": "ਨਵੀਂ ਆਰਕੀਟੈਕਚਰ ਜੋੜੋ",
+    "table": {
+      "roleNameHeader": "ਰੋਲ ਦਾ ਨਾਮ",
+      "descriptionHeader": "ਵਰਣਨ",
+      "createdAtHeader": "ਬਣਾਇਆ ਗਿਆ",
+      "actionsHeader": "ਐਕਸ਼ਨਸ",
+      "noArchitecturesFound": "ਕੋਈ ਰੋਲ ਆਰਕੀਟੈਕਚਰ ਨਹੀਂ ਮਿਲੀ",
+      "slNoHeader": "ਕ੍ਰਮ ਸੰ."
+    },
+    "form": {
+      "architectureNameLabel": "ਆਰਕੀਟੈਕਚਰ ਦਾ ਨਾਮ *",
+      "architectureDescriptionLabel": "ਆਰਕੀਟੈਕਚਰ ਦਾ ਵਰਣਨ",
+      "saveChangesButton": "ਬਦਲਾਅ ਸੇਵ ਕਰੋ",
+      "savingButton": "ਸੇਵ ਹੋ ਰਿਹਾ ਹੈ...",
+      "cancelButton": "ਕੈਂਸਲ"
+    },
+    "deleteModal": {
+      "title": "ਡਿਲੀਟ ਕਰਨ ਦੀ ਪੁਸ਼ਟੀ",
+      "message": "ਕੀ ਤੁਸੀਂ ਯਕੀਨੀ ਤੌਰ 'ਤੇ ਇਸ ਰੋਲ ਆਰਕੀਟੈਕਚਰ ਨੂੰ ਡਿਲੀਟ ਕਰਨਾ ਚਾਹੁੰਦੇ ਹੋ",
+      "undoWarning": "ਇਹ ਕਾਰਵਾਈ ਵਾਪਸ ਨਹੀਂ ਲਈ ਜਾ ਸਕਦੀ",
+      "deleteButton": "ਆਰਕੀਟੈਕਚਰ ਡਿਲੀਟ ਕਰੋ",
+      "cancelButton": "ਕੈਂਸਲ"
+    },
+    "toasts": {
+      "failedToLoad": "ਰੋਲ ਆਰਕੀਟੈਕਚਰ ਲੋਡ ਕਰਨ ਵਿੱਚ ਫੇਲ",
+      "createdSuccess": "ਰੋਲ ਆਰਕੀਟੈਕਚਰ ਸਫਲਤਾਪੂਰਵਕ ਬਣ ਗਈ",
+      "updatedSuccess": "ਰੋਲ ਆਰਕੀਟੈਕਚਰ ਸਫਲਤਾਪੂਰਵਕ ਅਪਡੇਟ ਹੋਈ",
+      "createdFailed": "ਰੋਲ ਆਰਕੀਟੈਕਚਰ ਬਣਾਉਣ ਵਿੱਚ ਫੇਲ",
+      "updatedFailed": "ਰੋਲ ਆਰਕੀਟੈਕਚਰ ਅਪਡੇਟ ਕਰਨ ਵਿੱਚ ਫੇਲ",
+      "deletedSuccess": "ਰੋਲ ਆਰਕੀਟੈਕਚਰ ਸਫਲਤਾਪੂਰਵਕ ਡਿਲੀਟ ਹੋਈ",
+      "deletedFailed": "ਰੋਲ ਆਰਕੀਟੈਕਚਰ ਡਿਲੀਟ ਕਰਨ ਵਿੱਚ ਫੇਲ"
+    },
+    "validation": {
+      "nameRequired": "ਰੋਲ ਆਰਕੀਟੈਕਚਰ ਦਾ ਨਾਮ ਲਾਜ਼ਮੀ ਹੈ",
+      "nameMinLength": "ਨਾਮ ਘੱਟੋ-ਘੱਟ 2 ਅੱਖਰਾਂ ਦਾ ਹੋਣਾ ਚਾਹੀਦਾ ਹੈ",
+      "nameMaxLength": "ਨਾਮ 100 ਅੱਖਰਾਂ ਤੋਂ ਵੱਧ ਨਹੀਂ ਹੋਣਾ ਚਾਹੀਦਾ",
+      "descriptionMaxLength": "ਵਰਣਨ 500 ਅੱਖਰਾਂ ਤੋਂ ਵੱਧ ਨਹੀਂ ਹੋਣਾ ਚਾਹੀਦਾ"
+    }
+  },
+  "roleManagement": {
+    "title": "ਰੋਲ ਮੈਨੇਜਮੈਂਟ",
+    "subtitle": "ਕਸਟਮ ਯੂਜ਼ਰ ਰੋਲ ਮੈਨੇਜ ਕਰੋ ਅਤੇ ਆਰਕੀਟੈਕਚਰ ਅਸਾਈਨ ਕਰੋ",
+    "addNewButton": "ਨਵਾਂ ਰੋਲ ਜੋੜੋ",
+    "table": {
+      "slNoHeader": "ਕ੍ਰਮ ਸੰ.",
+      "roleHeader": "ਰੋਲ",
+      "architectureHeader": "ਆਰਕੀਟੈਕਚਰ",
+      "descriptionHeader": "ਵਰਣਨ",
+      "createdAtHeader": "ਬਣਾਇਆ ਗਿਆ",
+      "actionsHeader": "ਐਕਸ਼ਨਸ",
+      "noRolesFound": "ਕੋਈ ਕਸਟਮ ਰੋਲ ਨਹੀਂ ਮਿਲਿਆ"
+    },
+    "form": {
+      "roleNameLabel": "ਰੋਲ ਦਾ ਨਾਮ *",
+      "roleDescriptionLabel": "ਰੋਲ ਦਾ ਵਰਣਨ",
+      "architectureLabel": "ਰੋਲ ਆਰਕੀਟੈਕਚਰ ਚੁਣੋ *",
+      "architecturePlaceholder": "ਆਰਕੀਟੈਕਚਰ ਚੁਣੋ...",
+      "saveChangesButton": "ਬਦਲਾਅ ਸੇਵ ਕਰੋ",
+      "savingButton": "ਸੇਵ ਹੋ ਰਿਹਾ ਹੈ...",
+      "cancelButton": "ਕੈਂਸਲ"
+    },
+    "deleteModal": {
+      "title": "ਡਿਲੀਟ ਕਰਨ ਦੀ ਪੁਸ਼ਟੀ",
+      "message": "ਕੀ ਤੁਸੀਂ ਯਕੀਨੀ ਤੌਰ 'ਤੇ ਰੋਲ ਡਿਲੀਟ ਕਰਨਾ ਚਾਹੁੰਦੇ ਹੋ",
+      "undoWarning": "ਇਹ ਕਾਰਵਾਈ ਵਾਪਸ ਨਹੀਂ ਲਈ ਜਾ ਸਕਦੀ",
+      "deleteButton": "ਰੋਲ ਡਿਲੀਟ ਕਰੋ",
+      "cancelButton": "ਕੈਂਸਲ"
+    },
+    "toasts": {
+      "failedToLoadRoles": "ਰੋਲ ਲੋਡ ਕਰਨ ਵਿੱਚ ਫੇਲ",
+      "failedToLoadArchitectures": "ਰੋਲ ਆਰਕੀਟੈਕਚਰ ਲੋਡ ਕਰਨ ਵਿੱਚ ਫੇਲ",
+      "createdSuccess": "ਰੋਲ ਸਫਲਤਾਪੂਰਵਕ ਬਣ ਗਿਆ",
+      "updatedSuccess": "ਰੋਲ ਸਫਲਤਾਪੂਰਵਕ ਅਪਡੇਟ ਹੋਇਆ",
+      "createdFailed": "ਰੋਲ ਬਣਾਉਣ ਵਿੱਚ ਫੇਲ",
+      "updatedFailed": "ਰੋਲ ਅਪਡੇਟ ਕਰਨ ਵਿੱਚ ਫੇਲ",
+      "deletedSuccess": "ਰੋਲ ਸਫਲਤਾਪੂਰਵਕ ਡਿਲੀਟ ਹੋਇਆ",
+      "deletedFailed": "ਰੋਲ ਡਿਲੀਟ ਕਰਨ ਵਿੱਚ ਫੇਲ"
+    },
+    "validation": {
+      "nameRequired": "ਰੋਲ ਦਾ ਨਾਮ ਲਾਜ਼ਮੀ ਹੈ",
+      "nameMinLength": "ਰੋਲ ਦਾ ਨਾਮ ਘੱਟੋ-ਘੱਟ 2 ਅੱਖਰ ਹੋਣਾ ਚਾਹੀਦਾ ਹੈ",
+      "nameMaxLength": "ਰੋਲ ਦਾ ਨਾਮ 100 ਅੱਖਰਾਂ ਤੋਂ ਵੱਧ ਨਹੀਂ ਹੋਣਾ ਚਾਹੀਦਾ",
+      "descriptionMaxLength": "ਵਰਣਨ 500 ਅੱਖਰਾਂ ਤੋਂ ਵੱਧ ਨਹੀਂ ਹੋਣਾ ਚਾਹੀਦਾ",
+      "architectureRequired": "ਰੋਲ ਆਰਕੀਟੈਕਚਰ ਲਾਜ਼ਮੀ ਹੈ"
+    }
+  },
+  "dashboardManagement": {
+    "title": "ਡੈਸ਼ਬੋਰਡ ਮੈਨੇਜਮੈਂਟ",
+    "subtitle": "ਆਪਣੇ ਰੋਲ ਅਤੇ ਪਰਮਿਸ਼ਨਸ ਨੂੰ ਵਿਵਸਥਿਤ ਕਰੋ",
+    "backButton": "ਵਾਪਸ",
+    "loading": "ਪਰਮਿਸ਼ਨਸ ਲੋਡ ਹੋ ਰਹੀਆਂ ਹਨ...",
+    "errorPrefix": "ਗਲਤੀ:",
+    "activePermissions": "ਐਕਟਿਵ ਪਰਮਿਸ਼ਨਸ:",
+    "dashboardModulesHeader": "ਡੈਸ਼ਬੋਰਡ ਮੋਡੀਊਲ",
+    "sidebarModulesHeader": "ਸਾਈਡਬਾਰ ਮੋਡੀਊਲ",
+    "moduleColumn": "ਮੋਡੀਊਲ",
+    "permissionsColumn": "ਪਰਮਿਸ਼ਨਸ",
+    "selectAll": "ਸਾਰੇ ਚੁਣੋ",
+    "savePermissionsButton": "ਪਰਮਿਸ਼ਨਸ ਸੇਵ ਕਰੋ",
+    "savingButton": "ਸੇਵ ਹੋ ਰਿਹਾ ਹੈ...",
+    "admin": "ਐਡਮਿਨ",
+    "instructor": "ਇੰਸਟ੍ਰਕਟਰ",
+    "student": "ਵਿਦਿਆਰਥੀ",
+    "toasts": {
+      "saveSuccess": "ਪਰਮਿਸ਼ਨਸ ਸਫਲਤਾਪੂਰਵਕ ਸੇਵ ਹੋ ਗਈਆਂ",
+      "saveFailed": "ਪਰਮਿਸ਼ਨਸ ਸੇਵ ਕਰਨ ਵਿੱਚ ਫੇਲ"
+    },
+    "roleLabel": "ਰੋਲ",
+    "permissionsSectionTitle": "ਮੋਡੀਊਲ ਪਰਮੀਸ਼ਨ",
+    "selectRoleDisclaimer": "ਪਰਮੀਸ਼ਨ ਬਦਲਣ ਲਈ ਰੋਲ ਚੁਣੋ.",
+    "modulesCount": "{{count}} ਮੋਡੀਊਲ",
+    "sidebarItemsCount": "{{count}} ਆਈਟਮ",
+    "noModulesForRole": "ਇਸ ਰੋਲ ਲਈ ਕੋਈ ਮੋਡੀਊਲ ਉਪਲਬਧ ਨਹੀਂ",
+    "teacher": "ਅਧਿਆਪਕ",
+    "toggleDisabled": "ਇਹ ਪਰਮੀਸ਼ਨ ਅਸਥਾਈ ਤੌਰ ਤੇ ਉਪਲਬਧ ਨਹੀਂ ਹੈ",
+    "toggleAlwaysOn": "ਇਸ ਟੌਗਲ ਨੂੰ ਬੰਦ ਨਹੀਂ ਕੀਤਾ ਜਾ ਸਕਦਾ"
+  },
+  "smtpConfiguration": {
+    "title": "SMTP ਕੰਫੀਗਰੇਸ਼ਨ",
+    "subtitle": "ਆਪਣੀਆਂ SMTP ਸੈਟਿੰਗਾਂ ਸੈੱਟਅਪ ਕਰੋ",
+    "backToControl": "ਐਕਸੈਸ ਕੰਟਰੋਲ 'ਤੇ ਵਾਪਸ ਜਾਓ",
+    "hostLabel": "SMTP ਹੋਸਟ ਅਤੇ ਪੋਰਟ *",
+    "hostPlaceholder": "ਜਿਵੇਂ mail.example.com:465",
+    "securityLabel": "SMTP ਸਕਿਓਰਿਟੀ",
+    "securityHelpText": "ਪੋਰਟ 465 ਲਈ 'ssl' ਜਾਂ ਪੋਰਟ 587 ਲਈ 'tls' ਚੁਣੋ",
+    "securityNone": "ਕੋਈ ਨਹੀਂ",
+    "securitySSL": "SSL",
+    "securityTLS": "TLS",
+    "usernameLabel": "SMTP ਯੂਜ਼ਰਨੇਮ *",
+    "usernamePlaceholder": "ਜਿਵੇਂ noreply@example.com",
+    "passwordLabel": "SMTP ਪਾਸਵਰਡ *",
+    "noreplyEmailLabel": "No-reply ਈਮੇਲ *",
+    "noreplyEmailHelpText": "ਇਹ ਈਮੇਲ ਆਟੋਮੈਟਿਕ ਨੋਟੀਫਿਕੇਸ਼ਨਾਂ ਲਈ 'From' ਐਡਰੈੱਸ ਵਜੋਂ ਵਰਤੀ ਜਾਵੇਗੀ",
+    "noreplyDisplayNameLabel": "No-reply ਡਿਸਪਲੇ ਨੇਮ *",
+    "noreplyDisplayNamePlaceholder": "ਜਿਵੇਂ InstructoHub ਨੋਟੀਫਿਕੇਸ਼ਨ",
+    "noreplyDisplayNameHelpText": "ਭੇਜਣ ਵਾਲੇ ਵਜੋਂ ਦਿਖਾਇਆ ਜਾਣ ਵਾਲਾ ਨਾਮ",
+    "cancelButton": "ਕੈਂਸਲ",
+    "saveConfigurationButton": "ਕੰਫੀਗਰੇਸ਼ਨ ਸੇਵ ਕਰੋ",
+    "savingButton": "ਸੇਵ ਹੋ ਰਿਹਾ ਹੈ...",
+    "toasts": {
+      "failedToLoad": "SMTP ਕੰਫੀਗਰੇਸ਼ਨ ਲੋਡ ਕਰਨ ਵਿੱਚ ਫੇਲ",
+      "updateSuccess": "SMTP ਕੰਫੀਗਰੇਸ਼ਨ ਸਫਲਤਾਪੂਰਵਕ ਅਪਡੇਟ ਹੋਈ",
+      "updateFailed": "SMTP ਕੰਫੀਗਰੇਸ਼ਨ ਅਪਡੇਟ ਕਰਨ ਵਿੱਚ ਫੇਲ"
+    },
+    "validation": {
+      "hostRequired": "SMTP ਹੋਸਟ ਲਾਜ਼ਮੀ ਹੈ",
+      "hostInvalidFormat": "ਫਾਰਮੈਟ ਗਲਤ ਹੈ host:port ਦੀ ਵਰਤੋਂ ਕਰੋ",
+      "securityInvalid": "ਸਕਿਓਰਿਟੀ ਖਾਲੀ, ssl, ਜਾਂ tls ਹੋਣੀ ਚਾਹੀਦੀ ਹੈ",
+      "usernameRequired": "SMTP ਯੂਜ਼ਰਨੇਮ ਲਾਜ਼ਮੀ ਹੈ",
+      "usernameMaxLength": "ਯੂਜ਼ਰਨੇਮ 255 ਅੱਖਰਾਂ ਤੋਂ ਵੱਧ ਨਹੀਂ ਹੋਣਾ ਚਾਹੀਦਾ",
+      "passwordRequired": "SMTP ਪਾਸਵਰਡ ਲਾਜ਼ਮੀ ਹੈ",
+      "passwordMaxLength": "ਪਾਸਵਰਡ 255 ਅੱਖਰਾਂ ਤੋਂ ਵੱਧ ਨਹੀਂ ਹੋਣਾ ਚਾਹੀਦਾ",
+      "noreplyEmailRequired": "No-reply ਈਮੇਲ ਲਾਜ਼ਮੀ ਹੈ",
+      "noreplyEmailInvalidFormat": "ਈਮੇਲ ਫਾਰਮੈਟ ਗਲਤ ਹੈ",
+      "noreplyEmailMaxLength": "ਈਮੇਲ 255 ਅੱਖਰਾਂ ਤੋਂ ਵੱਧ ਨਹੀਂ ਹੋਣੀ ਚਾਹੀਦੀ",
+      "noreplyDisplayNameRequired": "No-reply ਡਿਸਪਲੇ ਨੇਮ ਲਾਜ਼ਮੀ ਹੈ",
+      "noreplyDisplayNameMinLength": "ਡਿਸਪਲੇ ਨੇਮ ਘੱਟੋ-ਘੱਟ 2 ਅੱਖਰਾਂ ਦਾ ਹੋਣਾ ਚਾਹੀਦਾ ਹੈ",
+      "noreplyDisplayNameMaxLength": "ਡਿਸਪਲੇ ਨੇਮ 255 ਅੱਖਰਾਂ ਤੋਂ ਵੱਧ ਨਹੀਂ ਹੋਣਾ ਚਾਹੀਦਾ"
+    }
+  },
+  "accessControlDisplay": {
+    "emailSetupTitle": "ਈਮੇਲ ਸੈੱਟਅਪ",
+    "emailSetupDescription": "ਈਮੇਲ ਟੈਂਪਲੇਟ ਅਤੇ ਨੋਟੀਫਿਕੇਸ਼ਨ ਸੈਟਿੰਗਾਂ ਨੂੰ ਕੰਫੀਗਰ ਕਰੋ",
+    "smtpConfigurationTitle": "SMTP ਕੰਫੀਗਰੇਸ਼ਨ",
+    "smtpConfigurationDescription": "SMTP ਸਰਵਰ ਅਤੇ ਸੈਟਿੰਗਾਂ ਨੂੰ ਕੰਫੀਗਰ ਕਰੋ",
+    "dashboardManagementTitle": "ਡੈਸ਼ਬੋਰਡ ਮੈਨੇਜਮੈਂਟ",
+    "dashboardManagementDescription": "ਡੈਸ਼ਬੋਰਡ ਮੋਡੀਊਲਾਂ ਲਈ ਰੋਲ ਅਤੇ ਪਰਮਿਸ਼ਨਸ ਮੈਨੇਜ ਕਰੋ",
+    "roleArchitectureManagementTitle": "ਰੋਲ ਆਰਕੀਟੈਕਚਰ ਮੈਨੇਜਮੈਂਟ",
+    "roleArchitectureManagementDescription": "ਯੂਜ਼ਰ ਰੋਲਾਂ ਲਈ ਡਿਫਾਲਟ ਪਰਮਿਸ਼ਨਸ ਮੈਨੇਜ ਕਰੋ",
+    "roleManagementTitle": "ਰੋਲ ਮੈਨੇਜਮੈਂਟ",
+    "roleManagementDescription": "ਕਸਟਮ ਯੂਜ਼ਰ ਰੋਲ ਮੈਨੇਜ ਕਰੋ ਅਤੇ ਆਰਕੀਟੈਕਚਰ ਅਸਾਈਨ ਕਰੋ"
+  },
+  "customRoleDetail": {
+    "title": "ਰੋਲ ਕੈਪੇਬਿਲਟੀ (Capability) ਕਸਟਮਾਈਜ਼ੇਸ਼ਨ",
+    "subtitle": "ਇਸ ਖਾਸ ਰੋਲ ਲਈ ਪਰਮਿਸ਼ਨਸ ਨੂੰ ਕਸਟਮਾਈਜ਼ ਕਰੋ ਇੱਥੇ ਕੀਤੇ ਬਦਲਾਅ ਡਿਫਾਲਟ ਆਰਕੀਟੈਕਚਰ ਨੂੰ ਓਵਰਰਾਈਡ ਕਰਨਗੇ",
+    "backButton": "ਰੋਲਾਂ 'ਤੇ ਵਾਪਸ ਜਾਓ",
+    "pageHeader": {
+      "title": "ਸਮਰੱਥਾਵਾਂ (Capabilities) ਮੈਨੇਜ ਕਰੋ: {{roleName}}",
+      "subtitle": "ਕਸਟਮ ਰੋਲ ਲਈ ਪਰਮਿਸ਼ਨਸ ਸੈੱਟ ਕਰੋ (ਆਰਕੀਟੈਕਚਰ: {{architectureName}})",
+      "unknownArchitecture": "ਅਣਜਾਣ"
+    },
+    "saveCapabilitiesButton": "ਸਮਰੱਥਾਵਾਂ ਸੇਵ ਕਰੋ",
+    "savingButton": "ਸੇਵ ਹੋ ਰਿਹਾ ਹੈ...",
+    "loading": "ਮੋਡੀਊਲ ਅਤੇ ਸਮਰੱਥਾਵਾਂ ਲੋਡ ਹੋ ਰਹੀਆਂ ਹਨ...",
+    "loadFailed": "ਡੇਟਾ ਲੋਡ ਕਰਨ ਵਿੱਚ ਫੇਲ",
+    "emptyState": {
+      "title": "ਕੋਈ ਮੋਡੀਊਲ ਨਹੀਂ ਮਿਲਿਆ",
+      "description": "ਸਮਰੱਥਾਵਾਂ ਅਸਾਈਨ ਕਰਨ ਤੋਂ ਪਹਿਲਾਂ ਕਿਰਪਾ ਕਰਕੇ ਮੋਡੀਊਲ ਬਣਾਓ",
+      "goToModuleManagementButton": "ਮੋਡੀਊਲ ਮੈਨੇਜਮੈਂਟ 'ਤੇ ਜਾਓ"
+    },
+    "sections": {
+      "learningActivities": {
+        "title": "ਲਰਨਿੰਗ ਐਕਟੀਵਿਟੀਜ਼",
+        "description": "ਕੋਰਸ ਪੱਧਰ ਦੀਆਂ ਐਕਟੀਵਿਟੀਜ਼ ਲਈ View, Create, Edit ਅਤੇ Delete ਪਰਮਿਸ਼ਨਸ ਕੰਫੀਗਰ ਕਰੋ"
+      },
+      "tools": {
+        "title": "ਟੂਲਸ",
+        "description": "ਕੋਰਸ ਟੂਲਸ ਲਈ ਵਿਜ਼ੀਬਿਲਟੀ (View) ਕੰਫੀਗਰ ਕਰੋ"
+      }
+    },
+    "capabilities": {
+      "create": "ਕ੍ਰਿਏਟ",
+      "read": "ਵੇਖੋ (View)",
+      "edit": "ਐਡਿਟ",
+      "delete": "ਡਿਲੀਟ",
+      "enabledCount": "ਸਰਗਰਮ (enabled)"
+    },
+    "table": {
+      "moduleNameHeader": "ਮੋਡੀਊਲ ਦਾ ਨਾਮ",
+      "toolNameHeader": "ਟੂਲ ਦਾ ਨਾਮ",
+      "moduleHeader": "ਮੋਡੀਊਲ",
+      "descriptionHeader": "ਵਰਣਨ",
+      "capabilitiesHeader": "ਸਮਰੱਥਾਵਾਂ (Capabilities)"
+    },
+    "resetModal": {
+      "title": "ਸਮਰੱਥਾਵਾਂ ਨੂੰ ਡਿਫਾਲਟ 'ਤੇ ਰੀਸੈਟ ਕਰੋ",
+      "message": "ਕੀ ਤੁਸੀਂ ਯਕੀਨੀ ਤੌਰ 'ਤੇ ਸਾਰੀਆਂ ਸਮਰੱਥਾਵਾਂ ਨੂੰ ਰੀਸੈਟ ਕਰਨਾ ਚਾਹੁੰਦੇ ਹੋ",
+      "message2": "ਉਨ੍ਹਾਂ ਦੀਆਂ ਡਿਫਾਲਟ ਸੈਟਿੰਗਾਂ 'ਤੇ?",
+      "warning1": "ਇਹ ਰੋਲ ਦੇ ਆਰਕੀਟੈਕਚਰ ਟੈਂਪਲੇਟ ਵਿੱਚ ਦਿੱਤੀਆਂ ਸਮਰੱਥਾਵਾਂ ਨੂੰ ਬਹਾਲ ਕਰ ਦੇਵੇਗਾ",
+      "warning2": "ਕੋਈ ਵੀ ਕਸਟਮ ਬਦਲਾਅ ਗਾਇਬ ਹੋ ਜਾਵੇਗਾ",
+      "cancelButton": "ਕੈਂਸਲ",
+      "resettingButton": "ਰੀਸੈਟ ਹੋ ਰਿਹਾ ਹੈ...",
+      "resetToDefaultButton": "ਡਿਫਾਲਟ 'ਤੇ ਰੀਸੈਟ ਕਰੋ"
+    },
+    "toasts": {
+      "loadError": "ਰੋਲ ਦੀਆਂ ਸਮਰੱਥਾਵਾਂ ਲੋਡ ਕਰਨ ਵਿੱਚ ਫੇਲ",
+      "resetSuccess": "{{roleName}} ਦੀਆਂ ਸਮਰੱਥਾਵਾਂ ਡਿਫਾਲਟ 'ਤੇ ਸਫਲਤਾਪੂਰਵਕ ਰੀਸੈਟ ਹੋ ਗਈਆਂ!",
+      "resetFailed": "ਸਮਰੱਥਾਵਾਂ ਰੀਸੈਟ ਕਰਨ ਵਿੱਚ ਫੇਲ",
+      "updateSuccess": "ਰੋਲ ਦੀਆਂ ਸਮਰੱਥਾਵਾਂ ਸਫਲਤਾਪੂਰਵਕ ਅਪਡੇਟ ਹੋਈਆਂ",
+      "updateFailed": "ਸਮਰੱਥਾਵਾਂ ਅਪਡੇਟ ਕਰਨ ਵਿੱਚ ਫੇਲ"
+    }
+  }
+}

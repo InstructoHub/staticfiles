@@ -1,0 +1,205 @@
+{
+  "stepper": {
+    "courseDetails": "कोर्स की डिटेल्स",
+    "contentPreference": "अपना कंटेंट अपलोड करें",
+    "moduleCreation": "मॉड्यूल क्रिएशन",
+    "defineStructure": "स्ट्रक्चर डिफाइन करें",
+    "reviewPrompts": "प्रॉम्प्ट्स रिव्यू करें",
+    "courseReview": "कोर्स का रिव्यू"
+  },
+  "pageHeader": {
+    "backButtonTitle": "पिछले स्टेप पर वापस जाएं",
+    "resetButtonTitle": "इनिशियल स्टेट पर रिसेट करें"
+  },
+  "pageActions": {
+    "save": "सेव",
+    "saveAndContinue": "सेव और कंटिन्यू"
+  },
+  "uploadFiles": {
+    "title": "अपना कंटेंट अपलोड करें",
+    "description": "बस मुझे बताएं कि आप अपना कोर्स कंटेंट बनाना कैसे स्टार्ट करना चाहेंगे।",
+    "uploadTitle": "सोर्सेज अपलोड करें",
+    "dragDropText": "ड्रैग और ड्रॉप करें या फाइल चुनें",
+    "supportedFilesText": "सपोर्टेड फाइल टाइप्स: PDF, HTML, MP4",
+    "selectedFilesLabel": "सिलेक्टेड फाइल्स:",
+    "sourceLimitLabel": "सोर्स की लिमिट",
+    "continueButtonText": "कंटिन्यू",
+    "errors": {
+      "unsupportedFiles": "फाइल(s) के टाइप सपोर्टेड नहीं हैं। सपोर्टेड: PDF, HTML, MP4",
+      "maxFilesExceeded": "मैक्सिमम {{max}} फाइल्स अलाउड हैं",
+      "fileSizeExceeded": "टोटल फाइल साइज 1 GB की लिमिट से ज्यादा है",
+      "noFilesSelected": "कंटिन्यू करने के लिए प्लीज कम से कम एक फाइल सिलेक्ट करें",
+      "uploadFailed": "फाइल्स अपलोड करने में फेल",
+      "NotReadable": "अपलोड की गई फाइलें पढ़ी नहीं जा सकीं। कृपया इसे हटाएं और फिर से प्रयास करें।"
+    },
+    "alerts": {
+      "loadState": {
+        "title": "आपने अपना पिछला ड्राफ्ट अधूरा छोड़ दिया था। क्या आप वहीं से शुरू करना चाहेंगे जहाँ आपने छोड़ा था या फ्रेश स्टार्ट करना चाहेंगे?",
+        "confirmText": "रिज्यूम",
+        "cancelText": "रिस्टार्ट"
+      }
+    },
+    "tooltips": {
+      "uploadInfo": "आप PDF, HTML, या MP4 फाइल्स अपलोड कर सकते हैं",
+      "fileSizeInfo": "मैक्सिमम टोटल फाइल साइज 1 GB है"
+    }
+  },
+  "createModules": {
+    "title": "मॉड्यूल्स की संख्या सिलेक्ट करें",
+    "description": "प्लीज स्पेसिफाई करें कि आप अपने कोर्स के लिए कितने मॉड्यूल्स क्रिएट करना चाहेंगे।",
+    "moduleLabel": "मॉड्यूल्स:",
+    "errors": {
+      "saveFailed": "मॉड्यूल काउंट सेव करने में फेल। प्लीज फिर से ट्राई करें।",
+      "networkError": "नेटवर्क एरर। प्लीज अपना कनेक्शन चेक करें।"
+    },
+    "tooltips": {
+      "moduleInfo": "आप 1 से 8 के बीच मॉड्यूल्स क्रिएट कर सकते हैं"
+    },
+    "promptLabel": "प्रारंभिक प्रॉम्प्ट:",
+    "promptPlaceholder": "मॉड्यूल बनाने को गाइड करने के लिए एक प्रारंभिक प्रॉम्प्ट दें (वैकल्पिक)"
+  },
+  "defineStructure": {
+    "quickTips": "क्विक टिप्स",
+    "title": "स्ट्रक्चर डिफाइन करें",
+    "description": "मॉड्यूल्स क्रिएट करके और लर्निंग ऑब्जेक्ट्स ऐड करके अपने कोर्स का स्ट्रक्चर डिजाइन करें।",
+    "learningObjectsTitle": "लर्निंग ऑब्जेक्ट्स",
+    "quickTipsText": "मॉड्यूल्स को रिऑर्डर करने के लिए उन्हें ड्रैग करें। राइट पैनल से लर्निंग ऑब्जेक्ट्स को मॉड्यूल्स में ड्रैग और ड्रॉप करें।",
+    "addModuleButton": "ऐड मॉड्यूल",
+    "dragDropText": "लर्निंग ऑब्जेक्ट्स को यहाँ ड्रैग और ड्रॉप करें",
+    "noDataTitle": "कोई डेटा नहीं मिला",
+    "noDataContent": "डिस्प्ले करने के लिए कोई आइटम्स नहीं हैं",
+    "modulePlaceholder": "यहाँ टाइटल एंटर करें",
+    "moduleContentPlaceholder": "यहाँ कंटेंट ऐड करें",
+    "learningObjects": {
+      "moduleIntroduction": "मॉड्यूल का इंट्रोडक्शन",
+      "learningObjectives": "लर्निंग ऑब्जेक्टिव्स",
+      "readingMaterial": "रीडिंग मटेरियल",
+      "assignment": "असाइनमेंट",
+      "discussionForum": "डिस्कशन फोरम",
+      "caseStudy": "केस स्टडी",
+      "experiments": "एक्सपेरिमेंट्स",
+      "learningOutcomes": "लर्निंग आउटकम्स"
+    },
+    "errors": {
+      "titleRequired": "टाइटल की फील्ड जरूरी है",
+      "noLearningObjects": "प्लीज सभी मॉड्यूल्स में लर्निंग ऑब्जेक्ट्स ऐड करें।",
+      "lo_Required": "लर्निंग आउटकम फ़ील्ड ज़रूरी है"
+    },
+    "alerts": {
+      "confirm": {
+        "title": "आपका कोर्स बहुत बढ़िया बन रहा है! क्या मैं आगे बढ़ूँ?",
+        "confirmText": "हाँ"
+      }
+    },
+    "tooltips": {
+      "dragModules": "मॉड्यूल्स को रिऑर्डर करने के लिए क्लिक और ड्रैग करें",
+      "dragObjects": "राइट पैनल से लर्निंग ऑब्जेक्ट्स को मॉड्यूल्स में ड्रैग करें"
+    }
+  },
+  "reviewPrompts": {
+    "title": "प्रॉम्प्ट्स रिव्यू करें",
+    "description": "अपने मॉड्यूल कंटेंट को रिव्यू और रिफाइन करें।",
+    "moduleStructure": "प्रपोज्ड मॉड्यूल का स्ट्रक्चर",
+    "quickTipsText": "मॉड्यूल के नाम और डिस्क्रिप्शन को मॉडिफाई करने के लिए एडिट बटन पर क्लिक करें। जब आप सेव बटन पर क्लिक करते हैं तो सभी चेंजेस ऑटोमैटिकली सेव हो जाते हैं।",
+    "addButton": "ऐड",
+    "moduleNamePlaceholder": "मॉड्यूल का नाम एंटर करें",
+    "titlePlaceholder": "टाइटल एंटर करें",
+    "promptPlaceholder": "प्रॉम्प्ट एंटर करें",
+    "untitledContent": "अनटाइटल्ड कंटेंट",
+    "titleText": "टाइटल",
+    "promptText": "प्रॉम्प्ट",
+    "addDropdown": {
+      "page": "पेज",
+      "assignment": "असाइनमेंट",
+      "forum": "फोरम"
+    },
+    "contentTypes": {
+      "page": "पेज",
+      "assignment": "असाइनमेंट",
+      "forum": "फोरम"
+    },
+    "noContentMessage": "अभी तक कोई कंटेंट आइटम्स नहीं हैं। एक बनाने के लिए 'ऐड' पर क्लिक करें।",
+    "errors": {
+      "moduleNameRequired": "मॉड्यूल के नाम की फील्ड जरूरी है",
+      "titleRequired": "टाइटल की फील्ड जरूरी है",
+      "promptRequired": "प्रॉम्प्ट की फील्ड जरूरी है"
+    },
+    "alerts": {
+      "confirm": {
+        "title": "सुनिश्चित कर लें कि आपने अपने सभी मॉड्यूल्स में चेंजेस कर लिए हैं। क्या मैं आगे बढ़ूँ?",
+        "confirmText": "हाँ"
+      }
+    },
+    "tooltips": {
+      "editInfo": "मॉड्यूल के नाम और डिस्क्रिप्शन को एडिट करने के लिए क्लिक करें"
+    }
+  },
+  "courseReview": {
+    "title": "कोर्स का रिव्यू",
+    "description": "आपके कोर्स कंटेंट का फाइनल रिव्यू।",
+    "addTitleHere": "यहाँ टाइटल ऐड करें",
+    "addContentHere": "यहाँ कंटेंट ऐड करें",
+    "noDataTitle": "कोई डेटा नहीं मिला",
+    "noDataContent": "डिस्प्ले करने के लिए कोई आइटम्स नहीं हैं",
+    "regenerateButton": "रीजनरेट",
+    "saveChangesButton": "चेंजेस सेव करें",
+    "createCourseButton": "आगे बढ़ें और कोर्स क्रिएट करें",
+    "contentTypes": {
+      "page": "पेज",
+      "assignment": "असाइनमेंट",
+      "forum": "फोरम"
+    },
+    "errors": {
+      "moduleNameRequired": "मॉड्यूल के नाम की फील्ड जरूरी है",
+      "titleRequired": "टाइटल की फील्ड जरूरी है",
+      "contentRequired": "कंटेंट की फील्ड जरूरी है"
+    },
+    "alerts": {
+      "confirm": {
+        "title": "मैं सिर्फ आर्टिफिशियल हूँ, लेकिन असली एक्सपर्ट तो आप हैं! आपका विजन, आपकी ब्रिलिएंस—क्या मैं इसे हकीकत में बदल दूँ?",
+        "confirmText": "हाँ"
+      }
+    },
+    "regeneratePrompt": {
+      "title": "कंटेंट रीजनरेट करें",
+      "submitButton": "सबमिट",
+      "cancelButton": "कैंसिल"
+    },
+    "tooltips": {
+      "regenerateInfo": "इस कंटेंट को एक नए प्रॉम्प्ट के साथ रीजनरेट करें"
+    }
+  },
+  "commonMessages": {
+    "success": {
+      "saved": "स्टेट सक्सेसफुली सेव हो गई",
+      "uploadSuccess": "सक्सेसफुली अपलोड हो गया।",
+      "moduleSuccess": "मॉड्यूल्स सक्सेसफुली क्रिएट हो गए।"
+    },
+    "error": {
+      "somethingWrong": "कुछ गलत हो गया। प्लीज फिर से ट्राई करें।",
+      "dataNosave": "डेटा सेव नहीं हुआ है। प्लीज फिर से ट्राई करें!"
+    },
+    "alerts": {
+      "backConfirm": {
+        "title": "वापस जाने से प्रोग्रेस डिस्कार्ड हो जाएगी। क्या आप आगे बढ़ना चाहते हैं?",
+        "confirmText": "हाँ",
+        "cancelText": "नहीं"
+      },
+      "resetConfirm": {
+        "title": "क्या आप श्योर हैं कि आप स्क्रैच से स्टार्ट करना चाहते हैं?",
+        "confirmText": "हाँ",
+        "cancelText": "नहीं"
+      }
+    }
+  },
+  "shared": {
+    "moduleLabel": "मॉड्यूल"
+  },
+  "alerts": {
+    "resetConfirm": "सुनिश्चित कर लें कि आपने अपने सभी मॉड्यूल्स में चेंजेस कर लिए हैं। क्या मैं आगे बढ़ूँ?",
+    "confirmText": "हाँ"
+  },
+  "contentPreference": {
+    "uploadingText": "अपलोड हो रहा है..."
+  }
+}

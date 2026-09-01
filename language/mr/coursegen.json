@@ -1,0 +1,205 @@
+{
+  "stepper": {
+    "contentPreference": "सामग्री प्राधान्य",
+    "moduleCreation": "आपली सामग्री अपलोड करा",
+    "defineStructure": "रचना परिभाषित करा",
+    "reviewPrompts": "प्रॉम्प्ट्स पुनरावलोकन करा",
+    "courseReview": "अभ्यासक्रम पुनरावलोकन",
+    "courseDetails": "कोर्स डिटेल्स"
+  },
+  "pageHeader": {
+    "backButtonTitle": "मागील पायरीवर जा",
+    "resetButtonTitle": "प्रारंभिक अवस्थेत रीसेट करा"
+  },
+  "pageActions": {
+    "save": "जतन करा",
+    "saveAndContinue": "जतन करा आणि पुढे जा"
+  },
+  "uploadFiles": {
+    "title": "आपली सामग्री अपलोड करा",
+    "description": "मला फक्त सांगा की तुम्ही आपली अभ्यासक्रम सामग्री बनवणे कसे सुरू करू इच्छिता.",
+    "uploadTitle": "स्रोत अपलोड करा",
+    "dragDropText": "ड्रॅग करा आणि ड्रॉप करा किंवा फाइल निवडा",
+    "supportedFilesText": "समर्थित फाइल प्रकार: PDF, HTML, MP4",
+    "selectedFilesLabel": "निवडलेल्या फाइली:",
+    "sourceLimitLabel": "स्रोत मर्यादा",
+    "continueButtonText": "पुढे जा",
+    "errors": {
+      "unsupportedFiles": "{count} फाइल(या) ला असमर्थित प्रकार आहेत. समर्थित: PDF, HTML, MP4",
+      "maxFilesExceeded": "जास्तीत जास्त {max} फाइली परवानगी आहे",
+      "fileSizeExceeded": "एकूण फाइल आकार १ GB मर्यादा ओलांडून गेला",
+      "noFilesSelected": "पुढे जाण्यासाठी कमीत कमी एक फाइल निवडा",
+      "uploadFailed": "फाइली अपलोड करणे अयशस्वी",
+      "NotReadable": "अपलोड केलेले फाइल्स वाचता येत नाहीत. कृपया ते काढा आणि पुन्हा प्रयत्न करा."
+    },
+    "alerts": {
+      "loadState": {
+        "title": "तुम्ही तुमचा शेवटचा मसुदा अपूर्ण ठेवला होता. तुम्हाला जिथे सोडले होते तिथून सुरू करायचे आहे की नव्याने सुरुवात करायची आहे?",
+        "confirmText": "पुन्हा सुरू करा",
+        "cancelText": "नवीन सुरुवात करा"
+      }
+    },
+    "tooltips": {
+      "uploadInfo": "तुम्ही PDF, HTML किंवा MP4 फाइली अपलोड करू शकता",
+      "fileSizeInfo": "कमाल एकूण फाइल आकार १ GB आहे"
+    }
+  },
+  "createModules": {
+    "title": "मॉड्यूलची संख्या निवडा",
+    "description": "कृपया निर्दिष्ट करा की तुम्हाला आपल्या अभ्यासक्रमसाठी किती मॉड्यूल बनवायचे आहेत.",
+    "moduleLabel": "मॉड्यूल:",
+    "errors": {
+      "saveFailed": "मॉड्यूल संख्या जतन करणे अयशस्वी. कृपया पुन्हा प्रयत्न करा.",
+      "networkError": "नेटवर्क त्रुटी. कृपया आपले कनेक्शन तपासा."
+    },
+    "tooltips": {
+      "moduleInfo": "तुम्ही १ ते ८ मॉड्यूल बनवू शकता"
+    },
+    "promptLabel": "प्रारंभिक प्रॉम्प्ट:",
+    "promptPlaceholder": "मॉड्यूल तयार करताना मार्गदर्शनासाठी एक प्रारंभिक प्रॉम्प्ट द्या (ऐच्छिक)"
+  },
+  "defineStructure": {
+    "quickTips": "त्वरित सूचना",
+    "title": "रचना परिभाषित करा",
+    "description": "मॉड्यूल बनवून आणि शिक्षण वस्तू जोडून आपली अभ्यासक्रम रचना डिজाइन करा.",
+    "learningObjectsTitle": "शिक्षण वस्तू",
+    "quickTipsText": "मॉड्यूल पुन:क्रमांकित करण्यासाठी ड्रॅग करा. उजव्या पॅनेलमधून मॉड्यूलमध्ये शिक्षण वस्तू ड्रॅग आणि ड्रॉप करा.",
+    "addModuleButton": "मॉड्यूल जोडा",
+    "dragDropText": "येथे शिक्षण वस्तू ड्रॅग आणि ड्रॉप करा",
+    "noDataTitle": "कोणताही डेटा मिळाला नाही",
+    "noDataContent": "प्रदर्शित करण्यासाठी कोणतेही आयटम नाहीत",
+    "errors": {
+      "titleRequired": "शीर्षक क्षेत्र आवश्यक आहे",
+      "noLearningObjects": "कृपया सर्व मॉड्यूलमध्ये शिक्षण वस्तू जोडा.",
+      "lo_Required": "शिकण्याचे उद्दिष्ट भरणे आवश्यक आहे"
+    },
+    "alerts": {
+      "confirm": {
+        "title": "आपला अभ्यासक्रम अद्भुतपणे आकार घेत आहे! मी पुढे जाऊ शकतो?",
+        "confirmText": "हो"
+      }
+    },
+    "tooltips": {
+      "dragModules": "पुन:क्रमांकित करण्यासाठी क्लिक आणि ड्रॅग करा",
+      "dragObjects": "उजव्या पॅनेलमधून मॉड्यूलमध्ये शिक्षण वस्तू ड्रॅग करा"
+    },
+    "modulePlaceholder": "इथे शीर्षक टाका",
+    "moduleContentPlaceholder": "इथे सामग्री जोडा",
+    "learningObjects": {
+      "moduleIntroduction": "मॉड्यूल परिचय",
+      "learningObjectives": "शिक्षण उद्दिष्टे",
+      "readingMaterial": "वाचन सामग्री",
+      "assignment": "असाइनमेंट",
+      "discussionForum": "चर्चा फोरम",
+      "caseStudy": "केस स्टडी",
+      "experiments": "प्रयोग",
+      "learningOutcomes": "शिकण्याची उद्दिष्टे"
+    }
+  },
+  "reviewPrompts": {
+    "title": "प्रॉम्प्ट्स पुनरावलोकन करा",
+    "description": "आपली मॉड्यूल सामग्री पुनरावलोकन आणि परिष्कृत करा.",
+    "moduleStructure": "प्रस्तावित मॉड्यूल रचना",
+    "quickTipsText": "मॉड्यूल नावे आणि वर्णने संपादित करण्यासाठी संपादित बटण क्लिक करा.",
+    "addButton": "जोडा",
+    "titleText": "शीर्षक",
+    "promptText": "प्रॉम्प्ट",
+    "addDropdown": {
+      "page": "पृष्ठ",
+      "assignment": "असाइनमेंट",
+      "forum": "फोरम"
+    },
+    "noContentMessage": "अद्याप कोणताही सामग्री आयटम नाही. एक बनवण्यासाठी 'जोडा' क्लिक करा.",
+    "errors": {
+      "moduleNameRequired": "मॉड्यूल नाव क्षेत्र आवश्यक आहे",
+      "titleRequired": "शीर्षक क्षेत्र आवश्यक आहे",
+      "promptRequired": "प्रॉम्प्ट क्षेत्र आवश्यक आहे"
+    },
+    "alerts": {
+      "confirm": {
+        "title": "सुनिश्चित करा की तुम्ही सर्व मॉड्यूलमध्ये बदल केले आहेत. मी पुढे जाऊ शकतो?",
+        "confirmText": "हो"
+      }
+    },
+    "tooltips": {
+      "editInfo": "संपादित करण्यासाठी क्लिक करा"
+    },
+    "moduleNamePlaceholder": "मॉड्यूलचे नाव टाका",
+    "titlePlaceholder": "शीर्षक टाका",
+    "promptPlaceholder": "प्रॉम्प्ट टाका",
+    "untitledContent": "अनामित सामग्री",
+    "contentTypes": {
+      "page": "पृष्ठ",
+      "assignment": "असाइनमेंट",
+      "forum": "फोरम"
+    }
+  },
+  "courseReview": {
+    "title": "अभ्यासक्रम पुनरावलोकन",
+    "description": "आपल्या अभ्यासक्रम सामग्रीचे अंतिम पुनरावलोकन.",
+    "addTitleHere": "येथे शीर्षक जोडा",
+    "addContentHere": "येथे सामग्री जोडा",
+    "noDataTitle": "कोणताही डेटा मिळाला नाही",
+    "noDataContent": "प्रदर्शित करण्यासाठी कोणतेही आयटम नाहीत",
+    "regenerateButton": "पुनर्निर्मित करा",
+    "saveChangesButton": "बदल जतन करा",
+    "createCourseButton": "पुढे जा आणि अभ्यासक्रम बनवा",
+    "errors": {
+      "moduleNameRequired": "मॉड्यूल नाव क्षेत्र आवश्यक आहे",
+      "titleRequired": "शीर्षक क्षेत्र आवश्यक आहे",
+      "contentRequired": "सामग्री क्षेत्र आवश्यक आहे"
+    },
+    "alerts": {
+      "confirm": {
+        "title": "मी फक्त कृत्रिम आहे, परंतु तुम्ही खरा तज्ञ आहात! मी हे जीवनात आणू?",
+        "confirmText": "हो"
+      }
+    },
+    "regeneratePrompt": {
+      "title": "सामग्री पुनर्निर्मित करा",
+      "submitButton": "सबमिट करा",
+      "cancelButton": "रद्द करा"
+    },
+    "tooltips": {
+      "regenerateInfo": "नव्या प्रॉम्प्टसह ही सामग्री पुनर्निर्मित करा"
+    },
+    "contentTypes": {
+      "page": "पृष्ठ",
+      "assignment": "असाइनमेंट",
+      "forum": "फोरम"
+    }
+  },
+  "commonMessages": {
+    "success": {
+      "saved": "स्थिति यशस्वीरित्या जतन केली",
+      "uploadSuccess": "यशस्वीरित्या अपलोड केले.",
+      "moduleSuccess": "मॉड्यूल यशस्वीरित्या तयार केले गेले."
+    },
+    "error": {
+      "somethingWrong": "काहीतरी चूक झाली. कृपया पुन्हा प्रयत्न करा.",
+      "dataNosave": "डेटा जतन केला गेला नाही. कृपया पुन्हा प्रयत्न करा!"
+    },
+    "alerts": {
+      "backConfirm": {
+        "title": "मागे जाणे प्रगती नष्ट करेल. तुम्हाला पुढे जायचे आहे?",
+        "confirmText": "हो",
+        "cancelText": "नाही"
+      },
+      "resetConfirm": {
+        "title": "तुम्हाला खरेच सुरवातीपासून सुरू करायचे आहे?",
+        "confirmText": "हो",
+        "cancelText": "नाही"
+      }
+    }
+  },
+  "shared": {
+    "moduleLabel": "मॉड्यूल"
+  },
+  "alerts": {
+    "resetConfirm": "तुम्ही तुमच्या सर्व मॉड्यूलमध्ये बदल केले आहेत याची खात्री करा. मी पुढे जाऊ का?",
+    "confirmText": "होय"
+  },
+  "contentPreference": {
+    "uploadingText": "अपलोड करत आहे..."
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "title": "કેલેન્ડર",
+  "subtitle": "તમારો શેડ્યૂલ અને ઇવેન્ટ્સ મેનેજ કરો.",
+  "navigation": {
+    "previousMonth": "પાછલો મહિનો",
+    "nextMonth": "આગળનો મહિનો",
+    "backToMonth": "મહિના દૃશ્ય પર પાછા જાઓ"
+  },
+  "search": {
+    "placeholder": "ઇવેન્ટ્સ શોધો",
+    "ariaLabel": "ઇવેન્ટ્સ શોધો"
+  },
+  "filter": {
+    "ariaLabel": "ઇવેન્ટ પ્રકાર દ્વારા ફિલ્ટર કરો",
+    "options": {
+      "all": "બધા પ્રકાર",
+      "assignment": "અસાઇનમેન્ટ",
+      "quiz": "ક્વિઝ",
+      "discussion": "ચર્ચા",
+      "meeting": "મિટિંગ",
+      "project": "પ્રોજેક્ટ"
+    }
+  },
+  "days": {
+    "sun": "રવિવાર",
+    "mon": "સોમવાર",
+    "tue": "મંગળવાર",
+    "wed": "બુધવાર",
+    "thu": "ગુરુવાર",
+    "fri": "શુક્રવાર",
+    "sat": "શનિવાર"
+  },
+  "grid": {
+    "dayAriaLabel": "દિવસ {{day}}",
+    "moreEvents": "+ {{count}} વધુ"
+  },
+  "events": {
+    "title": "ઇવેન્ટ્સ પર",
+    "viewButton": "જુઓ",
+    "noEvents": "આ દિવસે કોઈ ઇવેન્ટ્સ નથી.",
+    "selectDay": "ઇવેન્ટ્સ જોવા માટે એક દિવસ પસંદ કરો.",
+    "eventCount": "{{count}} ઇવેન્ટ",
+    "eventCount_plural": "{{count}} ઇવેન્ટ્સ"
+  },
+  "loadingcalendar": "કેલેન્ડર લોડ થઈ રહ્યું છે..."
+}

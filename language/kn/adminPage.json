@@ -1,0 +1,67 @@
+{
+  "title": "ಅಡ್ಮಿನ್ ಪ್ಯಾನೆಲ್",
+  "navigation": {
+    "courses": "ಮೇನೇಜ್ ಕೋರ್ಸೆಸ್",
+    "categories": "ಮೇನೇಜ್ ಕ್ಯಾಟೆಗರೀಸ್",
+    "users": "ಮೇನೇಜ್ ಯೂ�জರ್ಸ್",
+    "rolesPermissions": "ರೋಲ್ಸ್ & ಪರ್ಮಿಷನ್ಸ್",
+    "theme": "ಥೀಮ್ಸ್",
+    "report": "ರಿಪೋರ್ಟ್",
+    "tenantManagement": "ಮೇನೇಜ್ ಇನ್ಸ್ಟಿಟ್ಯೂಷನ್ಸ್",
+    "instructonex": "ಇನ್ಸ್ಟ್ರಕ್ಟೋನೆಕ್ಸ್",
+    "accessControl": "ಅ್ಯಾಕ್ಸೆಸ್ ಕಂಟ್ರೋಲ್",
+    "rubrics": "ರೂಬ್ರಿಕ್ಸ್",
+    "tenantsReport": "ಟೆನೆಂಟ್ ವರದಿ",
+    "cohorts": "ಬ್ಯಾಚ್‌ಗಳನ್ನು ನಿರ್ವಹಿಸಿ"
+  },
+  "tenantReport": {
+    "title": "ಟೆನೆಂಟ್ ವರದಿ",
+    "subtitle": "ಕ್ರಾಸ್-ಟೆನೆಂಟ್ ಚಟುವಟಿಕೆ ಸ್ನಾಪ್‌ಶಾಟ್ ತ್ವರಿತ ಅರ್ಥವಲ್ಲದೊಂದಿಗೆ.",
+    "generatedAt": "ತಯಾರಿಸಲಾಗಿದೆ: {{time}}",
+    "noData": "ಟೆನೆಂಟ್ ವರದಿ ಡೇಟಾ ಲಭ್ಯವಿಲ್ಲ.",
+    "fetchError": "ಟೆನೆಂಟ್ ವರದಿ ಲೋಡ್ ಮಾಡಲು ವಿಫಲವಾಗಿದೆ.",
+    "notAvailable": "ಲಭ್ಯವಿಲ್ಲ",
+    "tenantSelector": "ಗಹನ ಅಧ್ಯಯನಕ್ಕಾಗಿ ಟೆನೆಂಟ್ ಆಯ್ಕೆ ಮಾಡಿ",
+    "selectedTenantDetails": "ಆಯ್ಕೆಯಾದ ಟೆನೆಂಟ್: {{name}}",
+    "tableTitle": "ಟೆನೆಂಟ್ ಮೆಟ್ರಿಕ್‌ಗಳು ಟೇಬಲ್",
+    "tableSubtitle": "ಮೂಲ ಮೆಟ್ರಿಕ್‌ಗಳಲ್ಲಿ ಎಲ್ಲಾ ಟೆನೆಂಟ್‌ಗಳನ್ನು ಹೋಲಿಸಲಾಗಿದೆ.",
+    "roles": {
+      "students": "ಶಿಕ್ಷಣಾರ್ಥಿಗಳು",
+      "teachers": "ಶಿಕ್ಷಕರು",
+      "others": "ಇತರರು"
+    },
+    "cards": {
+      "totalTenants": "ಒಟ್ಟು ಟೆನೆಂಟ್‌ಗಳು",
+      "totalTenantsSubtitle": "ಈ ವರದಿಯಲ್ಲಿ ಒಳಗೊಂಡ ಟೆನೆಂಟ್‌ಗಳು",
+      "totalUsers": "ಒಟ್ಟು ಬಳಕೆದಾರರು",
+      "totalUsersSubtitle": "ಎಲ್ಲಾ ಟೆನೆಂಟ್‌ಗಳಲ್ಲಿ ಬಳಕೆದಾರರು",
+      "activeUsers": "ಸಕ್ರಿಯ ಬಳಕೆದಾರರು",
+      "activeUsersSubtitle": "ಇತ್ತೀಚೆಗೆ ಸಕ್ರಿಯ ಬಳಕೆದಾರರು",
+      "inactiveUsers": "ನಿಷ್ಕ್ರಿಯ ಬಳಕೆದಾರರು",
+      "inactiveUsersSubtitle": "ಇತ್ತೀಚಿನ ಚಟುವಟಿಕೆ ಇಲ್ಲದ ಬಳಕೆದಾರರು",
+      "neverLoggedIn": "ಊರಿನಲ್ಲಿ ಲಾಗ್ ಇನ್ ಆಗಿಲ್ಲ",
+      "activeRate": "ಸಕ್ರಿಯ ದರ: {{rate}}%"
+    },
+    "charts": {
+      "comparisonTitle": "ಟೆನೆಂಟ್ ಹೋಲಣೆ",
+      "comparisonSubtitle": "ಪ್ರತಿ ಟೆನೆಂಟ್‌ಗೆ ಒಟ್ಟು, ಸಕ್ರಿಯ ಮತ್ತು ನಿಷ್ಕ್ರಿಯ ಬಳಕೆದಾರರು",
+      "roleSplitTitle": "{{name}} ಗೆ ಪಾತ್ರ ಮಿಶ್ರಣ",
+      "roleSplitSubtitle": "ಶಿಕ್ಷಣಾರ್ಥಿಗಳು, ಶಿಕ್ಷಕರು ಮತ್ತು ಇತರ ಬಳಕೆದಾರರ ವಿತರಣಾ"
+    },
+    "columns": {
+      "name": "ಟೆನೆಂಟ್ ಹೆಸರು"
+    },
+    "metrics": {
+      "total_users": "ಒಟ್ಟು ಬಳಕೆದಾರರು",
+      "total_students": "ಒಟ್ಟು ವಿದ್ಯಾರ್ಥಿಗಳು",
+      "total_teachers": "ಒಟ್ಟು ಶಿಕ್ಷಕರು",
+      "active_users": "ಸಕ್ರಿಯ ಬಳಕೆದಾರರು",
+      "inactive_users": "ನಿಷ್ಕ್ರಿಯ ಬಳಕೆದಾರರು",
+      "never_logged_in": "ಯಾವಾಗಲೂ ಲಾಗಿನ್ ಆಗಿಲ್ಲ",
+      "course_categories": "ಕೋರ್ಸ್ ವರ್ಗಗಳು",
+      "total_enrollments": "ಒಟ್ಟು ನೋಂದಣಿಗಳು",
+      "completed_courses": "ಪೂರ್ಣಗೊಂಡ ಕೋರ್ಸ್‌ಗಳು",
+      "pending_completions": "ಬಾಕಿ ಪೂರ್ಣಗೊಳಣೆಗಳು"
+    }
+  }
+}

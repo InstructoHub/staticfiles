@@ -1,0 +1,249 @@
+{
+  "page": {
+    "title": "कोर्स मेनेजमेंट",
+    "subtitle": "अपने कोर्सेस को मेनेज और ऑर्गेनाइज करें",
+    "loading": "कोर्सेस लोड हो रहे हैं...",
+    "noCoursesFound": "आपके सर्च क्राइटेरिया से मैच होता कोई कोर्स नहीं मिला",
+    "noCoursesAvailable": "कोई कोर्स अवेलेबल नहीं है। न्यू कोर्स एड करके स्टार्ट करें।"
+  },
+  "navigation": {
+    "editCourse": "एडिट कोर्स",
+    "createCourse": "क्रिएट न्यू कोर्स",
+    "deleteCourse": "डिलीट कोर्स",
+    "deleteCourses": "डिलीट कोर्सेस",
+    "viewParticipants": "पार्टिसिपेंट्स देखें"
+  },
+  "buttons": {
+    "addCourse": "ऐड कोर्स",
+    "selectAll": "सेलेक्ट ऑल",
+    "deselectAll": "डी-सेलेक्ट ऑल",
+    "deleteSelected": "डिलीट कोर्सेस",
+    "edit": "एडिट कोर्स",
+    "delete": "डिलीट कोर्स",
+    "cancel": "कैंसिल",
+    "create": "क्रिएट कोर्स",
+    "update": "अपडेट कोर्स",
+    "creating": "क्रिएट हो रहा है...",
+    "updating": "अपडेट हो रहा है...",
+    "deleting": "डिलीट हो रहा है...",
+    "save": "सेव",
+    "uploadImage": "इमेज अपलोड करें",
+    "removeImage": "इमेज रिमूव करें",
+    "hide": "छिपाएं",
+    "show": "दिखाएं",
+    "report": "रिपोर्ट"
+  },
+  "table": {
+    "headers": {
+      "courseName": "कोर्स का नाम",
+      "shortName": "शॉर्ट का नाम",
+      "category": "कैटेगरी",
+      "startDate": "स्टार्ट डेट",
+      "endDate": "एंड डेट",
+      "modifiedOn": "मॉडिफाइड ऑन",
+      "teachers": "टीचर्स",
+      "students": "स्टूडेंट्स",
+      "actions": "एक्शन्स",
+      "S": {
+        "No": "एस. नं."
+      }
+    },
+    "search": {
+      "placeholder": "कोर्सेस सर्च करें..."
+    },
+    "fallbacks": {
+      "untitledCourse": "अनटाइटल्ड कोर्स",
+      "noCategory": "कोई कैटेगरी नहीं",
+      "noTeachers": "कोई टीचर्स नहीं",
+      "noStudents": "कोई स्टूडेंट्स नहीं"
+    },
+    "badges": {
+      "hidden": "छिपा हुआ"
+    }
+  },
+  "form": {
+    "labels": {
+      "courseName": "कोर्स का नाम",
+      "shortName": "शॉर्ट का नाम",
+      "category": "कैटेगरी",
+      "description": "डिस्क्रिप्शन",
+      "startDate": "स्टार्ट डेट",
+      "endDate": "एंड डेट",
+      "courseImage": "कोर्स की इमेज",
+      "enrollmentMethods": "एनरोलमेंट के मेथड्स",
+      "selfEnrollment": "सेल्फ एनरोलमेंट",
+      "manualEnrollment": "मैन्युअल एनरोलमेंट",
+      "guestAccess": "गेस्ट एक्सेस",
+      "courseVisibility": "कोर्स विजिबिलिटी"
+    },
+    "placeholders": {
+      "courseName": "पूरा कोर्स का नाम एंटर करें",
+      "shortName": "कोर्स का शॉर्ट नाम एंटर करें",
+      "category": "एक कैटेगरी सेलेक्ट करें",
+      "description": "कोर्स का डिस्क्रिप्शन एंटर करें",
+      "selectStartDate": "स्टार्ट डेट सेलेक्ट करें",
+      "selectEndDate": "एंड डेट सेलेक्ट करें"
+    },
+    "validation": {
+      "courseNameRequired": "कोर्स का नाम ज़रूरी है",
+      "courseNameMinLength": "कोर्स का नाम कम से कम 3 कैरेक्टर्स का होना चाहिए",
+      "courseNameMaxLength": "कोर्स का नाम 250 कैरेक्टर्स से ज़्यादा नहीं होना चाहिए",
+      "shortNameRequired": "शॉर्ट का नाम ज़रूरी है",
+      "shortNameMinLength": "शॉर्ट का नाम कम से कम 2 कैरेक्टर्स का होना चाहिए",
+      "shortNameMaxLength": "शॉर्ट का नाम 30 कैरेक्टर्स से ज़्यादा नहीं होना चाहिए",
+      "shortNameFormat": "शॉर्ट के नाम में सिर्फ लेटर्स, नंबर्स, अंडरस्कोर और डैश हो सकते हैं",
+      "shortNameTaken": "शॉर्ट का नाम पहले से यूज़ में है!",
+      "categoryRequired": "कैटेगरी ज़रूरी है",
+      "categoryPositive": "कैटेगरी आईडी पॉजिटिव होनी चाहिए",
+      "descriptionMaxLength": "डिस्क्रिप्शन 1000 कैरेक्टर्स से ज़्यादा नहीं होना चाहिए",
+      "startDateBeforeEnd": "स्टार्ट डेट, एंड डेट से पहले होनी चाहिए",
+      "endDateAfterStart": "एंड डेट, स्टार्ट डेट के बाद होनी चाहिए",
+      "invalidDate": "प्लीज एक वैलिड डेट एंटर करें",
+      "checkingShortName": "शॉर्ट नेम की उपलब्धता जाँच की जा रही है...",
+      "fixErrorsFirst": "सबमिट करने से पहले सभी आवश्यक फील्ड सही से भरें"
+    },
+    "modes": {
+      "edit": {
+        "title": "एडिट कोर्स",
+        "subtitle": "नीचे कोर्स की डिटेल्स अपडेट करें"
+      },
+      "create": {
+        "title": "क्रिएट न्यू कोर्स",
+        "subtitle": "सिस्टम में न्यू कोर्स एड करें"
+      }
+    },
+    "imageUpload": {
+      "dropzoneText": "इमेज फाइल यहाँ ड्रैग और ड्रॉप करें, या सेलेक्ट करने के लिए क्लिक करें",
+      "supportedFormats": "सपोर्टेड फॉर्मेट्स: JPG, PNG, GIF (मैक्सिमम: 2MB)",
+      "uploadError": "कोर्स की इमेज अपलोड करने में फेल",
+      "setImageError": "कोर्स ओवरव्यू की इमेज सेट करने में फेल",
+      "fileSizes": [
+        "Bytes",
+        "KB",
+        "MB"
+      ],
+      "currentImage": "वर्तमान इमेज",
+      "chooseDifferent": "अलग चुनें",
+      "currentImageAlt": "वर्तमान कोर्स इमेज",
+      "newImagePreviewAlt": "नई कोर्स इमेज प्रीव्यू",
+      "removeNewImageTooltip": "नई इमेज हटाएं",
+      "newImage": "नई इमेज",
+      "zeroBytes": "0 बाइट्स"
+    },
+    "visibility": {
+      "visible": "दृश्य",
+      "hidden": "छिपा हुआ",
+      "visibleDescription": "छात्र इस कोर्स को खोज सकते हैं और एक्सेस कर सकते हैं",
+      "hiddenDescription": "कोर्स छात्रों से छिपा हुआ है जब तक आप इसे दृश्य नहीं बनाते"
+    }
+  },
+  "modals": {
+    "deleteMultiple": {
+      "title": "मल्टिपल कोर्सेस डिलीट करें",
+      "warning": "वॉर्निंग: यह एक्शन वापस नहीं लिया जा सकेगा",
+      "description": "इन {{count}} कोर्सेस को डिलीट करने से ये सिस्टम से परमानेंटली हट जाएंगे। एनरोलमेंट्स, ग्रेड्स और कंटेंट समेत सारा डेटा खो जाएगा।",
+      "listLabel": "डिलीट होने वाले कोर्सेस ({{count}}):",
+      "confirmation": "क्या आप वाकई आगे बढ़ना चाहते हैं? यह सिलेक्टेड कोर्सेस को परमानेंटली डिलीट कर देगा।"
+    },
+    "deleteSingle": {
+      "title": "डिलीट कोर्स",
+      "warning": "वॉर्निंग: यह एक्शन वापस नहीं लिया जा सकेगा",
+      "description": "इस कोर्स को डिलीट करने से यह सिस्टम से परमानेंटली हट जाएगा। एनरोलमेंट्स, ग्रेड्स और कंटेंट समेत सारा डेटा खो जाएगा।",
+      "listLabel": "डिलीट होने वाला कोर्स:",
+      "confirmation": "क्या आप वाकई इस कोर्स को डिलीट करना चाहते हैं? यह एक्शन वापस नहीं लिया जा सकेगा।"
+    },
+    "details": {
+      "name": "नाम:",
+      "shortName": "शॉर्ट का नाम:",
+      "category": "कैटेगरी:",
+      "description": "डिस्क्रिप्शन:",
+      "startDate": "स्टार्ट डेट:",
+      "endDate": "एंड डेट:",
+      "teachers": "टीचर्स:",
+      "students": "स्टूडेंट्स:"
+    }
+  },
+  "messages": {
+    "success": {
+      "courseCreated": "कोर्स सक्सेसफुली क्रिएट हो गया",
+      "courseUpdated": "कोर्स सक्सेसफुली अपडेट हो गया",
+      "coursesDeleted": "कोर्सेस सक्सेसफुली डिलीट हो गए",
+      "courseDeleted": "कोर्स सक्सेसफुली डिलीट हो गया",
+      "courseShown": "कोर्स अब स्टूडेंट्स को दिखाई देगा",
+      "courseHidden": "कोर्स अब स्टूडेंट्स से छिपा दिया गया है",
+      "imageUploaded": "कोर्स की इमेज सक्सेसफुली अपलोड हो गई",
+      "imageRemoved": "कोर्स की इमेज सक्सेसफुली रिमूव हो गई"
+    },
+    "error": {
+      "courseNotFound": "कोर्स नहीं मिला",
+      "failedToLoad": "कोर्सेस फेच करने में फेल",
+      "failedToLoadCourse": "कोर्स डेटा फेच करने में फेल",
+      "failedToLoadCategories": "कैटेगरीज़ फेच करने में फेल",
+      "errorUpdating": "कोर्स अपडेट करने में एरर",
+      "errorCreating": "कोर्स क्रिएट करने में एरर",
+      "failedToUpdate": "कोर्स अपडेट करने में फेल",
+      "failedToCreate": "कोर्स क्रिएट करने में फेल",
+      "deleteFailed": "कोर्स डिलीट करने में फेल",
+      "deleteMultipleFailed": "कोर्सेस डिलीट करने में फेल",
+      "uploadImageFailed": "इमेज फाइल अपलोड करने में फेल",
+      "setImageFailed": "कोर्स ओवरव्यू की इमेज सेट करने में फेल",
+      "invalidImageFormat": "इनवैलिड इमेज फॉर्मेट। प्लीज JPG, PNG, या GIF यूज़ करें",
+      "imageTooLarge": "इमेज फाइल बहुत बड़ी है। मैक्सिमम साइज 2MB है",
+      "enrollmentConfigFailed": "सेल्फ-एनरोलमेंट कॉन्फ़िगर करने में फेल",
+      "selfEnrollmentMethodNotFound": "इस कोर्स के लिए स्व-नामांकन विधि नहीं मिली",
+      "toggleSelfEnrollmentFailed": "स्व-नामांकन टॉगल करने में विफल"
+    },
+    "warning": {
+      "selectCoursesToDelete": "प्लीज डिलीट करने के लिए कम से कम एक कोर्स सेलेक्ट करें",
+      "unsavedChanges": "आपके चेंजेस सेव नहीं हुए हैं। क्या आप वाकई जाना चाहते हैं?",
+      "removeImageConfirm": "क्या आप वाकई कोर्स की इमेज हटाना चाहते हैं?",
+      "createCategoryFirst": "कोई कैटेगरी उपलब्ध नहीं है। पहले एक कैटेगरी बनाएं।"
+    }
+  },
+  "enrollment": {
+    "methods": {
+      "self": "सेल्फ एनरोलमेंट",
+      "manual": "मैन्युअल एनरोलमेंट",
+      "guest": "गेस्ट एक्सेस"
+    },
+    "descriptions": {
+      "self": "स्टूडेंट्स को इस कोर्स में खुद को एनरोल करने दें",
+      "manual": "एडमिनिस्ट्रेटर्स द्वारा मैन्युअल एनरोलमेंट की ज़रूरत है",
+      "guest": "गेस्ट यूज़र्स को कोर्स का कंटेंट एक्सेस करने दें"
+    },
+    "status": {
+      "enabled": "इनेबल्ड",
+      "disabled": "डिसेबल्ड"
+    }
+  },
+  "status": {
+    "loading": "लोड हो रहा है...",
+    "saving": "सेव हो रहा है...",
+    "deleting": "डिलीट हो रहा है...",
+    "processing": "प्रोसेस हो रहा है...",
+    "uploading": "अपलोड हो रहा है...",
+    "active": "एक्टिव",
+    "inactive": "इनएक्टिव",
+    "draft": "ड्राफ्ट",
+    "published": "पब्लिश किया गया"
+  },
+  "emptyState": {
+    "title": "अभी कोई कोर्स नहीं है",
+    "description": "शुरू करने के लिए पहला कोर्स बनाएं।",
+    "createButton": "कोर्स बनाएं"
+  },
+  "report": {
+    "title": "कोर्स रिपोर्ट",
+    "loading": "कोर्स रिपोर्ट लोड हो रही है...",
+    "back": "कोर्सेस पर वापस जाएँ",
+    "overview": "कोर्स ओवरव्यू",
+    "schedule": "शेड्यूल",
+    "participants": "पार्टिसिपेंट्स",
+    "completed": "पूरा हुआ",
+    "inProgress": "प्रगति में",
+    "notStarted": "शुरू नहीं हुआ",
+    "noStudentData": "कोई छात्र एनरोलमेंट डेटा उपलब्ध नहीं है।",
+    "noEnrollmentMethods": "कोई एनरोलमेंट मेथड कॉन्फ़िगर नहीं है।",
+    "unknownMethod": "अनजाना तरीका"
+  }
+}

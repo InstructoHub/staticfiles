@@ -1,0 +1,67 @@
+{
+  "title": "Admin Panel",
+  "navigation": {
+    "courses": "Manage Courses",
+    "categories": "Manage Categories",
+    "cohorts": "Manage Batches",
+    "users": "Manage Users",
+    "rolesPermissions": "Roles & Permissions",
+    "theme": "Themes",
+    "report": "Report",
+    "tenantManagement": "Manage Institutions",
+    "tenantsReport": "Tenants Report",
+    "instructonex": "InstructoNex",
+    "accessControl": "Access Control",
+    "rubrics": "Rubrics"
+  },
+  "tenantReport": {
+    "title": "Tenants Report",
+    "subtitle": "Cross-tenant activity snapshot with quick insights.",
+    "generatedAt": "Generated at: {{time}}",
+    "noData": "No tenant report data available.",
+    "fetchError": "Failed to load tenant report.",
+    "notAvailable": "Not available",
+    "tenantSelector": "Select tenant for deep dive",
+    "selectedTenantDetails": "Selected Tenant: {{name}}",
+    "tableTitle": "Tenant Metrics Table",
+    "tableSubtitle": "All tenants compared across core metrics.",
+    "roles": {
+      "students": "Students",
+      "teachers": "Teachers",
+      "others": "Others"
+    },
+    "cards": {
+      "totalTenants": "Total Tenants",
+      "totalTenantsSubtitle": "Tenants included in this report",
+      "totalUsers": "Total Users",
+      "totalUsersSubtitle": "Users across all tenants",
+      "activeUsers": "Active Users",
+      "activeUsersSubtitle": "Recently active users",
+      "inactiveUsers": "Inactive Users",
+      "inactiveUsersSubtitle": "Users with no recent activity",
+      "neverLoggedIn": "Never Logged In",
+      "activeRate": "Active rate: {{rate}}%"
+    },
+    "charts": {
+      "comparisonTitle": "Tenant Comparison",
+      "comparisonSubtitle": "Total, active, and inactive users per tenant",
+      "roleSplitTitle": "Role Mix for {{name}}",
+      "roleSplitSubtitle": "Distribution of students, teachers, and other users"
+    },
+    "columns": {
+      "name": "Tenant Name"
+    },
+    "metrics": {
+      "total_users": "Total Users",
+      "total_students": "Total Students",
+      "total_teachers": "Total Teachers",
+      "active_users": "Active Users",
+      "inactive_users": "Inactive Users",
+      "never_logged_in": "Never Logged In",
+      "course_categories": "Course Categories",
+      "total_enrollments": "Total Enrollments",
+      "completed_courses": "Completed Courses",
+      "pending_completions": "Pending Completions"
+    }
+  }
+}

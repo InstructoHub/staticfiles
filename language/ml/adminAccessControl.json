@@ -1,0 +1,355 @@
+{
+  "emailSetup": {
+    "title": "ഇമെയിൽ ടെംപ്ലേറ്റ് സെടআപ്പ്",
+    "subtitle": "നിങ്ങളുടെ ഇമെയിൽ ടെംപ്ലേറ്റ് കൺഫിഗർ ചെയ്യുകയും മേനേജ് ചെയ്യുക",
+    "backToTemplates": "ഇമെയിൽ ടെംപ്ലേറ്റുകളിലേക്ക് തിരികെ പോകുക",
+    "templateVariables": "ടെംപ്ലേറ്റ് വേരിയബിളുകൾ",
+    "copyVariableTooltip": "ക്ലിപ്പ്‌ബോർഡിലേക്ക് വേരിയബിൾ കോപ്പി ചെയ്യാൻ ക്ലിക്ക് ചെയ്യുക",
+    "templateSubjectLabel": "ടെംപ്ലേറ്റ് സബ്‌ജക്ട് *",
+    "templateSenderEmailLabel": "ടെംപ്ലേറ്റ് സെൻഡർ ഇമെയിൽ *",
+    "templateSenderDisplayNameLabel": "ടെംപ്ലേറ്റ് സെൻഡർ ഡിസ്‌പ്ലേ നെയിം *",
+    "emailLayoutColorLabel": "ഇമെയിൽ ലേഔട്ട് കളർ",
+    "htmlBodyLabel": "HTML ബോഡി *",
+    "cancelButton": "കാൻസൽ",
+    "saveChangesButton": "ചെയ്യുന്ന മാറ്റങ്ങൾ സേവ് ചെയ്യുക",
+    "savingButton": "സേവ് ചെയ്യുന്നു...",
+    "confirmBackWarning": "മാറ്റങ്ങൾ സേവ് ചെയ്യപ്പെട്ടിട്ടില്ല. നിങ്ങൾ തിരികെ പോകുന്നത് ഉറപ്പാണ്?",
+    "toasts": {
+      "failedToLoadVariables": "ഇമെയിൽ വേരിയബിളുകൾ ലോഡ് ചെയ്യാൻ കഴിഞ്ഞില്ല",
+      "failedToUpdateTemplate": "ഇമെയിൽ ടെംപ്ലേറ്റ് അപ്‌ഡേറ്റ് ചെയ്യാൻ കഴിഞ്ഞില്ല",
+      "variableCopied": "വേരിയബിൾ ക്ലിപ്പ്‌ബോർഡിലേക്ക് കോപ്പി ചെയ്യപ്പെട്ടു!"
+    },
+    "validation": {
+      "slNoHeader": "ക്രമസൂചിക",
+      "subjectRequired": "ടെംപ്ലേറ്റ് സബ്‌ജക്ട് ആവശ്യമാണ്",
+      "subjectMinLength": "ടെംപ്ലേറ്റ് സബ്‌ജക്ട് കുറഞ്ഞത് 2 കریാക്ടർ ഉണ്ടായിരിക്കണം",
+      "subjectMaxLength": "ടെംപ്ലേറ്റ് സബ്‌ജക്ട് 255 കരാക്ടർ കവിയരുത്",
+      "senderEmailRequired": "സെൻഡർ ഇമെയിൽ ആവശ്യമാണ്",
+      "invalidEmailFormat": "അസാധുവായ ഇമെയിൽ ഫോർമാറ്റ്",
+      "senderEmailMaxLength": "സെൻഡർ ഇമെയിൽ 255 കരാക്ടർ കവിയരുത്",
+      "displayNameRequired": "സെൻഡർ ഡിസ്‌പ്ലേ നെയിം ആവശ്യമാണ്",
+      "displayNameMinLength": "സെൻഡർ ഡിസ്‌പ്ലേ നെയിം കുറഞ്ഞത് 2 കരാക്ടർ ഉണ്ടായിരിക്കണം",
+      "displayNameMaxLength": "സെൻഡർ ഡിസ്‌പ്ലേ നെയിം 255 കരാക്ടർ കവിയരുത്"
+    }
+  },
+  "emailTemplates": {
+    "noTemplatesFound": "ഇമെയിൽ ടെംപ്ലേറ്റുകൾ കണ്ടെത്തിയില്ല",
+    "subjectLabel": "സബ്‌ജക്ട്:",
+    "contentPreview": "ടെംപ്ലേറ്റ് കോണ്ടന്റ് പ്രിവ്യു",
+    "editButton": "എഡിറ്റ് ചെയ്യുക",
+    "toasts": {
+      "failedToLoad": "ഇമെയിൽ ടെംപ്ലേറ്റുകൾ ലോഡ് ചെയ്യാൻ കഴിഞ്ഞില്ല"
+    },
+    "templateNames": {
+      "set_password": "പാസ്‌വേഡ് സജ്ജമാക്കുക"
+    }
+  },
+  "moduleManagement": {
+    "title": "മോഡ്യൂൾ മാനേജ്മെന്റ്",
+    "subtitle": "സിസ്റ്റം മോഡ്യൂളുകളും അവയുടെ മെറ്റാഡാറ്റയും മാനേജ് ചെയ്യുക",
+    "addNewButton": "നിউ മോഡ്യൂൾ ചേർക്കുക",
+    "table": {
+      "moduleHeader": "മോഡ്യൂൾ",
+      "descriptionHeader": "വിവരണം",
+      "createdAtHeader": "എപ്പോൾ സൃഷ്ടിച്ചത്",
+      "actionsHeader": "ആക്ഷനുകൾ",
+      "noModulesFound": "മോഡ്യൂലുകൾ കണ്ടെത്തിയില്ല.",
+      "slNoHeader": "ക്രമം"
+    },
+    "form": {
+      "moduleNameLabel": "മോഡ്യൂലിന്റെ പേര് *",
+      "moduleDescriptionLabel": "മോഡ്യൂലിന്റെ വിവരണം",
+      "saveChangesButton": "മാറ്റങ്ങൾ സേവ് ചെയ്യുക",
+      "savingButton": "സേവ് ചെയ്യുന്നു...",
+      "cancelButton": "കാൻസൽ ചെയ്യുക"
+    },
+    "deleteModal": {
+      "title": "ഡിലീഷൻ സ്ഥിരീകരിക്കുക",
+      "message": "നിങ്ങൾ ഈ മോഡ്യൂൾ ഡിലീറ്റ് ചെയ്യാൻ ആഗ്രഹിക്കുന്നുണ്ടോ",
+      "undoWarning": "ഈ ആക്ഷൻ അൺഡു ചെയ്യാൻ കഴിയില്ല.",
+      "deleteButton": "മോഡ്യൂൾ ഡിലീറ്റ് ചെയ്യുക",
+      "cancelButton": "കാൻസൽ ചെയ്യുക"
+    },
+    "toasts": {
+      "failedToLoad": "മോഡ്യൂലുകൾ ലോഡ് ചെയ്യാൻ കഴിഞ്ഞില്ല",
+      "createdSuccess": "മോഡ്യൂൾ വിജയകരമായി സൃഷ്ടിച്ചു",
+      "updatedSuccess": "മോഡ്യൂൾ വിജയകരമായി അപ്ഡേറ്റ് ചെയ്തു",
+      "createdFailed": "മോഡ്യൂൾ സൃഷ്ടിക്കാൻ കഴിഞ്ഞില്ല",
+      "updatedFailed": "മോഡ്യൂൾ അപ്ഡേറ്റ് ചെയ്യാൻ കഴിഞ്ഞില്ല",
+      "deletedSuccess": "മോഡ്യൂൾ വിജയകരമായി ഡിലീറ്റ് ചെയ്തു",
+      "deletedFailed": "മോഡ്യൂൾ ഡിലീറ്റ് ചെയ്യാൻ കഴിഞ്ഞില്ല"
+    },
+    "validation": {
+      "nameRequired": "മോഡ്യൂലിന്റെ പേര് ആവശ്യമാണ്",
+      "nameMinLength": "മോഡ്യൂലിന്റെ പേര് കുറഞ്ഞത് 2 അക്ഷരങ്ങൾ ആയിരിക്കണം",
+      "nameMaxLength": "മോഡ്യൂലിന്റെ പേര് 100 അക്ഷരങ്ങൾ കവിയരുത്",
+      "descriptionMaxLength": "വിവരണം 500 അക്ഷരങ്ങൾ കവിയരുത്"
+    }
+  },
+  "pageHeader": {
+    "searchPlaceholder": "തിരയുക..."
+  },
+  "roleArchitectureDetail": {
+    "title": "റോൾ ആർക്കിടെക്ചർ ডിટെയിൽ",
+    "subtitle": "എല്ലാ മോഡ്യൂളുകളിലുടനെ ഈ റോൾ ആർക്കിടെക്ചറിനായി ഡിഫോൾട്ട് പർമിഷനുകൾ കോൺഫിഗർ ചെയ്യുക.",
+    "backButton": "റോൾ ആർക്കിടെക്ചറുകളിലേക്ക് തിരികെ പോകുക",
+    "loading": "മോഡ്യൂളുകൾ ലോഡ് ചെയ്യുന്നു...",
+    "loadFailed": "ഡാറ്റ ലോഡ് ചെയ്യാൻ പരാജയപ്പെട്ടു.",
+    "noModulesAvailable": "കോൺഫിഗറേഷനിനായി മോഡ്യൂളുകൾ ലഭ്യമല്ല.",
+    "table": {
+      "moduleHeader": "മോഡ്യൂൾ",
+      "descriptionHeader": "വിവരണം",
+      "capabilitiesHeader": "കപാബിലിറ്റിസ്"
+    },
+    "capabilities": {
+      "create": "ക്രിയേറ്റ്",
+      "read": "റീഡ്",
+      "edit": "എഡിറ്റ്",
+      "delete": "ഡിലീറ്റ്",
+      "enabledCount": "എനേബിൾ ചെയ്ത"
+    },
+    "saveCapabilitiesButton": "കപാബിലിറ്റിസ് സേവ് ചെയ്യുക",
+    "savingButton": "സേവ് ചെയ്യുന്നു...",
+    "cancelButton": "ക്യാൻസൽ",
+    "toasts": {
+      "failedToLoadModules": "മോഡ്യൂൾ ലിസ്റ്റ് ലോഡ് ചെയ്യാൻ പരാജയപ്പെട്ടു",
+      "saveSuccess": "കപാബിലിറ്റിസ് വിജയകരമായി സേവ് ചെയ്ത്",
+      "saveFailed": "കപാബിലിറ്റിസ് സേവ് ചെയ്യാൻ പരാജയപ്പെട്ടു"
+    }
+  },
+  "roleArchitectureManagement": {
+    "title": "റോൾ ആർക്കിടെക്ചർ മാനേജ്മെന്റ്",
+    "subtitle": "യൂജർ റോളുകൾക്കായി ഡിഫോൾട്ട് പർമിഷൻ സെറ്റുകൾ മേനേജ് ചെയ്യുക",
+    "addNewButton": "പുതിയ ആർക്കിടെക്ചർ ചേർക്കുക",
+    "table": {
+      "roleNameHeader": "റോൾ നാമം",
+      "descriptionHeader": "വിവരണം",
+      "createdAtHeader": "സൃഷ്ടിച്ച തീയതി",
+      "actionsHeader": "പ്രവർത്തനങ്ങൾ",
+      "noArchitecturesFound": "റോൾ ആർക്കിടെക്ചറുകൾ കണ്ടെത്താൻ കഴിഞ്ഞില്ല.",
+      "slNoHeader": "ക്രമസംഖ്യ"
+    },
+    "form": {
+      "architectureNameLabel": "ആർക്കിടെക്ചർ നാമം *",
+      "architectureDescriptionLabel": "ആർക്കിടെക്ചർ വിവരണം",
+      "saveChangesButton": "മാറ്റങ്ങൾ സംരക്ഷിക്കുക",
+      "savingButton": "സംരക്ഷിക്കുന്നു...",
+      "cancelButton": "റദ്ദാക്കുക"
+    },
+    "deleteModal": {
+      "title": "മാറ്റം സ്ഥിരീകരിക്കുക",
+      "message": "നിങ്ങൾക്ക് ഈ റോൾ ആർക്കിടെക്ചർ ഇല്ലാതാക്കാൻ ഉറപ്പാണോ?",
+      "undoWarning": "ഈ പ്രവർത്തനം തിരികെ എടുക്കാൻ കഴിയില്ല.",
+      "deleteButton": "റോൾ ആർക്കിടെക്ചർ ഇല്ലാതാക്കുക",
+      "cancelButton": "റദ്ദാക്കുക"
+    },
+    "toasts": {
+      "failedToLoad": "റോൾ ആർക്കിടെക്ചറുകൾ ലോഡ് ചെയ്യാൻ പരാജയപ്പെട്ടു",
+      "createdSuccess": "റോൾ ആർക്കിടെക്ചർ വിജയകരമായി സൃഷ്ടിച്ചു",
+      "updatedSuccess": "റോൾ ആർക്കിടെക്ചർ വിജയകരമായി അപ്ഡേറ്റ് ചെയ്തു",
+      "createdFailed": "റോൾ ആർക്കിടെക്ചർ സൃഷ്ടിക്കാൻ പരാജയപ്പെട്ടു",
+      "updatedFailed": "റോൾ ആർക്കിടെക്ചർ അപ്ഡേറ്റ് ചെയ്യാൻ പരാജയപ്പെട്ടു",
+      "deletedSuccess": "റോൾ ആർക്കിടെക്ചർ വിജയകരമായി ഇല്ലാതാക്കി",
+      "deletedFailed": "റോൾ ആർക്കിടെക്ചർ ഇല്ലാതാക്കാൻ പരാജയപ്പെട്ടു"
+    },
+    "validation": {
+      "nameRequired": "റോൾ ആർക്കിടെക്ചർ നാമം ആവശ്യമാണ്",
+      "nameMinLength": "റോൾ നാമം കുറഞ്ഞത് 2 അക്ഷരങ്ങൾ ആയിരിക്കണം",
+      "nameMaxLength": "റോൾ നാമം 100 അക്ഷരങ്ങൾക്കു മുകളിൽ പോകരുത്",
+      "descriptionMaxLength": "വിവരണം 500 അക്ഷരങ്ങൾക്കു മുകളിൽ പോകരുത്"
+    }
+  },
+  "smtpConfiguration": {
+    "cancelButton": "കാൻസൽ",
+    "saveConfigurationButton": "കോൺഫിഗറേഷൻ സേവ് ചെയ്യുക",
+    "savingButton": "സേവ് ചെയ്യുന്നു...",
+    "toasts": {
+      "failedToLoad": "SMTP കോൺഫിഗറേഷൻ ലോഡ് ചെയ്യാൻ പരാജയപ്പെട്ടു",
+      "updateSuccess": "SMTP കോൺഫിഗറേഷൻ വിജയകരമായി അപ്‌ഡേറ്റ് ചെയ്യപ്പെട്ടു",
+      "updateFailed": "SMTP കോൺഫിഗറേഷൻ അപ്‌ഡേറ്റ് ചെയ്യാൻ പരാജയപ്പെട്ടു"
+    },
+    "validation": {
+      "hostRequired": "SMTP ഹോസ്റ്റ് ആവശ്യമാണ്",
+      "hostInvalidFormat": "അസാധുവായ ഫോർമാറ്റ്. host:port അല്ലെങ്കിൽ host:port,host2:port2 ഉപയോഗിക്കുക",
+      "securityInvalid": "സെക്യുരിറ്റി ശൂന്യം, ssl അല്ലെങ്കിൽ tls ആയിരിക്കണം",
+      "usernameRequired": "SMTP യൂസർനെയിം ആവശ്യമാണ്",
+      "usernameMaxLength": "SMTP യൂസർനെയിം 255 പ്രതീകങ്ങൾ കവിയാൻ പാടില്ല",
+      "passwordRequired": "SMTP പാസ്‌വേഡ് ആവശ്യമാണ്",
+      "passwordMaxLength": "SMTP പാസ്‌വേഡ് 255 പ്രതീകങ്ങൾ കവിയാൻ പാടില്ല",
+      "noreplyEmailRequired": "നോ-റിപ്ലൈ ഇമെയിൽ ആവശ്യമാണ്",
+      "noreplyEmailInvalidFormat": "അസാധുവായ ഇമെയിൽ ഫോർമാറ്റ്",
+      "noreplyEmailMaxLength": "നോ-റിപ്ലൈ ഇമെയിൽ 255 പ്രതീകങ്ങൾ കവിയാൻ പാടില്ല",
+      "noreplyDisplayNameRequired": "നോ-റിപ്ലൈ ഡിസ്‌പ്ലേ നെയിം ആവശ്യമാണ്",
+      "noreplyDisplayNameMinLength": "നോ-റിപ്ലൈ ഡിസ്‌പ്ലേ നെയിം കുറഞ്ഞത് 2 പ്രതീകങ്ങൾ ആയിരിക്കണം",
+      "noreplyDisplayNameMaxLength": "നോ-റിപ്ലൈ ഡിസ്‌പ്ലേ നെയിം 255 പ്രതീകങ്ങൾ കവിയാൻ പാടില്ല"
+    },
+    "title": "എസ്‌എം‌ടി‌പി കോൺഫിഗറേഷൻ",
+    "subtitle": "നിങ്ങളുടെ സിംപിൾ മെയിൽ ട്രാൻസ്ഫർ പ്രോട്ടോക്കോൾ (എസ്‌എം‌ടി‌പി) ക്രമീകരണങ്ങൾ സജ്ജമാക്കുക",
+    "backToControl": "ആക്സസ് നിയന്ത്രണത്തിലേക്ക് മടങ്ങുക",
+    "hostLabel": "എസ്‌എം‌ടി‌പി ഹോസ്റ്റ് ആൻഡ് പോർട്ട് *",
+    "hostPlaceholder": "ഉദാഹരണം: mail.example.com:465 അല്ലെങ്കിൽ mail1.com:587,mail2.com:587",
+    "securityLabel": "എസ്‌എം‌ടി‌പി സുരക്ഷ",
+    "securityHelpText": "ഐച്ഛികം. പോർട്ട് 465-ൽ SMTPS-നായി 'ssl' തിരഞ്ഞെടുക്കുക, അല്ലെങ്കിൽ പോർട്ട് 587-ൽ STARTTLS-നായി 'tls' തിരഞ്ഞെടുക്കുക. ഒന്നുമില്ലെങ്കിൽ ശൂന്യമായി വിടുക.",
+    "securityNone": "ഒന്നുമില്ല",
+    "securitySSL": "എസ്‌എം‌എസ്‌എൽ",
+    "securityTLS": "ടിഎൽഎസ്",
+    "usernameLabel": "എസ്‌എം‌ടി‌പി ഉപയോക്തൃനാമം *",
+    "usernamePlaceholder": "ഉദാഹരണം: noreply@example.com",
+    "passwordLabel": "എസ്‌എം‌ടി‌പി പാസ്‌വേഡ് *",
+    "noreplyEmailLabel": "നോ-റിപ്ലൈ ഇമെയിൽ *",
+    "noreplyEmailHelpText": "ഈ ഇമെയിൽ എല്ലാ ഓട്ടോമേറ്റഡ് അറിയിപ്പുകൾക്കായി 'ഫ്രം' വിലാസമായി ഉപയോഗിക്കും.",
+    "noreplyDisplayNameLabel": "നോ-റിപ്ലൈ പ്രദർശന നാമം *",
+    "noreplyDisplayNamePlaceholder": "ഉദാഹരണം: ഇൻസ്ട്രക്ടോഹബ് അറിയിപ്പുകൾ",
+    "noreplyDisplayNameHelpText": "അയച്ചവനായി കാണിക്കുന്ന പ്രദർശന നാമം"
+  },
+  "accessControlDisplay": {
+    "emailSetupTitle": "ഇമെയിൽ സെറ്റআപ്പ്",
+    "emailSetupDescription": "ഇമെയിൽ ടെംപ്ലേറ്റുകൾ ഒപ്പം നോട്ടിഫിക്കേഷൻ സെറ്റിംഗ്സ് കോൺഫിഗർ ചെയ്യുക",
+    "smtpConfigurationTitle": "SMTP കോൺഫിഗറേഷൻ",
+    "smtpConfigurationDescription": "SMTP സെർവർ ക്രെഡെൻഷ്യൽസ് ഒപ്പം സെറ്റിംഗ്സ് കോൺഫിഗർ ചെയ്യുക",
+    "dashboardManagementTitle": "ഡാഷ്‌ബോർഡ് മാനേജ്‌മെന്റ്",
+    "dashboardManagementDescription": "ഡാഷ്‌ബോർഡ് മോഡ്യൂളുകൾക്കായി റോളുകൾ ഒപ്പം പർമിഷനുകൾ മേനേജ് ചെയ്യുക",
+    "roleArchitectureManagementTitle": "റോൾ ആർക്കിടെക്ചർ മാനേജ്‌മെന്റ്",
+    "roleArchitectureManagementDescription": "യൂസർ റോളുകൾക്കായി ഡിഫോൾട്ട് പർമിഷൻ സെറ്റുകൾ മേനേജ് ചെയ്യുക",
+    "roleManagementTitle": "റോൾ മാനേജ്‌മെന്റ്",
+    "roleManagementDescription": "കസ്റ്റം യൂസർ റോളുകൾ മേനേജ് ചെയ്യുക ഒപ്പം റോൾ ആർക്കിടെക്ചറുകൾ അസൈൻ ചെയ്യുക"
+  },
+  "customRoleDetail": {
+    "title": "റോൾ കപാബിലിറ്റി കസ്റ്റമൈസേഷൻ",
+    "subtitle": "ഈ നിർദ്ദിഷ്ട റോളിനായി എല്ലാ മോഡ്യൂളുകളിലെ പർമിഷനുകൾ കাസ്റ്റമൈസ് ചെയ്യുക. ഇവിടെയുള്ള മാറ്റങ്ങൾ റോൾ ആർക്കിടെക്ചർ ഡിഫോൾട്ട് ഓവർറൈഡ് ചെയ്യും.",
+    "backButton": "റോളുകളിലേക്ക് ബാക്ക്",
+    "pageHeader": {
+      "title": "ക്യാപബിലിറ്റികൾ മേനേജ് ചെയ്യുക: {{roleName}}",
+      "subtitle": "കസ്റ്റം റോളിനായി പർമിഷനുകൾ സെറ്റ് ചെയ്യുക (ആർക്കിടെക്ചർ: {{architectureName}})",
+      "unknownArchitecture": "അജ്ഞാതം"
+    },
+    "saveCapabilitiesButton": "ക്യാപബിലിറ്റികൾ സേവ് ചെയ്യുക",
+    "savingButton": "സേവ് ചെയ്യുന്നു...",
+    "loading": "മോഡ്യൂളുകളും ക്യാപബിലിറ്റികളും ലോഡ് ചെയ്യുന്നു...",
+    "loadFailed": "ഡാറ്റ ലോഡ് ചെയ്യാൻ പരാജയപ്പെട്ടു.",
+    "emptyState": {
+      "title": "കോയ് മോഡ്യൂളും കണ്ടെത്തിയില്ല",
+      "description": "ക്യാപബിലിറ്റികൾ അസൈൻ ചെയ്യുന്നതിന് മുമ്പ് ദയവായി മോഡ്യൂളുകൾ ക്രിയേറ്റ് ചെയ്യുക",
+      "goToModuleManagementButton": "മോഡ്യൂൾ മാനേജ്‌മെന്റിലേക്ക് പോകുക"
+    },
+    "sections": {
+      "learningActivities": {
+        "title": "ലർനിംഗ് അക്ടിവിറ്റികൾ",
+        "description": "കോഴ്സ് ലെവൽ അക്ടിവിറ്റികൾക്കായി വ്യൂ, ക്രിയേറ്റ്, എഡിറ്റ്, ഡിലീറ്റ് പർമിഷനുകൾ കൺഫിഗർ ചെയ്യുക."
+      },
+      "tools": {
+        "title": "ടൂൾസ്",
+        "description": "കോഴ്സ് ടൂൾസിനായി വിസിബിലിറ്റി (വ്യൂ) കൺഫിഗർ ചെയ്യുക."
+      }
+    },
+    "capabilities": {
+      "create": "ക്രിയേറ്റ്",
+      "read": "വ്യൂ",
+      "edit": "എഡിറ്റ്",
+      "delete": "ഡിലീറ്റ്",
+      "enabledCount": "എനേബ്ൾഡ്"
+    },
+    "table": {
+      "moduleNameHeader": "മോഡ്യൂൾ പേരു",
+      "toolNameHeader": "ടൂൾ പേരു",
+      "moduleHeader": "മോഡ്യൂൾ",
+      "descriptionHeader": "വിവരണം",
+      "capabilitiesHeader": "ക്യാപബിലിറ്റികൾ"
+    },
+    "resetModal": {
+      "title": "ക്യാപബിലിറ്റികൾ ഡിഫോൾട്ടിലേക്ക് റീസെറ്റ് ചെയ്യുക",
+      "message": "നിങ്ങൾ ഉറപ്പായും എല്ലാ ക്യാപബിലിറ്റികൾ റീസെറ്റ് ചെയ്യാൻ ആഗ്രഹിക്കുന്നുണ്ടോ",
+      "message2": "അവയുടെ ഡിഫോൾട്ട് സെറ്റിംഗുകളിലേക്ക്?",
+      "warning1": "ഇത് റോളിന്റെ ആർക്കിടെക്ചർ ടെംപ്ലേറ്റിൽ നിർവചിച്ച ക്യാപബിലിറ്റികൾ പുനഃസ്ഥാപിക്കും.",
+      "warning2": "കസ്റ്റം മാറ്റങ്ങൾ നഷ്ടപ്പെടും.",
+      "cancelButton": "കാൻസൽ",
+      "resettingButton": "റീസെറ്റ് ചെയ്യുന്നു...",
+      "resetToDefaultButton": "ഡിഫോൾട്ടിലേക്ക് റീസെറ്റ് ചെയ്യുക"
+    },
+    "toasts": {
+      "loadError": "റോൾ കപാബിലിറ്റീസ് ലോഡ് ചെയ്യാൻ പരാജയപ്പെട്ടു",
+      "resetSuccess": "{{roleName}} എന്നതിന്റെ കപാബിലിറ്റീസ് ഡിഫോൾട്ടിലേക്ക് റീസെറ്റ് ചെയ്തു!",
+      "resetFailed": "റോൾ കപാബിലിറ്റീസ് റീസെറ്റ് ചെയ്യാൻ പരാജയപ്പെട്ടു",
+      "updateSuccess": "റോൾ കപാബിലിറ്റീസ് അപ്‌ഡേറ്റ് ചെയ്തു",
+      "updateFailed": "റോൾ കപാബിലിറ്റീസ് അപ്‌ഡേറ്റ് ചെയ്യാൻ പരാജയപ്പെട്ടു"
+    }
+  },
+  "roleManagement": {
+    "title": "റോൾ മാനേജ്മെന്റ്",
+    "subtitle": "കസ്റ്റം ഉപയോക്തൃ റോൾസ് മാനേജ് ചെയ്യുക, റോൾ ആർക്കിടെക്ചറുകൾ നിയോഗിക്കുക",
+    "addNewButton": "പുതിയ റോൾ ചേർക്കുക",
+    "table": {
+      "slNoHeader": "ക്രമസംഖ്യ",
+      "roleHeader": "റോൾ",
+      "architectureHeader": "ആർക്കിടെക്ചർ",
+      "descriptionHeader": "വിവരണം",
+      "createdAtHeader": "സൃഷ്ടിച്ച തീയതി",
+      "actionsHeader": "പ്രവർത്തനങ്ങൾ",
+      "noRolesFound": "കസ്റ്റം റോൾസ് കണ്ടെത്തിയില്ല."
+    },
+    "form": {
+      "roleNameLabel": "റോൾ നാമം *",
+      "roleDescriptionLabel": "റോൾ വിവരണം",
+      "architectureLabel": "റോൾ ആർക്കിടെക്ചർ തിരഞ്ഞെടുക്കുക *",
+      "architecturePlaceholder": "ഒരു ആർക്കിടെക്ചർ തിരഞ്ഞെടുക്കുക...",
+      "saveChangesButton": "മാറ്റങ്ങൾ സംരക്ഷിക്കുക",
+      "savingButton": "സംരക്ഷിക്കുന്നു...",
+      "cancelButton": "റദ്ദാക്കുക"
+    },
+    "deleteModal": {
+      "title": "മാറ്റം സ്ഥിരീകരിക്കുക",
+      "message": "നിങ്ങൾ ഈ റോൾ ഇല്ലാതാക്കാൻ ഉറപ്പാണോ",
+      "undoWarning": "ഈ പ്രവർത്തനം തിരികെ എടുക്കാൻ കഴിയില്ല.",
+      "deleteButton": "റോൾ ഇല്ലാതാക്കുക",
+      "cancelButton": "റദ്ദാക്കുക"
+    },
+    "toasts": {
+      "failedToLoadRoles": "റോളുകൾ ലോഡ് ചെയ്യാൻ പരാജയപ്പെട്ടു",
+      "failedToLoadArchitectures": "റോൾ ആർക്കിടെക്ചറുകൾ ലോഡ് ചെയ്യാൻ പരാജയപ്പെട്ടു",
+      "createdSuccess": "റോൾ വിജയകരമായി സൃഷ്ടിച്ചു",
+      "updatedSuccess": "റോൾ വിജയകരമായി അപ്ഡേറ്റ് ചെയ്തു",
+      "createdFailed": "റോൾ സൃഷ്ടിക്കാൻ പരാജയപ്പെട്ടു",
+      "updatedFailed": "റോൾ അപ്ഡേറ്റ് ചെയ്യാൻ പരാജയപ്പെട്ടു",
+      "deletedSuccess": "റോൾ വിജയകരമായി ഇല്ലാതാക്കി",
+      "deletedFailed": "റോൾ ഇല്ലാതാക്കാൻ പരാജയപ്പെട്ടു"
+    },
+    "validation": {
+      "nameRequired": "റോൾ നാമം ആവശ്യമാണ്",
+      "nameMinLength": "റോൾ നാമം കുറഞ്ഞത് 2 അക്ഷരങ്ങൾ ആയിരിക്കണം",
+      "nameMaxLength": "റോൾ നാമം 100 അക്ഷരങ്ങൾക്കു മുകളിൽ ആയിരിക്കരുത്",
+      "descriptionMaxLength": "വിവരണം 500 അക്ഷരങ്ങൾക്കു മുകളിൽ ആയിരിക്കരുത്",
+      "architectureRequired": "റോൾ ആർക്കിടെക്ചർ ആവശ്യമാണ്"
+    }
+  },
+  "dashboardManagement": {
+    "title": "ഡാഷ്ബോർഡ് മാനേജ്മെന്റ്",
+    "subtitle": "നിങ്ങളുടെ റോൾ & അനുമതികൾ നിയന്ത്രിക്കുക",
+    "backButton": "മുമ്പത്തെ",
+    "loading": "അനുമതികൾ ലോഡ് ചെയ്യുന്നു...",
+    "errorPrefix": "തെറ്റ്: ",
+    "activePermissions": "സജീവ അനുമതികൾ:",
+    "dashboardModulesHeader": "ഡാഷ്ബോർഡ് മോഡ്യൂളുകൾ",
+    "sidebarModulesHeader": "സൈഡ്‌ബാർ മോഡ്യൂളുകൾ",
+    "moduleColumn": "മോഡ്യൂൾ",
+    "permissionsColumn": "അനുമതികൾ",
+    "selectAll": "എല്ലാം തിരഞ്ഞെടുക്കുക",
+    "savePermissionsButton": "അനുമതികൾ സംരക്ഷിക്കുക",
+    "savingButton": "സംരക്ഷിക്കുന്നു...",
+    "admin": "അഡ്മിൻ",
+    "instructor": "ഇൻസ്ട്രക്ടർ",
+    "student": "വിദ്യാർത്ഥി",
+    "toasts": {
+      "saveSuccess": "അനുമതികൾ വിജയകരമായി സംരക്ഷിച്ചു",
+      "saveFailed": "അനുമതികൾ സംരക്ഷിക്കാൻ പരാജയപ്പെട്ടു"
+    },
+    "roleLabel": "റോൾ",
+    "permissionsSectionTitle": "മോഡ്യൂൾ അനുമതികൾ",
+    "selectRoleDisclaimer": "അനുമതികൾ മാറ്റാൻ ഒരു റോൾ തിരഞ്ഞെടുക്കുക.",
+    "modulesCount": "{{count}} മോഡ്യൂളുകൾ",
+    "sidebarItemsCount": "{{count}} ഇനങ്ങൾ",
+    "noModulesForRole": "ഈ റോളിന് മോഡ്യൂളുകൾ ലഭ്യമില്ല",
+    "teacher": "ടീച്ചർ",
+    "toggleDisabled": "ഈ അനുമതി താൽക്കാലികമായി ലഭ്യമല്ല",
+    "toggleAlwaysOn": "ഈ ടോഗിൾ ഓഫ് ചെയ്യാൻ സാധ്യമല്ല"
+  }
+}

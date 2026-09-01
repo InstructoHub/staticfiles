@@ -1,0 +1,176 @@
+{
+  "common": {
+    "grade": "గ్రేడ్",
+    "grades": "గ్రేడ్‌లు",
+    "student": "స్టూడెంట్",
+    "students": "స్టూడెంట్స్",
+    "assignment": "అసైన్‌మెంట్",
+    "assignments": "అసైన్‌మెంట్‌లు",
+    "quiz": "క్విజ్",
+    "quizzes": "క్విజ్‌లు",
+    "average": "సగటు",
+    "overall": "మొత్తం",
+    "dueDate": "గడువు తేదీ",
+    "submitted": "సమర్పించబడింది",
+    "status": "స్థితి",
+    "actions": "చర్యలు",
+    "details": "వివరాలు",
+    "name": "పేరు",
+    "email": "ఈమెయిల్",
+    "points": "పాయింట్లు",
+    "maxPoints": "గరిష్ట పాయింట్లు",
+    "percentage": "శాతం",
+    "loading": "లోడ్ అవుతోంది",
+    "error": "లోపం",
+    "noData": "డేటా లేదు",
+    "pts": "పాయింట్లు",
+    "days": "రోజులు"
+  },
+  "student": {
+    "dashboard": {
+      "title": "మీ గ్రేడ్ డాష్‌బోర్డ్",
+      "overallGrade": "మొత్తం గ్రేడ్",
+      "excellent": "అద్భుతం",
+      "needsImprovement": "మెరుగుదల అవసరం",
+      "assignmentsSubmitted": "సమర్పించిన అసైన్‌మెంట్‌లు",
+      "assignmentsGraded": "అసైన్‌మెంట్స్ గ్రేడెడ్",
+      "quizzesCompleted": "క్విజ్‌లు కంప్లీటెడ్",
+      "pendingGrades": "పెండింగ్ గ్రేడ్స్",
+      "overdueItems": "ఓవర్‌డ్యూన్ ఐటమ్స్",
+      "upcomingDeadlines": "రాబోయే డెడ్‌లైన్స్",
+      "overdue": "ఓవర్‌డ్యూన్",
+      "noUpcomingDeadlines": "రాబోయే డెడ్‌లైన్స్ లేవు",
+      "noOverdueItems": "ఓవర్‌డ్యూన్ ఐటమ్స్ లేవు"
+    },
+    "header": {
+      "backToDashboard": "డాష్‌బోర్డ్‌కు వెళ్ళండి",
+      "viewAllGrades": "అన్ని గ్రేడ్స్ చూడండి"
+    },
+    "table": {
+      "allGrades": "అన్ని గ్రేడ్స్",
+      "activity": "అక్టివిటీ",
+      "type": "రకం",
+      "grade": "గ్రేడ్",
+      "pending": "పెండింగ్"
+    },
+    "modal": {
+      "submissionDetails": "సబ్మిషన్ వివరాలు",
+      "yourScore": "మీ స్కోర్",
+      "close": "మూసివేయండి"
+    },
+    "messages": {
+      "loadingGrades": "గ్రేడ్స్ లోడ్ అవుతోంది...",
+      "fetchingData": "తాజా డేటా తీసుకునేలోపు క్షణం వేచి ఉండండి.",
+      "errorLoadingGrades": "గ్రేడ్స్ లోడ్ చేయడంలో పొరపాటు",
+      "noCourseSelected": "ఎలాంటి కోర్సు ఎంపిక చేయబడలేదు",
+      "selectCourse": "గ్రేడ్ సమాచారం చూడటానికి దయచేసి ఒక కోర్సు ఎంపిక చేయండి.",
+      "noGradableItems": "గ్రేడబుల్ ఐటమ్స్ లేవు",
+      "noGradableItemsDesc": "మేము మూడిల్‌కు విజయవంతంగా కనెక్ట్ అయ్యాము మరియు ఈ కోర్సుకు సంబంధించిన డేటాను లోడ్ చేశాము, కానీ మీ ఖాతాకు సంబంధించిన గ్రేడబుల్ కార్యకలాపాలు (అసైన్‌మెంట్స్ లేదా క్విజ్‌ల వంటి) కనుగొనలేదు.",
+      "whatToCheckNext": "తర్వాత ఏమి తనిఖీ చేయాలి:",
+      "checkCourseContent": "కోర్సు కంటెంట్: మూడిల్‌లో (ID: {{courseId}}) కోర్సు 'అసైన్‌మెంట్' లేదా 'క్విజ్' కార్యకలాపాలను కలిగి ఉందో లేదో నిర్ధారించుకోండి.",
+      "checkEnrollment": "ఎన్‌రోల్‌మెంట్: మీరు ఈ కోర్సులో సరైన విధంగా నమోదు చేసుకున్నారా అని నిర్ధారించుకోండి.",
+      "tryDifferentCourse": "వేరే కోర్సు: గ్రేడ్స్ అక్కడ కనిపిస్తాయా చూడటానికి వేరే కోర్సును చూడండి."
+    }
+  },
+  "teacher": {
+    "gradebook": {
+      "title": "గ్రేడ్ మేనేజ్‌మెంట్ డాష్‌బోర్డ్",
+      "overview": "అవలోకనం",
+      "gradeTable": "గ్రేడ్ టేబుల్",
+      "searchStudents": "విద్యార్థులను శోధించండి",
+      "filterByName": "విద్యార్థి పేరుతో ఫిల్టర్ చేయండి...",
+      "searchAssignment": "క్విజ్ లేదా అసైన్మెంట్‌ను శోధించండి",
+      "filterAssignment": "ఫిల్టర్ చేయండి...",
+      "filterByType": "రకం ద్వారా ఫిల్టర్ చేయండి",
+      "all": "అన్నీ"
+    },
+    "overview": {
+      "requiresAttention": "గమనించాలి",
+      "pendingGrades": "పెండింగ్ గ్రేడ్‌లు",
+      "overdueAssignments": "అవసరమైన అసైన్మెంట్‌లు",
+      "toGrade": "గ్రేడ్‌కు",
+      "noPendingGrades": "పెండింగ్ గ్రేడ్‌లు లేవు",
+      "allSubmissionsGraded": "అన్నీ సమర్పణలు గ్రేడ్ చేయబడ్డాయి",
+      "noOverdueAssignments": "అవసరమైన అసైన్మెంట్‌లు లేవు",
+      "allOnTrack": "అన్ని అసైన్మెంట్‌లు సరిగ్గా ఉన్నాయి",
+      "totalStudents": "మొత్తం విద్యార్థులు",
+      "classAverage": "తరగతి సగటు",
+      "allCaughtUp": "అన్నీ సర్దుబాటు అయ్యాయి!",
+      "noPendingSubmissions": "గ్రేడ్ చేయడానికి పెండింగ్ సమర్పణలు లేవు."
+    },
+    "stats": {
+      "totalStudents": "మొత్తం విద్యార్థులు",
+      "assignments": "అసైన్మెంట్‌లు",
+      "quizzes": "క్విజ్‌లు",
+      "overdueItems": "అవసరమైన అంశాలు",
+      "pendingGrades": "పెండింగ్ గ్రేడ్‌లు",
+      "classAverage": "తరగతి సగటు"
+    },
+    "studentList": {
+      "allStudents": "అన్ని విద్యార్థులు",
+      "averageGrade": "సగటు గ్రేడ్",
+      "viewDetails": "వివరాలను చూడండి",
+      "backToOverview": "అవలోకనానికి తిరిగి"
+    },
+    "studentDetail": {
+      "gradeDetailsFor": "గ్రేడ్ వివరాలు కోసం",
+      "overallAverage": "సామాన్య సగటు",
+      "noGradesAvailable": "గ్రేడ్‌లు అందుబాటులో లేవు",
+      "backToStudentList": "విద్యార్థుల జాబితాకు తిరిగి",
+      "dueDate": "గడువు తేదీ",
+      "gradedSubmittedOn": "గ్రేడ్ చేయబడింది / సమర్పించబడింది",
+      "notGraded": "గ్రేడ్ చేయబడలేదు"
+    },
+    "assignment": {
+      "pendingGradesView": "పెండింగ్ గ్రేడ్‌లు",
+      "overdueStudents": "గడువు ముగిసిన విద్యార్థులు",
+      "studentsToGrade": "గ్రేడ్ చేయాల్సిన విద్యార్థులు",
+      "studentsOverdue": "గడువు ముగిసిన విద్యార్థులు",
+      "submittedOn": "సమర్పించబడింది",
+      "daysOverdue": "గడువు ముగిసిన రోజులు",
+      "enterGrade": "గ్రేడ్ నమోదు చేయండి",
+      "backToListing": "జాబితాకు తిరిగి",
+      "allPendingGrades": "అన్ని పెండింగ్ గ్రేడ్‌లు",
+      "total": "మొత్తం",
+      "submissionsToGrade": "గ్రేడ్ చేయాల్సిన సమర్పణలు",
+      "overdueItems": "గడువు ముగిసిన అంశాలు",
+      "noOverdueStudents": "ఈ అసైన్‌మెంట్‌కు గడువు ముగిసిన విద్యార్థులు లేరు.",
+      "noPendingSubmissionsForAssignment": "ఈ అసైన్‌మెంట్‌కు గ్రేడ్ చేయడానికి పెండింగ్ సమర్పణలు లేవు.",
+      "noOverdueItemsDesc": "గడువు ముగిసిన అంశాలు లేవు"
+    },
+    "gradeTable": {
+      "enterGrade": "గ్రేడ్ నమోదు చేయండి"
+    },
+    "messages": {
+      "loadingGradebook": "గ్రేడ్‌బుక్ లోడ్ అవుతోంది...",
+      "errorLoadingGradebook": "గ్రేడ్‌బుక్ లోడ్ చేయడంలో లోపం",
+      "noGradableItems": "ఈ కోర్సులో ఇంకా గ్రేడ్ చేయదగిన అంశాలు (అసైన్‌మెంట్లు లేదా క్విజ్‌లు) లేవు.",
+      "invalidGrade": "0 మరియు {{maxGrade}} మధ్య సరైన గ్రేడ్ నమోదు చేయండి.",
+      "errorSavingGrade": "గ్రేడ్ సేవ్ చేయడంలో లోపం. దయచేసి మళ్లీ ప్రయత్నించండి."
+    }
+  },
+  "status": {
+    "graded": "గ్రేడ్ చేయబడింది",
+    "submitted": "సమర్పించబడింది",
+    "notSubmitted": "సమర్పించలేదు",
+    "overdue": "కాలం ముగిసింది",
+    "inProgress": "జరుగుతోంది",
+    "pending": "ప్రతిష్టిత",
+    "noDueDate": "కాలపరిమితి లేదు"
+  },
+  "buttons": {
+    "viewDetails": "వివరాలను చూడండి",
+    "backToOverview": "సారాంశానికి వెనక్కి",
+    "backToDashboard": "డాష్‌బోర్డ్‌కు వెనక్కి",
+    "close": "మూసివేయండి",
+    "save": "సేవ్",
+    "cancel": "రద్దు చేయండి",
+    "enterGrade": "గ్రేడ్ నమోదు చేయండి",
+    "edit": "సవరించండి"
+  },
+  "labels": {
+    "due": "కాలపరిమితి",
+    "na": "లభ్యం కాదు",
+    "of": "చే"
+  }
+}

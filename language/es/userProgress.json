@@ -1,0 +1,44 @@
+{
+  "studentProgressReport": {
+    "title": "Reporte de Progreso del Estudiante",
+    "backToParticipants": "Volver a Participantes",
+    "downloadReport": "Descargar Reporte",
+    "userId": "ID de Usuario",
+    "courseId": "ID del Curso",
+    "loading": "Cargando datos de progreso del estudiante...",
+    "error": "Error",
+    "noDataAvailable": "Sin datos disponibles",
+    "sections": {
+      "overview": "Descripción General del Progreso del Curso",
+      "timeMetrics": "Métricas de Tiempo",
+      "engagementMetrics": "Métricas de Participación",
+      "additionalInfo": "Información Adicional",
+      "lastActivity": "Última Actividad Visualizada",
+      "activityGrades": "Calificaciones de Actividades"
+    },
+    "fields": {
+      "courseStatus": "Estado del Curso",
+      "completed": "Completado",
+      "inProgress": "En Progreso",
+      "activitiesCompleted": "Actividades Completadas",
+      "completionRate": "Tasa de Finalización",
+      "totalTimeSpent": "Tiempo Total Empleado",
+      "timeToComplete": "Tiempo para Completar",
+      "firstAccess": "Primer Acceso",
+      "lastAccess": "Último Acceso",
+      "quizAttempts": "Intentos de Quiz",
+      "assignmentSubmissions": "Entregas de Tareas",
+      "forumPosts": "Publicaciones en Foros",
+      "modulesViewed": "Módulos Vistos",
+      "resourceDownloads": "Descargas de Recursos",
+      "inactiveDays": "Días Inactivos",
+      "deviceType": "Tipo de Dispositivo",
+      "activityName": "Nombre de la Actividad",
+      "grade": "Calificación",
+      "notGraded": "Sin calificar",
+      "ofTotal": "de {{total}} total",
+      "ofForums": "de {{total}} foros",
+      "course": "Curso"
+    }
+  }
+}

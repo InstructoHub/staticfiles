@@ -1,0 +1,331 @@
+{
+  "page": {
+    "title": "ਯੂਜ਼ਰ ਮੈਨੇਜਮੈਂਟ",
+    "subtitle": "ਆਪਣੇ ਯੂਜ਼ਰਾਂ ਨੂੰ ਮੈਨੇਜ ਅਤੇ ਵਿਵਸਥਿਤ ਕਰੋ",
+    "createTitle": "ਨਵਾਂ ਯੂਜ਼ਰ ਬਣਾਓ",
+    "createSubtitle": "ਸਿਸਟਮ ਵਿੱਚ ਇੱਕ ਜਾਂ ਇੱਕ ਤੋਂ ਵੱਧ ਯੂਜ਼ਰ ਜੋੜੋ",
+    "adminTitle": "ਐਡਮਿਨ ਮੈਨੇਜਮੈਂਟ",
+    "adminSubtitle": "ਸਿਸਟਮ ਵਿੱਚ ਐਡਮਿਨ ਯੂਜ਼ਰਾਂ ਨੂੰ ਜੋੜੋ ਜਾਂ ਹਟਾਓ",
+    "loading": "ਯੂਜ਼ਰ ਲੋਡ ਹੋ ਰਹੇ ਹਨ...",
+    "noUsersFound": "ਤੁਹਾਡੀ ਸਰਚ ਦੇ ਮੁਤਾਬਕ ਕੋਈ ਯੂਜ਼ਰ ਨਹੀਂ ਮਿਲਿਆ",
+    "noUsersAvailable": "ਕੋਈ ਯੂਜ਼ਰ ਉਪਲਬਧ ਨਹੀਂ ਹੈ ਨਵਾਂ ਯੂਜ਼ਰ ਜੋੜ ਕੇ ਸ਼ੁਰੂ ਕਰੋ",
+    "tryAdjustingSearch": "ਕਿਰਪਾ ਕਰਕੇ ਆਪਣੀ ਸਰਚ ਨੂੰ ਬਦਲ ਕੇ ਦੇਖੋ"
+  },
+  "navigation": {
+    "createUser": "ਯੂਜ਼ਰ ਬਣਾਓ",
+    "addAdminUsers": "ਐਡਮਿਨ ਯੂਜ਼ਰ ਜੋੜੋ",
+    "backToUsers": "ਯੂਜ਼ਰਾਂ 'ਤੇ ਵਾਪਸ ਜਾਓ"
+  },
+  "tabs": {
+    "singleUser": "ਇੱਕ ਯੂਜ਼ਰ ਬਣਾਓ",
+    "bulkUpload": "ਬਲਕ ਅਪਲੋਡ ਯੂਜ਼ਰ",
+    "addAdmin": "ਐਡਮਿਨ ਵਜੋਂ ਮਾਰਕ ਕਰੋ",
+    "currentAdmins": "ਮੌਜੂਦਾ ਐਡਮਿਨ ({{count}})",
+    "currentAdminsNoCount": "ਮੌਜੂਦਾ ਐਡਮਿਨ",
+    "addUser": "ਯੂਜ਼ਰ ਜੋੜੋ"
+  },
+  "buttons": {
+    "selectAll": "ਸਭ ਚੁਣੋ",
+    "deselectAll": "ਸਭ ਹਟਾਓ",
+    "createUser": "ਯੂਜ਼ਰ ਬਣਾਓ",
+    "addUsers": "ਯੂਜ਼ਰ ਜੋੜੋ",
+    "cancel": "ਕੈਂਸਲ",
+    "creating": "ਬਣ ਰਿਹਾ ਹੈ...",
+    "addAdmin": "ਐਡਮਿਨ ਵਜੋਂ ਮਾਰਕ ਕਰੋ",
+    "adding": "ਐਡਮਿਨ ਵਜੋਂ ਮਾਰਕ ਹੋ ਰਿਹਾ ਹੈ...",
+    "removeAdmin": "ਐਡਮਿਨ ਹਟਾਓ",
+    "removing": "ਹਟਾਇਆ ਜਾ ਰਿਹਾ ਹੈ...",
+    "deleting": "ਡਿਲੀਟ ਹੋ ਰਿਹਾ ਹੈ...",
+    "deleteUser": "ਯੂਜ਼ਰ ਡਿਲੀਟ ਕਰੋ",
+    "deleteUsers": "{{count}} ਯੂਜ਼ਰ ਡਿਲੀਟ ਕਰੋ",
+    "deleteSelected": "ਯੂਜ਼ਰ ਡਿਲੀਟ ਕਰੋ",
+    "activateUser": "ਯੂਜ਼ਰ ਐਕਟੀਵੇਟ ਕਰੋ",
+    "suspendUser": "ਯੂਜ਼ਰ ਸਸਪੈਂਡ ਕਰੋ",
+    "editUser": "ਯੂਜ਼ਰ ਐਡਿਟ ਕਰੋ",
+    "refresh": "ਰਿਫ੍ਰੈਸ਼",
+    "browseFiles": "ਫਾਈਲਾਂ ਵੇਖੋ",
+    "chooseDifferentImage": "ਕੋਈ ਹੋਰ ਤਸਵੀਰ ਚੁਣੋ",
+    "chooseDifferentFile": "ਕੋਈ ਹੋਰ ਫਾਈਲ ਚੁਣੋ",
+    "downloadSampleCSV": "ਸੈਂਪਲ CSV ਡਾਊਨਲੋਡ ਕਰੋ",
+    "uploadCSV": "CSV ਫਾਈਲ ਅਪਲੋਡ ਕਰੋ",
+    "browseForCSV": "CSV ਫਾਈਲ ਲੱਭੋ",
+    "addUser": "ਯੂਜ਼ਰ ਜੋੜੋ",
+    "tryAgain": "ਮੁੜ ਕੋਸ਼ਿਸ਼ ਕਰੋ"
+  },
+  "form": {
+    "labels": {
+      "username": "ਯੂਜ਼ਰ ਨੇਮ",
+      "email": "ਈਮੇਲ",
+      "firstName": "ਪਹਿਲਾ ਨਾਮ",
+      "lastName": "ਆਖਰੀ ਨਾਮ",
+      "city": "ਸ਼ਹਿਰ",
+      "country": "ਦੇਸ਼",
+      "profilePicture": "ਪ੍ਰੋਫਾਈਲ ਤਸਵੀਰ (ਵਿਕਲਪਿਕ)",
+      "password": "ਪਾਸਵਰਡ",
+      "searchUsers": "ਨਾਮ, ਯੂਜ਼ਰ ਨੇਮ ਜਾਂ ਈਮੇਲ ਰਾਹੀਂ ਲੱਭੋ...",
+      "searchAdminUsers": "ਐਡਮਿਨ ਯੂਜ਼ਰ ਲੱਭੋ...",
+      "searchToAdd": "ਯੂਜ਼ਰ ਨੂੰ ਨਾਮ, ਯੂਜ਼ਰ ਨੇਮ ਜਾਂ ਈਮੇਲ ਨਾਲ ਲੱਭੋ...",
+      "uploadCsvFile": "CSV ਫਾਈਲ ਅਪਲੋਡ ਕਰੋ"
+    },
+    "placeholders": {
+      "username": "ਯੂਜ਼ਰ ਨੇਮ ਦਰਜ ਕਰੋ",
+      "email": "ਈਮੇਲ ਐਡਰੈੱਸ ਦਰਜ ਕਰੋ",
+      "firstName": "ਪਹਿਲਾ ਨਾਮ ਦਰਜ ਕਰੋ",
+      "lastName": "ਆਖਰੀ ਨਾਮ ਦਰਜ ਕਰੋ",
+      "city": "ਸ਼ਹਿਰ ਦਰਜ ਕਰੋ",
+      "country": "ਦੇਸ਼ ਚੁਣੋ",
+      "password": "ਪਾਸਵਰਡ ਦਰਜ ਕਰੋ",
+      "searchUsers": "ਨਾਮ, ਯੂਜ਼ਰ ਨੇਮ, ਈਮੇਲ ਨਾਲ ਲੱਭੋ...",
+      "searchAdminUsers": "ਐਡਮਿਨ ਯੂਜ਼ਰ ਲੱਭੋ...",
+      "searchToAdd": "ਨਾਮ, ਯੂਜ਼ਰ ਨੇਮ ਜਾਂ ਈਮੇਲ ਨਾਲ ਲੱਭੋ..."
+    },
+    "validation": {
+      "usernameRequired": "ਯੂਜ਼ਰ ਨੇਮ ਲਾਜ਼ਮੀ ਹੈ",
+      "usernameMaxLength": "ਯੂਜ਼ਰ ਨੇਮ 50 ਅੱਖਰਾਂ ਤੋਂ ਵੱਧ ਨਹੀਂ ਹੋਣਾ ਚਾਹੀਦਾ",
+      "usernameFormat": "ਯੂਜ਼ਰ ਨੇਮ ਵਿੱਚ ਸਿਰਫ ਛੋਟੇ ਅੱਖਰ, ਨੰਬਰ ਅਤੇ ਅੰਡਰਸਕੋਰ ਹੋ ਸਕਦੇ ਹਨ",
+      "emailRequired": "ਈਮੇਲ ਲਾਜ਼ਮੀ ਹੈ",
+      "emailInvalid": "ਕਿਰਪਾ ਕਰਕੇ ਸਹੀ ਈਮੇਲ ਐਡਰੈੱਸ ਦਰਜ ਕਰੋ",
+      "firstNameRequired": "ਪਹਿਲਾ ਨਾਮ ਲਾਜ਼ਮੀ ਹੈ",
+      "firstNameMaxLength": "ਪਹਿਲਾ ਨਾਮ 50 ਅੱਖਰਾਂ ਤੋਂ ਵੱਧ ਨਹੀਂ ਹੋਣਾ ਚਾਹੀਦਾ",
+      "lastNameRequired": "ਆਖਰੀ ਨਾਮ ਲਾਜ਼ਮੀ ਹੈ",
+      "lastNameMaxLength": "ਆਖਰੀ ਨਾਮ 50 ਅੱਖਰਾਂ ਤੋਂ ਵੱਧ ਨਹੀਂ ਹੋਣਾ ਚਾਹੀਦਾ",
+      "cityMaxLength": "ਸ਼ਹਿਰ ਦਾ ਨਾਮ 50 ਅੱਖਰਾਂ ਤੋਂ ਵੱਧ ਨਹੀਂ ਹੋਣਾ ਚਾਹੀਦਾ",
+      "passwordRequired": "ਪਾਸਵਰਡ ਲਾਜ਼ਮੀ ਹੈ",
+      "passwordMinLength": "ਪਾਸਵਰਡ ਘੱਟੋ-ਘੱਟ 8 ਅੱਖਰਾਂ ਦਾ ਹੋਣਾ ਚਾਹੀਦਾ ਹੈ",
+      "passwordDigit": "ਪਾਸਵਰਡ ਵਿੱਚ ਘੱਟੋ-ਘੱਟ 1 ਨੰਬਰ ਹੋਣਾ ਚਾਹੀਦਾ ਹੈ",
+      "passwordLowercase": "ਪਾਸਵਰਡ ਵਿੱਚ ਘੱਟੋ-ਘੱਟ 1 ਛੋਟਾ ਅੱਖਰ ਹੋਣਾ ਚਾਹੀਦਾ ਹੈ",
+      "passwordUppercase": "ਪਾਸਵਰਡ ਵਿੱਚ ਘੱਟੋ-ਘੱਟ 1 ਵੱਡਾ ਅੱਖਰ ਹੋਣਾ ਚਾਹੀਦਾ ਹੈ",
+      "passwordSpecialChar": "ਪਾਸਵਰਡ ਵਿੱਚ ਘੱਟੋ-ਘੱਟ 1 ਸਪੈਸ਼ਲ ਅੱਖਰ ਹੋਣਾ ਚਾਹੀਦਾ ਹੈ",
+      "usernameTaken": "ਇਹ ਯੂਜ਼ਰ ਨੇਮ ਪਹਿਲਾਂ ਹੀ ਵਰਤਿਆ ਜਾ ਰਿਹਾ ਹੈ",
+      "emailTaken": "ਇਹ ਈਮੇਲ ਪਹਿਲਾਂ ਹੀ ਰਜਿਸਟਰਡ ਹੈ",
+      "usernameAlphanumeric": "ਯੂਜ਼ਰ ਨਾਂ ਵਿੱਚ ਘੱਟੋ-ਘੱਟ ਇੱਕ ਅੱਖਰ ਜਾਂ ਨੰਬਰ ਹੋਣਾ ਚਾਹੀਦਾ ਹੈ",
+      "emailMaxLength": "ਈਮੇਲ 254 ਅੱਖਰਾਂ ਤੋਂ ਵੱਧ ਨਹੀਂ ਹੋ ਸਕਦੀ",
+      "firstNameFormat": "ਪਹਿਲੇ ਨਾਮ ਵਿੱਚ ਸਿਰਫ਼ ਅੱਖਰ, ਖਾਲੀ ਥਾਂ, ਅਪੋਸਟਰੋਫ (') ਅਤੇ ਹਾਈਫਨ (-) ਹੋ ਸਕਦੇ ਹਨ",
+      "lastNameFormat": "ਆਖਰੀ ਨਾਮ ਵਿੱਚ ਸਿਰਫ਼ ਅੱਖਰ, ਖਾਲੀ ਥਾਂ, ਅਪੋਸਟਰੋਫ (') ਅਤੇ ਹਾਈਫਨ (-) ਹੋ ਸਕਦੇ ਹਨ",
+      "cityMinLength": "ਸ਼ਹਿਰ ਘੱਟੋ-ਘੱਟ 2 ਅੱਖਰਾਂ ਦਾ ਹੋਣਾ ਚਾਹੀਦਾ ਹੈ",
+      "cityFormat": "ਸ਼ਹਿਰ ਵਿੱਚ ਸਿਰਫ਼ ਅੱਖਰ, ਖਾਲੀ ਥਾਂ, ਹਾਈਫਨ (-), ਅਪੋਸਟਰੋਫ (') ਅਤੇ ਪੀਰੀਅਡ (.) ਹੋ ਸਕਦੇ ਹਨ",
+      "cityNumericOnly": "ਸ਼ਹਿਰ ਸਿਰਫ਼ ਨੰਬਰਾਂ 'ਚੋਂ ਬਣਿਆ ਨਹੀਂ ਹੋ ਸਕਦਾ",
+      "countryInvalid": "ਕਿਰਪਾ ਕਰਕੇ ਇੱਕ ਵੈਧ ਦੇਸ਼ ਚੁਣੋ"
+    },
+    "passwordRequirements": "8+ ਅੱਖਰ, 1 ਨੰਬਰ, 1 ਛੋਟਾ ਅੱਖਰ, 1 ਵੱਡਾ ਅੱਖਰ, 1 ਸਪੈਸ਼ਲ ਅੱਖਰ",
+    "passwordMode": {
+      "manual": {
+        "title": "ਪਾਸਵਰਡ ਸੈੱਟ ਕਰੋ",
+        "description": "ਐਡਮਿਨ ਪਾਸਵਰਡ ਸੈੱਟ ਕਰੇਗਾ"
+      },
+      "email": {
+        "title": "ਈਮੇਲ ਰਾਹੀਂ ਪਾਸਵਰਡ",
+        "description": "ਯੂਜ਼ਰ ਈਮੇਲ ਲਿੰਕ ਰਾਹੀਂ ਪਾਸਵਰਡ ਸੈੱਟ ਕਰੇਗਾ"
+      }
+    },
+    "passwordViaEmail": {
+      "sentTo": "ਖਾਤਾ ਸੈਟਅਪ ਈਮੇਲ ਭੇਜੀ ਜਾਵੇਗੀ:",
+      "fallbackEmail": "ਯੂਜ਼ਰ ਦੇ ਈਮੇਲ ਐਡਰੈੱਸ 'ਤੇ",
+      "withLink": "ਪਾਸਵਰਡ ਸੈੱਟ ਕਰਨ ਲਈ ਲਿੰਕ ਦੇ ਨਾਲ"
+    }
+  },
+  "table": {
+    "headers": {
+      "serialNo": "ਐੱਸ.ਨੰ.",
+      "user": "ਯੂਜ਼ਰ",
+      "username": "ਯੂਜ਼ਰ ਨੇਮ",
+      "email": "ਈਮੇਲ",
+      "location": "ਲੋਕੇਸ਼ਨ",
+      "lastAccess": "ਆਖਰੀ ਪਹੁੰਚ",
+      "actions": "ਐਕਸ਼ਨਸ",
+      "line": "ਲਾਈਨ",
+      "reason": "ਕਾਰਨ"
+    },
+    "status": {
+      "suspended": "ਸਸਪੈਂਡ"
+    },
+    "tooltips": {
+      "cannotSuspendSelf": "ਤੁਸੀਂ ਆਪਣਾ ਖੁਦ ਦਾ ਖਾਤਾ ਸਸਪੈਂਡ ਨਹੀਂ ਕਰ ਸਕਦੇ",
+      "cannotRemoveSelfAdmin": "ਤੁਸੀਂ ਆਪਣੇ ਆਪ ਨੂੰ ਐਡਮਿਨ ਰੋਲ ਤੋਂ ਨਹੀਂ ਹਟਾ ਸਕਦੇ",
+      "activateUser": "ਯੂਜ਼ਰ ਐਕਟੀਵੇਟ ਕਰੋ",
+      "suspendUser": "ਯੂਜ਼ਰ ਸਸਪੈਂਡ ਕਰੋ",
+      "editUser": "ਯੂਜ਼ਰ ਐਡਿਟ ਕਰੋ",
+      "deleteUser": "ਯੂਜ਼ਰ ਡਿਲੀਟ ਕਰੋ",
+      "removeAdminRole": "ਐਡਮਿਨ ਰੋਲ ਹਟਾਓ",
+      "cannotModifyMainAdmin": "ਇਸ ਮੁੱਖ ਐਡਮਿਨ ਖਾਤੇ ਨੂੰ ਸੋਧਿਆ ਨਹੀਂ ਜਾ ਸਕਦਾ",
+      "cannotDeleteSelf": "ਤੁਸੀਂ ਆਪਣਾ ਖਾਤਾ ਮਿਟਾ ਨਹੀਂ ਸਕਦੇ"
+    }
+  },
+  "imageUpload": {
+    "dragAndDrop": "ਇੱਥੇ ਤਸਵੀਰ ਡਰੈਗ ਕਰੋ",
+    "or": "ਜਾਂ",
+    "invalidImageFile": "ਕਿਰਪਾ ਕਰਕੇ ਸਹੀ ਇਮੇਜ ਫਾਈਲ ਚੁਣੋ",
+    "uploadFailed": "ਪ੍ਰੋਫਾਈਲ ਤਸਵੀਰ ਅਪਲੋਡ ਕਰਨ ਵਿੱਚ ਫੇਲ",
+    "previewAlt": "ਪ੍ਰੀਵਿਊ",
+    "supportedImageTypes": "ਸਮਰਥਿਤ ਕਿਸਮਾਂ: {{types}}"
+  },
+  "bulkUpload": {
+    "instructions": "ਹਦਾਇਤਾਂ",
+    "step1": "1. ਫਾਰਮੈਟ ਵੇਖਣ ਲਈ ਸੈਂਪਲ CSV ਫਾਈਲ ਡਾਊਨਲੋਡ ਕਰੋ",
+    "step2": "2. ਯੂਜ਼ਰ ਡਿਟੇਲਸ ਭਰੋ `username`, `firstname` ਅਤੇ `lastname` ਲਾਜ਼ਮੀ ਹਨ",
+    "step3": "3. ਭਰੀ ਹੋਈ CSV ਫਾਈਲ ਅਪਲੋਡ ਕਰੋ ਅਤੇ 'ਯੂਜ਼ਰ ਜੋੜੋ' 'ਤੇ ਕਲਿੱਕ ਕਰੋ",
+    "dragAndDropCSV": "CSV ਫਾਈਲ ਇੱਥੇ ਡਰੈਗ ਕਰੋ",
+    "selectCSVFile": "ਕਿਰਪਾ ਕਰਕੇ ਅਪਲੋਡ ਲਈ CSV ਫਾਈਲ ਚੁਣੋ",
+    "uploadSummary": "ਅਪਲੋਡ ਸਾਰਾਂਸ਼",
+    "usersCreated": "ਯੂਜ਼ਰ ਸਫਲਤਾਪੂਰਵਕ ਬਣ ਗਏ",
+    "usersFailed": "ਯੂਜ਼ਰ ਬਣਾਉਣ ਵਿੱਚ ਫੇਲ",
+    "errorDetails": "ਗਲਤੀ ਦੀ ਡਿਟੇਲ:",
+    "line": "ਲਾਈਨ",
+    "reason": "ਕਾਰਨ",
+    "username": "ਯੂਜ਼ਰ ਨੇਮ",
+    "sampleCsvFileName": "bulk_users_sample.csv",
+    "fieldRequirementsTitle": "CSV ਕਾਲਮ ਦੀਆਂ ਲੋੜਾਂ",
+    "requiredLabel": "ਲਾਜ਼ਮੀ",
+    "optionalLabel": "ਵਿਕਲਪੀ",
+    "fields": {
+      "username": {
+        "label": "ਯੂਜ਼ਰਨਾਮ",
+        "required": "ਹਾਂ",
+        "rules": "['ਲਾਜ਼ਮੀ', 'ਵੱਧ ਤੋਂ ਵੱਧ 50 ਅੱਖਰ', 'ਕੇਵਲ ਅੱਖਰ, ਨੰਬਰ, ਅਤੇ @ . + - _ (ਕੋ ਖਾਲੀ ਥਾਂ ਨਹੀਂ)', 'ਘੱਟੋ-ਘੱਟ ਇੱਕ ਅੱਖਰ ਜਾਂ ਨੰਬਰ ਹੋਣਾ ਲਾਜ਼ਮੀ', 'ਇਹ ਵਿਲੱਖਣ ਹੋਣਾ ਚਾਹੀਦਾ ਹੈ ਅਤੇ ਪਹਿਲਾਂ ਰਜਿਸਟਰ ਨਹੀਂ ਹੋਣਾ ਚਾਹੀਦਾ']"
+      },
+      "firstname": {
+        "label": "ਪਹਿਲਾ ਨਾਮ",
+        "required": "ਹਾਂ",
+        "rules": "['ਲਾਜ਼ਮੀ', 'ਵੱਧ ਤੋਂ ਵੱਧ 50 ਅੱਖਰ', 'ਕੇਵਲ ਅੱਖਰ, ਖਾਲੀ ਥਾਂ, ਅਪੋਸਟਰੋਫ (') ਅਤੇ ਹਾਈਫਨ (-)']"
+      },
+      "lastname": {
+        "label": "ਆਖਰੀ ਨਾਮ",
+        "required": "ਹਾਂ",
+        "rules": "['ਲਾਜ਼ਮੀ', 'ਵੱਧ ਤੋਂ ਵੱਧ 50 ਅੱਖਰ', 'ਕੇਵਲ ਅੱਖਰ, ਖਾਲੀ ਥਾਂ, ਅਪੋਸਟਰੋਫ (') ਅਤੇ ਹਾਈਫਨ (-)']"
+      },
+      "email": {
+        "label": "ਈਮੇਲ",
+        "required": "ਲਾਜ਼ਮੀ",
+        "rules": "['ਲਾਜ਼ਮੀ', 'ਵੱਧ ਤੋਂ ਵੱਧ 254 ਅੱਖਰ', 'ਸਹੀ ਈਮੇਲ ਪਤਾ ਹੋਣਾ ਚਾਹੀਦਾ ਹੈ', 'ਦੂਜਿਆਂ ਤੋਂ ਵੱਖਰਾ ਹੋਵੇ ਅਤੇ ਪਹਿਲਾਂ ਰਜਿਸਟਰ ਨਾ ਹੋਵੇ']"
+      },
+      "password": {
+        "label": "ਪਾਸਵਰਡ",
+        "required": "ਲਾਜ਼ਮੀ ਨਹੀਂ",
+        "rules": "['ਵਿਕਲਪਿਕ — ਖਾਲੀ ਛੱਡੋ ਤਾਂ ਯੂਜ਼ਰ ਨੂੰ ਪਾਸਵਰਡ ਸੈੱਟਅੱਪ ਈਮੇਲ ਭੇਜੀ ਜਾਵੇਗੀ', 'ਜੇ ਦਿਤਾ ਗਿਆ: ਘੱਟੋ-ਘੱਟ 8 ਅੱਖਰ, 1 ਨੰਬਰ, 1 ਛੋਟਾ ਅੱਖਰ, 1 ਵੱਡਾ ਅੱਖਰ, ਅਤੇ 1 ਵਿਸ਼ੇਸ਼ ਚਿੰਨ੍ਹ']"
+      },
+      "city": {
+        "label": "ਸ਼ਹਿਰ",
+        "required": "ਲਾਜ਼ਮੀ ਨਹੀਂ",
+        "rules": "['ਵਿਕਲਪਿਕ', 'ਜੇ ਦਿੱਤਾ ਜਾਵੇ ਤਾਂ 2 ਤੋਂ 100 ਅੱਖਰ', 'ਕੇਵਲ ਅੱਖਰ, ਖਾਲੀ ਥਾਂ, ਹਾਈਫਨ (-), ਅਪੋਸਟ੍ਰੋਫ (\\') ਅਤੇ ਪੀਰੀਅਡ (.) ਚੱਲਦੇ ਹਨ', 'ਇਹ ਕੇਵਲ ਨੰਬਰ ਨਹੀਂ ਹੋ ਸਕਦਾ (ਉਦਾਹਰਨ: 12345)']"
+      },
+      "country": {
+        "label": "ਦੇਸ਼",
+        "required": "ਲਾਜ਼ਮੀ ਨਹੀਂ",
+        "rules": "['ਵਿਕਲਪਿਕ', 'ਇਹ ਇੱਕ ਸਹੀ 2-ਅੱਖਰ ਦੇਸ਼ ਕੋਡ ਹੋਣਾ ਚਾਹੀਦਾ ਹੈ (ਉਦਾਹਰਨ: US, GB, IN)']"
+      }
+    }
+  },
+  "adminManagement": {
+    "searchingUsers": "ਯੂਜ਼ਰ ਲੱਭੇ ਜਾ ਰਹੇ ਹਨ...",
+    "noUsersFound": "ਤੁਹਾਡੀ ਸਰਚ ਮੁਤਾਬਕ ਕੋਈ ਯੂਜ਼ਰ ਨਹੀਂ ਮਿਲਿਆ",
+    "foundUsers": "ਸਰਚ ਮੁਤਾਬਕ {{count}} ਯੂਜ਼ਰ ਮਿਲੇ",
+    "startTypingToSearch": "ਐਡਮਿਨ ਬਣਾਉਣ ਲਈ ਯੂਜ਼ਰ ਲੱਭਣ ਲਈ ਟਾਈਪ ਕਰਨਾ ਸ਼ੁਰੂ ਕਰੋ",
+    "totalAdminUsers": "ਕੁੱਲ ਐਡਮਿਨ ਯੂਜ਼ਰ: {{count}}",
+    "loadingAdminUsers": "ਐਡਮਿਨ ਯੂਜ਼ਰ ਲੋਡ ਹੋ ਰਹੇ ਹਨ...",
+    "noAdminUsers": "ਕੋਈ ਐਡਮਿਨ ਯੂਜ਼ਰ ਨਹੀਂ ਮਿਲਿਆ",
+    "apiConfigIssue": "ਇਹ API ਕੰਫੀਗਰੇਸ਼ਨ ਦੀ ਸਮੱਸਿਆ ਹੋ ਸਕਦੀ ਹੈ ਡਿਟੇਲ ਲਈ ਕੰਸੋਲ ਚੈੱਕ ਕਰੋ",
+    "noAdminUsersMatch": "ਸਰਚ ਮੁਤਾਬਕ ਕੋਈ ਐਡਮਿਨ ਯੂਜ਼ਰ ਨਹੀਂ ਮਿਲਿਆ",
+    "availableUsers": "{{count}} ਯੂਜ਼ਰ ਉਪਲਬਧ"
+  },
+  "modals": {
+    "deleteUser": {
+      "title": "ਯੂਜ਼ਰ ਡਿਲੀਟ ਕਰੋ",
+      "titleMultiple": "ਕਈ ਯੂਜ਼ਰ ਡਿਲੀਟ ਕਰੋ",
+      "warning": "ਚੇਤਾਵਨੀ: ਇਹ ਕਾਰਵਾਈ ਵਾਪਸ ਨਹੀਂ ਲਈ ਜਾ ਸਕਦੀ",
+      "description": "ਯੂਜ਼ਰ ਡਿਲੀਟ ਕਰਨ ਨਾਲ ਉਸਦਾ ਸਾਰਾ ਡੇਟਾ ਅਤੇ ਐਕਸੈਸ ਪੱਕੇ ਤੌਰ 'ਤੇ ਹਟ ਜਾਵੇਗਾ",
+      "descriptionMultiple": "ਇਹਨਾਂ {{count}} ਯੂਜ਼ਰਾਂ ਨੂੰ ਡਿਲੀਟ ਕਰਨ ਨਾਲ ਸਾਰਾ ਡੇਟਾ ਅਤੇ ਐਕਸੈਸ ਪੱਕੇ ਤੌਰ 'ਤੇ ਹਟ ਜਾਵੇਗਾ",
+      "listLabel": "ਡਿਲੀਟ ਕੀਤਾ ਜਾਣ ਵਾਲਾ ਯੂਜ਼ਰ:",
+      "listLabelMultiple": "ਡਿਲੀਟ ਕੀਤੇ ਜਾਣ ਵਾਲੇ ਯੂਜ਼ਰ ({{count}}):",
+      "confirmation": "ਕੀ ਤੁਸੀਂ ਯਕੀਨੀ ਤੌਰ 'ਤੇ ਇਸ ਯੂਜ਼ਰ ਨੂੰ ਡਿਲੀਟ ਕਰਨਾ ਚਾਹੁੰਦੇ ਹੋ? ਇਹ ਕਾਰਵਾਈ ਵਾਪਸ ਨਹੀਂ ਲਈ ਜਾ ਸਕਦੀ",
+      "confirmationMultiple": "ਕੀ ਤੁਸੀਂ ਯਕੀਨੀ ਤੌਰ 'ਤੇ ਇਹਨਾਂ {{count}} ਯੂਜ਼ਰਾਂ ਨੂੰ ਡਿਲੀਟ ਕਰਨਾ ਚਾਹੁੰਦੇ ਹੋ? ਇਹ ਕਾਰਵਾਈ ਵਾਪਸ ਨਹੀਂ ਲਈ ਜਾ ਸਕਦੀ",
+      "details": {
+        "name": "ਨਾਮ:",
+        "username": "ਯੂਜ਼ਰ ਨੇਮ:",
+        "email": "ਈਮੇਲ:",
+        "location": "ਲੋਕੇਸ਼ਨ:"
+      }
+    },
+    "addAdmin": {
+      "title": "ਐਡਮਿਨ ਯੂਜ਼ਰ ਜੋੜੋ",
+      "confirmation": "ਐਡਮਿਨ ਬਣਾਉਣ ਦੀ ਪੁਸ਼ਟੀ",
+      "description": "ਇਸ ਨਾਲ ਚੁਣੇ ਹੋਏ ਯੂਜ਼ਰ ਨੂੰ ਐਡਮਿਨ ਪਰਮਿਸ਼ਨਸ ਮਿਲ ਜਾਣਗੀਆਂ",
+      "listLabel": "ਐਡਮਿਨ ਬਣਾਇਆ ਜਾਣ ਵਾਲਾ ਯੂਜ਼ਰ:",
+      "confirmationText": "ਕੀ ਤੁਸੀਂ ਯਕੀਨੀ ਤੌਰ 'ਤੇ ਇਸ ਯੂਜ਼ਰ ਨੂੰ ਐਡਮਿਨ ਬਣਾਉਣਾ ਚਾਹੁੰਦੇ ਹੋ? ਉਹਨਾਂ ਕੋਲ ਸਿਸਟਮ ਮੈਨੇਜ ਕਰਨ ਦੀਆਂ ਪਰਮਿਸ਼ਨਸ ਹੋਣਗੀਆਂ",
+      "details": {
+        "fullName": "ਪੂਰਾ ਨਾਮ:",
+        "email": "ਈਮੇਲ:"
+      }
+    },
+    "removeAdmin": {
+      "title": "ਐਡਮਿਨ ਯੂਜ਼ਰ ਹਟਾਓ",
+      "confirmation": "ਐਡਮਿਨ ਹਟਾਉਣ ਦੀ ਪੁਸ਼ਟੀ",
+      "description": "ਇਸ ਨਾਲ ਚੁਣੇ ਹੋਏ ਯੂਜ਼ਰ ਤੋਂ ਐਡਮਿਨ ਪਰਮਿਸ਼ਨਸ ਵਾਪਸ ਲੈ ਲਈਆਂ ਜਾਣਗੀਆਂ",
+      "listLabel": "ਐਡਮਿਨ ਰੋਲ ਤੋਂ ਹਟਾਇਆ ਜਾਣ ਵਾਲਾ ਯੂਜ਼ਰ:",
+      "confirmationText": "ਕੀ ਤੁਸੀਂ ਯਕੀਨੀ ਤੌਰ 'ਤੇ ਇਸ ਯੂਜ਼ਰ ਨੂੰ ਐਡਮਿਨ ਰੋਲ ਤੋਂ ਹਟਾਉਣਾ ਚਾਹੁੰਦੇ ਹੋ? ਉਹ ਐਡਮਿਨ ਪਰਮਿਸ਼ਨਸ ਖੋਹ ਦੇਣਗੇ",
+      "details": {
+        "fullName": "ਪੂਰਾ ਨਾਮ:",
+        "email": "ਈਮੇਲ:"
+      }
+    }
+  },
+  "messages": {
+    "success": {
+      "userCreated": "ਯੂਜ਼ਰ ਸਫਲਤਾਪੂਰਵਕ ਬਣ ਗਿਆ",
+      "usersDeleted": "{{count}} ਯੂਜ਼ਰ ਸਫਲਤਾਪੂਰਵਕ ਡਿਲੀਟ ਹੋ ਗਏ",
+      "userDeleted": "ਯੂਜ਼ਰ ਸਫਲਤਾਪੂਰਵਕ ਡਿਲੀਟ ਹੋ ਗਿਆ",
+      "userSuspended": "ਯੂਜ਼ਰ ਸਫਲਤਾਪੂਰਵਕ ਸਸਪੈਂਡ ਹੋ ਗਿਆ",
+      "userActivated": "ਯੂਜ਼ਰ ਸਫਲਤਾਪੂਰਵਕ ਐਕਟੀਵੇਟ ਹੋ ਗਿਆ",
+      "adminAdded": "{{userName}} ਨੂੰ ਸਫਲਤਾਪੂਰਵਕ ਐਡਮਿਨ ਬਣਾ ਦਿੱਤਾ ਗਿਆ ਹੈ",
+      "adminRemoved": "{{userName}} ਨੂੰ ਐਡਮਿਨ ਰੋਲ ਤੋਂ ਸਫਲਤਾਪੂਰਵਕ ਹਟਾ ਦਿੱਤਾ ਗਿਆ ਹੈ",
+      "allUsersCreated": "ਸਾਰੇ ਯੂਜ਼ਰ ਸਫਲਤਾਪੂਰਵਕ ਬਣ ਗਏ! ਕੁੱਲ: {{totalCreated}}",
+      "bulkUploadPartial": "{{totalErrors}} ਗਲਤੀਆਂ ਨਾਲ ਪ੍ਰੋਸੈਸ ਹੋਇਆ {{totalCreated}} ਯੂਜ਼ਰ ਬਣ ਗਏ"
+    },
+    "error": {
+      "failedToFetchUsers": "ਯੂਜ਼ਰ ਲਿਆਉਣ ਵਿੱਚ ਫੇਲ",
+      "failedToCreateUser": "ਯੂਜ਼ਰ ਬਣਾਉਣ ਵਿੱਚ ਫੇਲ",
+      "userCreationFailed": "ਯੂਜ਼ਰ ਨਹੀਂ ਬਣ ਸਕਿਆ",
+      "failedToDeleteUsers": "ਯੂਜ਼ਰ ਡਿਲੀਟ ਕਰਨ ਵਿੱਚ ਫੇਲ",
+      "failedToSuspendUser": "ਯੂਜ਼ਰ ਸਸਪੈਂਡ ਕਰਨ ਵਿੱਚ ਫੇਲ",
+      "failedToActivateUser": "ਯੂਜ਼ਰ ਐਕਟੀਵੇਟ ਕਰਨ ਵਿੱਚ ਫੇਲ",
+      "cannotSuspendSelf": "ਤੁਸੀਂ ਆਪਣਾ ਖੁਦ ਦਾ ਖਾਤਾ ਸਸਪੈਂਡ ਨਹੀਂ ਕਰ ਸਕਦੇ",
+      "cannotRemoveSelfAdmin": "ਤੁਸੀਂ ਆਪਣੇ ਆਪ ਨੂੰ ਐਡਮਿਨ ਰੋਲ ਤੋਂ ਨਹੀਂ ਹਟਾ ਸਕਦੇ",
+      "failedToFetchAdminUsers": "ਐਡਮਿਨ ਯੂਜ਼ਰ ਲਿਆਉਣ ਵਿੱਚ ਫੇਲ",
+      "failedToSearchUsers": "ਯੂਜ਼ਰ ਲੱਭਣ ਵਿੱਚ ਫੇਲ",
+      "failedToAddAdmin": "ਯੂਜ਼ਰ ਨੂੰ ਐਡਮਿਨ ਬਣਾਉਣ ਵਿੱਚ ਫੇਲ",
+      "failedToRemoveAdmin": "ਯੂਜ਼ਰ ਨੂੰ ਐਡਮਿਨ ਰੋਲ ਤੋਂ ਹਟਾਉਣ ਵਿੱਚ ਫੇਲ",
+      "bulkUploadError": "ਬਲਕ ਅਪਲੋਡ ਦੌਰਾਨ ਕੋਈ ਅਚਾਨਕ ਗਲਤੀ ਆਈ",
+      "usernameAlreadyExists": "ਇਹ ਯੂਜ਼ਰ ਨੇਮ ਪਹਿਲਾਂ ਹੀ ਮੌਜੂਦ ਹੈ ਕਿਰਪਾ ਕਰਕੇ ਕੋਈ ਹੋਰ ਚੁਣੋ",
+      "emailAlreadyRegistered": "ਇਹ ਈਮੇਲ ਪਹਿਲਾਂ ਹੀ ਰਜਿਸਟਰਡ ਹੈ ਕਿਰਪਾ ਕਰਕੇ ਵੱਖਰੀ ਈਮੇਲ ਵਰਤੋ",
+      "invalidCsvFile": "ਕਿਰਪਾ ਕਰਕੇ ਸਹੀ .csv ਫਾਈਲ ਚੁਣੋ",
+      "selectCsvToUpload": "ਕਿਰਪਾ ਕਰਕੇ ਅਪਲੋਡ ਲਈ CSV ਫਾਈਲ ਚੁਣੋ",
+      "uploadCsvNoId": "CSV ਫਾਈਲ ਅਪਲੋਡ ਫੇਲ ਕੋਈ ਸਹੀ ਆਈਟਮ ID ਨਹੀਂ ਮਿਲੀ",
+      "noResponseBulk": "ਬਲਕ ਅਪਲੋਡ API ਤੋਂ ਕੋਈ ਜਵਾਬ ਨਹੀਂ ਮਿਲਿਆ",
+      "unknownError": "ਅਣਜਾਣ ਗਲਤੀ",
+      "cannotModifyMainAdmin": "ਇਸ ਮੁੱਖ ਐਡਮਿਨ ਅਕਾਉਂਟ ਨੂੰ ਸੋਧਿਆ ਨਹੀਂ ਜਾ ਸਕਦਾ.",
+      "cannotDeleteSelf": "ਤੁਸੀਂ ਆਪਣਾ ਅਕਾਉਂਟ ਮਿਟਾ ਨਹੀਂ ਸਕਦੇ."
+    },
+    "warning": {
+      "selectUsersToDelete": "ਕਿਰਪਾ ਕਰਕੇ ਡਿਲੀਟ ਕਰਨ ਲਈ ਯੂਜ਼ਰ ਚੁਣੋ",
+      "errorOccurred": "ਗਲਤੀ ਆਈ ਹੈ"
+    }
+  },
+  "common": {
+    "na": "N/A"
+  },
+  "status": {
+    "loading": "ਲੋਡ ਹੋ ਰਿਹਾ ਹੈ...",
+    "creating": "ਬਣ ਰਿਹਾ ਹੈ...",
+    "deleting": "ਹਟਾਇਆ ਜਾ ਰਿਹਾ ਹੈ...",
+    "processing": "ਪ੍ਰੋਸੈਸਿੰਗ ਹੋ ਰਹੀ ਹੈ...",
+    "searching": "ਲੱਭਿਆ ਜਾ ਰਿਹਾ ਹੈ...",
+    "uploading": "ਅਪਲੋਡ ਹੋ ਰਿਹਾ ਹੈ...",
+    "active": "ਐਕਟਿਵ",
+    "inactive": "ਇਨ-ਐਕਟਿਵ",
+    "suspended": "ਸਸਪੈਂਡ"
+  },
+  "emptyState": {
+    "title": "ਹੁਣ ਤੱਕ ਕੋਈ ਯੂਜ਼ਰ ਨਹੀਂ",
+    "description": "ਪਹਿਲਾ ਯੂਜ਼ਰ ਬਣਾਕੇ ਸ਼ੁਰੂ ਕਰੋ",
+    "createButton": "ਯੂਜ਼ਰ ਬਣਾਓ"
+  }
+}

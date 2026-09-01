@@ -1,0 +1,321 @@
+{
+  "emailSetup": {
+    "title": "Configuration du modèle d'email",
+    "subtitle": "Configurez et gérez votre modèle d'email",
+    "backToTemplates": "Retour aux modèles d'email",
+    "templateVariables": "Variables du modèle",
+    "copyVariableTooltip": "Cliquez pour copier la variable dans le presse-papiers",
+    "templateSubjectLabel": "Objet du modèle *",
+    "templateSenderEmailLabel": "Email de l'expéditeur *",
+    "templateSenderDisplayNameLabel": "Nom de l'expéditeur *",
+    "emailLayoutColorLabel": "Couleur du mise en page de l'email",
+    "htmlBodyLabel": "Corps HTML *",
+    "cancelButton": "Annuler",
+    "saveChangesButton": "Enregistrer les modifications",
+    "savingButton": "Enregistrement...",
+    "confirmBackWarning": "Modifications non enregistrées. Êtes-vous sûr de vouloir revenir?",
+    "toasts": {
+      "failedToLoadVariables": "Échec du chargement des variables d'email",
+      "failedToUpdateTemplate": "Échec de la mise à jour du modèle d'email",
+      "variableCopied": "Variable copiée dans le presse-papiers!"
+    },
+    "validation": {
+      "slNoHeader": "N°",
+      "subjectRequired": "L'objet du modèle est requis",
+      "subjectMinLength": "L'objet doit contenir au moins 2 caractères",
+      "subjectMaxLength": "L'objet ne doit pas dépasser 255 caractères",
+      "senderEmailRequired": "L'email de l'expéditeur est requis",
+      "invalidEmailFormat": "Format d'email invalide",
+      "senderEmailMaxLength": "L'email ne doit pas dépasser 255 caractères",
+      "displayNameRequired": "Le nom de l'expéditeur est requis",
+      "displayNameMinLength": "Le nom doit contenir au moins 2 caractères",
+      "displayNameMaxLength": "Le nom ne doit pas dépasser 255 caractères"
+    }
+  },
+  "emailTemplates": {
+    "noTemplatesFound": "Aucun modèle d'email trouvé",
+    "subjectLabel": "Objet:",
+    "contentPreview": "Aperçu du contenu du modèle",
+    "editButton": "Modifier",
+    "toasts": {
+      "failedToLoad": "Échec du chargement des modèles d'email"
+    }
+  },
+  "moduleManagement": {
+    "title": "Gestion des modules",
+    "subtitle": "Gérez les modules système et leurs métadonnées",
+    "addNewButton": "Ajouter nouveau module",
+    "table": {
+      "slNoHeader": "N°",
+      "moduleHeader": "Module",
+      "descriptionHeader": "Description",
+      "createdAtHeader": "Créé",
+      "actionsHeader": "Actions",
+      "noModulesFound": "Aucun module trouvé."
+    },
+    "form": {
+      "moduleNameLabel": "Nom du module *",
+      "moduleDescriptionLabel": "Description du module",
+      "saveChangesButton": "Enregistrer les modifications",
+      "savingButton": "Enregistrement...",
+      "cancelButton": "Annuler"
+    },
+    "deleteModal": {
+      "title": "Confirmer la suppression",
+      "message": "Êtes-vous sûr de vouloir supprimer le module",
+      "undoWarning": "Cette action ne peut pas être annulée.",
+      "deleteButton": "Supprimer le module",
+      "cancelButton": "Annuler"
+    },
+    "toasts": {
+      "failedToLoad": "Échec du chargement des modules",
+      "createdSuccess": "Module créé avec succès",
+      "updatedSuccess": "Module mis à jour avec succès",
+      "createdFailed": "Échec de la création du module",
+      "updatedFailed": "Échec de la mise à jour du module",
+      "deletedSuccess": "Module supprimé avec succès",
+      "deletedFailed": "Échec de la suppression du module"
+    },
+    "validation": {
+      "nameRequired": "Le nom du module est requis",
+      "nameMinLength": "Le nom doit contenir au moins 2 caractères",
+      "nameMaxLength": "Le nom ne doit pas dépasser 100 caractères",
+      "descriptionMaxLength": "La description ne doit pas dépasser 500 caractères"
+    }
+  },
+  "pageHeader": {
+    "searchPlaceholder": "Rechercher..."
+  },
+  "roleArchitectureDetail": {
+    "title": "Détail de l'architecture des rôles",
+    "subtitle": "Configurez les permissions par défaut pour cette architecture de rôle dans tous les modules.",
+    "backButton": "Retour aux architectures de rôles",
+    "loading": "Chargement des modules...",
+    "loadFailed": "Échec du chargement des données.",
+    "noModulesAvailable": "Aucun module disponible pour la configuration.",
+    "table": {
+      "moduleHeader": "Module",
+      "descriptionHeader": "Description",
+      "capabilitiesHeader": "Capacités"
+    },
+    "capabilities": {
+      "create": "Créer",
+      "read": "Lire",
+      "edit": "Modifier",
+      "delete": "Supprimer",
+      "enabledCount": "activé"
+    },
+    "saveCapabilitiesButton": "Enregistrer les capacités",
+    "savingButton": "Enregistrement...",
+    "cancelButton": "Annuler",
+    "toasts": {
+      "failedToLoadModules": "Échec du chargement de la liste des modules",
+      "saveSuccess": "Capacités enregistrées avec succès",
+      "saveFailed": "Échec de l'enregistrement des capacités"
+    }
+  },
+  "roleArchitectureManagement": {
+    "title": "Gestion de l'architecture des rôles",
+    "subtitle": "Gérez les ensembles de permissions par défaut pour les rôles d'utilisateur",
+    "addNewButton": "Ajouter une nouvelle architecture",
+    "table": {
+      "roleNameHeader": "Nom du rôle",
+      "descriptionHeader": "Description",
+      "createdAtHeader": "Créé",
+      "actionsHeader": "Actions",
+      "noArchitecturesFound": "Aucune architecture de rôle trouvée.",
+      "slNoHeader": "N°"
+    },
+    "form": {
+      "architectureNameLabel": "Nom de l'architecture *",
+      "architectureDescriptionLabel": "Description de l'architecture",
+      "saveChangesButton": "Enregistrer les modifications",
+      "savingButton": "Enregistrement...",
+      "cancelButton": "Annuler"
+    },
+    "deleteModal": {
+      "title": "Confirmer la suppression",
+      "message": "Êtes-vous sûr de vouloir supprimer l'architecture de rôle",
+      "undoWarning": "Cette action ne peut pas être annulée.",
+      "deleteButton": "Supprimer l'architecture de rôle",
+      "cancelButton": "Annuler"
+    },
+    "toasts": {
+      "failedToLoad": "Échec du chargement des architectures de rôles",
+      "createdSuccess": "Architecture de rôle créée avec succès",
+      "updatedSuccess": "Architecture de rôle mise à jour avec succès",
+      "createdFailed": "Échec de la création de l'architecture de rôle",
+      "updatedFailed": "Échec de la mise à jour de l'architecture de rôle",
+      "deletedSuccess": "Architecture de rôle supprimée avec succès",
+      "deletedFailed": "Échec de la suppression de l'architecture de rôle"
+    },
+    "validation": {
+      "nameRequired": "Le nom de l'architecture de rôle est requis",
+      "nameMinLength": "Le nom doit contenir au moins 2 caractères",
+      "nameMaxLength": "Le nom ne doit pas dépasser 100 caractères",
+      "descriptionMaxLength": "La description ne doit pas dépasser 500 caractères"
+    }
+  },
+  "roleManagement": {
+    "title": "Gestion des rôles",
+    "subtitle": "Gérez les rôles utilisateur personnalisés et assignez des architectures de rôles",
+    "addNewButton": "Ajouter nouveau rôle",
+    "table": {
+      "roleHeader": "Rôle",
+      "architectureHeader": "Architecture",
+      "descriptionHeader": "Description",
+      "createdAtHeader": "Créé",
+      "actionsHeader": "Actions",
+      "noRolesFound": "Aucun rôle personnalisé trouvé.",
+      "slNoHeader": "N°"
+    },
+    "form": {
+      "roleNameLabel": "Nom du rôle *",
+      "roleDescriptionLabel": "Description du rôle",
+      "architectureLabel": "Sélectionner l'architecture de rôle *",
+      "architecturePlaceholder": "Sélectionnez une architecture...",
+      "saveChangesButton": "Enregistrer les modifications",
+      "savingButton": "Enregistrement...",
+      "cancelButton": "Annuler"
+    },
+    "deleteModal": {
+      "title": "Confirmer la suppression",
+      "message": "Êtes-vous sûr de vouloir supprimer le rôle",
+      "undoWarning": "Cette action ne peut pas être annulée.",
+      "deleteButton": "Supprimer le rôle",
+      "cancelButton": "Annuler"
+    },
+    "toasts": {
+      "failedToLoadRoles": "Échec du chargement des rôles",
+      "failedToLoadArchitectures": "Échec du chargement des architectures de rôles",
+      "createdSuccess": "Rôle créé avec succès",
+      "updatedSuccess": "Rôle mis à jour avec succès",
+      "createdFailed": "Échec de la création du rôle",
+      "updatedFailed": "Échec de la mise à jour du rôle",
+      "deletedSuccess": "Rôle supprimé avec succès",
+      "deletedFailed": "Échec de la suppression du rôle"
+    },
+    "validation": {
+      "nameRequired": "Le nom du rôle est requis",
+      "nameMinLength": "Le nom doit contenir au moins 2 caractères",
+      "nameMaxLength": "Le nom ne doit pas dépasser 100 caractères",
+      "descriptionMaxLength": "La description ne doit pas dépasser 500 caractères",
+      "architectureRequired": "L'architecture de rôle est requise"
+    }
+  },
+  "dashboardManagement": {
+    "title": "Gestion du tableau de bord",
+    "subtitle": "Gérez vos rôles et permissions",
+    "backButton": "Retour",
+    "loading": "Chargement des permissions...",
+    "errorPrefix": "Erreur: ",
+    "activePermissions": "Permissions actives:",
+    "dashboardModulesHeader": "Modules du tableau de bord",
+    "sidebarModulesHeader": "Modules de la barre latérale",
+    "moduleColumn": "Module",
+    "permissionsColumn": "Permissions",
+    "selectAll": "Sélectionner tout",
+    "savePermissionsButton": "Enregistrer les permissions",
+    "savingButton": "Enregistrement...",
+    "admin": "Administrateur",
+    "instructor": "Instructeur",
+    "student": "Étudiant",
+    "toasts": {
+      "saveSuccess": "Permissions enregistrées avec succès",
+      "saveFailed": "Échec de l'enregistrement des permissions"
+    }
+  },
+  "smtpConfiguration": {
+    "title": "Configuration SMTP",
+    "subtitle": "Configurez vos paramètres Simple Mail Transfer Protocol (SMTP)",
+    "backToControl": "Retour au contrôle d'accès",
+    "hostLabel": "Hôte et port SMTP *",
+    "hostPlaceholder": "Ex. mail.example.com:465 ou mail1.com:587,mail2.com:587",
+    "securityLabel": "Sécurité SMTP",
+    "securityHelpText": "Optionnel. Sélectionnez 'ssl' pour SMTPS sur le port 465, ou 'tls' pour STARTTLS sur le port 587. Laissez vide pour aucun.",
+    "securityNone": "Aucun",
+    "securitySSL": "SSL",
+    "securityTLS": "TLS",
+    "usernameLabel": "Nom d'utilisateur SMTP *",
+    "usernamePlaceholder": "Ex. noreply@example.com",
+    "passwordLabel": "Mot de passe SMTP *",
+    "noreplyEmailLabel": "Email sans réponse *",
+    "noreplyEmailHelpText": "Cet email sera utilisé comme adresse 'From' pour toutes les notifications automatisées.",
+    "noreplyDisplayNameLabel": "Nom d'affichage sans réponse *",
+    "noreplyDisplayNamePlaceholder": "Ex. Notifications InstructoHub",
+    "noreplyDisplayNameHelpText": "Nom affiché comme expéditeur",
+    "cancelButton": "Annuler",
+    "saveConfigurationButton": "Enregistrer la configuration",
+    "savingButton": "Enregistrement...",
+    "toasts": {
+      "failedToLoad": "Échec du chargement de la configuration SMTP",
+      "updateSuccess": "Configuration SMTP mise à jour avec succès",
+      "updateFailed": "Échec de la mise à jour de la configuration SMTP"
+    },
+    "validation": {
+      "hostRequired": "L'hôte SMTP est requis",
+      "hostInvalidFormat": "Format invalide. Utilisez host:port ou host:port,host2:port2",
+      "securityInvalid": "La sécurité doit être vide, ssl ou tls",
+      "usernameRequired": "Le nom d'utilisateur SMTP est requis",
+      "usernameMaxLength": "Le nom d'utilisateur ne doit pas dépasser 255 caractères",
+      "passwordRequired": "Le mot de passe SMTP est requis",
+      "passwordMaxLength": "Le mot de passe ne doit pas dépasser 255 caractères",
+      "noreplyEmailRequired": "L'email sans réponse est requis",
+      "noreplyEmailInvalidFormat": "Format d'email invalide",
+      "noreplyEmailMaxLength": "L'email ne doit pas dépasser 255 caractères",
+      "noreplyDisplayNameRequired": "Le nom d'affichage est requis",
+      "noreplyDisplayNameMinLength": "Le nom doit contenir au moins 2 caractères",
+      "noreplyDisplayNameMaxLength": "Le nom ne doit pas dépasser 255 caractères"
+    }
+  },
+  "accessControlDisplay": {
+    "emailSetupTitle": "Configuration d'email",
+    "emailSetupDescription": "Configurez les modèles d'email et les paramètres de notification",
+    "smtpConfigurationTitle": "Configuration SMTP",
+    "smtpConfigurationDescription": "Configurez les identifiants et paramètres du serveur SMTP",
+    "dashboardManagementTitle": "Gestion du tableau de bord",
+    "dashboardManagementDescription": "Gérez les rôles et permissions pour les modules du tableau de bord",
+    "roleArchitectureManagementTitle": "Gestion de l'architecture des rôles",
+    "roleArchitectureManagementDescription": "Gérez les ensembles de permissions par défaut pour les rôles d'utilisateur",
+    "roleManagementTitle": "Gestion des rôles",
+    "roleManagementDescription": "Gérez les rôles utilisateur personnalisés et assignez des architectures de rôles"
+  },
+  "customRoleDetail": {
+    "title": "Personnalisation des capacités de rôle",
+    "subtitle": "Personnalisez les permissions pour ce rôle spécifique dans tous les modules. Les modifications ici remplacent le défaut de l'architecture de rôle.",
+    "backButton": "Retour aux rôles",
+    "saveCapabilitiesButton": "Enregistrer les capacités",
+    "savingButton": "Enregistrement...",
+    "loading": "Chargement des modules et capacités...",
+    "loadFailed": "Échec du chargement des données.",
+    "capabilities": {
+      "create": "Créer",
+      "read": "Lire",
+      "edit": "Modifier",
+      "delete": "Supprimer",
+      "enabledCount": "activé"
+    },
+    "table": {
+      "moduleHeader": "Module",
+      "descriptionHeader": "Description",
+      "capabilitiesHeader": "Capacités"
+    },
+    "resetModal": {
+      "title": "Réinitialiser les capacités à défaut",
+      "message": "Êtes-vous sûr de vouloir réinitialiser toutes les capacités pour",
+      "message2": "à leurs paramètres par défaut?",
+      "warning1": "Cela restaurera les capacités définies dans le modèle d'architecture du rôle.",
+      "warning2": "Tous les changements personnalisés seront perdus.",
+      "cancelButton": "Annuler",
+      "resettingButton": "Réinitialisation...",
+      "resetToDefaultButton": "Réinitialiser à défaut"
+    },
+    "toasts": {
+      "loadError": "Échec du chargement des capacités de rôle",
+      "resetSuccess": "Capacités de rôle réinitialisées à défaut avec succès",
+      "resetFailed": "Échec de la réinitialisation des capacités de rôle",
+      "updateSuccess": "Capacités de rôle mises à jour avec succès",
+      "updateFailed": "Échec de la mise à jour des capacités de rôle"
+    }
+  }
+}

@@ -1,0 +1,407 @@
+{
+  "header": {
+    "greetings": {
+      "morning": "ସୁପ୍ରଭାତ",
+      "afternoon": "ସୁବେଳା",
+      "evening": "ଶୁଭ ସନ୍ଧ୍ୟା"
+    }
+  },
+  "home": {
+    "edit": "ଆପଣଙ୍କର ଡ୍ୟାଶବୋର୍ଡ ବ୍ୟକ୍ତିଗତ କରନ୍ତୁ",
+    "save": "ଲେଆଉଟ୍ ସେଭ୍ କରନ୍ତୁ",
+    "dragToReposition": "ପୁନର୍ବ୍ୟବସ୍ଥାପନ ପାଇଁ ଖିଚିବେ",
+    "dropItems": "ଏଠାରେ ଆଇଟମ୍ ଡ୍ରପ୍ କରନ୍ତୁ",
+    "layoutSave": "ଲେଆଉଟ୍ ସଫଳତାର ସହିତ ସେଭ୍ ହେଲା",
+    "errorSaveDashboard": "ଡ୍ୟାଶବୋର୍ଡ ଲେଆଉଟ୍ ସେଭ୍ କରିବାରେ ତ୍ରୁଟି",
+    "dashboardLoading": "ଡ୍ୟାଶବୋର୍ଡ ଲୋଡ୍ ହେଉଛି...",
+    "emptyDashboard": {
+      "title": "ଆପଣଙ୍କର କୌଣସି ଡ୍ୟାଶବୋର୍ଡ ବ୍ଲକ୍ ଦେଖିବାକୁ ଅଧିକାର ନାହିଁ",
+      "description": "ଡ୍ୟାଶବୋର୍ଡ ଉପକରଣଗୁଡିକ ପାଇଁ ଆପଣଙ୍କର ପ୍ରଶାସକ ସହିତ ସମ୍ପର୍କ କରନ୍ତୁ"
+    },
+    "dragModeClickHint": "ସ୍ଥାନାନ୍ତର କରିବା ପାଇଁ ୱିଡ୍ଜେଟଗୁଡ଼ିକୁ ଡ୍ରାଗ୍ କରନ୍ତୁ"
+  },
+  "continLearning": {
+    "title": "ମୋର କୋର୍ସଗୁଡିକ",
+    "buttonDescription": "ମୋର କୋର୍ସଗୁଡିକ ଦେଖନ୍ତୁ",
+    "emptyState": {
+      "noTeacherCourses": "କୌଣସି ଶିକ୍ଷକ କୋର୍ସ ନାହିଁ",
+      "noStudentCourses": "କୌଣସି ଛାତ୍ର କୋର୍ସ ନାହିଁ",
+      "noEnrolledCourses": "କୌଣସି ଭର୍ତ୍ତି ହୋଇଥିବା କୋର୍ସ ନାହିଁ",
+      "noCoursesAvailable": "କୌଣସି କୋର୍ସ ଉପଲବ୍ଧ ନାହିଁ",
+      "teacherDescription": "ଆପଣ ଯେଉଁ କୋର୍ସରେ ଶିକ୍ଷକ ଭାବେ ଭର୍ତ୍ତି ହୋଇଛନ୍ତି, ସେଗୁଡିକ ନାହିଁ",
+      "studentDescription": "ଆପଣ ଯେଉଁ କୋର୍ସରେ ଛାତ୍ର ଭାବେ ଭର୍ତ୍ତି ହୋଇଛନ୍ତି, ସେଗୁଡିକ ନାହିଁ",
+      "adminDescription": "ଆପଣ ଏପର୍ଯ୍ୟନ୍ତ କୌଣସି କୋର୍ସରେ ଭର୍ତ୍ତି ହୋଇନାହାନ୍ତି",
+      "generalDescription": "ଆପଣଙ୍କର ଶିକ୍ଷା ଯାତ୍ରା ଆରମ୍ଭ କରିବା ପାଇଁ କୋର୍ସରେ ଭର୍ତ୍ତି ହେବେ",
+      "browseCourses": "କୋର୍ସଗୁଡିକ ଦେଖନ୍ତୁ"
+    },
+    "viewAll": {
+      "title": "ମୋର ସମସ୍ତ କୋର୍ସଗୁଡିକ ଦେଖନ୍ତୁ",
+      "subtitle": "ମୋର କୋର୍ସଗୁଡିକକୁ ଯାଆନ୍ତୁ"
+    }
+  },
+  "allCourses": {
+    "title": "ସମସ୍ତ କୋର୍ସଗୁଡିକ",
+    "buttonDescription": "ସମସ୍ତ କୋର୍ସଗୁଡିକ ଦେଖନ୍ତୁ",
+    "emptyState": {
+      "title": "ଏପର୍ଯ୍ୟନ୍ତ କୌଣସି କୋର୍ସ ନାହିଁ",
+      "description": "ଏହି ସମୟରେ କୌଣସି କୋର୍ସ ଉପଲବ୍ଧ ନାହିଁ",
+      "button": "କୋର୍ସଗୁଡିକ ଦେଖନ୍ତୁ",
+      "adminDescription": "ପ୍ରଥମ କୋର୍ସ ତିଆରି କରି ଆରମ୍ଭ କରନ୍ତୁ",
+      "createButton": "କୋର୍ସ ତିଆରି କରନ୍ତୁ"
+    },
+    "viewAll": {
+      "title": "ସମସ୍ତ କୋର୍ସ ଅନ୍ବେଷଣ କରନ୍ତୁ",
+      "subtitle": "ସମସ୍ତ କୋର୍ସ ଦେଖନ୍ତୁ"
+    }
+  },
+  "keyMetrics": {
+    "title": "ଆପଣଙ୍କର ଶିକ୍ଷା ମେଟ୍ରିକ୍ସ",
+    "totalCourse": "ଭର୍ତ୍ତି ହୋଇଥିବା କୋର୍ସ",
+    "notStarted": "ଆରମ୍ଭ ହୋଇନି",
+    "inProcess": "ଚାଲିଛି",
+    "completed": "ସମ୍ପୂର୍ଣ୍ଣ",
+    "emptyState": {
+      "title": "ଏଠାରେ କୌଣସି କୋର୍ସ ଉପଲବ୍ଧ ନାହିଁ",
+      "description": "ଶିକ୍ଷା ଯାତ୍ରା ଆରମ୍ଭ କରିବା ପାଇଁ କୋର୍ସଗୁଡ଼ିକୁ ଏନ୍ରୋଲ୍ କରନ୍ତୁ"
+    }
+  },
+  "teachingMetrics": {
+    "title": "ଶିକ୍ଷା ମେଟ୍ରିକ୍ସ",
+    "totalCourses": "ମୋଟ କୋର୍ସ",
+    "totalStudents": "ମୋଟ ଛାତ୍ର",
+    "pendingGrading": "ପେଣ୍ଡିଂ ଗ୍ରେଡିଂ",
+    "avgGrade": "ସାଧାରଣ ଗ୍ରେଡ୍"
+  },
+  "gradingStatus": {
+    "title": "ଗ୍ରେଡିଂ ସ୍ଥିତି",
+    "totalAssignments": "ମୋଟ ଅସାଇନ୍‌ମେଣ୍ଟ",
+    "totalSubmissions": "ମୋଟ ସବମିଶନ୍",
+    "pendingGrading": "ପେଣ୍ଡିଂ ଗ୍ରେଡିଂ",
+    "pendingSubmissions": "ପେଣ୍ଡିଂ ସବମିଶନ୍"
+  },
+  "platformMetrics": {
+    "title": "ପ୍ଲାଟଫର୍ମ ମେଟ୍ରିକ୍ସ",
+    "totalCourses": "ମୋଟ କୋର୍ସ",
+    "totalUsers": "ମୋଟ ইউଜର",
+    "activeEnrollments": "ସକ୍ରିୟ ଭର୍ତ୍ତି",
+    "platformActivity": "ପ୍ଲାଟଫର୍ମ କାର୍ଯ୍ୟ",
+    "card view": "କାର୍ଡ ଭ୍ୟୁ",
+    "list view": "ଲିଷ୍ଟ ଭ୍ୟୁ"
+  },
+  "quickActions": {
+    "title": "ତ୍ୱରିତ କାର୍ଯ୍ୟ",
+    "assignments": "ଅସାଇନ୍‌ମେଣ୍ଟ",
+    "quiz": "କ୍ୱିଜ୍",
+    "certificate": "ସର୍ଟିଫିକେଟ୍",
+    "discussions": "ଚର୍ଚ୍ଚା"
+  },
+  "recentActivity": {
+    "title": "ସମ୍ପ୍ରତି କାର୍ଯ୍ୟ",
+    "seeAllActivity": "ସମସ୍ତ କାର୍ୟକଳାପ ଦେଖନ୍ତୁ",
+    "showLess": "କମ୍ ଦେଖାନ୍ତୁ",
+    "noActivity": "କୌଣସି କାର୍ୟକଳାପ ମିଳିଲା ନାହିଁ ପୁନର୍ବାର ଚେକ୍ କରନ୍ତୁ!",
+    "description": "ଆପଣଙ୍କର ସମ୍ପ୍ରତି କାର୍ୟକଳାପ ଏଠାରେ ଦେଖାଯିବ"
+  },
+  "recommendedCourses": {
+    "title": "ଆପଣଙ୍କ ପାଇଁ ଟ୍ରେଣ୍ଡିଂ କୋର୍ସ",
+    "noSummaryMessage": "ଓପ୍ସ! ଏଠାରେ କୌଣସି ବିବରଣୀ ନାହିଁ — ରହନ୍ତୁ ସାଥେ!",
+    "buttonDesc": "କୋର୍ସ ବିବରଣୀ ଦେଖନ୍ତୁ",
+    "students": "ଭର୍ତ୍ତି ହୋଇଛନ୍ତି",
+    "views": "ଦୃଷ୍ଟି",
+    "emptyState": {
+      "title": "କୌଣସି ସୁପାରିଶ କୋର୍ସ ନାହିଁ",
+      "categoryDescription": "ଏହି ବର୍ଗରେ କୌଣସି କୋର୍ସ ମିଳିଲା ନାହିଁ ଅନ୍ୟ ବର୍ଗଗୁଡିକୁ ବ୍ରାଉଜ୍ କରିବାକୁ ଚେଷ୍ଟା କରନ୍ତୁ କିମ୍ବା ସମସ୍ତ ଉପଲବ୍ଧ କୋର୍ସଗୁଡିକୁ ଖୋଜନ୍ତୁ",
+      "generalDescription": "ବର୍ତ୍ତମାନରେ କୌଣସି ଟ୍ରେଣ୍ଡିଂ କୋର୍ସ ଉପଲବ୍ଧ ନାହିଁ ଆମର କୋର୍ସ କ୍ୟାଟାଲଗ୍ ବ୍ରାଉଜ୍ କରିବାକୁ ଶିକ୍ଷାର ସୁଯୋଗ ଖୋଜନ୍ତୁ",
+      "button": "ସମସ୍ତ କୋର୍ସ ବ୍ରାଉଜ୍ କରନ୍ତୁ"
+    },
+    "enrollmentType": {
+      "enrolled": "ଏନ୍ରୋଲ୍",
+      "locked": "ଲକ୍ଡ୍",
+      "selfEnroll": "ସ୍ୱୟଂ ଏନ୍ରୋଲ୍"
+    }
+  },
+  "upcomingEvents": {
+    "title": "ଆସନ୍ତା ଘଟଣା",
+    "noEvents": "ବର୍ତ୍ତମାନ କୌଣସି ଆସନ୍ତା ଘଟଣା ନାହିଁ",
+    "description": "ବର୍ତ୍ତମାନ କୌଣସି ଆସନ୍ତା ଘଟଣା ନାହିଁ"
+  },
+  "todaysTeachingSummary": {
+    "title": "ଶିକ୍ଷକ ସାରାଂଶ",
+    "totalClasses": "ମୋଟ କ୍ଲାସ",
+    "completedClasses": "ସମ୍ପୂର୍ଣ୍ଣ କ୍ଲାସ",
+    "pendingClasses": "ପେଣ୍ଡିଙ୍ଗ୍ କ୍ଲାସ"
+  },
+  "studentSummary": {
+    "title": "ମୋର ଶିକ୍ଷା ସାରାଂଶ",
+    "tabs": {
+      "assignments": "ଅସାଇନ୍‌ମେଣ୍ଟ",
+      "quizzes": "କ୍ୱିଜ୍",
+      "forums": "ଚର୍ଚ୍ଚା",
+      "liveSessions": "ଲାଇଭ୍ ସେସନ୍"
+    },
+    "dateRanges": {
+      "today": "ଆଜି",
+      "week": "ଆସନ୍ତା 7 ଦିନ",
+      "month": "ଆସନ୍ତା 30 ଦିନ",
+      "custom": "କଷ୍ଟମ୍"
+    },
+    "assignments": {
+      "dueSoon": "ଶୀଘ୍ର ଦେବାକୁ ହେବା",
+      "recentlySubmitted": "ସମ୍ପ୍ରତି ଦାଖଲ କରାଯାଇଛି",
+      "noAssignmentsDue": "ଶୀଘ୍ର ଦେବାକୁ କୌଣସି ଅସାଇନ୍‌ମେଣ୍ଟ ନାହିଁ",
+      "noRecentSubmissions": "କୌଣସି ସମ୍ପ୍ରତି ଦାଖଲ ନାହିଁ",
+      "notSubmitted": "ଦାଖଲ ହୋଇନି",
+      "awaitingGrade": "ଗ୍ରେଡ୍ ଅପେକ୍ଷାରେ",
+      "graded": "ଗ୍ରେଡ୍ ହୋଇଛି",
+      "grade": "ଗ୍ରେଡ୍"
+    },
+    "emptyStates": {
+      "quizzes": "କୌଣସି ଆସନ୍ତା କ୍ୱିଜ୍ ନାହିଁ",
+      "forums": "କୌଣସି ଆଲୋଚନା ଧ୍ୟାନ ଦେବାକୁ ଆବଶ୍ୟକ ନାହିଁ",
+      "liveSessions": "କୌଣସି ଲାଇଭ୍ ସେସନ୍ ନିର୍ଦ୍ଧାରିତ ନାହିଁ"
+    },
+    "footer": {
+      "item": "ଆଇଟମ୍",
+      "items": "ଆଇଟମ୍ସ",
+      "updated": "ଅପଡେଟ୍"
+    },
+    "config": {
+      "title": "ଆପଣଙ୍କର ସାରାଂଶ ଦୃଶ୍ୟ ପREFERENCES କଷ୍ଟମାଇଜ୍ କରନ୍ତୁ:",
+      "options": "['ଆପଣଙ୍କର କାର୍ଯ୍ୟଗୁଡିକୁ ଫିଲ୍ଟର୍ କରିବା ପାଇଁ ତାରିଖ ରେଞ୍ଜ ବାଛନ୍ତୁ', 'ଦେବାକୁ ହେବା ତାରିଖ କିମ୍ବା ଦାଖଲ ସ୍ଥିତି ଦ୍ୱାରା ଅସାଇନ୍‌ମେଣ୍ଟ ଦେଖନ୍ତୁ', 'ଆସନ୍ତା କ୍ୱିଜ୍ ଏବଂ ପରୀକ୍ଷାଗୁଡିକୁ ଟ୍ର୍ୟାକ୍ କରନ୍ତୁ']"
+    },
+    "validation": {
+      "endDateBeforeStart": "ଶେଷ ତାରିଖ ଆରମ୍ଭ ତାରିଖ ପୂର୍ବରୁ ହେବ ନାହିଁ"
+    }
+  },
+  "teacherSummary": {
+    "title": "ଶିକ୍ଷା ସାରାଂଶ",
+    "tabs": {
+      "assignments": "ଅସାଇନ୍‌ମେଣ୍ଟ",
+      "forums": "ଆଲୋଚନା",
+      "liveSessions": "ଲାଇଭ୍ ସେସନ୍",
+      "quizzes": "କ୍ୱିଜ୍"
+    },
+    "dateRanges": {
+      "today": "ଆଜି",
+      "week": "ଆସନ୍ତା 7 ଦିନ",
+      "month": "ଆସନ୍ତା 30 ଦିନ",
+      "custom": "କଷ୍ଟମ୍"
+    },
+    "assignments": {
+      "dueSoon": "ଶୀଘ୍ର ଦେବାକୁ ହେବା",
+      "pendingGrading": "ଗ୍ରେଡିଂ ଅପେକ୍ଷାରେ",
+      "noAssignmentsDue": "ଶୀଘ୍ର ଦେବାକୁ କୌଣସି ଅସାଇନ୍‌ମେଣ୍ଟ ନାହିଁ",
+      "allCaughtUp": "ସବୁ ହେବାକୁ ହେଲା!",
+      "pending": "ପେଣ୍ଡିଂ"
+    },
+    "quizzes": {
+      "dueSoon": "ଶୀଘ୍ର ହେବାକୁ ଅଛି",
+      "pendingGrading": "ଗ୍ରେଡିଂ ବାକୀ",
+      "noQuizzesDue": "ଶୀଘ୍ର ହେବାକୁ କୌଣସି କ୍ୱିଜ୍ ନାହିଁ",
+      "allCaughtUp": "ସବୁ କଥା ହେଲା!",
+      "pending": "ବାକୀ"
+    },
+    "forums": {
+      "dueSoon": "ଶୀଘ୍ର ହେବାକୁ ଅଛି",
+      "noForumsDue": "ଶୀଘ୍ର ହେବାକୁ କୌଣସି ଆଲୋଚନା ନାହିଁ",
+      "allCaughtUp": "ସବୁ କଥା ହେଲା!",
+      "pending": "ବାକୀ"
+    },
+    "emptyStates": {
+      "forums": "କୌଣସି ଆଲୋଚନା ଧ୍ୟାନ ଦେବାକୁ ଆବଶ୍ୟକ ନାହିଁ",
+      "liveSessions": "କୌଣସି ଲାଇଭ୍ ସେସନ୍ ନିର୍ଦ୍ଧାରିତ ନାହିଁ",
+      "quizzes": "କୌଣସି କ୍ୱିଜ୍ ଧ୍ୟାନ ଦେବାକୁ ଆବଶ୍ୟକ ନାହିଁ"
+    },
+    "footer": {
+      "item": "ଆଇଟମ୍",
+      "items": "ଆଇଟମ୍ସ",
+      "updated": "ଅପଡେଟ୍"
+    },
+    "validation": {
+      "endDateBeforeStart": "ଶେଷ ତାରିଖ ଆରମ୍ଭ ତାରିଖ ପୂର୍ବରୁ ହେବ ନାହିଁ"
+    }
+  },
+  "studentList": {
+    "title": "ସବୁ ଛାତ୍ର",
+    "totalStudents": "ମୋଟ ଛାତ୍ର ଥିବା",
+    "courses": "କୋର୍ସ",
+    "loading": "ଛାତ୍ର ଲୋଡ୍ ହେଉଛି...",
+    "loadingCourses": "ଆପଣଙ୍କର କୋର୍ସ ଲୋଡ୍ ହେଉଛି...",
+    "emptyStates": {
+      "noCourses": "କୌଣସି କୋର୍ସ ମିଳିଲା ନାହିଁ",
+      "noCoursesDescription": "ଆପଣ ଏକ ଶିକ୍ଷକ ଭାବେ କୌଣସି କୋର୍ସରେ ଭର୍ତ୍ତି ନୁହେଁ",
+      "noStudents": "ଏହି କୋର୍ସରେ କୌଣସି ଛାତ୍ର ଭର୍ତ୍ତି ନାହିଁ"
+    },
+    "errors": {
+      "loadingCourses": "କୋର୍ସ ଲୋଡ୍ କରିବାରେ ତ୍ରୁଟି",
+      "failedToLoad": "କୋର୍ସ ଲୋଡ୍ କରିବାରେ ବିଫଳ"
+    }
+  },
+  "assignments": {
+    "title": "ଅସାଇନ୍‌ମେଣ୍ଟ",
+    "header": {
+      "assignmentsText": "ଅସାଇନ୍‌ମେଣ୍ଟଗୁଡିକ",
+      "coursesText": "କୋର୍ସ",
+      "pendingText": "ଆପଣଙ୍କର",
+      "pendingSingular": "ବାକୀ ଅସାଇନ୍‌ମେଣ୍ଟ",
+      "pendingPlural": "ପେଣ୍ଡିଂ ଅସାଇନ୍‌ମେଣ୍ଟସ୍",
+      "needGradingText": "ଗ୍ରେଡିଂ ଆବଶ୍ୟକ",
+      "needGradingSingular": "ଅସାଇନ୍‌ମେଣ୍ଟ",
+      "needGradingPlural": "ଅସାଇନ୍‌ମେଣ୍ଟସ୍",
+      "noNeedGrading": "କୌଣସି ଅସାଇନ୍‌ମେଣ୍ଟ ଗ୍ରେଡିଂ ଆବଶ୍ୟକ ନୁହେଁ"
+    },
+    "emptyState": {
+      "title": "କୌଣସି ଅସାଇନ୍‌ମେଣ୍ଟ ଉପଲବ୍ଧ ନାହିଁ",
+      "description": "ବର୍ତ୍ତମାନ ଅସାଇନ୍‌ମେଣ୍ଟ ସହିତ କୌଣସି କୋର୍ସ ନାହିଁ"
+    },
+    "courseLevel": {
+      "graded": "ଗ୍ରେଡିଡ୍",
+      "submitted": "ସମର୍ପିତ",
+      "total": "ମୋଟ",
+      "needGrading": "ଗ୍ରେଡିଂ ଆବଶ୍ୟକ",
+      "allGraded": "ସମସ୍ତ ଗ୍ରେଡିଡ୍ ✓",
+      "noSubmissions": "କୌଣସି ସମର୍ପଣ ନାହିଁ"
+    },
+    "assignmentLevel": {
+      "graded": "ଗ୍ରେଡିଡ୍",
+      "submitted": "ସମର୍ପିତ",
+      "notStarted": "ଆରମ୍ଭ ହୋଇନି",
+      "noStatus": "କୌଣସି ସ୍ଥିତି ନାହିଁ"
+    },
+    "status": {
+      "graded": "ଗ୍ରେଡିଡ୍",
+      "submitted": "ସମର୍ପିତ",
+      "notStarted": "ଆରମ୍ଭ ହୋଇନି"
+    },
+    "dueDate": {
+      "noDueDate": "କୌଣସି ଦେୟ ତାରିଖ ନାହିଁ"
+    },
+    "errors": {
+      "loadingCourses": "କୋର୍ସ ଲୋଡ୍ କରିବାରେ ତ୍ରୁଟି",
+      "failedToLoad": "କୋର୍ସ ଲୋଡ୍ କରିବାରେ ବିଫଳ"
+    }
+  },
+  "forums": {
+    "title": "ଫୋରମ୍ସ",
+    "header": {
+      "forumsText": "ଫୋରମ୍ସ ଆସପାସ",
+      "coursesText": "କୋର୍ସ"
+    },
+    "emptyState": {
+      "title": "କୌଣସି ଫୋରମ୍ ଉପଲବ୍ଧ ନାହିଁ",
+      "description": "ବର୍ତ୍ତମାନ କୌଣସି ଫୋରମ୍ ଉପଲବ୍ଧ ନାହିଁ"
+    },
+    "courseLevel": {
+      "forumSingular": "ଫୋରମ୍",
+      "forumPlural": "ଫୋରମ୍ସ"
+    },
+    "postCount": {
+      "postSingular": "ପୋଷ୍ଟ",
+      "postPlural": "ପୋଷ୍ଟସ"
+    },
+    "errors": {
+      "loadingForums": "ଫୋରମ୍ସ ଲୋଡ୍ କରିବାରେ ତ୍ରୁଟି",
+      "failedToLoad": "ଫୋରମ୍ସ ଲୋଡ୍ କରିବାରେ ବିଫଳ"
+    }
+  },
+  "quizzes": {
+    "title": "କ୍ୱିଜ୍",
+    "header": {
+      "quizzesText": "କ୍ୱିଜ୍ଗୁଡିକ",
+      "coursesText": "କୋର୍ସଗୁଡିକ",
+      "pendingText": "ଆପଣଙ୍କର",
+      "pendingSingular": "ପେଣ୍ଡିଂ କ୍ୱିଜ୍",
+      "pendingPlural": "ପେଣ୍ଡିଂ କ୍ୱିଜ୍ଗୁଡିକ"
+    },
+    "emptyState": {
+      "title": "କୌଣସି କ୍ୱିଜ୍ ଉପଲବ୍ଧ ନାହିଁ",
+      "description": "ଏହି ସମୟରେ କ୍ୱିଜ୍ ସହିତ କୌଣସି କୋର୍ସ ନାହିଁ"
+    },
+    "courseLevel": {
+      "graded": "ଗ୍ରେଡ୍",
+      "submitted": "ସମର୍ପିତ",
+      "total": "ମୋଟ",
+      "needGrading": "ଗ୍ରେଡିଂ ଆବଶ୍ୟକ",
+      "allGraded": "ସବୁ ଗ୍ରେଡ୍ ✓",
+      "noSubmissions": "କୌଣସି ସମର୍ପଣ ନାହିଁ"
+    },
+    "quizLevel": {
+      "graded": "ଗ୍ରେଡ୍",
+      "submitted": "ସମର୍ପିତ"
+    },
+    "status": {
+      "graded": "ଗ୍ରେଡ୍",
+      "submitted": "ସମର୍ପିତ",
+      "inProgress": "ଚାଲୁଛି",
+      "notAttempted": "ଅନୁସନ୍ଧାନ କରାଯାଇନି",
+      "completed": "ସମ୍ପୂର୍ଣ୍ଣ",
+      "noStatus": "କୌଣସି ସ୍ଥିତି ନାହିଁ"
+    },
+    "dueDate": {
+      "dueLabel": "ଦେୟ:",
+      "noDueDate": "କୌଣସି ଦେୟ ତାରିଖ ନାହିଁ"
+    },
+    "loading": "ଆପଣଙ୍କର କ୍ୱିଜ୍ଗୁଡିକ ଲୋଡ୍ କରାଯାଉଛି...",
+    "errors": {
+      "loadingCourses": "କୋର୍ସ ଲୋଡ୍ କରିବାରେ ତ୍ରୁଟି",
+      "failedToLoad": "କୋର୍ସ ଲୋଡ୍ କରିବାରେ ବିଫଳ"
+    }
+  },
+  "certificates": {
+    "emptyState": {
+      "description": "100%",
+      "title": "କୌଣସି ସର୍ଟିଫିକେଟ୍ ଅର୍ଜନ ହୋଇନି"
+    },
+    "loading": "...",
+    "title": "ମୋ ସର୍ଟିଫିକେଟ୍",
+    "header": {
+      "earnedText": "ଆପଣ ଅର୍ଜନ କରିଛନ୍ତି",
+      "certificateSingular": "ସର୍ଟିଫିକେଟ୍",
+      "certificatePlural": "ସର୍ଟିଫିକେଟ୍"
+    },
+    "errors": {
+      "loadingCourses": "କୋର୍ସ ଲୋଡ୍ କରିବାରେ ତ୍ରୁଟି",
+      "failedToLoad": "କୋର୍ସ ଲୋଡ୍ କରିବାରେ ବିଫଳ"
+    }
+  },
+  "adminNoCourseBanner": {
+    "title": "ଏଆଇ ସହିତ ଆପଣଙ୍କର ପ୍ରଥମ କୋର୍ସକୁ ଜୀବନ୍ତ କରନ୍ତୁ",
+    "description": "ଏକ କୋର୍ସ ତିଆରି କରନ୍ତୁ, ଶିକ୍ଷାର୍ଥୀମାନେଙ୍କୁ ଆମନ୍ତ୍ରଣ କରନ୍ତୁ, ଏବଂ ଏହି ଖାଲି ଡ୍ୟାସବୋର୍ଡକୁ ଜୀବନ୍ତ ଶିକ୍ଷା ସ୍ଥଳରେ ପରିଣତ କରନ୍ତୁ",
+    "createButton": "ଆରମ୍ଭ କରନ୍ତୁ",
+    "spotlightHint": "ଏଠାକୁ କ୍ଲିକ୍ କରି ଆପଣଙ୍କର ପ୍ରଥମ କୋର୍ସ ତିଆରି କରନ୍ତୁ ଏବଂ ଆପଣଙ୍କର ଲର୍ଣିଂ କ୍ୟାଟାଲଗ୍ ତିଆରି କରିବା ଆରମ୍ଭ କରନ୍ତୁ",
+    "cancel": "ବାତିଲ୍"
+  },
+  "assignmentForm": {
+    "fields": {
+      "additionalFile": "ଅତିରିକ୍ତ ଫାଇଲ୍",
+      "additionalFileDescription": "ଏହି ଅସାଇନ୍ମେଣ୍ଟ ପାଇଁ ଏକ ରେଫେରେନ୍ସ ସାମଗ୍ରୀ କିମ୍ବା ଅତିରିକ୍ତ ସାଧନ ଅପଲୋଡ୍ କରନ୍ତୁ"
+    },
+    "validation": {
+      "allowSubmissionsFromDateRequired": "ଦୟାକରି ସମର୍ପଣ ଆରମ୍ଭ ତାରିଖ ସଠିକ୍ ଭାବେ ଦିଅନ୍ତୁ",
+      "allowSubmissionsFromAfterDue": "ସମର୍ପଣ ଆରମ୍ଭ ତାରିଖ ଜମା ତାରିଖ ପୂର୍ବରୁ ଥିବା ଦରକାର",
+      "availabilityAfterDue": "ସମର୍ପଣ ଆରମ୍ଭ ତାରିଖ ଜମା ତାରିଖ ପୂର୍ବରୁ ଥିବା ଦରକାର",
+      "dueDateRequired": "ଦୟାକରି ଏକ ବୈଧ ଜମା ତାରିଖ ଦିଅନ୍ତୁ",
+      "dueDateInPast": "ଜମା ତାରିଖ ଭୁତକାଳରେ ହେବ ନାହିଁ",
+      "dueDateBeforeAllowFrom": "ଜମା ତାରିଖ ସମର୍ପଣ ଆରମ୍ଭ ତାରିଖ ପରେ ଥିବା ଦରକାର"
+    }
+  },
+  "rubric": {
+    "deleteConfirmTitle": "ରୁବ୍ରିକ୍ ବିଲୋପ କରିବେ?",
+    "deleteConfirm": "ଏହି ଅସାଇନ୍ମେଣ୍ଟରେ ବର୍ତ୍ତମାନ ଗୋଟିଏ ରୁବ୍ରିକ୍ ଅଛି ସ୍କୋର୍-ଭିତ୍ତିକ ମାପନକୁ ବଦଳାଇଲେ ରୁବ୍ରିକ୍ ବିଲୋପ ହେବ ଆପଣ ଚାଲୁ ରଖିବେ କି?",
+    "selectTemplate": "ଟେମ୍ପଲେଟ୍ ଚୟନ କରନ୍ତୁ",
+    "criterionRow": {
+      "editDescription": "ବିବରଣୀ ସଂଶୋଧନ କରନ୍ତୁ",
+      "removeCriterion": "ମାନଦଣ୍ଡ ହଟାନ୍ତୁ",
+      "editRating": "ରେଟିଂ ସଂଶୋଧନ କରନ୍ତୁ",
+      "removeRating": "ରେଟିଂ ହଟାନ୍ତୁ",
+      "addRatingHere": "ଏଠାରେ ରେଟିଂ ଯୋଗ କରନ୍ତୁ"
+    },
+    "confirmDeleteCriterion": {
+      "title": "ମାନଦଣ୍ଡ ହଟାନ୍ତୁ",
+      "message": "ଆପଣ ନିଶ୍ଚିତ ଯେ ଆପଣ \"{{name}}\" ମାନଦଣ୍ଡକୁ ହଟାଇବାକୁ ଚାହାଁଛନ୍ତି? ଏହା ତାହାର ସମସ୍ତ ରେଟିଂଗୁଡ଼ିକୁ ମଧ୍ୟ ହଟାଇଦେବ"
+    },
+    "builder": {
+      "totalPointsHint": "ଏଡିଟ୍ କରି ସମସ୍ତ ମାନଦଣ୍ଡଗୁଡ଼ିକୁ ଅନୁପାତରେ ପୁନଃବଣ୍ଟନ କରନ୍ତୁ"
+    }
+  }
+}

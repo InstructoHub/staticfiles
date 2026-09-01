@@ -1,0 +1,205 @@
+{
+  "uploadFiles": {
+    "supportedFilesText": ": PDF, HTML, MP4",
+    "selectedFilesLabel": ":",
+    "errors": {
+      "unsupportedFiles": "()     : PDF, HTML, MP4",
+      "maxFilesExceeded": "{{max}}",
+      "fileSizeExceeded": "1 GB",
+      "noFilesSelected": "કૃપા કરીને આગળ વધવા માટે ઓછામાં ઓછા એક ફાઇલ પસંદ કરો",
+      "uploadFailed": "ફાઇલો અપલોડ કરવામાં નિષ્ફળ",
+      "NotReadable": "અપલોડ કરેલી ફાઇલો વાંચી શકાતી નથી. કૃપા કરીને તેને દૂર કરો અને ફરીથી પ્રયાસ કરો."
+    },
+    "alerts": {
+      "loadState": {
+        "title": "?",
+        "confirmText": "ફરી શરૂ કરો",
+        "cancelText": "પુનઃપ્રારંભ"
+      }
+    },
+    "tooltips": {
+      "uploadInfo": "PDF, HTML,  MP4",
+      "fileSizeInfo": "1 GB"
+    },
+    "title": "તમારો સામગ્રી અપલોડ કરો",
+    "description": "મને જાણો કે તમે તમારા કોર્સ સામગ્રી બનાવવાનું કેવી રીતે શરૂ કરવા માંગો છો.",
+    "uploadTitle": "સ્રોતો અપલોડ કરો",
+    "dragDropText": "ડ્રેગ અને ડ્રોપ કરો અથવા ફાઇલ પસંદ કરો",
+    "sourceLimitLabel": "સ્રોત મર્યાદા",
+    "continueButtonText": "આગળ વધો"
+  },
+  "createModules": {
+    "description": "કૃપા કરીને જણાવો કે તમે તમારા કોપ માટે કેટલા મોડ્યુલ બનાવવા માંગો છો.",
+    "moduleLabel": "મોડ્યુલ:",
+    "errors": {
+      "saveFailed": "મોડ્યુલ સંખ્યા સાચવવામાં નિષ્ફળ. કૃપા કરીને ફરી પ્રયાસ કરો.",
+      "networkError": "નેટવર્ક ભૂલ. કૃપા કરીને તમારી કનેક્શન તપાસો."
+    },
+    "tooltips": {
+      "moduleInfo": "તમે 1 થી 8 મોડ્યુલ વચ્ચે બનાવી શકો છો"
+    },
+    "title": "મોડ્યુલની સંખ્યા પસંદ કરો",
+    "promptLabel": "પ્રારંભિક પ્રોમ્પ્ટ:",
+    "promptPlaceholder": "મોડ્યુલ બનાવવામાં માર્ગદર્શન માટે પ્રારંભિક પ્રોમ્પ્ટ આપો (વૈકલ્પિક)"
+  },
+  "reviewPrompts": {
+    "title": "રિવ્યૂ પ્રોમ્પ્ટ્સ",
+    "description": "તમારા મોડ્યુલની સામગ્રીની સમીક્ષા અને સુધારો.",
+    "moduleStructure": "પ્રસ્તાવિત મોડ્યુલ રચના",
+    "quickTipsText": "મોડ્યુલના નામો અને વર્ણનોને ફેરફાર કરવા માટે સંપાદન બટન પર ક્લિક કરો. તમે સંગ્રહ બટન પર ક્લિક કરતા બધા ફેરફારો આપમેળે સાચવવામાં આવે છે.",
+    "addButton": "જોડો",
+    "moduleNamePlaceholder": "મોડ્યુલનું નામ દાખલ કરો",
+    "titlePlaceholder": "શીર્ષક દાખલ કરો",
+    "promptPlaceholder": "પ્રોમ્પ્ટ દાખલ કરો",
+    "untitledContent": "બિનશીર્ષક સામગ્રી",
+    "titleText": "શીર્ષક",
+    "promptText": "પ્રોમ્પ્ટ",
+    "addDropdown": {
+      "page": "પૃષ્ઠ",
+      "assignment": "અસાઇનમેન્ટ",
+      "forum": "ફોરમ"
+    },
+    "contentTypes": {
+      "page": "પૃષ્ઠ",
+      "assignment": "અસાઇનમેન્ટ",
+      "forum": "ફોરમ"
+    },
+    "noContentMessage": "હજી સુધી કોઈ સામગ્રી નથી. એક બનાવવા માટે 'જોડો' પર ક્લિક કરો.",
+    "errors": {
+      "moduleNameRequired": "મોડ્યુલ નામનું ક્ષેત્ર જરૂરી છે",
+      "titleRequired": "શીર્ષકનું ક્ષેત્ર જરૂરી છે",
+      "promptRequired": "પ્રોમ્પ્ટનું ક્ષેત્ર જરૂરી છે"
+    },
+    "alerts": {
+      "confirm": {
+        "title": "ખાતરી કરો કે તમે તમારા તમામ મોડ્યુલમાં ફેરફાર કર્યા છે. શું હું આગળ વધું?",
+        "confirmText": "હા"
+      }
+    },
+    "tooltips": {
+      "editInfo": "મોડ્યુલના નામો અને વર્ણનોને સંપાદિત કરવા માટે ક્લિક કરો"
+    }
+  },
+  "courseReview": {
+    "title": "કોર્સ રિવ્યૂ",
+    "description": "તમારા કોર્સની સામગ્રીની અંતિમ સમીક્ષા.",
+    "addTitleHere": "અહીં શીર્ષક ઉમેરો",
+    "addContentHere": "અહીં સામગ્રી ઉમેરો",
+    "noDataTitle": "કોઈ ડેટા મળ્યો નથી",
+    "noDataContent": "પ્રદર્શિત કરવા માટે કોઈ વસ્તુઓ નથી",
+    "saveChangesButton": "બદલાવ સાચવો",
+    "createCourseButton": "આગળ વધો અને કોપસ બનાવો",
+    "contentTypes": {
+      "page": "પેજ",
+      "forum": "ફોરમ",
+      "assignment": "અસાઇનમેન્ટ"
+    },
+    "errors": {
+      "moduleNameRequired": "મોડ્યુલ નામનું ક્ષેત્ર જરૂરી છે",
+      "titleRequired": "શીર્ષકનું ક્ષેત્ર જરૂરી છે",
+      "contentRequired": "સામગ્રીનું ક્ષેત્ર જરૂરી છે"
+    },
+    "alerts": {
+      "confirm": {
+        "title": "હું ફક્ત કૃત્રિમ છું, પરંતુ તમે વાસ્તવિક નિષ્ણાત છો! તમારી દ્રષ્ટિ, તમારી ચમક—શું હું તેને જીવંત બનાવી શકું?",
+        "confirmText": "હા"
+      }
+    },
+    "regeneratePrompt": {
+      "title": "સામગ્રી ફરીથી બનાવો",
+      "submitButton": "સબમિટ",
+      "cancelButton": "રદ કરો"
+    },
+    "tooltips": {
+      "regenerateInfo": "આ સામગ્રીને નવા પ્રોમ્પ્ટ સાથે ફરીથી બનાવો"
+    },
+    "regenerateButton": "ફરીથી જનરેટ કરો"
+  },
+  "commonMessages": {
+    "success": {
+      "saved": "રાજ્ય સફળતાપૂર્વક સાચવાયું",
+      "uploadSuccess": "સફળતાપૂર્વક અપલોડ થયું.",
+      "moduleSuccess": "મોડ્યુલ સફળતાપૂર્વક બનાવવામાં આવ્યા."
+    },
+    "error": {
+      "somethingWrong": "કંઈક ખોટું થયું. કૃપા કરીને ફરી પ્રયાસ કરો.",
+      "dataNosave": "ડેટા સાચવાયો નથી. કૃપા કરીને ફરી પ્રયાસ કરો!"
+    },
+    "alerts": {
+      "backConfirm": {
+        "title": "પાછા જવાથી પ્રગતિ ખોટી જશે. શું તમે આગળ વધવા માંગો છો?",
+        "confirmText": "હા",
+        "cancelText": "ના"
+      },
+      "resetConfirm": {
+        "title": "શું તમે ખાતરી કરો છો કે તમે શૂન્યથી શરૂ કરવા માંગો છો?",
+        "confirmText": "હા",
+        "cancelText": "ના"
+      }
+    }
+  },
+  "shared": {
+    "moduleLabel": "મોડ્યુલ"
+  },
+  "alerts": {
+    "resetConfirm": "ખાતરી કરો કે તમે તમારા તમામ મોડ્યુલમાં ફેરફાર કર્યા છે. શું હું આગળ વધું?",
+    "confirmText": "હા"
+  },
+  "contentPreference": {
+    "uploadingText": "અપલોડ થઈ રહ્યું છે..."
+  },
+  "defineStructure": {
+    "quickTips": "ઝડપી ટીપ્સ",
+    "title": "રચના નિર્ધારિત કરો",
+    "description": "મોડ્યુલ બનાવીને અને શીખવાની વસ્તુઓ ઉમેરીને તમારા કોપની રચના ડિઝાઇન કરો.",
+    "learningObjectsTitle": "શીખવાની વસ્તુઓ",
+    "quickTipsText": "મોડ્યુલને ફરીથી ક્રમમાં મૂકવા માટે ખેંચો. જમણાં પેનલમાંથી મોડ્યુલમાં શીખવાની વસ્તુઓ ખેંચો અને છોડો.",
+    "addModuleButton": "મોડ્યુલ ઉમેરો",
+    "dragDropText": "અહીં શીખવાની વસ્તુઓ ખેંચો અને છોડો",
+    "noDataTitle": "કોઈ ડેટા મળ્યો નથી",
+    "noDataContent": "પ્રદર્શિત કરવા માટે કોઈ વસ્તુઓ નથી",
+    "modulePlaceholder": "અહીં શીર્ષક દાખલ કરો",
+    "moduleContentPlaceholder": "અહીં સામગ્રી ઉમેરો",
+    "learningObjects": {
+      "moduleIntroduction": "મોડ્યુલ પરિચય",
+      "learningObjectives": "શીખવાની ઉદ્દેશ્ય",
+      "readingMaterial": "વાંચન સામગ્રી",
+      "assignment": "અસાઇનમેન્ટ",
+      "discussionForum": "ચર્ચા ફોરમ",
+      "caseStudy": "કેસ સ્ટડી",
+      "experiments": "પ્રયોગો",
+      "learningOutcomes": "લર્નિંગ આઉટકમ્સ"
+    },
+    "errors": {
+      "titleRequired": "શીર્ષક ક્ષેત્ર જરૂરી છે",
+      "noLearningObjects": "કૃપા કરીને તમામ મોડ્યુલમાં શીખવાની વસ્તુઓ ઉમેરો.",
+      "lo_Required": "લર્નિંગ આઉટકમ ફીલ્ડ જરૂરી છે"
+    },
+    "alerts": {
+      "confirm": {
+        "title": "તમારો કોપ અદ્ભુત રીતે રચાઈ રહ્યો છે! શું હું આગળ વધું?",
+        "confirmText": "હા"
+      }
+    },
+    "tooltips": {
+      "dragModules": "મોડ્યુલને ફરીથી ક્રમમાં મૂકવા માટે ક્લિક કરો અને ખેંચો",
+      "dragObjects": "જાણવાની વસ્તુઓને જમણા પેનલમાંથી મૉડ્યુલમાં ખેંચો"
+    }
+  },
+  "stepper": {
+    "courseDetails": "કોર્સ વિગતો",
+    "contentPreference": "તમારો સામગ્રી અપલોડ કરો",
+    "moduleCreation": "મોડ્યુલ બનાવવું",
+    "defineStructure": "રચના નિર્ધારિત કરો",
+    "reviewPrompts": "સમીક્ષા પ્રેરણાઓ",
+    "courseReview": "કોર્સ સમીક્ષા"
+  },
+  "pageHeader": {
+    "backButtonTitle": "પાછલા પગલામાં જાઓ",
+    "resetButtonTitle": "પ્રારંભિક સ્થિતિમાં પુનઃસેટ કરો"
+  },
+  "pageActions": {
+    "save": "સાચવો",
+    "saveAndContinue": "સાચવો અને આગળ વધો"
+  }
+}

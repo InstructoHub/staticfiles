@@ -1,0 +1,205 @@
+{
+  "createModules": {
+    "description": "ਕਿਰਪਾ ਕਰਕੇ ਦੱਸੋ ਕਿ ਤੁਸੀਂ ਆਪਣੇ ਕੋਰਸ ਲਈ ਕਿੰਨੇ ਮੋਡੀਊਲ ਬਣਾਉਣਾ ਚਾਹੁੰਦੇ ਹੋ",
+    "moduleLabel": "ਮੋਡੀਊਲ:",
+    "errors": {
+      "saveFailed": "ਮੋਡੀਊਲ ਗਿਣਤੀ ਸੇਵ ਕਰਨ ਵਿੱਚ ਅਸਫਲ ਕਿਰਪਾ ਕਰਕੇ ਦੁਬਾਰਾ ਕੋਸ਼ਿਸ਼ ਕਰੋ",
+      "networkError": "ਨੈੱਟਵਰਕ ਦੀ ਗਲਤੀ ਕਿਰਪਾ ਕਰਕੇ ਆਪਣੀ ਕਨੈਕਸ਼ਨ ਦੀ ਜਾਂਚ ਕਰੋ"
+    },
+    "tooltips": {
+      "moduleInfo": "ਤੁਸੀਂ 1 ਤੋਂ 8 ਮੋਡੀਊਲ ਬਣਾਉਣੇ ਹਨ"
+    },
+    "title": "ਮੋਡੀਊਲਾਂ ਦੀ ਗਿਣਤੀ ਚੁਣੋ",
+    "promptLabel": "ਸ਼ੁਰੂਆਤੀ ਪ੍ਰੋਂਪਟ:",
+    "promptPlaceholder": "ਮੋਡਿਊਲ ਬਣਾਉਣ ਲਈ ਇੱਕ ਸ਼ੁਰੂਆਤੀ ਪ੍ਰੋਂਪਟ ਦਿਓ (ਵਿਕਲਪ)"
+  },
+  "defineStructure": {
+    "quickTips": "ਤੁਰੰਤ ਸੁਝਾਅ",
+    "title": "ਸੰਰਚਨਾ ਪਰਿਭਾਸ਼ਿਤ ਕਰੋ",
+    "description": "ਮੋਡੀਊਲ ਬਣਾਕੇ ਅਤੇ ਸਿੱਖਣ ਵਾਲੇ ਵਸਤੂਆਂ ਨੂੰ ਸ਼ਾਮਲ ਕਰਕੇ ਆਪਣੇ ਕੋਰਸ ਦੀ ਸੰਰਚਨਾ ਡਿਜ਼ਾਈਨ ਕਰੋ",
+    "learningObjectsTitle": "ਸਿੱਖਣ ਵਾਲੀਆਂ ਵਸਤੂਆਂ",
+    "quickTipsText": "ਮੋਡੀਊਲਾਂ ਨੂੰ ਦੁਬਾਰਾ ਕ੍ਰਮਬੱਧ ਕਰਨ ਲਈ ਖਿੱਚੋ ਸੱਜੇ ਪੈਨਲ ਤੋਂ ਮੋਡੀਊਲਾਂ ਵਿੱਚ ਸਿੱਖਣ ਵਾਲੀਆਂ ਵਸਤੂਆਂ ਖਿੱਚੋ ਅਤੇ ਛੱਡੋ",
+    "addModuleButton": "ਮੋਡੀਊਲ ਸ਼ਾਮਲ ਕਰੋ",
+    "dragDropText": "ਇੱਥੇ ਸਿੱਖਣ ਵਾਲੀਆਂ ਵਸਤੂਆਂ ਖਿੱਚੋ ਅਤੇ ਛੱਡੋ",
+    "noDataTitle": "ਕੋਈ ਡੇਟਾ ਨਹੀਂ ਮਿਲਿਆ",
+    "noDataContent": "ਦਿਖਾਉਣ ਲਈ ਕੋਈ ਆਈਟਮ ਨਹੀਂ ਹਨ",
+    "modulePlaceholder": "ਇੱਥੇ ਸਿਰਲੇਖ ਦਰਜ ਕਰੋ",
+    "moduleContentPlaceholder": "ਇੱਥੇ ਸਮੱਗਰੀ ਸ਼ਾਮਲ ਕਰੋ",
+    "learningObjects": {
+      "moduleIntroduction": "ਮੋਡੀਊਲ ਦਾ ਪਰਿਚਯ",
+      "learningObjectives": "ਸਿੱਖਣ ਦੇ ਉਦੇਸ਼",
+      "readingMaterial": "ਪੜ੍ਹਨ ਦੀ ਸਮੱਗਰੀ",
+      "assignment": "ਅਸਾਇਨਮੈਂਟ",
+      "discussionForum": "ਚਰਚਾ ਫੋਰਮ",
+      "caseStudy": "ਕੇਸ ਅਧਿਐਨ",
+      "experiments": "ਤਜਰਬੇ",
+      "learningOutcomes": "ਸਿੱਖਣ ਦੇ ਨਤੀਜੇ"
+    },
+    "errors": {
+      "titleRequired": "ਸਿਰਲੇਖ ਫੀਲਡ ਲਾਜ਼ਮੀ ਹੈ",
+      "noLearningObjects": "ਕਿਰਪਾ ਕਰਕੇ ਸਾਰੇ ਮੋਡੀਊਲਾਂ ਵਿੱਚ ਸਿੱਖਣ ਵਾਲੀਆਂ ਵਸਤੂਆਂ ਸ਼ਾਮਲ ਕਰੋ",
+      "lo_Required": "ਸਿੱਖਣ ਦੇ ਨਤੀਜੇ ਫੀਲਡ ਲਾਜ਼ਮੀ ਹੈ"
+    },
+    "alerts": {
+      "confirm": {
+        "title": "ਤੁਹਾਡਾ ਕੋਰਸ ਸ਼ਾਨਦਾਰ ਬਣ ਰਿਹਾ ਹੈ! ਕੀ ਮੈਂ ਅੱਗੇ ਵਧ ਸਕਦਾ ਹਾਂ?",
+        "confirmText": "ਹਾਂ"
+      }
+    },
+    "tooltips": {
+      "dragModules": "ਮੋਡੀਊਲਾਂ ਨੂੰ ਦੁਬਾਰਾ ਕ੍ਰਮਬੱਧ ਕਰਨ ਲਈ ਕਲਿੱਕ ਕਰੋ ਅਤੇ ਖਿੱਚੋ",
+      "dragObjects": "ਸੱਜੇ ਪੈਨਲ ਤੋਂ ਮੋਡੀਊਲਾਂ ਵਿੱਚ ਸਿੱਖਣ ਵਾਲੀਆਂ ਵਸਤੂਆਂ ਖਿੱਚੋ"
+    }
+  },
+  "reviewPrompts": {
+    "title": "ਰੀਵਿਊ ਪ੍ਰੰਪਟਸ",
+    "description": "ਆਪਣੇ ਮੋਡੀਊਲ ਸਮੱਗਰੀ ਦੀ ਸਮੀਖਿਆ ਅਤੇ ਸੁਧਾਰ ਕਰੋ",
+    "moduleStructure": "ਸੁਝਾਏ ਗਏ ਮੋਡੀਊਲ ਢਾਂਚਾ",
+    "quickTipsText": "ਮੋਡੀਊਲ ਦੇ ਨਾਮ ਅਤੇ ਵੇਰਵਿਆਂ ਨੂੰ ਸੋਧਣ ਲਈ ਸੰਪਾਦਨ ਬਟਨ 'ਤੇ ਕਲਿੱਕ ਕਰੋ ਜਦੋਂ ਤੁਸੀਂ ਸੇਵ ਬਟਨ 'ਤੇ ਕਲਿੱਕ ਕਰਦੇ ਹੋ, ਤਾਂ ਸਾਰੇ ਬਦਲਾਅ ਆਪਣੇ ਆਪ ਸੇਵ ਹੋ ਜਾਂਦੇ ਹਨ",
+    "addButton": "ਜੋੜੋ",
+    "moduleNamePlaceholder": "ਮੋਡੀਊਲ ਦਾ ਨਾਮ ਦਰਜ ਕਰੋ",
+    "titlePlaceholder": "ਸਿਰਲੇਖ ਦਰਜ ਕਰੋ",
+    "promptPlaceholder": "ਪ੍ਰੰਪਟ ਦਰਜ ਕਰੋ",
+    "untitledContent": "ਬੇਨਾਮ ਸਮੱਗਰੀ",
+    "titleText": "ਸਿਰਲੇਖ",
+    "promptText": "ਪ੍ਰੰਪਟ",
+    "addDropdown": {
+      "page": "ਪੇਜ",
+      "assignment": "ਅਸਾਇਨਮੈਂਟ",
+      "forum": "ਫੋਰਮ"
+    },
+    "contentTypes": {
+      "page": "ਪੇਜ",
+      "assignment": "ਅਸਾਇਨਮੈਂਟ",
+      "forum": "ਫੋਰਮ"
+    },
+    "noContentMessage": "ਹੁਣ ਤੱਕ ਕੋਈ ਸਮੱਗਰੀ ਆਈਟਮ ਨਹੀਂ ਹਨ ਇੱਕ ਬਣਾਉਣ ਲਈ 'ਜੋੜੋ' 'ਤੇ ਕਲਿੱਕ ਕਰੋ",
+    "errors": {
+      "moduleNameRequired": "ਮੋਡੀਊਲ ਨਾਮ ਦਾ ਖੇਤਰ ਲਾਜ਼ਮੀ ਹੈ",
+      "titleRequired": "ਸਿਰਲੇਖ ਦਾ ਖੇਤਰ ਲਾਜ਼ਮੀ ਹੈ",
+      "promptRequired": "ਪ੍ਰੰਪਟ ਦਾ ਖੇਤਰ ਲਾਜ਼ਮੀ ਹੈ"
+    },
+    "alerts": {
+      "confirm": {
+        "title": "ਯਕੀਨੀ ਬਣਾਓ ਕਿ ਤੁਸੀਂ ਆਪਣੇ ਸਾਰੇ ਮੋਡੀਊਲਾਂ ਵਿੱਚ ਬਦਲਾਅ ਕੀਤੇ ਹਨ ਕੀ ਮੈਂ ਅੱਗੇ ਵੱਧ ਸਕਦਾ ਹਾਂ?",
+        "confirmText": "ਹਾਂ"
+      }
+    },
+    "tooltips": {
+      "editInfo": "ਮੋਡੀਊਲ ਦੇ ਨਾਮ ਅਤੇ ਵੇਰਵਿਆਂ ਨੂੰ ਸੋਧਣ ਲਈ ਕਲਿੱਕ ਕਰੋ"
+    }
+  },
+  "courseReview": {
+    "title": "ਕੋਰਸ ਰੀਵਿਊ",
+    "description": "ਆਪਣੇ ਕੋਰਸ ਸਮੱਗਰੀ ਦੀ ਆਖਰੀ ਸਮੀਖਿਆ",
+    "addTitleHere": "ਇੱਥੇ ਸਿਰਲੇਖ ਜੋੜੋ",
+    "addContentHere": "ਇੱਥੇ ਸਮੱਗਰੀ ਜੋੜੋ",
+    "noDataTitle": "ਕੋਈ ਡਾਟਾ ਨਹੀਂ ਮਿਲਿਆ",
+    "noDataContent": "ਦਿਖਾਉਣ ਲਈ ਕੋਈ ਆਈਟਮ ਨਹੀਂ ਹਨ",
+    "regenerateButton": "ਰੀਜਨਰੇਟ",
+    "saveChangesButton": "ਬਦਲਾਅ ਸੇਵ ਕਰੋ",
+    "createCourseButton": "ਜਾਓ ਅਤੇ ਕੋਰਸ ਬਣਾਓ",
+    "contentTypes": {
+      "page": "ਪੇਜ",
+      "forum": "ਫੋਰਮ",
+      "assignment": "ਅਸਾਈਨਮੈਂਟ"
+    },
+    "errors": {
+      "moduleNameRequired": "ਮੌਡਿਊਲ ਨਾਮ ਦਾ ਖੇਤਰ ਲਾਜ਼ਮੀ ਹੈ",
+      "titleRequired": "ਸਿਰਲੇਖ ਦਾ ਖੇਤਰ ਲਾਜ਼ਮੀ ਹੈ",
+      "contentRequired": "ਸਮੱਗਰੀ ਦਾ ਖੇਤਰ ਲਾਜ਼ਮੀ ਹੈ"
+    },
+    "alerts": {
+      "confirm": {
+        "title": "ਮੈਂ ਸਿਰਫ਼ ਕ੍ਰਿਤ੍ਰਿਮ ਹਾਂ, ਪਰ ਤੁਸੀਂ ਅਸਲੀ ਮਾਹਰ ਹੋ! ਤੁਹਾਡੀ ਦ੍ਰਿਸ਼ਟੀ, ਤੁਹਾਡੀ ਚਮਕ—ਕੀ ਮੈਂ ਇਸਨੂੰ ਜੀਵੰਤ ਕਰਾਂ?",
+        "confirmText": "ਹਾਂ"
+      }
+    },
+    "regeneratePrompt": {
+      "title": "ਸਮੱਗਰੀ ਨੂੰ ਰੀਜਨਰੇਟ ਕਰੋ",
+      "submitButton": "ਜਮ੍ਹਾਂ ਕਰੋ",
+      "cancelButton": "ਰੱਦ ਕਰੋ"
+    },
+    "tooltips": {
+      "regenerateInfo": "ਇਸ ਸਮੱਗਰੀ ਨੂੰ ਨਵੇਂ ਪ੍ਰੰਪਟ ਨਾਲ ਰੀਜਨਰੇਟ ਕਰੋ"
+    }
+  },
+  "commonMessages": {
+    "success": {
+      "saved": "ਰਾਜ਼ੀ ਸਫਲਤਾਪੂਰਵਕ ਸੇਵ ਕੀਤਾ ਗਿਆ",
+      "uploadSuccess": "ਸਫਲਤਾਪੂਰਵਕ ਅਪਲੋਡ ਕੀਤਾ ਗਿਆ",
+      "moduleSuccess": "ਮੌਡਿਊਲ ਸਫਲਤਾਪੂਰਵਕ ਬਣਾਏ ਗਏ"
+    },
+    "error": {
+      "somethingWrong": "ਕੁਝ ਗਲਤ ਹੋ ਗਿਆ ਕਿਰਪਾ ਕਰਕੇ ਦੁਬਾਰਾ ਕੋਸ਼ਿਸ਼ ਕਰੋ",
+      "dataNosave": "ਡਾਟਾ ਸੇਵ ਨਹੀਂ ਹੋਇਆ ਕਿਰਪਾ ਕਰਕੇ ਦੁਬਾਰਾ ਕੋਸ਼ਿਸ਼ ਕਰੋ!"
+    },
+    "alerts": {
+      "backConfirm": {
+        "title": "ਵਾਪਸ ਜਾਣ ਨਾਲ ਪ੍ਰਗਤੀ ਖਤਮ ਹੋ ਜਾਵੇਗੀ ਕੀ ਤੁਸੀਂ ਅੱਗੇ ਵਧਣਾ ਚਾਹੁੰਦੇ ਹੋ?",
+        "confirmText": "ਹਾਂ",
+        "cancelText": "ਨਹੀਂ"
+      },
+      "resetConfirm": {
+        "title": "ਕੀ ਤੁਸੀਂ ਯਕੀਨੀ ਹੋ ਕਿ ਤੁਸੀਂ ਸ਼ੁਰੂ ਤੋਂ ਸ਼ੁਰੂ ਕਰਨਾ ਚਾਹੁੰਦੇ ਹੋ?",
+        "confirmText": "ਹਾਂ",
+        "cancelText": "ਨਹੀਂ"
+      }
+    }
+  },
+  "shared": {
+    "moduleLabel": "ਮੌਡਿਊਲ"
+  },
+  "alerts": {
+    "resetConfirm": "ਯਕੀਨੀ ਬਣਾਓ ਕਿ ਤੁਸੀਂ ਆਪਣੇ ਸਾਰੇ ਮੌਡਿਊਲਾਂ ਵਿੱਚ ਬਦਲਾਅ ਕੀਤੇ ਹਨ ਕੀ ਮੈਂ ਅੱਗੇ ਵਧ ਸਕਦਾ ਹਾਂ?",
+    "confirmText": "ਹਾਂ"
+  },
+  "contentPreference": {
+    "uploadingText": "ਅਪਲੋਡ ਹੋ ਰਿਹਾ ਹੈ..."
+  },
+  "stepper": {
+    "courseDetails": "ਕੋਰਸ ਵੇਰਵੇ",
+    "contentPreference": "ਆਪਣਾ ਸਮੱਗਰੀ ਅਪਲੋਡ ਕਰੋ",
+    "moduleCreation": "ਮੋਡੀਊਲ ਬਣਾਉਣਾ",
+    "defineStructure": "ਧਾਂਚਾ ਪਰਿਭਾਸ਼ਿਤ ਕਰੋ",
+    "reviewPrompts": "ਸਮੀਖਿਆ ਪ੍ਰੰਪਟ",
+    "courseReview": "ਕੋਰਸ ਸਮੀਖਿਆ"
+  },
+  "pageHeader": {
+    "backButtonTitle": "ਪਿਛਲੇ ਕਦਮ 'ਤੇ ਜਾਓ",
+    "resetButtonTitle": "ਸ਼ੁਰੂਆਤੀ ਹਾਲਤ 'ਤੇ ਰੀਸੈਟ ਕਰੋ"
+  },
+  "pageActions": {
+    "save": "ਸੇਵ ਕਰੋ",
+    "saveAndContinue": "ਸੇਵ ਕਰੋ & ਜਾਰੀ ਰੱਖੋ"
+  },
+  "uploadFiles": {
+    "title": "ਆਪਣਾ ਸਮੱਗਰੀ ਅਪਲੋਡ ਕਰੋ",
+    "description": "ਮੈਨੂੰ ਦੱਸੋ ਕਿ ਤੁਸੀਂ ਆਪਣੇ ਕੋਰਸ ਸਮੱਗਰੀ ਨੂੰ ਬਣਾਉਣ ਦੀ ਸ਼ੁਰੂਆਤ ਕਿਵੇਂ ਕਰਨਾ ਚਾਹੁੰਦੇ ਹੋ",
+    "uploadTitle": "ਸਰੋਤ ਅਪਲੋਡ ਕਰੋ",
+    "dragDropText": "ਡ੍ਰੈਗ & ਡ੍ਰੌਪ ਕਰੋ ਜਾਂ ਫਾਈਲ ਚੁਣੋ",
+    "supportedFilesText": "ਸਹਾਇਤਾਪੂਰਕ ਫਾਈਲ ਕਿਸਮਾਂ: PDF, HTML, MP4",
+    "selectedFilesLabel": "ਚੁਣੀਆਂ ਫਾਈਲਾਂ:",
+    "sourceLimitLabel": "ਸਰੋਤ ਸੀਮਾ",
+    "continueButtonText": "ਜਾਰੀ ਰੱਖੋ",
+    "errors": {
+      "unsupportedFiles": "ਫਾਈਲ(ਆਂ) ਦੀਆਂ ਕਿਸਮਾਂ ਸਹਾਇਤਾਪੂਰਕ ਨਹੀਂ ਹਨ ਸਹਾਇਤਾਪੂਰਕ: PDF, HTML, MP4",
+      "maxFilesExceeded": "ਅਧਿਕਤਮ {{max}} ਫਾਈਲਾਂ ਦੀ ਆਗਿਆ ਹੈ",
+      "fileSizeExceeded": "ਕੁੱਲ ਫਾਈਲ ਆਕਾਰ 1 GB ਦੀ ਸੀਮਾ ਤੋਂ ਵੱਧ ਹੈ",
+      "noFilesSelected": "ਕਿਰਪਾ ਕਰਕੇ ਜਾਰੀ ਰੱਖਣ ਲਈ ਘੱਟੋ-ਘੱਟ ਇੱਕ ਫਾਈਲ ਚੁਣੋ",
+      "uploadFailed": "ਫਾਈਲਾਂ ਅਪਲੋਡ ਕਰਨ ਵਿੱਚ ਅਸਫਲ",
+      "NotReadable": "ਅਪਲੋਡ ਕੀਤੀਆਂ ਫਾਈਲਾਂ ਪੜ੍ਹੀਆਂ ਨਹੀਂ ਜਾ ਸਕਦੀਆਂ ਕਿਰਪਾ ਕਰਕੇ ਇਸਨੂੰ ਹਟਾਓ ਅਤੇ ਦੁਬਾਰਾ ਕੋਸ਼ਿਸ਼ ਕਰੋ"
+    },
+    "alerts": {
+      "loadState": {
+        "title": "ਤੁਸੀਂ ਆਪਣਾ ਆਖਰੀ ਡਰਾਫਟ ਅਧੂਰਾ ਛੱਡ ਦਿੱਤਾ ਕੀ ਤੁਸੀਂ ਜਿੱਥੇ ਛੱਡਿਆ ਸੀ ਉਥੇ ਜਾਰੀ ਰੱਖਣਾ ਚਾਹੁੰਦੇ ਹੋ ਜਾਂ ਨਵਾਂ ਸ਼ੁਰੂ ਕਰਨਾ ਚਾਹੁੰਦੇ ਹੋ?",
+        "confirmText": "ਜਾਰੀ ਰੱਖੋ",
+        "cancelText": "ਨਵਾਂ ਸ਼ੁਰੂ ਕਰੋ"
+      }
+    },
+    "tooltips": {
+      "uploadInfo": "ਤੁਸੀਂ PDF, HTML, ਜਾਂ MP4 ਫਾਈਲਾਂ ਅਪਲੋਡ ਕਰ ਸਕਦੇ ਹੋ",
+      "fileSizeInfo": "ਅਧਿਕਤਮ ਕੁੱਲ ਫਾਈਲ ਆਕਾਰ 1 GB ਹੈ"
+    }
+  }
+}

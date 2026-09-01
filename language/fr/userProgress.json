@@ -1,0 +1,44 @@
+{
+  "studentProgressReport": {
+    "title": "Rapport de Progression de l'Étudiant",
+    "backToParticipants": "Retour aux Participants",
+    "downloadReport": "Télécharger le Rapport",
+    "userId": "ID de l'Utilisateur",
+    "courseId": "ID du Cours",
+    "loading": "Chargement des données de progression de l'étudiant...",
+    "error": "Erreur",
+    "noDataAvailable": "Aucune donnée disponible",
+    "sections": {
+      "overview": "Aperçu de la Progression du Cours",
+      "timeMetrics": "Métriques de Temps",
+      "engagementMetrics": "Métriques d'Engagement",
+      "additionalInfo": "Informations Supplémentaires",
+      "lastActivity": "Dernière Activité Consultée",
+      "activityGrades": "Notes des Activités"
+    },
+    "fields": {
+      "courseStatus": "Statut du Cours",
+      "completed": "Complété",
+      "inProgress": "En Cours",
+      "activitiesCompleted": "Activités Complétées",
+      "completionRate": "Taux d'Achèvement",
+      "totalTimeSpent": "Temps Total Passé",
+      "timeToComplete": "Temps pour Terminer",
+      "firstAccess": "Premier Accès",
+      "lastAccess": "Dernier Accès",
+      "quizAttempts": "Tentatives de Quiz",
+      "assignmentSubmissions": "Soumissions de Devoirs",
+      "forumPosts": "Publications dans les Forums",
+      "modulesViewed": "Modules Consultés",
+      "resourceDownloads": "Téléchargements de Ressources",
+      "inactiveDays": "Jours d'Inactivité",
+      "deviceType": "Type d'Appareil",
+      "activityName": "Nom de l'Activité",
+      "grade": "Note",
+      "notGraded": "Non noté",
+      "ofTotal": "de {{total}} au total",
+      "ofForums": "de {{total}} forums",
+      "course": "Cours"
+    }
+  }
+}

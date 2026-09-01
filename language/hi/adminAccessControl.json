@@ -1,0 +1,355 @@
+{
+  "emailSetup": {
+    "title": "ईमेल टेम्पलेट का सेटअप",
+    "subtitle": "अपने ईमेल टेम्पलेट को कॉन्फ़िगर और मेनेज करें",
+    "backToTemplates": "ईमेल टेम्पलेट्स पर वापस जाएं",
+    "templateVariables": "टेम्पलेट के वेरिएबल्स",
+    "copyVariableTooltip": "वेरिएबल को क्लिपबोर्ड पर कॉपी करने के लिए क्लिक करें",
+    "templateSubjectLabel": "टेम्पलेट का सब्जेक्ट *",
+    "templateSenderEmailLabel": "टेम्पलेट सेंडर का ईमेल *",
+    "templateSenderDisplayNameLabel": "टेम्पलेट सेंडर का डिस्प्ले नाम *",
+    "emailLayoutColorLabel": "ईमेल लेआउट का कलर",
+    "htmlBodyLabel": "एचटीएमएल बॉडी *",
+    "cancelButton": "कैंसिल",
+    "saveChangesButton": "सेव चेंजेस",
+    "savingButton": "सेव हो रहा है...",
+    "confirmBackWarning": "चेंजेस सेव नहीं हुए। क्या आप वाकई वापस जाना चाहते हैं?",
+    "toasts": {
+      "failedToLoadVariables": "ईमेल वेरिएबल्स लोड करने में फेल",
+      "failedToUpdateTemplate": "ईमेल टेम्पलेट अपडेट करने में फेल",
+      "variableCopied": "वेरिएबल क्लिपबोर्ड पर कॉपी हो गया!"
+    },
+    "validation": {
+      "slNoHeader": "क्रमांक",
+      "subjectRequired": "टेम्पलेट का सब्जेक्ट ज़रूरी है",
+      "subjectMinLength": "टेम्पलेट का सब्जेक्ट कम से कम 2 कैरेक्टर्स का होना चाहिए",
+      "subjectMaxLength": "टेम्पलेट का सब्जेक्ट 255 कैरेक्टर्स से ज़्यादा नहीं होना चाहिए",
+      "senderEmailRequired": "सेंडर का ईमेल ज़रूरी है",
+      "invalidEmailFormat": "ईमेल का फॉर्मेट इनवैलिड है",
+      "senderEmailMaxLength": "सेंडर का ईमेल 255 कैरेक्टर्स से ज़्यादा नहीं होना चाहिए",
+      "displayNameRequired": "सेंडर का डिस्प्ले नाम ज़रूरी है",
+      "displayNameMinLength": "सेंडर का डिस्प्ले नाम कम से कम 2 कैरेक्टर्स का होना चाहिए",
+      "displayNameMaxLength": "सेंडर का डिस्प्ले नाम 255 कैरेक्टर्स से ज़्यादा नहीं होना चाहिए"
+    }
+  },
+  "emailTemplates": {
+    "noTemplatesFound": "कोई ईमेल टेम्पलेट्स नहीं मिले",
+    "subjectLabel": "सब्जेक्ट:",
+    "contentPreview": "टेम्पलेट कंटेंट का प्रीव्यू",
+    "editButton": "एडिट",
+    "templateNames": {
+      "set_password": "पासवर्ड सेट करें"
+    },
+    "toasts": {
+      "failedToLoad": "ईमेल टेम्पलेट्स लोड करने में फेल"
+    }
+  },
+  "moduleManagement": {
+    "title": "मॉड्यूल मेनेजमेंट",
+    "subtitle": "सिस्टम मॉड्यूल्स और उनके मेटाडेटा को मेनेज करें",
+    "addNewButton": "ऐड न्यू मॉड्यूल",
+    "table": {
+      "slNoHeader": "क्रमांक",
+      "moduleHeader": "मॉड्यूल",
+      "descriptionHeader": "डिस्क्रिप्शन",
+      "createdAtHeader": "क्रिएटेड डेट",
+      "actionsHeader": "एक्शन्स",
+      "noModulesFound": "कोई मॉड्यूल्स नहीं मिले।"
+    },
+    "form": {
+      "moduleNameLabel": "मॉड्यूल का नाम *",
+      "moduleDescriptionLabel": "मॉड्यूल का डिस्क्रिप्शन",
+      "saveChangesButton": "सेव चेंजेस",
+      "savingButton": "सेव हो रहा है...",
+      "cancelButton": "कैंसिल"
+    },
+    "deleteModal": {
+      "title": "डिलीशन कन्फर्म करें",
+      "message": "क्या आप वाकई मॉड्यूल डिलीट करना चाहते हैं",
+      "undoWarning": "यह एक्शन वापस नहीं लिया जा सकेगा।",
+      "deleteButton": "डिलीट मॉड्यूल",
+      "cancelButton": "कैंसिल"
+    },
+    "toasts": {
+      "failedToLoad": "मॉड्यूल्स लोड करने में फेल",
+      "createdSuccess": "मॉड्यूल सक्सेसफुली क्रिएट हो गया",
+      "updatedSuccess": "मॉड्यूल सक्सेसफुली अपडेट हो गया",
+      "createdFailed": "मॉड्यूल क्रिएट करने में फेल",
+      "updatedFailed": "मॉड्यूल अपडेट करने में फेल",
+      "deletedSuccess": "मॉड्यूल सक्सेसफुली डिलीट हो गया",
+      "deletedFailed": "मॉड्यूल डिलीट करने में फेल"
+    },
+    "validation": {
+      "nameRequired": "मॉड्यूल का नाम ज़रूरी है",
+      "nameMinLength": "मॉड्यूल का नाम कम से कम 2 कैरेक्टर्स का होना चाहिए",
+      "nameMaxLength": "मॉड्यूल का नाम 100 कैरेक्टर्स से ज़्यादा नहीं होना चाहिए",
+      "descriptionMaxLength": "डिस्क्रिप्शन 500 कैरेक्टर्स से ज़्यादा नहीं होना चाहिए"
+    }
+  },
+  "pageHeader": {
+    "searchPlaceholder": "सर्च..."
+  },
+  "roleArchitectureDetail": {
+    "title": "रोल आर्किटेक्चर की डिटेल",
+    "subtitle": "सभी मॉड्यूल्स में इस रोल आर्किटेक्चर के लिए डिफ़ॉल्ट परमिशन कॉन्फ़िगर करें।",
+    "backButton": "रोल आर्किटेक्चर्स पर वापस जाएं",
+    "loading": "मॉड्यूल्स लोड हो रहे हैं...",
+    "loadFailed": "डेटा लोड करने में फेल।",
+    "noModulesAvailable": "कॉन्फ़िगरेशन के लिए कोई मॉड्यूल्स अवेलेबल नहीं हैं।",
+    "table": {
+      "moduleHeader": "मॉड्यूल",
+      "descriptionHeader": "डिस्क्रिप्शन",
+      "capabilitiesHeader": "कैपेबिलिटीज़"
+    },
+    "capabilities": {
+      "create": "क्रिएट",
+      "read": "रीड",
+      "edit": "एडिट",
+      "delete": "डिलीट",
+      "enabledCount": "इनेबल्ड"
+    },
+    "saveCapabilitiesButton": "सेव कैपेबिलिटीज़",
+    "savingButton": "सेव हो रहा है...",
+    "cancelButton": "कैंसिल",
+    "toasts": {
+      "failedToLoadModules": "मॉड्यूल लिस्ट लोड करने में फेल",
+      "saveSuccess": "कैपेबिलिटीज़ सक्सेसफुली सेव हो गईं",
+      "saveFailed": "कैपेबिलिटीज़ सेव करने में फेल"
+    }
+  },
+  "roleArchitectureManagement": {
+    "title": "रोल आर्किटेक्चर मेनेजमेंट",
+    "subtitle": "यूज़र रोल्स के लिए डिफ़ॉल्ट परमिशन सेट्स मेनेज करें",
+    "addNewButton": "ऐड न्यू आर्किटेक्चर",
+    "table": {
+      "roleNameHeader": "रोल का नाम",
+      "descriptionHeader": "डिस्क्रिप्शन",
+      "createdAtHeader": "क्रिएटेड डेट",
+      "actionsHeader": "एक्शन्स",
+      "noArchitecturesFound": "कोई रोल आर्किटेक्चर्स नहीं मिले।",
+      "slNoHeader": "क्रमांक"
+    },
+    "form": {
+      "architectureNameLabel": "आर्किटेक्चर का नाम *",
+      "architectureDescriptionLabel": "आर्किटेक्चर का डिस्क्रिप्शन",
+      "saveChangesButton": "सेव चेंजेस",
+      "savingButton": "सेव हो रहा है...",
+      "cancelButton": "कैंसिल"
+    },
+    "deleteModal": {
+      "title": "डिलीशन कन्फर्म करें",
+      "message": "क्या आप वाकई रोल आर्किटेक्चर डिलीट करना चाहते हैं",
+      "undoWarning": "यह एक्शन वापस नहीं लिया जा सकेगा।",
+      "deleteButton": "डिलीट रोल आर्किटेक्चर",
+      "cancelButton": "कैंसिल"
+    },
+    "toasts": {
+      "failedToLoad": "रोल आर्किटेक्चर्स लोड करने में फेल",
+      "createdSuccess": "रोल आर्किटेक्चर सक्सेसफुली क्रिएट हो गया",
+      "updatedSuccess": "रोल आर्किटेक्चर सक्सेसफुली अपडेट हो गया",
+      "createdFailed": "रोल आर्किटेक्चर क्रिएट करने में फेल",
+      "updatedFailed": "रोल आर्किटेक्चर अपडेट करने में फेल",
+      "deletedSuccess": "रोल आर्किटेक्चर सक्सेसफुली डिलीट हो गया",
+      "deletedFailed": "रोल आर्किटेक्चर डिलीट करने में फेल"
+    },
+    "validation": {
+      "nameRequired": "रोल आर्किटेक्चर का नाम ज़रूरी है",
+      "nameMinLength": "रोल का नाम कम से कम 2 कैरेक्टर्स का होना चाहिए",
+      "nameMaxLength": "रोल का नाम 100 कैरेक्टर्स से ज़्यादा नहीं होना चाहिए",
+      "descriptionMaxLength": "डिस्क्रिप्शन 500 कैरेक्टर्स से ज़्यादा नहीं होना चाहिए"
+    }
+  },
+  "roleManagement": {
+    "title": "रोल मेनेजमेंट",
+    "subtitle": "कस्टम यूज़र रोल्स मेनेज करें और रोल आर्किटेक्चर्स असाइन करें",
+    "addNewButton": "ऐड न्यू रोल",
+    "table": {
+      "roleHeader": "रोल",
+      "architectureHeader": "आर्किटेक्चर",
+      "descriptionHeader": "डिस्क्रिप्शन",
+      "createdAtHeader": "क्रिएटेड डेट",
+      "actionsHeader": "एक्शन्स",
+      "noRolesFound": "कोई कस्टम रोल्स नहीं मिले।",
+      "slNoHeader": "क्रमांक"
+    },
+    "form": {
+      "roleNameLabel": "रोल का नाम *",
+      "roleDescriptionLabel": "रोल का डिस्क्रिप्शन",
+      "architectureLabel": "सेलेक्ट रोल आर्किटेक्चर *",
+      "architecturePlaceholder": "आर्किटेक्चर सेलेक्ट करें...",
+      "saveChangesButton": "सेव चेंजेस",
+      "savingButton": "सेव हो रहा है...",
+      "cancelButton": "कैंसिल"
+    },
+    "deleteModal": {
+      "title": "डिलीशन कन्फर्म करें",
+      "message": "क्या आप वाकई रोल डिलीट करना चाहते हैं",
+      "undoWarning": "यह एक्शन वापस नहीं लिया जा सकेगा।",
+      "deleteButton": "डिलीट रोल",
+      "cancelButton": "कैंसिल"
+    },
+    "toasts": {
+      "failedToLoadRoles": "रोल्स लोड करने में फेल",
+      "failedToLoadArchitectures": "रोल आर्किटेक्चर्स लोड करने में फेल",
+      "createdSuccess": "रोल सक्सेसफुली क्रिएट हो गया",
+      "updatedSuccess": "रोल सक्सेसफुली अपडेट हो गया",
+      "createdFailed": "रोल क्रिएट करने में फेल",
+      "updatedFailed": "रोल अपडेट करने में फेल",
+      "deletedSuccess": "रोल सक्सेसफुली डिलीट हो गया",
+      "deletedFailed": "रोल डिलीट करने में फेल"
+    },
+    "validation": {
+      "nameRequired": "रोल का नाम ज़रूरी है",
+      "nameMinLength": "रोल का नाम कम से कम 2 कैरेक्टर्स का होना चाहिए",
+      "nameMaxLength": "रोल का नाम 100 कैरेक्टर्स से ज़्यादा नहीं होना चाहिए",
+      "descriptionMaxLength": "डिस्क्रिप्शन 500 कैरेक्टर्स से ज़्यादा नहीं होना चाहिए",
+      "architectureRequired": "रोल आर्किटेक्चर ज़रूरी है"
+    }
+  },
+  "dashboardManagement": {
+    "title": "डैशबोर्ड मेनेजमेंट",
+    "subtitle": "अपने रोल्स और परमिशन को मेनेज और ऑर्गेनाइज करें",
+    "backButton": "बैक",
+    "loading": "परमिशन्स लोड हो रही हैं...",
+    "errorPrefix": "एरर: ",
+    "activePermissions": "एक्टिव परमिशन्स:",
+    "dashboardModulesHeader": "डैशबोर्ड के मॉड्यूल्स",
+    "sidebarModulesHeader": "साइडबार के मॉड्यूल्स",
+    "moduleColumn": "मॉड्यूल",
+    "permissionsColumn": "परमिशन्स",
+    "selectAll": "सेलेक्ट ऑल",
+    "savePermissionsButton": "सेव परमिशन्स",
+    "savingButton": "सेव हो रहा है...",
+    "admin": "एडमिन",
+    "instructor": "इंस्ट्रक्टर",
+    "student": "स्टूडेंट",
+    "toasts": {
+      "saveSuccess": "परमिशन्स सक्सेसफुली सेव हो गईं",
+      "saveFailed": "परमिशन्स सेव करने में फेल"
+    },
+    "roleLabel": "रोल",
+    "permissionsSectionTitle": "मॉड्यूल अनुमतियाँ",
+    "selectRoleDisclaimer": "अनुमतियाँ बदलने के लिए रोल चुनें।",
+    "modulesCount": "{{count}} मॉड्यूल",
+    "sidebarItemsCount": "{{count}} आइटम",
+    "noModulesForRole": "इस रोल के लिए कोई मॉड्यूल उपलब्ध नहीं है",
+    "teacher": "टीचर",
+    "toggleDisabled": "यह अनुमति अस्थायी रूप से उपलब्ध नहीं है",
+    "toggleAlwaysOn": "इस टॉगल को बंद नहीं किया जा सकता"
+  },
+  "smtpConfiguration": {
+    "title": "एसएमटीपी कॉन्फ़िगरेशन",
+    "subtitle": "अपनी एसएमटीपी (Simple Mail Transfer Protocol) सेटिंग्स सेटअप करें",
+    "backToControl": "एक्सेस कंट्रोल पर वापस जाएं",
+    "hostLabel": "एसएमटीपी का होस्ट और पोर्ट *",
+    "hostPlaceholder": "जैसे: mail.example.com:465",
+    "securityLabel": "एसएमटीपी की सिक्योरिटी",
+    "securityHelpText": "ऑप्शनल। पोर्ट 465 के लिए 'ssl' या पोर्ट 587 के लिए 'tls' सेलेक्ट करें। खाली छोड़ दें यदि कोई नहीं है।",
+    "securityNone": "कोई नहीं",
+    "securitySSL": "SSL",
+    "securityTLS": "TLS",
+    "usernameLabel": "एसएमटीपी का यूज़रनेम *",
+    "usernamePlaceholder": "जैसे: noreply@example.com",
+    "passwordLabel": "एसएमटीपी का पासवर्ड *",
+    "noreplyEmailLabel": "नो-रिप्लाई ईमेल *",
+    "noreplyEmailHelpText": "यह ईमेल सभी ऑटोमेटेड नोटिफिकेशन्स के लिए 'From' एड्रेस के रूप में यूज़ होगा।",
+    "noreplyDisplayNameLabel": "नो-रिप्लाई डिस्प्ले नाम *",
+    "noreplyDisplayNamePlaceholder": "जैसे: इंस्ट्रक्टोहब नोटिफिकेशन्स",
+    "noreplyDisplayNameHelpText": "सेंडर के रूप में दिखाया जाने वाला डिस्प्ले नाम",
+    "cancelButton": "कैंसिल",
+    "saveConfigurationButton": "सेव कॉन्फ़िगरेशन",
+    "savingButton": "सेव हो रहा है...",
+    "toasts": {
+      "failedToLoad": "एसएमटीपी कॉन्फ़िगरेशन लोड करने में फेल",
+      "updateSuccess": "एसएमटीपी कॉन्फ़िगरेशन सक्सेसफुली अपडेट हो गया",
+      "updateFailed": "एसएमटीपी कॉन्फ़िगरेशन अपडेट करने में फेल"
+    },
+    "validation": {
+      "hostRequired": "एसएमटीपी का होस्ट ज़रूरी है",
+      "hostInvalidFormat": "फॉर्मेट इनवैलिड है। host:port यूज़ करें",
+      "securityInvalid": "सिक्योरिटी खाली, ssl या tls होनी चाहिए",
+      "usernameRequired": "एसएमटीपी का यूज़रनेम ज़रूरी है",
+      "usernameMaxLength": "एसएमटीपी का यूज़रनेम 255 कैरेक्टर्स से ज़्यादा नहीं होना चाहिए",
+      "passwordRequired": "एसएमटीपी का पासवर्ड ज़रूरी है",
+      "passwordMaxLength": "एसएमटीपी का पासवर्ड 255 कैरेक्टर्स से ज़्यादा नहीं होना चाहिए",
+      "noreplyEmailRequired": "नो-रिप्लाई ईमेल ज़रूरी है",
+      "noreplyEmailInvalidFormat": "ईमेल का फॉर्मेट इनवैलिड है",
+      "noreplyEmailMaxLength": "नो-रिप्लाई ईमेल 255 कैरेक्टर्स से ज़्यादा नहीं होना चाहिए",
+      "noreplyDisplayNameRequired": "नो-रिप्लाई डिस्प्ले नाम ज़रूरी है",
+      "noreplyDisplayNameMinLength": "नो-रिप्लाई डिस्प्ले नाम कम से कम 2 कैरेक्टर्स का होना चाहिए",
+      "noreplyDisplayNameMaxLength": "नो-रिप्लाई डिस्प्ले नाम 255 कैरेक्टर्स से ज़्यादा नहीं होना चाहिए"
+    }
+  },
+  "accessControlDisplay": {
+    "emailSetupTitle": "ईमेल का सेटअप",
+    "emailSetupDescription": "ईमेल टेम्पलेट्स और नोटिफिकेशन सेटिंग्स कॉन्फ़िगर करें",
+    "smtpConfigurationTitle": "एसएमटीपी का कॉन्फ़िगरेशन",
+    "smtpConfigurationDescription": "एसएमटीपी सर्वर क्रेडेंशियल्स और सेटिंग्स कॉन्फ़िगर करें",
+    "dashboardManagementTitle": "डैशबोर्ड का मेनेजमेंट",
+    "dashboardManagementDescription": "डैशबोर्ड मॉड्यूल्स के लिए रोल्स और परमिशन्स मेनेज करें",
+    "roleArchitectureManagementTitle": "रोल आर्किटेक्चर का मेनेजमेंट",
+    "roleArchitectureManagementDescription": "यूज़र रोल्स के लिए डिफ़ॉल्ट परमिशन सेट्स मेनेज करें",
+    "roleManagementTitle": "रोल का मेनेजमेंट",
+    "roleManagementDescription": "कस्टम यूज़र रोल्स मेनेज करें और रोल आर्किटेक्चर्स असाइन करें"
+  },
+  "customRoleDetail": {
+    "title": "रोल कैपेबिलिटी का कस्टमाइज़ेशन",
+    "subtitle": "सभी मॉड्यूल्स में इस स्पेसिफिक रोल के लिए परमिशन्स कस्टमाइज़ करें। यहाँ के चेंजेस रोल आर्किटेक्चर के डिफ़ॉल्ट को ओवरराइड कर देंगे।",
+    "backButton": "रोल्स पर वापस जाएं",
+    "pageHeader": {
+      "title": "कैपेबिलिटीज़ मैनेज करें: {{roleName}}",
+      "subtitle": "कस्टम रोल के लिए परमिशन्स सेट करें (आर्किटेक्चर: {{architectureName}})",
+      "unknownArchitecture": "अनजान"
+    },
+    "saveCapabilitiesButton": "सेव कैपेबिलिटीज़",
+    "savingButton": "सेव हो रहा है...",
+    "loading": "मॉड्यूल्स और कैपेबिलिटीज़ लोड हो रही हैं...",
+    "loadFailed": "डेटा लोड करने में फेल।",
+    "emptyState": {
+      "title": "कोई मॉड्यूल्स नहीं मिले",
+      "description": "कैपेबिलिटीज़ असाइन करने से पहले कृपया पहले मॉड्यूल्स बनाएं",
+      "goToModuleManagementButton": "मॉड्यूल मैनेजमेंट पर जाएं"
+    },
+    "sections": {
+      "learningActivities": {
+        "title": "लर्निंग एक्टिविटीज़",
+        "description": "कोर्स-लेवल एक्टिविटीज़ के लिए View, Create, Edit और Delete परमिशन्स कॉन्फ़िगर करें।"
+      },
+      "tools": {
+        "title": "टूल्स",
+        "description": "कोर्स टूल्स के लिए विज़िबिलिटी (View) कॉन्फ़िगर करें।"
+      }
+    },
+    "capabilities": {
+      "create": "क्रिएट",
+      "read": "देखें",
+      "edit": "एडिट",
+      "delete": "डिलीट",
+      "enabledCount": "इनेबल्ड"
+    },
+    "table": {
+      "moduleNameHeader": "मॉड्यूल का नाम",
+      "toolNameHeader": "टूल का नाम",
+      "moduleHeader": "मॉड्यूल",
+      "descriptionHeader": "डिस्क्रिप्शन",
+      "capabilitiesHeader": "कैपेबिलिटीज़"
+    },
+    "resetModal": {
+      "title": "कैपेबिलिटीज़ डिफ़ॉल्ट पर रिसेट करें",
+      "message": "क्या आप वाकई सभी कैपेबिलिटीज़ को रिसेट करना चाहते हैं",
+      "message2": "उनकी डिफ़ॉल्ट सेटिंग्स पर?",
+      "warning1": "यह रोल के आर्किटेक्चर टेम्पलेट में डिफाइंड कैपेबिलिटीज़ को रिस्टोर कर देगा।",
+      "warning2": "कोई भी कस्टम चेंजेस खो जाएंगे।",
+      "cancelButton": "कैंसिल",
+      "resettingButton": "रिसेट हो रहा है...",
+      "resetToDefaultButton": "डिफ़ॉल्ट पर रिसेट करें"
+    },
+    "toasts": {
+      "loadError": "रोल कैपेबिलिटीज़ लोड करने में फेल",
+      "resetSuccess": "{{roleName}} के लिए कैपेबिलिटीज़ सक्सेसफुली डिफ़ॉल्ट पर रिसेट हो गईं!",
+      "resetFailed": "रोल कैपेबिलिटीज़ रिसेट करने में फेल",
+      "updateSuccess": "रोल कैपेबिलिटीज़ सक्सेसफुली अपडेट हो गईं",
+      "updateFailed": "रोल कैपेबिलिटीज़ अपडेट करने में फेल"
+    }
+  }
+}
