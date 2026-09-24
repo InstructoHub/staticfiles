@@ -574,7 +574,9 @@
       "folder": "ଫୋଲ୍ଡର",
       "video": "ଭିଡିଓ",
       "archives": "ଆର୍କାଇଭ୍",
-      "scorm": "SCORM"
+      "scorm": "SCORM",
+      "documents": "ଡକ୍ୟୁମେଣ୍ଟସ୍",
+      "images": "ଇମେଜ୍ସ"
     },
     "supportedFormats": "ସମର୍ଥିତ ଫର୍ମାଟ୍",
     "maxFileSize": "ସର୍ବାଧିକ ଫାଇଲ ଆକାର",

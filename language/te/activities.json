@@ -574,7 +574,9 @@
       "folder": "ఫోల్డర్",
       "video": "వీడియో",
       "archives": "ఆర్కైవ్‌లు",
-      "scorm": "SCORM"
+      "scorm": "SCORM",
+      "documents": "డాక్యుమెంట్లు",
+      "images": "చిత్రాలు"
     },
     "supportedFormats": "సపోర్టెడ్ ఫార్మెట్‌లు",
     "maxFileSize": "గరిష్ఠ ఫైల్ సైజ్",

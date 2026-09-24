@@ -574,7 +574,9 @@
       "folder": "கோப்புறை",
       "video": "வீடியோ",
       "archives": "ஆர்கைவுகள்",
-      "scorm": "SCORM"
+      "scorm": "SCORM",
+      "documents": "ஆவணங்கள்",
+      "images": "படங்கள்"
     },
     "supportedFormats": "ஆதரிக்கப்படும் வடிவங்கள்",
     "maxFileSize": "அதிகபட்ச கோப்பு அளவு",

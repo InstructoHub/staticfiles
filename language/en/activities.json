@@ -571,6 +571,8 @@
     "openInNewTab": "Open in New Tab",
     "resourceTypes": {
       "file": "File",
+      "documents": "Documents",
+      "images": "Images",
       "url": "Web Link",
       "folder": "Folder",
       "video": "Video",
@@ -579,11 +581,11 @@
     },
     "supportedFormats": "Supported Formats",
     "examples": {
-      "documents": "PDF, MP4, HTML, DOC, DOCX, PPT, PPTX, XLS, XLSX, TXT",
+      "documents": "PDF, HTML, DOC, DOCX, PPT, PPTX, XLS, XLSX, TXT",
       "images": "JPG, JPEG, PNG, SVG",
       "media": "MP4",
       "archives": "ZIP",
-      "scorm": "SCORM packages (ZIP)"
+      "scorm": "ZIP"
     },
     "fileOrUrlNotBoth": "Please either upload a file or enter a URL, not both.",
     "urlPlaceholder": "https://example.com/resource",

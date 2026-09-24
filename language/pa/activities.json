@@ -574,7 +574,9 @@
       "folder": "ਫੋਲਡਰ",
       "video": "ਵੀਡੀਓ",
       "archives": "ਆਰਕਾਈਵ",
-      "scorm": "SCORM"
+      "scorm": "SCORM",
+      "documents": "ਦਸਤਾਵੇਜ਼",
+      "images": "ਤਸਵੀਰਾਂ"
     },
     "supportedFormats": "ਸਹਾਇਕ ਫਾਰਮੈਟ",
     "maxFileSize": "ਅਧਿਕਤਮ ਸਾਈਜ਼",

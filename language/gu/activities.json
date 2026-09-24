@@ -574,7 +574,9 @@
       "folder": "ફોલ્ડર",
       "video": "વિડિયો",
       "archives": "આર્કાઇવ્સ",
-      "scorm": "એસકોર્મ"
+      "scorm": "એસકોર્મ",
+      "documents": "ડોક્યુમેન્ટ્સ",
+      "images": "ઇમેજેસ"
     },
     "supportedFormats": "સમર્થિત ફોર્મેટ્સ",
     "maxFileSize": "ગણ máximo ફાઇલ કદ",

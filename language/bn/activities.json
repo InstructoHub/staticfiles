@@ -574,7 +574,9 @@
       "folder": "ফোল্ডার",
       "video": "ভিডিও",
       "archives": "আর্কাইভ",
-      "scorm": "এসকর্ম"
+      "scorm": "এসকর্ম",
+      "documents": "নথি",
+      "images": "ছবি"
     },
     "supportedFormats": "সমর্থিত ফরম্যাট",
     "maxFileSize": "সর্বাধিক ফাইল সাইজ",

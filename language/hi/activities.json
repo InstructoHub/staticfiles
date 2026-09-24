@@ -574,7 +574,9 @@
       "folder": "फोल्डर",
       "video": "वीडियो",
       "archives": "आर्काइव्स",
-      "scorm": "सकर्म "
+      "scorm": "सकर्म ",
+      "documents": "दस्तावेज़",
+      "images": "इमेजेज़"
     },
     "supportedFormats": "सपोर्टेड फॉर्मेट्स",
     "maxFileSize": "मैक्सिमम फाइल साइज",
