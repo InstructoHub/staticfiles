@@ -5,10 +5,10 @@
   },
   "uploadFiles": {
     "dragDropText": "&",
-    "supportedFilesText": ": PDF, HTML, MP4",
+    "supportedFilesText": ": PDF, HTML, MP4, DOC, DOCX, PPT, PPTX, XLS, XLSX, TXT",
     "selectedFilesLabel": ":",
     "errors": {
-      "unsupportedFiles": "()  unsupported   : PDF, HTML, MP4",
+      "unsupportedFiles": "()  unsupported   : PDF, HTML, MP4, DOC, DOCX, PPT, PPTX, XLS, XLSX, TXT",
       "maxFilesExceeded": "{{max}}",
       "fileSizeExceeded": "1 GB",
       "noFilesSelected": "ଦୟାକରି ଆଗକୁ ବଢ଼ିବା ପାଇଁ କମ୍ ସେ କମ୍ ଗୋଟିଏ ଫାଇଲ୍ ବାଛନ୍ତୁ",

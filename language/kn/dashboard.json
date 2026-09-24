@@ -616,7 +616,8 @@
     "stageCertifiedSub": "70% ಹಾಜರಾತಿ + ಮೌಲ್ಯಮಾಪನ ಪಾಸ್ ಮಾಡಿದವರು",
     "stagePlaced": "ನೇಮಕಗೊಂಡವರು",
     "carried": "{{pct}}% ಮುಂದಕ್ಕೆ ಸಾಗಿಸಲಾಗಿದೆ",
-    "dropoff": "{{total}} ಇಳಿಕೆ"
+    "dropoff": "{{total}} ಇಳಿಕೆ",
+    "stagePlacedSub": "ಉದ್ಯೋಗ ಪಡೆದ / ಉದ್ಯಮಕ್ಕೆ ಕ್ರೆಡಿಟ್-ಲಿಂಕ್ ಆಗಿದೆ"
   },
   "kvicCentreBlock": {
     "title": "ಕೇಂದ್ರ ಪ್ರದರ್ಶನ",

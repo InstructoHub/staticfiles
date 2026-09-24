@@ -1,9 +1,9 @@
 {
   "uploadFiles": {
-    "supportedFilesText": ": PDF, HTML, MP4",
+    "supportedFilesText": ": PDF, HTML, MP4, DOC, DOCX, PPT, PPTX, XLS, XLSX, TXT",
     "selectedFilesLabel": ":",
     "errors": {
-      "unsupportedFiles": "()     : PDF, HTML, MP4",
+      "unsupportedFiles": "()     : PDF, HTML, MP4, DOC, DOCX, PPT, PPTX, XLS, XLSX, TXT",
       "maxFilesExceeded": "{{max}}",
       "fileSizeExceeded": "1 GB",
       "noFilesSelected": "કૃપા કરીને આગળ વધવા માટે ઓછામાં ઓછા એક ફાઇલ પસંદ કરો",
