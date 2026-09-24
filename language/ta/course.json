@@ -18,7 +18,8 @@
     "activityCompletion": "செயல்பாடு நிறைவுபெற்றது",
     "certificate": "சான்றிதழ்",
     "organize": "ஒழுங்குபடுத்து",
-    "gradeAssignment": "அசைன்மெண்ட் மதிப்பீடு"
+    "gradeAssignment": "அசைன்மெண்ட் மதிப்பீடு",
+    "courseComplete": "நீங்கள் இந்த பாடத்தை முடித்துவிட்டீர்கள்!"
   },
   "participants": {
     "title": "பங்கேற்பாளர்கள்",
@@ -97,7 +98,21 @@
     "viewStudentProgressReport": "மாணவர் முன்னேற்ற அறிக்கையை காண்க",
     "you": "நீங்கள்",
     "usernameSearchDisclaimer": "பட்டியலைக் காண முழு பயனர்பெயரை உள்ளிடவும்.",
-    "spaceNotAllowed": "தேடலில் இடைவெளி அனுமதிக்கப்படாது."
+    "spaceNotAllowed": "தேடலில் இடைவெளி அனுமதிக்கப்படாது.",
+    "messageGroup": {
+      "create": "செய்தி குழு உருவாக்கு",
+      "createTitle": "செய்தி குழு உருவாக்கு",
+      "nameLabel": "குழு பெயர்",
+      "namePlaceholder": "குழு பெயரை உள்ளிடுங்கள்",
+      "selectMembers": "பங்கேற்பாளர்களை சேர்க்கவும்",
+      "searchPlaceholder": "பங்கேற்பாளர்களைத் தேடுங்கள்...",
+      "noMembersFound": "சேர்க்க பங்கேற்பாளர்கள் கிடைக்கவில்லை.",
+      "selectedCount": "{{count}} தேர்ந்தெடுக்கப்பட்டது",
+      "creating": "உருவாக்கப்படுகிறது...",
+      "createSuccess": "செய்தி குழு வெற்றிகரமாக உருவாக்கப்பட்டது.",
+      "createFailed": "செய்தி குழுவை உருவாக்க முடியவில்லை.",
+      "loadFailed": "பங்கேற்பாளர்களை ஏற்ற முடியவில்லை."
+    }
   },
   "buttons": {
     "continueeLearning": "கற்றலை தொடருங்கள்",
@@ -117,7 +132,8 @@
     "view": "காண்க",
     "download": "பதிவிறக்கவும்",
     "upload": "ஏற்றவும்",
-    "enrollSelected": "தேர்ந்தெடுத்தவற்றில் சேருங்கள்"
+    "enrollSelected": "தேர்ந்தெடுத்தவற்றில் சேருங்கள்",
+    "retry": "மீண்டும் முயற்சி"
   },
   "actions": {
     "create": "உருவாக்கவும்",

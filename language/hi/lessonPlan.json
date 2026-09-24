@@ -35,6 +35,15 @@
     "errorNoEmbeddings": "कोर्स के लिए कोई एम्बेडिंग्स नहीं मिलीं। प्लीज कोर्स एडमिनिस्ट्रेटर से कॉन्टैक्ट करें।",
     "errorGeneric": "कुछ गलत हो गया। प्लीज पेज को रिफ्रेश करें।",
     "promptGenerationFailed": "प्रॉम्प्ट जनरेट नहीं किया जा सका। प्लीज अपना खुद का लिखें।",
-    "errorOccurred": "एक एरर आया। प्लीज अपना खुद का प्रॉम्प्ट लिखें।"
+    "errorOccurred": "एक एरर आया। प्लीज अपना खुद का प्रॉम्प्ट लिखें।",
+    "activityDateNotInPast": "Activity date आज या future date होनी चाहिए",
+    "previewAndPrint": "Preview & Print",
+    "printLessonPlan": "Lesson Plan प्रिंट करें",
+    "print": "Print",
+    "backToEdit": "Edit पर वापस जाएं"
+  },
+  "templateT1": {
+    "error": "Error",
+    "templateNotFound": "Template \"{{templateId}}\" नहीं मिला।"
   }
 }

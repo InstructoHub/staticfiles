@@ -11,7 +11,13 @@
     },
     "title": "ਮੋਡੀਊਲਾਂ ਦੀ ਗਿਣਤੀ ਚੁਣੋ",
     "promptLabel": "ਸ਼ੁਰੂਆਤੀ ਪ੍ਰੋਂਪਟ:",
-    "promptPlaceholder": "ਮੋਡਿਊਲ ਬਣਾਉਣ ਲਈ ਇੱਕ ਸ਼ੁਰੂਆਤੀ ਪ੍ਰੋਂਪਟ ਦਿਓ (ਵਿਕਲਪ)"
+    "promptPlaceholder": "ਮੋਡਿਊਲ ਬਣਾਉਣ ਲਈ ਇੱਕ ਸ਼ੁਰੂਆਤੀ ਪ੍ਰੋਂਪਟ ਦਿਓ (ਵਿਕਲਪ)",
+    "loading": "ਮੋਡਿਊਲ ਲੋਡ ਹੋ ਰਹੇ ਹਨ...",
+    "decrease": "ਮੋਡਿਊਲ ਘਟਾਓ",
+    "decreaseAria": "ਮੋਡਿਊਲਾਂ ਦੀ ਗਿਣਤੀ ਘਟਾਓ",
+    "increase": "ਮੋਡਿਊਲ ਵਧਾਓ",
+    "increaseAria": "ਮੋਡਿਊਲਾਂ ਦੀ ਗਿਣਤੀ ਵਧਾਓ",
+    "selectCountAria": "ਮੋਡਿਊਲਾਂ ਦੀ ਗਿਣਤੀ ਚੁਣੋ"
   },
   "defineStructure": {
     "quickTips": "ਤੁਰੰਤ ਸੁਝਾਅ",
@@ -49,7 +55,10 @@
     "tooltips": {
       "dragModules": "ਮੋਡੀਊਲਾਂ ਨੂੰ ਦੁਬਾਰਾ ਕ੍ਰਮਬੱਧ ਕਰਨ ਲਈ ਕਲਿੱਕ ਕਰੋ ਅਤੇ ਖਿੱਚੋ",
       "dragObjects": "ਸੱਜੇ ਪੈਨਲ ਤੋਂ ਮੋਡੀਊਲਾਂ ਵਿੱਚ ਸਿੱਖਣ ਵਾਲੀਆਂ ਵਸਤੂਆਂ ਖਿੱਚੋ"
-    }
+    },
+    "definingStructure": "ਸਟਰਕਚਰ ਤਿਆਰ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ",
+    "atLeastOneModule": "ਜਾਰੀ ਰੱਖਣ ਤੋਂ ਪਹਿਲਾਂ ਘੱਟੋ-ਘੱਟ ਇੱਕ ਮੋਡਿਊਲ ਸ਼ਾਮਲ ਕਰੋ",
+    "resetFailed": "ਸਟੇਟ ਰੀਸੈੱਟ ਕਰਨ ਵਿੱਚ ਅਸਫਲ"
   },
   "reviewPrompts": {
     "title": "ਰੀਵਿਊ ਪ੍ਰੰਪਟਸ",
@@ -87,7 +96,10 @@
     },
     "tooltips": {
       "editInfo": "ਮੋਡੀਊਲ ਦੇ ਨਾਮ ਅਤੇ ਵੇਰਵਿਆਂ ਨੂੰ ਸੋਧਣ ਲਈ ਕਲਿੱਕ ਕਰੋ"
-    }
+    },
+    "dragToReorder": "ਕ੍ਰਮ ਬਦਲਣ ਲਈ ਡ੍ਰੈਗ ਕਰੋ",
+    "delete": "ਮਿਟਾਓ",
+    "generatingPrompts": "ਪ੍ਰਾਂਪਟ ਬਣਾਏ ਜਾ ਰਹੇ ਹਨ"
   },
   "courseReview": {
     "title": "ਕੋਰਸ ਰੀਵਿਊ",
@@ -118,11 +130,18 @@
     "regeneratePrompt": {
       "title": "ਸਮੱਗਰੀ ਨੂੰ ਰੀਜਨਰੇਟ ਕਰੋ",
       "submitButton": "ਜਮ੍ਹਾਂ ਕਰੋ",
-      "cancelButton": "ਰੱਦ ਕਰੋ"
+      "cancelButton": "ਰੱਦ ਕਰੋ",
+      "placeholder": "ਆਪਣਾ ਟੈਕਸਟ ਇੱਥੇ ਦਰਜ ਕਰੋ...",
+      "regenerating": "ਮੁੜ ਬਣਾਇਆ ਜਾ ਰਿਹਾ ਹੈ..."
     },
     "tooltips": {
       "regenerateInfo": "ਇਸ ਸਮੱਗਰੀ ਨੂੰ ਨਵੇਂ ਪ੍ਰੰਪਟ ਨਾਲ ਰੀਜਨਰੇਟ ਕਰੋ"
-    }
+    },
+    "creatingCourse": "ਕੋਰਸ ਬਣਾਇਆ ਜਾ ਰਿਹਾ ਹੈ",
+    "generatingPage": "ਪੇਜ ਬਣਾਇਆ ਜਾ ਰਿਹਾ ਹੈ...",
+    "generatingContent": "ਕੰਟੈਂਟ ਬਣਾਇਆ ਜਾ ਰਿਹਾ ਹੈ",
+    "regenerateContent": "ਕੰਟੈਂਟ ਮੁੜ ਬਣਾਓ",
+    "saving": "ਸੇਵ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ..."
   },
   "commonMessages": {
     "success": {
@@ -200,6 +219,8 @@
     "tooltips": {
       "uploadInfo": "ਤੁਸੀਂ PDF, HTML, ਜਾਂ MP4 ਫਾਈਲਾਂ ਅਪਲੋਡ ਕਰ ਸਕਦੇ ਹੋ",
       "fileSizeInfo": "ਅਧਿਕਤਮ ਕੁੱਲ ਫਾਈਲ ਆਕਾਰ 1 GB ਹੈ"
-    }
+    },
+    "uploadAria": "ਫਾਇਲਾਂ ਅੱਪਲੋਡ ਕਰੋ",
+    "deleteFile": "ਫਾਇਲ ਮਿਟਾਓ"
   }
 }

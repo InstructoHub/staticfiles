@@ -18,7 +18,8 @@
     "activityCompletion": "କାର୍ଯ୍ୟ ସମାପ୍ତି",
     "certificate": "ସର୍ଟିଫିକେଟ",
     "organize": "ସଂଗଠନ କର",
-    "gradeAssignment": "ଅସାଇନ୍ମେଣ୍ଟ ମୂଲ୍ୟାଙ୍କନ କର"
+    "gradeAssignment": "ଅସାଇନ୍ମେଣ୍ଟ ମୂଲ୍ୟାଙ୍କନ କର",
+    "courseComplete": "ଆପଣ ଏହି କୋର୍ସ ସମ୍ପୂର୍ଣ୍ଣ କରିଛନ୍ତି!"
   },
   "participants": {
     "searchParticipants": "...",
@@ -57,8 +58,8 @@
     "messages": "ସନ୍ଦେଶ",
     "viewStudentProgressReport": "ଛାତ୍ର ପ୍ରଗତି ରିପୋର୍ଟ ଦେଖନ୍ତୁ",
     "you": "ଆପଣ",
-    "usernameSearchDisclaimer": "ତାଲିକା ଦେଖିବା ପାଇଁ ସମ୍ପୂର୍ଣ୍ଣ ଉପଯୋଗକର୍ତ୍ତା ନାମ ଲେଖନ୍ତୁ।",
-    "spaceNotAllowed": "ଖୋଜିବାରେ ସ୍ପେସ୍ ଅନୁମତି ନାହିଁ।",
+    "usernameSearchDisclaimer": "ତାଲିକା ଦେଖିବା ପାଇଁ ସମ୍ପୂର୍ଣ୍ଣ ଉପଯୋଗକର୍ତ୍ତା ନାମ ଲେଖନ୍ତୁ",
+    "spaceNotAllowed": "ଖୋଜିବାରେ ସ୍ପେସ୍ ଅନୁମତି ନାହିଁ",
     "title": "ଭାଗୀଦାର",
     "courseParticipants": "କୋର୍ସ ଭାଗୀଦାର",
     "allParticipants": "ସମସ୍ତ ଭାଗୀଦାର",
@@ -97,7 +98,21 @@
     "message": "ସନ୍ଦେଶ",
     "addContacts": "ସମ୍ପର୍କରେ ଯୋଗ କରନ୍ତୁ",
     "removeContacts": "ସମ୍ପର୍କରୁ ହଟାନ୍ତୁ",
-    "leaveCourse": "କୋର୍ସ ଛାଡ଼ନ୍ତୁ"
+    "leaveCourse": "କୋର୍ସ ଛାଡ଼ନ୍ତୁ",
+    "messageGroup": {
+      "create": "ମେସେଜ୍ ଗ୍ରୁପ୍ ତିଆରି କରନ୍ତୁ",
+      "createTitle": "ମେସେଜ୍ ଗ୍ରୁପ୍ ତିଆରି କରନ୍ତୁ",
+      "nameLabel": "ଗ୍ରୁପ୍ ନାମ",
+      "namePlaceholder": "ଗ୍ରୁପ୍ ନାମ ଦିଅନ୍ତୁ",
+      "selectMembers": "ଅଂଶଗ୍ରାହୀ ଯୋଡନ୍ତୁ",
+      "searchPlaceholder": "ଅଂଶଗ୍ରାହୀ ଖୋଜନ୍ତୁ...",
+      "noMembersFound": "ଯୋଡିବା ପାଇଁ କୌଣସି ଅଂଶଗ୍ରାହୀ ମିଳିଲେ ନାହିଁ",
+      "selectedCount": "{{count}} ଚୟନ ହୋଇଛି",
+      "creating": "ତିଆରି ହେଉଛି...",
+      "createSuccess": "ମେସେଜ୍ ଗ୍ରୁପ୍ ସଫଳତାର ସହିତ ତିଆରି ହେଲା",
+      "createFailed": "ମେସେଜ୍ ଗ୍ରୁପ୍ ତିଆରି କରିବାରେ ବିଫଳ ହେଲା",
+      "loadFailed": "ଅଂଶଗ୍ରାହୀମାନଙ୍କୁ ଲୋଡ୍ କରିବାରେ ବିଫଳ ହେଲା"
+    }
   },
   "status": {
     "loading": "...",
@@ -216,7 +231,8 @@
     "view": "ଭ୍ୟୁ",
     "download": "ଡାଉନଲୋଡ୍",
     "upload": "ଅପଲୋଡ୍",
-    "enrollSelected": "ଚୟନିତ ଭର୍ତ୍ତି କରନ୍ତୁ"
+    "enrollSelected": "ଚୟନିତ ଭର୍ତ୍ତି କରନ୍ତୁ",
+    "retry": "ପୁଣି ଚେଷ୍ଟା କରନ୍ତୁ"
   },
   "actions": {
     "create": "କ୍ରିଏଟ୍",

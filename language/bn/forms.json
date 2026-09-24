@@ -62,7 +62,9 @@
         "countryInvalid": "একটি বৈধ দেশ নির্বাচন করুন",
         "usernameTaken": "এই ইউজারনেমটি আগে থেকেই নেওয়া আছে",
         "emailTaken": "এই ইমেইলটি আগে থেকেই রেজিস্টার করা আছে"
-      }
+      },
+      "dateNotInPast": "তারিখ অতীতের হতে পারে না",
+      "startDateInPast": "শুরুর তারিখ অতীতের হতে পারে না"
     },
     "hints": {
       "characterLimit": "সর্বোচ্চ {{max}} অক্ষর"
@@ -390,6 +392,7 @@
   },
   "validation": {
     "availabilityAfterDue": "অ্যালাও সাবমিশনস ফ্রম ডিউ ডেটের আগে থাকতে হবে",
-    "dueDateBeforeAvailability": "ডিউ ডেটটি অ্যালাও সাবমিশনস ফ্রম-এর পর হতে হবে"
+    "dueDateBeforeAvailability": "ডিউ ডেটটি অ্যালাও সাবমিশনস ফ্রম-এর পর হতে হবে",
+    "fillAllRequiredFields": "দয়া করে সব প্রয়োজনীয় ফিল্ড পূরণ করুন"
   }
 }

@@ -62,6 +62,20 @@
       "total_enrollments": "మొత్తం నమోదు‌లు",
       "completed_courses": "పూర్తయిన కోర్సులు",
       "pending_completions": "పూర్తి చేయాల్సినవి"
+    },
+    "recentUsers": {
+      "title": "ఇటీవల ప్లాట్‌ఫారమ్ ఉపయోగం — {{name}}",
+      "subtitle": "ఈ tenant‌ను ఎవరు ఉపయోగించారు, ప్లాట్‌ఫారమ్‌లో వారు ఏమి చేశారు.",
+      "lastAccess": "చివరి access: {{time}}",
+      "activityCount": "actions",
+      "noLogs": "ఈ snapshot‌లో platform actions లేవు.",
+      "noUsers": "ఈ tenant‌కు ఇటీవల users లేరు.",
+      "systemEventsHidden": "{{count}} system notification events hidden",
+      "origin": {
+        "web": "Web",
+        "ws": "API",
+        "cli": "System"
+      }
     }
   }
 }

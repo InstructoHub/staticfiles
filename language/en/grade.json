@@ -70,6 +70,34 @@
       "checkCourseContent": "Course Content: Make sure the course in Moodle (ID: {{courseId}}) actually contains \"Assignment\" or \"Quiz\" activities.",
       "checkEnrollment": "Enrollment: Verify that you are properly enrolled in this course.",
       "tryDifferentCourse": "Different Course: Try viewing a different course to see if grades appear there."
+    },
+    "rubricReport": {
+      "back": "Back",
+      "assignmentReportsTitle": "Assignment reports",
+      "quizReportsTitle": "Quiz reports",
+      "noAssignments": "No assignments found for this course.",
+      "noQuizzes": "No quizzes found for this course.",
+      "empty": "No rubric criteria found.",
+      "loadError": "Failed to load rubric report.",
+      "pdfError": "Failed to download PDF. Please try again.",
+      "downloadAssignmentReports": "Download assignment reports",
+      "downloadQuizReports": "Download quiz reports",
+      "downloadingPdf": "Downloading...",
+      "downloadAllPdf": "Download all reports",
+      "downloadPdf": "Download PDF",
+      "noFeedback": "No feedback provided yet.",
+      "focusFallback": "No weak areas stood out. Keep practising the current criteria and use teacher comments on the next draft.",
+      "snapshotTitle": "Grade snapshot",
+      "bands": "Bands",
+      "bandsHint": "Compared to the rubric levels, never to classmates",
+      "feedbackHeader": "FEEDBACK",
+      "focusHeader": "FOCUS FOR NEXT 12 WEEKS",
+      "band": {
+        "emerging": "Emerging",
+        "developing": "Developing",
+        "onTrack": "On track",
+        "strong": "Strong"
+      }
     }
   },
   "teacher": {

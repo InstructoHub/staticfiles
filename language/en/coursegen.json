@@ -27,6 +27,8 @@
     "selectedFilesLabel": "Selected Files:",
     "sourceLimitLabel": "Source limit",
     "continueButtonText": "Continue",
+    "uploadAria": "Upload files",
+    "deleteFile": "Delete file",
     "errors": {
       "unsupportedFiles": "file(s) have unsupported types. Supported: PDF, HTML, MP4",
       "maxFilesExceeded": "Maximum {{max}} files allowed",
@@ -53,6 +55,12 @@
     "moduleLabel": "Modules:",
     "promptLabel": "Initial Prompt:",
     "promptPlaceholder": "Provide an initial prompt to guide module creation (optional)",
+    "loading": "Loading modules...",
+    "decrease": "Decrease modules",
+    "decreaseAria": "Decrease number of modules",
+    "increase": "Increase modules",
+    "increaseAria": "Increase number of modules",
+    "selectCountAria": "Select number of modules",
     "errors": {
       "saveFailed": "Failed to save module count. Please try again.",
       "networkError": "Network error. Please check your connection."
@@ -73,6 +81,9 @@
     "noDataContent": "There are no items to display",
     "modulePlaceholder": "Enter Title Here",
     "moduleContentPlaceholder": "Add Content Here",
+    "definingStructure": "Defining Structure",
+    "atLeastOneModule": "Please add at least one module before continuing.",
+    "resetFailed": "Failed to reset state",
     "learningObjects": {
       "moduleIntroduction": "Module Introduction",
       "learningObjectives": "Learning Objectives",
@@ -122,6 +133,9 @@
       "forum": "Forum"
     },
     "noContentMessage": "No content items yet. Click 'Add' to create one.",
+    "dragToReorder": "Drag to reorder",
+    "delete": "Delete",
+    "generatingPrompts": "Generating Prompts",
     "errors": {
       "moduleNameRequired": "Module name field is required",
       "titleRequired": "Title field is required",
@@ -147,6 +161,11 @@
     "regenerateButton": "Regenerate",
     "saveChangesButton": "Save Changes",
     "createCourseButton": "Go ahead and create course",
+    "creatingCourse": "Creating Course",
+    "generatingPage": "Generating Page...",
+    "generatingContent": "Generating Content",
+    "regenerateContent": "Regenerate content",
+    "saving": "Saving...",
     "contentTypes": {
       "page": "Page",
       "assignment": "Assignment",
@@ -166,7 +185,9 @@
     "regeneratePrompt": {
       "title": "Regenerate Content",
       "submitButton": "Submit",
-      "cancelButton": "Cancel"
+      "cancelButton": "Cancel",
+      "placeholder": "Enter your text here...",
+      "regenerating": "Regenerating..."
     },
     "tooltips": {
       "regenerateInfo": "Regenerate this content with a new prompt"

@@ -26,7 +26,9 @@
     "uploadTitle": "સ્રોતો અપલોડ કરો",
     "dragDropText": "ડ્રેગ અને ડ્રોપ કરો અથવા ફાઇલ પસંદ કરો",
     "sourceLimitLabel": "સ્રોત મર્યાદા",
-    "continueButtonText": "આગળ વધો"
+    "continueButtonText": "આગળ વધો",
+    "uploadAria": "ફાઇલો અપલોડ કરો",
+    "deleteFile": "ફાઇલ ડિલીટ કરો"
   },
   "createModules": {
     "description": "કૃપા કરીને જણાવો કે તમે તમારા કોપ માટે કેટલા મોડ્યુલ બનાવવા માંગો છો.",
@@ -40,7 +42,13 @@
     },
     "title": "મોડ્યુલની સંખ્યા પસંદ કરો",
     "promptLabel": "પ્રારંભિક પ્રોમ્પ્ટ:",
-    "promptPlaceholder": "મોડ્યુલ બનાવવામાં માર્ગદર્શન માટે પ્રારંભિક પ્રોમ્પ્ટ આપો (વૈકલ્પિક)"
+    "promptPlaceholder": "મોડ્યુલ બનાવવામાં માર્ગદર્શન માટે પ્રારંભિક પ્રોમ્પ્ટ આપો (વૈકલ્પિક)",
+    "loading": "મોડ્યુલ્સ લોડ થઈ રહ્યા છે...",
+    "decrease": "મોડ્યુલ્સ ઘટાડો",
+    "decreaseAria": "મોડ્યુલ્સની સંખ્યા ઘટાડો",
+    "increase": "મોડ્યુલ્સ વધારો",
+    "increaseAria": "મોડ્યુલ્સની સંખ્યા વધારો",
+    "selectCountAria": "મોડ્યુલ્સની સંખ્યા પસંદ કરો"
   },
   "reviewPrompts": {
     "title": "રિવ્યૂ પ્રોમ્પ્ટ્સ",
@@ -78,7 +86,10 @@
     },
     "tooltips": {
       "editInfo": "મોડ્યુલના નામો અને વર્ણનોને સંપાદિત કરવા માટે ક્લિક કરો"
-    }
+    },
+    "dragToReorder": "રીઓર્ડર કરવા ડ્રેગ કરો",
+    "delete": "ડિલીટ",
+    "generatingPrompts": "પ્રોમ્પ્ટ્સ જનરેટ થઈ રહ્યા છે"
   },
   "courseReview": {
     "title": "કોર્સ રિવ્યૂ",
@@ -108,12 +119,19 @@
     "regeneratePrompt": {
       "title": "સામગ્રી ફરીથી બનાવો",
       "submitButton": "સબમિટ",
-      "cancelButton": "રદ કરો"
+      "cancelButton": "રદ કરો",
+      "placeholder": "અહીં તમારો ટેક્સ્ટ દાખલ કરો...",
+      "regenerating": "ફરી જનરેટ થઈ રહ્યું છે..."
     },
     "tooltips": {
       "regenerateInfo": "આ સામગ્રીને નવા પ્રોમ્પ્ટ સાથે ફરીથી બનાવો"
     },
-    "regenerateButton": "ફરીથી જનરેટ કરો"
+    "regenerateButton": "ફરીથી જનરેટ કરો",
+    "creatingCourse": "કોર્સ બનાવી રહ્યા છીએ",
+    "generatingPage": "પેજ જનરેટ થઈ રહ્યું છે...",
+    "generatingContent": "કન્ટેન્ટ જનરેટ થઈ રહ્યું છે",
+    "regenerateContent": "કન્ટેન્ટ ફરી જનરેટ કરો",
+    "saving": "સેવ થઈ રહ્યું છે..."
   },
   "commonMessages": {
     "success": {
@@ -184,7 +202,10 @@
     "tooltips": {
       "dragModules": "મોડ્યુલને ફરીથી ક્રમમાં મૂકવા માટે ક્લિક કરો અને ખેંચો",
       "dragObjects": "જાણવાની વસ્તુઓને જમણા પેનલમાંથી મૉડ્યુલમાં ખેંચો"
-    }
+    },
+    "definingStructure": "સ્ટ્રક્ચર ડિફાઇન કરી રહ્યા છીએ",
+    "atLeastOneModule": "કૃપા કરીને આગળ વધતા પહેલા ઓછામાં ઓછું એક મોડ્યુલ ઉમેરો.",
+    "resetFailed": "સ્ટેટ રીસેટ કરવામાં નિષ્ફળ"
   },
   "stepper": {
     "courseDetails": "કોર્સ વિગતો",

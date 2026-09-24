@@ -54,14 +54,30 @@
       "createdAtHeader": "உருவாக்கப்பட்டது",
       "actionsHeader": "செயல்கள்",
       "noModulesFound": "மாடுல்கள் கிடைக்கவில்லை.",
-      "slNoHeader": "வரிசை எண்"
+      "slNoHeader": "வரிசை எண்",
+      "moduleTypeHeader": "மொட்யூல் வகை"
     },
     "form": {
       "moduleNameLabel": "மாடுல் பெயர் *",
       "moduleDescriptionLabel": "மாடுல் விளக்கம்",
       "saveChangesButton": "மாற்றங்களை சேமிக்கவும்",
       "savingButton": "சேமிக்கிறது...",
-      "cancelButton": "ரத்து செய்யவும்"
+      "cancelButton": "ரத்து செய்யவும்",
+      "moduleTypeLabel": "மொட்யூல் வகை *",
+      "moduleTypePlaceholder": "மொட்யூல் வகையை தேர்வு செய்யவும்",
+      "courseTypeLabel": "கோர்ஸ் பக்கம் பகுதி *",
+      "courseTypePlaceholder": "கோர்ஸ் பக்கம் பகுதியை தேர்வு செய்யவும்",
+      "moduleTypes": {
+        "adminMenu": "அட்மின் மெனு",
+        "dashboard": "டாஷ்போர்டு",
+        "leftMenu": "இடது பக்க மெனு",
+        "course": "கோர்ஸ் பக்கம்",
+        "courseMain": "கோர்ஸ் முக்கிய உள்ளடக்கம்",
+        "courseRightbar": "கோர்ஸ் வலது பார்"
+      },
+      "createButton": "மொட்யூல் உருவாக்கு",
+      "creatingButton": "உருவாக்கப்படுகிறது...",
+      "editTitle": "மொட்யூலை திருத்து"
     },
     "deleteModal": {
       "title": "அழிக்க உறுதிப்படுத்தவும்",
@@ -83,7 +99,9 @@
       "nameRequired": "மாடுல் பெயர் தேவை",
       "nameMinLength": "மாடுல் பெயர் குறைந்தது 2 எழுத்துகள் இருக்க வேண்டும்",
       "nameMaxLength": "மாடுல் பெயர் 100 எழுத்துகளை மீறக்கூடாது",
-      "descriptionMaxLength": "விளக்கம் 500 எழுத்துகளை மீறக்கூடாது"
+      "descriptionMaxLength": "விளக்கம் 500 எழுத்துகளை மீறக்கூடாது",
+      "moduleTypeRequired": "மொட்யூல் வகை அவசியம்",
+      "courseTypeRequired": "கோர்ஸ் பக்கம் பகுதி அவசியம்"
     }
   },
   "pageHeader": {
@@ -235,7 +253,10 @@
     "noModulesForRole": "இந்த பங்கிற்காக எந்த மொட்யூலும் கிடைக்கவில்லை",
     "teacher": "ஆசிரியர்",
     "toggleDisabled": "இந்த அனுமதி தற்காலிகமாக கிடைக்கவில்லை",
-    "toggleAlwaysOn": "இந்த டோகிள் ஆஃப் செய்யமுடியாது"
+    "toggleAlwaysOn": "இந்த டோகிள் ஆஃப் செய்யமுடியாது",
+    "defaultRolesGroup": "இயல்பான ரோல்கள்",
+    "customRolesGroup": "கஸ்டம் ரோல்கள்",
+    "customRoleTag": "கஸ்டம்"
   },
   "smtpConfiguration": {
     "title": "SMTP கட்டமைப்பு",
@@ -313,7 +334,9 @@
     "sections": {
       "learningActivities": {
         "title": "கற்றல் செயல்பாடுகள்",
-        "description": "கோர்ஸ் நிலை செயல்பாடுகளுக்கான பார்வை, உருவாக்க, திருத்த மற்றும் அழிக்கும் அனுமதிகளை அமைக்கவும்."
+        "description": "கோர்ஸ் நிலை செயல்பாடுகளுக்கான பார்வை, உருவாக்க, திருத்த மற்றும் அழிக்கும் அனுமதிகளை அமைக்கவும்.",
+        "manageActionsNote": "உருவாக்கு, திருத்து, நீக்கு. கோர்ஸில் உள்ள எல்லா செயல்பாடுகளுக்கும் பொருந்தும் — இது ஒரு கோர்ஸ்-முழுக்க அனுமதி.",
+        "courseModulesNote": "கோர்ஸ் அவுட்லைன் மற்றும் பிரிவுகளைப் பாருங்கள். இது ஆன் இருந்தால் தான் மற்ற செயல்பாட்டு அனுமதிகள் பொருந்தும்."
       },
       "tools": {
         "title": "கருவிகள்",
@@ -325,7 +348,10 @@
       "read": "பார்வை",
       "edit": "திருத்தவும்",
       "delete": "அழிக்கவும்",
-      "enabledCount": "செயல்படுத்தப்பட்டது"
+      "enabledCount": "செயல்படுத்தப்பட்டது",
+      "access": "அணுகு",
+      "manage": "மேலாண்மை",
+      "manageAll": "அனைத்து செயல்பாடுகளையும் மேலாண்மை செய்"
     },
     "table": {
       "moduleNameHeader": "மாடுல் பெயர்",

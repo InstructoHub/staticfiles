@@ -43,7 +43,9 @@
     },
     "ai": {
       "confirmEnableAIForCourse": "நிச்சயமாக இந்த கோர்ஸிற்கு AI எனேபிள் செய்ய விரும்புகிறீர்களா?",
-      "confirmDisableAIForCourse": "நிச்சயமாக இந்த கோர்ஸிற்கு AI டிஸேபிள் செய்ய விரும்புகிறீர்களா?"
+      "confirmDisableAIForCourse": "நிச்சயமாக இந்த கோர்ஸிற்கு AI டிஸேபிள் செய்ய விரும்புகிறீர்களா?",
+      "disablingAIForCourse": "செயலிழக்கிறது...",
+      "enablingAIForCourse": "செயல்படுத்துகிறது..."
     },
     "aiCta": {
       "buildTitle": "ஏஐ உடன் உருவாக்கு",
@@ -66,6 +68,25 @@
       "manualChoiceButton": "கையால் உருவாக்கு",
       "firstVisitHint": "தெரியவில்லைவா? நீங்கள்",
       "firstVisitHintHighlight": "பின்னர் இதனை மாற்றலாம்."
+    },
+    "whatYoullLearn": {
+      "title": "நீங்கள் என்ன கற்றுக்கொள்வீர்கள்"
+    },
+    "courseIncludes": {
+      "title": "இந்த Course-ல் உள்ளது:",
+      "modules": "மொட்யூல்கள்",
+      "pages": "பக்கங்கள்",
+      "resources": "வளங்கள்",
+      "assignments": "Assignments",
+      "quizzes": "Quizzes",
+      "h5pActivities": "H5P செயல்பாடுகள்",
+      "forums": "விவாதங்கள்",
+      "scormPackages": "SCORM packages",
+      "liveSessions": "நேரடி அமர்வுகள்"
+    },
+    "courseEnded": {
+      "title": "இந்த Course முடிந்துவிட்டது",
+      "description": "Course உள்ளடக்கத்தை இன்னும் பார்க்கலாம், ஆனால் மதிப்பெண் உள்ள செயல்பாடுகளுக்கான சமர்ப்பிப்புகள் இப்போது மூடப்பட்டுள்ளன."
     }
   },
   "studentSummary": {
@@ -377,7 +398,8 @@
       "gradeMethod": "கிரேடு மெத்தட்",
       "maxGrade": "மேக்ஸிமம் கிரேடு",
       "passingGrade": "பாஸிங் கிரேடு (%)",
-      "description": "டிஸ்கிரிப்ஷன்"
+      "description": "டிஸ்கிரிப்ஷன்",
+      "availabilityDate": "சமர்ப்பிப்புகளை அனுமதி தொடங்கும் தேதி"
     },
     "placeholders": {
       "name": "க்விஸ் பெயரை உள்ளிடவும்",
@@ -395,7 +417,12 @@
     "labels": {
       "enable": "எனேபிள்",
       "minutes": "நிமிடங்கள்",
-      "unlimited": "அன்லிமிட்டட்"
+      "unlimited": "அன்லிமிட்டட்",
+      "attempt": "முயற்சி",
+      "attempts": "முயற்சிகள்",
+      "noAvailabilityDate": "எப்போதும் கிடைக்கும்",
+      "noDueDate": "கடைசி தேதி குறிப்பிடப்படவில்லை",
+      "noTimeLimit": "வரம்பில்லை"
     },
     "buttons": {
       "cancel": "கேன்சல்",
@@ -419,7 +446,9 @@
       "dueDatePast": "டியூ டேட் கடந்த காலத்தில் இருக்க முடியாது",
       "invalidDate": "சரியான தேதியை உள்ளிடவும்",
       "availabilityAfterDue": "சமர்ப்பிக்க தொடங்கும் தேதி கடைசி தேதிக்கு முன்பு இருக்க வேண்டும்",
-      "dueDateBeforeAvailability": "கடைசி தேதி சமர்ப்பிக்க தொடங்கும் தேதிக்கு பின் இருக்க வேண்டும்"
+      "dueDateBeforeAvailability": "கடைசி தேதி சமர்ப்பிக்க தொடங்கும் தேதிக்கு பின் இருக்க வேண்டும்",
+      "availabilityPast": "சமர்ப்பிப்புகளை அனுமதி தொடங்கும் தேதி கடந்த தேதியாக இருக்க முடியாது",
+      "fillAllRequiredFields": "தயவுசெய்து தேவையான அனைத்து புலங்களையும் நிரப்பவும்"
     },
     "messages": {
       "createSuccess": "க்விஸ் வெற்றிகரமாக கிரியேட் செய்யப்பட்டது!",
@@ -493,7 +522,8 @@
       "enterPrompt": "தயவுசெய்து ஒரு பிராம்ப்ட் உள்ளிடவும்",
       "selectQuestion": "குறைந்தது ஒரு கேள்வி வகையையாவது தேர்ந்தெடுக்கவும்",
       "promptOverLimit": "க்விஸ் பிராம்ப்ட் {{limit}} கேரக்டர்களைத் தாண்டக்கூடாது",
-      "titleOverLimit": "க்விஸ் டைட்டில் {{limit}} கேரக்டர்களைத் தாண்டக்கூடாது"
+      "titleOverLimit": "க்விஸ் டைட்டில் {{limit}} கேரக்டர்களைத் தாண்டக்கூடாது",
+      "titleRequired": "க்விஸ் தலைப்பு அவசியம்"
     },
     "messages": {
       "noItems": "பேஜ்கள் அல்லது ரிசோர்ஸ்கள் எதுவும் இல்லை",
@@ -515,7 +545,8 @@
       "errorOccurred": "பிராம்ப்ட் உருவாக்கும் போது எரர் ஏற்பட்டது",
       "generationError": "ஜெனரேஷன் எரர்",
       "refresh": "பேஜை ரீஃப்ரெஷ் செய்",
-      "close": "மூடு"
+      "close": "மூடு",
+      "tokenUnavailable": "AI டோக்கன்கள் கிடைக்கவில்லை. தயவுசெய்து நிர்வாகியை தொடர்பு கொள்ளவும்."
     },
     "defaults": {
       "courseName": "கோர்ஸ்",
@@ -531,12 +562,19 @@
     "loader": {
       "loading": "லோட் ஆகிறது",
       "generating": "ஜெனரேட் ஆகிறது",
-      "creating": "கிரியேட் ஆகிறது"
+      "creating": "கிரியேட் ஆகிறது",
+      "submitting": "சமர்ப்பிக்கப்படுகிறது"
     },
     "pageLabel": "பக்கம்",
     "folderLabel": "கோப்புறை",
     "resourceLabel": "வளம்",
-    "urlLabel": "யுஆர்எல்"
+    "urlLabel": "யுஆர்எல்",
+    "error": {
+      "title": "பிழை",
+      "generationError": "உருவாக்க பிழை",
+      "refresh": "பக்கத்தை புதுப்பிக்கவும்",
+      "close": "மூடு"
+    }
   },
   "forumForm": {
     "title": {
@@ -548,7 +586,8 @@
       "description": "ஃபோரம் டிஸ்கிரிப்ஷன்",
       "additionalFile": "கூடுதல் ஃபைல்",
       "additionalFileDescription": "இந்த ஃபோரமிற்கு ஒரு ரெஃபரன்ஸ் மெட்டீரியல் அல்லது கூடுதல் ரிசோர்ஸை அப்லோட் செய்",
-      "currentFile": "தற்போதைய ஃபைல்"
+      "currentFile": "தற்போதைய ஃபைல்",
+      "dueDate": "கடைசி தேதி"
     },
     "placeholders": {
       "name": "ஃபோரம் பெயரை உள்ளிடவும்"
@@ -949,7 +988,8 @@
         "backToEditor": "மீண்டும் எடிட்டிற்கு",
         "nextButton": "அடுத்தது: பிராம்ப்ட் ரிவியூ",
         "toastIdeaRequired": "தயவுசெய்து உங்கள் ரூப்ரிக் ஐடியாவை விவரிக்கவும்.",
-        "loading": "பிராம்ப்ட் ஜெனரேட் ஆகிறது..."
+        "loading": "பிராம்ப்ட் ஜெனரேட் ஆகிறது...",
+        "cancel": "ரத்து"
       },
       "step2": {
         "title": "AI ரூப்ரிக் டெம்ப்ளேட்",
@@ -1060,7 +1100,8 @@
       "title": "இன்னும் ரூப்ரிக் மாதிரிகள் இல்லை",
       "description": "முதல் ரூப்ரிக் மாதிரியை உருவாக்கி தொடங்குங்கள்.",
       "createButton": "மாதிரியை உருவாக்கு"
-    }
+    },
+    "deleteConfirm": "இந்த அசைன்மென்ட்டிற்கு தற்போது ரூப்ரிக் உள்ளது. மதிப்பெண் அடிப்படையிலான மதிப்பீட்டுக்கு மாற்றினால் ரூப்ரிக் நீக்கப்படும். தொடர விரும்புகிறீர்களா?"
   },
   "notificationsModal": {
     "sidebarTitle": "வகைகள்",
@@ -1150,5 +1191,35 @@
     "generating": "உருவாக்கப்படுகிறது...",
     "qrActive": "QR செயலில்",
     "generateNewQr": "புதிய QR குறியீட்டை உருவாக்கவும்"
+  },
+  "activityCreationChoice": {
+    "quiz": {
+      "title": "ஒரு",
+      "titleHighlight": "Quiz",
+      "description": "உங்கள் Quiz-யை எப்படி உருவாக்க வேண்டும் என்பதைத் தேர்ந்தெடுக்கவும்.",
+      "manualDescription": "Quiz விவரங்களை அமைத்து, கேள்விகளை படிப்படியாக நீங்களே சேர்க்கவும்.",
+      "aiDescription": "AI பயன்படுத்தி, உங்கள் Course உள்ளடக்கத்திலிருந்து Quiz கேள்விகளை தானாக உருவாக்கலாம்."
+    },
+    "assignment": {
+      "title": "ஒரு",
+      "titleHighlight": "Assignment",
+      "description": "உங்கள் Assignment-ஐ எப்படி உருவாக்க வேண்டும் என்பதைத் தேர்ந்தெடுக்கவும்.",
+      "manualDescription": "Assignment விவரங்கள், வழிமுறைகள், மற்றும் settings-ஐ நீங்களே நிரப்பவும்.",
+      "aiDescription": "AI பயன்படுத்தி, உங்கள் Course பொருட்களிலிருந்து Assignment உள்ளடக்கம் மற்றும் வழிமுறைகளை உருவாக்கலாம்."
+    },
+    "forum": {
+      "title": "ஒரு",
+      "titleHighlight": "Discussion Forum",
+      "description": "உங்கள் Discussion Forum-ஐ எப்படி உருவாக்க வேண்டும் என்பதைத் தேர்ந்தெடுக்கவும்.",
+      "manualDescription": "Forum விவரங்கள் மற்றும் discussion prompts-ஐ நீங்களே அமைக்கவும்.",
+      "aiDescription": "AI பயன்படுத்தி, உங்கள் Course உள்ளடக்கத்திலிருந்து forum topics மற்றும் discussion prompts-ஐ உருவாக்கலாம்."
+    },
+    "manualTitle": "கைமுறையாக உருவாக்கு",
+    "aiTitleBefore": "இதுடன் உருவாக்கு",
+    "aiTitleHighlight": "AI",
+    "aiRecommended": "பரிந்துரைக்கப்பட்டது",
+    "pickMethod": "ஒரு முறையைத் தேர்ந்தெடுக்கவும்",
+    "hint": "நிச்சயமில்லை? நீங்கள்",
+    "hintHighlight": "இதைக் பின்னர் மாற்றலாம்."
   }
 }

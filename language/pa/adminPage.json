@@ -62,6 +62,20 @@
       "total_enrollments": "ਕੁੱਲ ਦਾਖ਼ਲੇ",
       "completed_courses": "ਮੁਕੰਮਲ ਕੋਰਸ",
       "pending_completions": "ਪੂਰਨ ਹੋਣ ਬਾਕੀ"
+    },
+    "recentUsers": {
+      "title": "ਹਾਲੀਆ ਪਲੇਟਫਾਰਮ ਵਰਤੋਂ — {{name}}",
+      "subtitle": "ਇਸ ਟੈਨੈਂਟ ਨੂੰ ਕਿਸ ਨੇ ਵਰਤਿਆ ਅਤੇ ਪਲੇਟਫਾਰਮ 'ਤੇ ਉਹਨਾਂ ਨੇ ਕੀ ਕੀਤਾ",
+      "lastAccess": "ਆਖਰੀ ਐਕਸੈੱਸ: {{time}}",
+      "activityCount": "ਕਾਰਵਾਈਆਂ",
+      "noLogs": "ਇਸ ਸਨੈਪਸ਼ਾਟ ਵਿੱਚ ਕੋਈ ਪਲੇਟਫਾਰਮ ਕਾਰਵਾਈ ਨਹੀਂ",
+      "noUsers": "ਇਸ ਟੈਨੈਂਟ ਲਈ ਹਾਲੀਆ ਯੂਜ਼ਰ ਨਹੀਂ ਹਨ",
+      "systemEventsHidden": "{{count}} ਸਿਸਟਮ ਨੋਟੀਫਿਕੇਸ਼ਨ ਇਵੈਂਟ ਛੁਪਾਏ ਗਏ ਹਨ",
+      "origin": {
+        "web": "ਵੈੱਬ",
+        "ws": "ਏਪੀਆਈ",
+        "cli": "ਸਿਸਟਮ"
+      }
     }
   }
 }

@@ -267,6 +267,11 @@
     "actionBlockedShort": "প্রিভিউ মোডে পাওয়া যাবে না",
     "closeConfirmTitle": "প্রিভিউ মোড থেকে বেরিয়ে আসবেন?",
     "closeConfirmMessage": "আপনি কি থিম প্রিভিউ থেকে বের হতে চান?",
-    "closeConfirmContinue": "প্রিভিউ থেকে বেরিয়ে যান"
+    "closeConfirmContinue": "প্রিভিউ থেকে বেরিয়ে যান",
+    "titleShort": "প্রিভিউ",
+    "hideBar": "প্রিভিউ বার লুকান",
+    "showBar": "প্রিভিউ বার দেখান",
+    "showBarAction": "দেখান",
+    "dragHandle": "সরাতে টানুন"
   }
 }

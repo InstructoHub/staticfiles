@@ -18,7 +18,8 @@
     "activityCompletion": "ਐਕਟੀਵਿਟੀ ਕੰਪਲੀਸ਼ਨ",
     "certificate": "ਸਰਟੀਫਿਕੇਟ",
     "organize": "ਆਰਗੇਨਾਈਜ਼ ਕਰੋ",
-    "gradeAssignment": "ਗਰੇਡ ਅਸਾਈਨਮੈਂਟ"
+    "gradeAssignment": "ਗਰੇਡ ਅਸਾਈਨਮੈਂਟ",
+    "courseComplete": "ਤੁਸੀਂ ਇਹ ਕੋਰਸ ਪੂਰਾ ਕਰ ਲਿਆ ਹੈ!"
   },
   "participants": {
     "title": "ਪਾਰਟੀਸੀਪੈਂਟਸ",
@@ -96,8 +97,22 @@
     "messages": "ਮੈਸੇਜ",
     "viewStudentProgressReport": "ਸਟੂਡੈਂਟ ਪ੍ਰੋਗਰੈਸ ਰਿਪੋਰਟ ਵੇਖੋ",
     "you": "ਤੁਸੀਂ",
-    "usernameSearchDisclaimer": "ਸੂਚੀ ਵੇਖਣ ਲਈ ਪੂਰਾ ਯੂਜ਼ਰਨੇਮ ਦਾਖਲ ਕਰੋ।",
-    "spaceNotAllowed": "ਖੋਜ ਵਿੱਚ ਸਪੇਸ ਦੀ ਇਜਾਜ਼ਤ ਨਹੀਂ ਹੈ।"
+    "usernameSearchDisclaimer": "ਸੂਚੀ ਵੇਖਣ ਲਈ ਪੂਰਾ ਯੂਜ਼ਰਨੇਮ ਦਾਖਲ ਕਰੋ",
+    "spaceNotAllowed": "ਖੋਜ ਵਿੱਚ ਸਪੇਸ ਦੀ ਇਜਾਜ਼ਤ ਨਹੀਂ ਹੈ",
+    "messageGroup": {
+      "create": "ਮੈਸੇਜ ਗਰੁੱਪ ਬਣਾਓ",
+      "createTitle": "ਮੈਸੇਜ ਗਰੁੱਪ ਬਣਾਓ",
+      "nameLabel": "ਗਰੁੱਪ ਨਾਮ",
+      "namePlaceholder": "ਗਰੁੱਪ ਨਾਮ ਦਾਖਲ ਕਰੋ",
+      "selectMembers": "ਹਿਸੇਦਾਰ ਜੋੜੋ",
+      "searchPlaceholder": "ਹਿਸੇਦਾਰ ਖੋਜੋ...",
+      "noMembersFound": "ਜੋੜਨ ਲਈ ਕੋਈ ਹਿਸੇਦਾਰ ਨਹੀਂ ਮਿਲਿਆ",
+      "selectedCount": "{{count}} ਚੁਣੇ ਗਏ",
+      "creating": "ਬਣਾਇਆ ਜਾ ਰਿਹਾ ਹੈ...",
+      "createSuccess": "ਮੈਸੇਜ ਗਰੁੱਪ ਸਫਲਤਾਪੂਰਵਕ ਬਣ ਗਿਆ ਹੈ",
+      "createFailed": "ਮੈਸੇਜ ਗਰੁੱਪ ਬਣਾਉਣ ਵਿੱਚ ਅਸਫਲ",
+      "loadFailed": "ਹਿਸੇਦਾਰ ਲੋਡ ਕਰਨ ਵਿੱਚ ਅਸਫਲ"
+    }
   },
   "buttons": {
     "continueeLearning": "ਲਰਨਿੰਗ ਜਾਰੀ ਰੱਖੋ",
@@ -117,7 +132,8 @@
     "view": "ਵੇਖੋ",
     "download": "ਡਾਊਨਲੋਡ",
     "upload": "ਅਪਲੋਡ",
-    "enrollSelected": "ਚੁਣੇ ਹੋਏ ਭਰਤੀ ਕਰੋ"
+    "enrollSelected": "ਚੁਣੇ ਹੋਏ ਭਰਤੀ ਕਰੋ",
+    "retry": "ਦੁਬਾਰਾ ਕੋਸ਼ਿਸ਼ ਕਰੋ"
   },
   "actions": {
     "create": "ਕ੍ਰਿਏਟ",

@@ -62,7 +62,9 @@
         "countryInvalid": "कृपया एक वैध country चुनें",
         "usernameTaken": "यह Username पहले से लिया जा चुका है",
         "emailTaken": "यह Email पहले से रजिस्टर है"
-      }
+      },
+      "dateNotInPast": "डेटा पास्ट में नहीं हो सकती",
+      "startDateInPast": "स्टार्ट डेट पास्ट में नहीं हो सकती"
     },
     "hints": {
       "characterLimit": "मैक्सिमम {{max}} कैरेक्टर्स"
@@ -390,6 +392,7 @@
   },
   "validation": {
     "availabilityAfterDue": "Allow Submissions From को Due Date से पहले होना चाहिए",
-    "dueDateBeforeAvailability": "Due Date को Allow Submissions From तारीख़ के बाद होना चाहिए"
+    "dueDateBeforeAvailability": "Due Date को Allow Submissions From तारीख़ के बाद होना चाहिए",
+    "fillAllRequiredFields": "कृपया सभी जरूरी फील्ड्स भरें"
   }
 }

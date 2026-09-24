@@ -35,6 +35,15 @@
     "errorGeneric": "કંઈક ખોટું થયું. કૃપા કરીને પેજને રિફ્રેશ કરો.",
     "promptGenerationFailed": "પ્રોમ્પ્ટ જનરેટ કરી શક્યા નથી. કૃપા કરીને તમારું પોતાનું લખો.",
     "errorOccurred": "એક ભૂલ થઈ છે. કૃપા કરીને તમારું પોતાનું પ્રોમ્પ્ટ લખો.",
-    "pageTitle": "લેસન પ્લાન બનાવો"
+    "pageTitle": "લેસન પ્લાન બનાવો",
+    "activityDateNotInPast": "Activity તારીખ આજની અથવા ભવિષ્યની હોવી જોઈએ",
+    "previewAndPrint": "Preview & Print",
+    "printLessonPlan": "Lesson Plan Print કરો",
+    "print": "Print",
+    "backToEdit": "Edit પર પાછા જાઓ"
+  },
+  "templateT1": {
+    "error": "Error",
+    "templateNotFound": "Template \"{{templateId}}\" મળ્યું નથી."
   }
 }

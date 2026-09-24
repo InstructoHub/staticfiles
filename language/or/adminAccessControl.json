@@ -54,14 +54,30 @@
       "createdAtHeader": "ତିଥିରେ ସୃଷ୍ଟି",
       "actionsHeader": "କାର୍ଯ୍ୟ",
       "noModulesFound": "କୌଣସି ମଡ୍ୟୁଲ୍ ମିଳିଲା ନାହିଁ",
-      "slNoHeader": "କ୍ରମିକ"
+      "slNoHeader": "କ୍ରମିକ",
+      "moduleTypeHeader": "ମଡ୍ୟୁଲ ପ୍ରକାର"
     },
     "form": {
       "moduleNameLabel": "ମଡ୍ୟୁଲ୍ ନାମ *",
       "moduleDescriptionLabel": "ମଡ୍ୟୁଲ୍ ବିବରଣୀ",
       "saveChangesButton": "ପରିବର୍ତ୍ତନ ସଂରକ୍ଷଣ କରନ୍ତୁ",
       "savingButton": "ସଂରକ୍ଷଣ କରୁଛି...",
-      "cancelButton": "ବାତିଲ୍ କରନ୍ତୁ"
+      "cancelButton": "ବାତିଲ୍ କରନ୍ତୁ",
+      "moduleTypeLabel": "ମଡ୍ୟୁଲ ପ୍ରକାର *",
+      "moduleTypePlaceholder": "ମଡ୍ୟୁଲ ପ୍ରକାର ଚୟନ କରନ୍ତୁ",
+      "courseTypeLabel": "କୋର୍ସ ପୃଷ୍ଠା ଅଞ୍ଚଳ *",
+      "courseTypePlaceholder": "କୋର୍ସ ପୃଷ୍ଠା ଅଞ୍ଚଳ ଚୟନ କରନ୍ତୁ",
+      "moduleTypes": {
+        "adminMenu": "ଏଡମିନ୍ ମେନୁ",
+        "dashboard": "ଡ୍ୟାଶବୋର୍ଡ",
+        "leftMenu": "ବାମ ପାର୍ଶ୍ୱ ବାର୍",
+        "course": "କୋର୍ସ ପୃଷ୍ଠା",
+        "courseMain": "କୋର୍ସର ମୁଖ୍ୟ କଣ୍ଟେଣ୍ଟ",
+        "courseRightbar": "କୋର୍ସ ଡାହାଣ ପାର୍ଶ୍ୱ ବାର୍"
+      },
+      "createButton": "ମଡ୍ୟୁଲ ସୃଷ୍ଟି କରନ୍ତୁ",
+      "creatingButton": "ସୃଷ୍ଟି ହେଉଛି...",
+      "editTitle": "ମଡ୍ୟୁଲ ସମ୍ପାଦନ କରନ୍ତୁ"
     },
     "deleteModal": {
       "title": "ମିଳନ ବିଲୋପ କରନ୍ତୁ",
@@ -83,7 +99,9 @@
       "nameRequired": "ମଡ୍ୟୁଲ୍ ନାମ ଆବଶ୍ୟକ",
       "nameMinLength": "ମଡ୍ୟୁଲ୍ ନାମର ଲମ୍ବାଇ କମ୍ ଦୁଇଟି ଅକ୍ଷର ହେବା ଉଚିତ",
       "nameMaxLength": "ମଡ୍ୟୁଲ୍ ନାମ 100 ଅକ୍ଷରରୁ ଅଧିକ ହେବା ଉଚିତ ନୁହେଁ",
-      "descriptionMaxLength": "ବିବରଣୀ 500 ଅକ୍ଷରରୁ ଅଧିକ ହେବା ଉଚିତ ନୁହେଁ"
+      "descriptionMaxLength": "ବିବରଣୀ 500 ଅକ୍ଷରରୁ ଅଧିକ ହେବା ଉଚିତ ନୁହେଁ",
+      "moduleTypeRequired": "ମଡ୍ୟୁଲ ପ୍ରକାର ଆବଶ୍ୟକ",
+      "courseTypeRequired": "କୋର୍ସ ପୃଷ୍ଠା ଅଞ୍ଚଳ ଆବଶ୍ୟକ"
     }
   },
   "pageHeader": {
@@ -235,7 +253,10 @@
     "noModulesForRole": "ଏହି ଭୂମିକା ପାଇଁ କୌଣସି ମଡ୍ୟୁଲ୍ ମିଳୁନାହିଁ",
     "teacher": "ଶିକ୍ଷକ",
     "toggleDisabled": "ଏହି ଅନୁମତି ତାତ୍କାଳିକ ଭାବରେ ଉପଲବ୍ଧ ନୁହେଁ",
-    "toggleAlwaysOn": "ଏହି ଟଗଲ୍ ବନ୍ଦ କରିପାରିବେ ନାହିଁ"
+    "toggleAlwaysOn": "ଏହି ଟଗଲ୍ ବନ୍ଦ କରିପାରିବେ ନାହିଁ",
+    "defaultRolesGroup": "ଡିଫଲ୍ଟ ଭୂମିକା",
+    "customRolesGroup": "କଷ୍ଟମ୍ ଭୂମିକା",
+    "customRoleTag": "କଷ୍ଟମ୍"
   },
   "smtpConfiguration": {
     "title": "SMTP କନଫିଗରେସନ୍",
@@ -313,7 +334,9 @@
     "sections": {
       "learningActivities": {
         "title": "ଶିକ୍ଷା କାର୍ଯ୍ୟକଳାପ",
-        "description": "କୋର୍ସ-ସ୍ତରର କାର୍ଯ୍ୟକଳାପ ପାଇଁ ଦେଖିବା, ସୃଷ୍ଟି କରିବା, ସଂପାଦନା କରିବା ଏବଂ ମିଟାଇବା ଅଧିକାର ସଂକଳ୍ପନା କରନ୍ତୁ"
+        "description": "କୋର୍ସ-ସ୍ତରର କାର୍ଯ୍ୟକଳାପ ପାଇଁ ଦେଖିବା, ସୃଷ୍ଟି କରିବା, ସଂପାଦନା କରିବା ଏବଂ ମିଟାଇବା ଅଧିକାର ସଂକଳ୍ପନା କରନ୍ତୁ",
+        "manageActionsNote": "ସୃଷ୍ଟି, ସମ୍ପାଦନ ଏବଂ ଡିଲିଟ୍ କରନ୍ତୁ କୋର୍ସର ସମସ୍ତ ଆକ୍ଟିଭିଟିରେ ଲାଗୁ ହୁଏ — ଏହା ଗୋଟିଏ କୋର୍ସ-ପ୍ରସାରିତ ଅଧିକାର",
+        "courseModulesNote": "କୋର୍ସ ଆଉଟଲାଇନ୍ ଏବଂ ସେକ୍ସନଗୁଡିକ ଦେଖନ୍ତୁ ଅନ୍ୟ ଆକ୍ଟିଭିଟି ଅଧିକାରଗୁଡିକ କେବଳ ଏହା ଚାଲୁ ଥିବାବେଳେ ଲାଗୁ ହୁଏ"
       },
       "tools": {
         "title": "ଉପକରଣ",
@@ -325,7 +348,10 @@
       "read": "ଦେଖନ୍ତୁ",
       "edit": "ସଂପାଦନା କରନ୍ତୁ",
       "delete": "ମିଟାଇବା",
-      "enabledCount": "ସକ୍ଷମ"
+      "enabledCount": "ସକ୍ଷମ",
+      "access": "ଆକ୍ସେସ୍",
+      "manage": "ମ୍ୟାନେଜ୍",
+      "manageAll": "ସମସ୍ତ ଆକ୍ଟିଭିଟି ମ୍ୟାନେଜ୍ କରନ୍ତୁ"
     },
     "table": {
       "moduleNameHeader": "ମଡ୍ୟୁଲ ନାମ",

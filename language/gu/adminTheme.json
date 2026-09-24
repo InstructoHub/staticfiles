@@ -267,6 +267,11 @@
     "actionBlockedShort": "પ્રિવ્યુ મોડમાં ઉપલબ્ધ નથી",
     "closeConfirmTitle": "પ્રિવ્યુ મોડ છોડવો?",
     "closeConfirmMessage": "શું તમે ખરેખર થિમ પ્રિવ્યુ છોડવા માંગો છો?",
-    "closeConfirmContinue": "પ્રિવ્યુ છોડો"
+    "closeConfirmContinue": "પ્રિવ્યુ છોડો",
+    "titleShort": "પૂર્વદર્શન",
+    "hideBar": "પૂર્વદર્શન બાર છુપાવો",
+    "showBar": "પૂર્વદર્શન બાર બતાવો",
+    "showBarAction": "બતાવો",
+    "dragHandle": "ખસેડવા માટે ડ્રેગ કરો"
   }
 }

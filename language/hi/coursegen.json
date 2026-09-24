@@ -42,7 +42,9 @@
     "tooltips": {
       "uploadInfo": "आप PDF, HTML, या MP4 फाइल्स अपलोड कर सकते हैं",
       "fileSizeInfo": "मैक्सिमम टोटल फाइल साइज 1 GB है"
-    }
+    },
+    "uploadAria": "फ़ाइलें अपलोड करें",
+    "deleteFile": "फ़ाइल हटाएँ"
   },
   "createModules": {
     "title": "मॉड्यूल्स की संख्या सिलेक्ट करें",
@@ -56,7 +58,13 @@
       "moduleInfo": "आप 1 से 8 के बीच मॉड्यूल्स क्रिएट कर सकते हैं"
     },
     "promptLabel": "प्रारंभिक प्रॉम्प्ट:",
-    "promptPlaceholder": "मॉड्यूल बनाने को गाइड करने के लिए एक प्रारंभिक प्रॉम्प्ट दें (वैकल्पिक)"
+    "promptPlaceholder": "मॉड्यूल बनाने को गाइड करने के लिए एक प्रारंभिक प्रॉम्प्ट दें (वैकल्पिक)",
+    "loading": "मॉड्यूल लोड हो रहे हैं...",
+    "decrease": "मॉड्यूल कम करें",
+    "decreaseAria": "मॉड्यूल की संख्या कम करें",
+    "increase": "मॉड्यूल बढ़ाएँ",
+    "increaseAria": "मॉड्यूल की संख्या बढ़ाएँ",
+    "selectCountAria": "मॉड्यूल की संख्या चुनें"
   },
   "defineStructure": {
     "quickTips": "क्विक टिप्स",
@@ -94,7 +102,10 @@
     "tooltips": {
       "dragModules": "मॉड्यूल्स को रिऑर्डर करने के लिए क्लिक और ड्रैग करें",
       "dragObjects": "राइट पैनल से लर्निंग ऑब्जेक्ट्स को मॉड्यूल्स में ड्रैग करें"
-    }
+    },
+    "definingStructure": "स्ट्रक्चर सेट किया जा रहा है",
+    "atLeastOneModule": "आगे बढ़ने से पहले कम से कम एक मॉड्यूल जोड़ें।",
+    "resetFailed": "स्टेट रीसेट नहीं हो पाया"
   },
   "reviewPrompts": {
     "title": "प्रॉम्प्ट्स रिव्यू करें",
@@ -132,7 +143,10 @@
     },
     "tooltips": {
       "editInfo": "मॉड्यूल के नाम और डिस्क्रिप्शन को एडिट करने के लिए क्लिक करें"
-    }
+    },
+    "dragToReorder": "क्रम बदलने के लिए ड्रैग करें",
+    "delete": "डिलीट",
+    "generatingPrompts": "प्रॉम्प्ट्स जनरेट हो रहे हैं"
   },
   "courseReview": {
     "title": "कोर्स का रिव्यू",
@@ -163,11 +177,18 @@
     "regeneratePrompt": {
       "title": "कंटेंट रीजनरेट करें",
       "submitButton": "सबमिट",
-      "cancelButton": "कैंसिल"
+      "cancelButton": "कैंसिल",
+      "placeholder": "अपना टेक्स्ट यहाँ डालें...",
+      "regenerating": "फिर से जनरेट हो रहा है..."
     },
     "tooltips": {
       "regenerateInfo": "इस कंटेंट को एक नए प्रॉम्प्ट के साथ रीजनरेट करें"
-    }
+    },
+    "creatingCourse": "कोर्स बनाया जा रहा है",
+    "generatingPage": "पेज जनरेट हो रहा है...",
+    "generatingContent": "कंटेंट जनरेट हो रहा है",
+    "regenerateContent": "कंटेंट फिर से जनरेट करें",
+    "saving": "सेव हो रहा है..."
   },
   "commonMessages": {
     "success": {

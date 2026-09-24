@@ -74,7 +74,10 @@
       "selfEnrollment": "સ્વ એનરોલમેન્ટ",
       "manualEnrollment": "મેન્યુઅલ એનરોલમેન્ટ",
       "guestAccess": "અતિથિ એક્સેસ",
-      "courseVisibility": "કોર્સ દેખાવ"
+      "courseVisibility": "કોર્સ દેખાવ",
+      "aiCourseOverview": "એઆઈ કોર્સ ઓવરવ્યૂ",
+      "loadFromAi": "એઆઈમાંથી કોર્સ ઓવરવ્યૂ લોડ કરો",
+      "autoUpdateFromAi": "એઆઈમાંથી ઑટો અપડેટ કરો"
     },
     "placeholders": {
       "courseName": "સંપૂર્ણ કોર્સ નામ દાખલ કરો",
@@ -131,6 +134,11 @@
       "hidden": "છુપાયું",
       "visibleDescription": "વિદ્યાર્થીઓ આ કોર્સ શોધી અને એક્સેસ કરી શકશે",
       "hiddenDescription": "તમે તેને દેખાવ બનાવ્યા વગર આ કોર્સ વિદ્યાર્થીઓ માટે છુપાયેલું રહેશે"
+    },
+    "descriptions": {
+      "loadFromAi": "જ્યારે કોર્સ એઆઈ ચાલુ હોય, ત્યારે Course Overview એક વાર જનરેટ કરીને બધા યુઝર્સને બતાવો.",
+      "autoUpdateFromAi": "જ્યારે મોડ્યુલ્સ બદલાય, ત્યારે એઆઈ Course Overview આપમેળે ફરી જનરેટ કરીને અપડેટ કરો.",
+      "blankDescriptionAi": "જો Description ખાલી રાખવામાં આવે અને આ કોર્સ માટે એઆઈ ચાલુ હોય, તો એઆઈ આપમેળે Course Overview (ટૂંકું વર્ણન અને learning outcomes) જનરેટ કરશે."
     }
   },
   "modals": {

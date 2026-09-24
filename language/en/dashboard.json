@@ -598,7 +598,8 @@
     "enrollmentType": {
       "enrolled": "Enrolled",
       "locked": "Locked",
-      "selfEnroll": "Self-Enroll"
+      "selfEnroll": "Self-Enroll",
+      "expired": "Expired"
     },
     "emptyState": {
       "title": "No Recommended Courses",
@@ -762,7 +763,8 @@
     "status": {
       "graded": "Graded",
       "submitted": "Submitted",
-      "notStarted": "Not Started"
+      "notStarted": "Not Started",
+      "new": "new"
     },
     "dueDate": {
       "noDueDate": "No Due Date"
@@ -886,6 +888,11 @@
     },
     "builder": {
       "totalPointsHint": "Edit to redistribute all criteria proportionally"
+    }
+  },
+  "assignment": {
+    "status": {
+      "new": "new"
     }
   }
 }

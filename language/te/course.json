@@ -18,7 +18,8 @@
     "activityCompletion": "చర్య పూర్తి",
     "certificate": "సర్టిఫికేట్",
     "organize": "ఒకటిగా చేయండి",
-    "gradeAssignment": "అసైన్‌మెంట్ గ్రేడ్ చేయండి"
+    "gradeAssignment": "అసైన్‌మెంట్ గ్రేడ్ చేయండి",
+    "courseComplete": "మీరు ఈ కోర్సును పూర్తి చేశారు!"
   },
   "participants": {
     "title": "భాగస్వాములు",
@@ -97,7 +98,21 @@
     "viewStudentProgressReport": "విద్యార్థి పురోగతి నివేదికను చూడండి",
     "you": "మీరు",
     "usernameSearchDisclaimer": "జాబితాను చూడటానికి పూర్తి వినియోగదారు పేరును నమోదు చేయండి.",
-    "spaceNotAllowed": "శోధనలో స్పేస్ అనుమతించబడదు."
+    "spaceNotAllowed": "శోధనలో స్పేస్ అనుమతించబడదు.",
+    "messageGroup": {
+      "create": "మెసేజ్ గ్రూప్ సృష్టించండి",
+      "createTitle": "మెసేజ్ గ్రూప్ సృష్టించండి",
+      "nameLabel": "గ్రూప్ పేరు",
+      "namePlaceholder": "గ్రూప్ పేరు నమోదు చేయండి",
+      "selectMembers": "పార్టిసిపెంట్స్‌ను జోడించండి",
+      "searchPlaceholder": "పార్టిసిపెంట్స్‌ను వెతకండి...",
+      "noMembersFound": "జోడించడానికి పార్టిసిపెంట్స్ కనబడలేదు.",
+      "selectedCount": "{{count}} ఎంపికైంది",
+      "creating": "సృష్టిస్తోంది...",
+      "createSuccess": "మెసేజ్ గ్రూప్ విజయవంతంగా సృష్టించబడింది.",
+      "createFailed": "మెసేజ్ గ్రూప్ సృష్టించడం విఫలమైంది.",
+      "loadFailed": "పార్టిసిపెంట్స్‌ను లోడ్ చేయడం విఫలమైంది."
+    }
   },
   "buttons": {
     "continueeLearning": "కొనసాగించు లెర్నింగ్",
@@ -117,7 +132,8 @@
     "view": "చూడండి",
     "download": "డౌన్‌లోడ్",
     "upload": "అప్‌లోడ్",
-    "enrollSelected": "ఎంచుకున్నది నమోదు చేయండి"
+    "enrollSelected": "ఎంచుకున్నది నమోదు చేయండి",
+    "retry": "మళ్లీ ప్రయత్నించండి"
   },
   "actions": {
     "create": "క్రియేట్",

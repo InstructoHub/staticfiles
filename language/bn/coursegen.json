@@ -45,7 +45,9 @@
     "tooltips": {
       "uploadInfo": "আপনি PDF, HTML, বা MP4 ফাইল আপলোড করতে পারেন",
       "fileSizeInfo": "সর্বাধিক মোট ফাইল আকার ১ জিবি"
-    }
+    },
+    "uploadAria": "ফাইল আপলোড করুন",
+    "deleteFile": "ফাইল মুছুন"
   },
   "createModules": {
     "title": "মডিউলের সংখ্যা নির্বাচন করুন",
@@ -59,7 +61,13 @@
       "moduleInfo": "আপনি ১ থেকে ৮ মডিউল তৈরি করতে পারেন"
     },
     "promptLabel": "প্রাথমিক প্রম্পট:",
-    "promptPlaceholder": "মডিউল তৈরিতে গাইড করার জন্য একটি প্রাথমিক প্রম্পট দিন (ঐচ্ছিক)"
+    "promptPlaceholder": "মডিউল তৈরিতে গাইড করার জন্য একটি প্রাথমিক প্রম্পট দিন (ঐচ্ছিক)",
+    "loading": "মডিউল লোড হচ্ছে...",
+    "decrease": "মডিউল কমান",
+    "decreaseAria": "মডিউলের সংখ্যা কমান",
+    "increase": "মডিউল বাড়ান",
+    "increaseAria": "মডিউলের সংখ্যা বাড়ান",
+    "selectCountAria": "মডিউলের সংখ্যা নির্বাচন করুন"
   },
   "defineStructure": {
     "quickTips": "দ্রুত টিপস",
@@ -97,7 +105,10 @@
     "tooltips": {
       "dragModules": "মডিউলগুলি পুনর্বিন্যাস করতে ক্লিক করুন এবং টেনে আনুন",
       "dragObjects": "ডান প্যানেল থেকে লার্নিং অবজেক্টগুলো মডিউলে ড্র্যাগ করুন"
-    }
+    },
+    "definingStructure": "স্ট্রাকচার নির্ধারণ করা হচ্ছে",
+    "atLeastOneModule": "চালিয়ে যাওয়ার আগে অন্তত একটি মডিউল যোগ করুন",
+    "resetFailed": "স্টেট রিসেট করা যায়নি"
   },
   "reviewPrompts": {
     "title": "রিভিউ প্রম্পটস",
@@ -135,7 +146,10 @@
     },
     "tooltips": {
       "editInfo": "মডিউল নাম এবং বর্ণনা সম্পাদনা করতে ক্লিক করুন"
-    }
+    },
+    "dragToReorder": "আনতে-সাজাতে টেনে নিন",
+    "delete": "মুছুন",
+    "generatingPrompts": "প্রম্পট তৈরি হচ্ছে"
   },
   "courseReview": {
     "title": "কোর্স রিভিউ",
@@ -166,11 +180,18 @@
     "regeneratePrompt": {
       "title": "বিষয় পুনরায় তৈরি করুন",
       "submitButton": "জমা দিন",
-      "cancelButton": "বাতিল করুন"
+      "cancelButton": "বাতিল করুন",
+      "placeholder": "এখানে আপনার টেক্সট লিখুন...",
+      "regenerating": "আবার তৈরি হচ্ছে..."
     },
     "tooltips": {
       "regenerateInfo": "নতুন প্রম্পট দিয়ে এই বিষয়টি পুনরায় তৈরি করুন"
-    }
+    },
+    "creatingCourse": "কোর্স তৈরি হচ্ছে",
+    "generatingPage": "পেজ তৈরি হচ্ছে...",
+    "generatingContent": "কনটেন্ট তৈরি হচ্ছে",
+    "regenerateContent": "কনটেন্ট আবার তৈরি করুন",
+    "saving": "সেভ হচ্ছে..."
   },
   "commonMessages": {
     "success": {

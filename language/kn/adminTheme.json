@@ -267,6 +267,11 @@
     "actionBlockedShort": "ಪ್ರಿವ್ಯೂ ಮೋಡ್‌ನಲ್ಲಿ ಲಭ್ಯವಿಲ್ಲ",
     "closeConfirmTitle": "ಪ್ರಿವ್ಯೂ ಮೋಡ್‌ನಿಂದ ಹೊರಹೋಗಬೇಕಾ?",
     "closeConfirmMessage": "ನೀವು ಖಚಿತವಾಗಿ ಥೀಮ್ ಪ್ರಿವ್ಯೂ ಅನ್ನು ನಿರ್ಗಮಿಸಬಯಸುವಿರಾ?",
-    "closeConfirmContinue": "ಪ್ರಿವ್ಯೂ ನಿಂದ ಹೊರಹೋಗಿ"
+    "closeConfirmContinue": "ಪ್ರಿವ್ಯೂ ನಿಂದ ಹೊರಹೋಗಿ",
+    "titleShort": "ಪೂರ್ವಾವಲೋಕನ",
+    "hideBar": "ಪೂರ್ವಾವಲೋಕನ ಬಾರ್ ಮರೆಮಾಡಿ",
+    "showBar": "ಪೂರ್ವಾವಲೋಕನ ಬಾರ್ ತೋರಿಸಿ",
+    "showBarAction": "ತೋರಿಸಿ",
+    "dragHandle": "ಸರಿಸಲು ಎಳೆಯಿರಿ"
   }
 }

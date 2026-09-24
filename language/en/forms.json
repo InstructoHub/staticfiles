@@ -1,7 +1,8 @@
 {
   "validation": {
     "availabilityAfterDue": "Allow Submissions From must be before Due Date",
-    "dueDateBeforeAvailability": "Due date must be after Allow Submissions From date"
+    "dueDateBeforeAvailability": "Due date must be after Allow Submissions From date",
+    "fillAllRequiredFields": "Please fill all required fields"
   },
   "forms": {
     "validation": {

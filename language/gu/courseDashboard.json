@@ -43,7 +43,9 @@
     },
     "ai": {
       "confirmEnableAIForCourse": "શું તમે ખાતરી કરો છો કે આ કોપસ માટે AI સક્રિય કરવું છે?",
-      "confirmDisableAIForCourse": "શું તમે ખાતરી કરો છો કે આ કોપસ માટે AI નિષ્ક્રિય કરવું છે?"
+      "confirmDisableAIForCourse": "શું તમે ખાતરી કરો છો કે આ કોપસ માટે AI નિષ્ક્રિય કરવું છે?",
+      "disablingAIForCourse": "બંધ કરી રહ્યા છીએ...",
+      "enablingAIForCourse": "ચાલુ કરી રહ્યા છીએ..."
     },
     "aiCta": {
       "buildTitle": "એઆઇ સાથે બનાવો",
@@ -66,6 +68,25 @@
       "manualChoiceButton": "મેન્યુઅલી બનાવો",
       "firstVisitHint": "શંકા છે? તમે",
       "firstVisitHintHighlight": "આને વાગમાં બદલી શકો છો."
+    },
+    "whatYoullLearn": {
+      "title": "તમે શું શીખશો"
+    },
+    "courseIncludes": {
+      "title": "આ કોર્સમાં સામેલ છે:",
+      "modules": "મોડ્યુલ્સ",
+      "pages": "પેજિસ",
+      "resources": "રીસોર્સિસ",
+      "assignments": "અસાઇનમેન્ટ્સ",
+      "quizzes": "ક્વિઝિસ",
+      "h5pActivities": "H5P પ્રવૃત્તિઓ",
+      "forums": "ચર્ચાઓ",
+      "scormPackages": "SCORM પેકેજિસ",
+      "liveSessions": "લાઇવ સેશન્સ"
+    },
+    "courseEnded": {
+      "title": "આ કોર્સ પૂરો થઈ ગયો છે",
+      "description": "તમે હજી પણ કોર્સનું કન્ટેન્ટ જોઈ શકો છો, પણ ગ્રેડેડ પ્રવૃત્તિઓ માટે સબમિશન બંધ છે."
     }
   },
   "studentSummary": {
@@ -373,7 +394,8 @@
       "gradeMethod": "ગ્રેડ પદ્ધતિ",
       "maxGrade": "મહત્તમ ગ્રેડ",
       "passingGrade": "પાસિંગ ગ્રેડ (%)",
-      "description": "વર્ણન"
+      "description": "વર્ણન",
+      "availabilityDate": "આ તારીખથી સબમિશન મંજૂર કરો"
     },
     "placeholders": {
       "name": "ક્વિઝનું નામ દાખલ કરો",
@@ -391,7 +413,12 @@
     "labels": {
       "enable": "સક્રિય કરો",
       "minutes": "મિનિટ",
-      "unlimited": "અસીમિત"
+      "unlimited": "અસીમિત",
+      "attempt": "પ્રયાસ",
+      "attempts": "પ્રયાસો",
+      "noAvailabilityDate": "હંમેશા ઉપલબ્ધ",
+      "noDueDate": "કોઈ અંતિમ તારીખ નક્કી નથી",
+      "noTimeLimit": "અસીમિત"
     },
     "buttons": {
       "cancel": "રદ કરો",
@@ -415,7 +442,9 @@
       "dueDatePast": "અવધિ તારીખ ભૂતકાળમાં નથી હોઈ શકે",
       "invalidDate": "કૃપા કરીને માન્ય તારીખ દાખલ કરો",
       "availabilityAfterDue": "સબમિશન શરૂ કરવાની તારીખ ડ્યૂ તારીખ કરતા પહેલા હોવી જોઈએ",
-      "dueDateBeforeAvailability": "ડ્યૂ તારીખ સબમિશન શરૂ કરવાની તારીખ પછી હોવી જોઈએ"
+      "dueDateBeforeAvailability": "ડ્યૂ તારીખ સબમિશન શરૂ કરવાની તારીખ પછી હોવી જોઈએ",
+      "availabilityPast": "આ તારીખથી સબમિશન મંજૂર કરો તારીખ ભૂતકાળમાં ન હોઈ શકે",
+      "fillAllRequiredFields": "કૃપા કરીને બધી જરૂરી વિગતો ભરો"
     },
     "messages": {
       "createSuccess": "ક્વિઝ સફળતાપૂર્વક બનાવવામાં આવી!",
@@ -473,7 +502,8 @@
       "enterPrompt": "કૃપા કરીને એક પ્રોમ્પ્ટ દાખલ કરો",
       "selectQuestion": "કૃપા કરીને ઓછામાં ઓછું એક પ્રશ્ન પ્રકાર પસંદ કરો",
       "promptOverLimit": "ક્વિઝ પ્રોમ્પ્ટ {{limit}} અક્ષરોને પાર નથી જવું જોઈએ",
-      "titleOverLimit": "ક્વિઝ શીર્ષક {{limit}} અક્ષરોને પાર નથી જવું જોઈએ"
+      "titleOverLimit": "ક્વિઝ શીર્ષક {{limit}} અક્ષરોને પાર નથી જવું જોઈએ",
+      "titleRequired": "ક્વિઝનું શીર્ષક જરૂરી છે"
     },
     "messages": {
       "noItems": "કોઈ પેજ અથવા સ્રોત મળ્યા નથી",
@@ -495,7 +525,8 @@
       "errorOccurred": "પ્રોમ્પ્ટ જનરેટ કરતી વખતે ભૂલ થઈ",
       "generationError": "જનરેશન ભૂલ",
       "refresh": "પેજ રિફ્રેશ કરો",
-      "close": "બંધ કરો"
+      "close": "બંધ કરો",
+      "tokenUnavailable": "AI ટોકન્સ ઉપલબ્ધ નથી. કૃપા કરીને એડમિનિસ્ટ્રેટરનો સંપર્ક કરો."
     },
     "defaults": {
       "moduleName": "મોડ્યુલ",
@@ -511,7 +542,8 @@
     "loader": {
       "loading": "લોડ થઈ રહ્યું છે",
       "generating": "જનરેટ થઈ રહ્યું છે",
-      "creating": "બનાવી રહ્યું છે"
+      "creating": "બનાવી રહ્યું છે",
+      "submitting": "સબમિટ કરી રહ્યા છીએ"
     },
     "step1": {
       "title": "મોડ્યુલ પસંદ કરો",
@@ -532,7 +564,13 @@
     "pageLabel": "પેજ",
     "folderLabel": "ફોલ્ડર",
     "resourceLabel": "રિસોર્સ",
-    "urlLabel": "URL"
+    "urlLabel": "URL",
+    "error": {
+      "title": "ભૂલ",
+      "generationError": "જનરેશન ભૂલ",
+      "refresh": "પેજ રિફ્રેશ કરો",
+      "close": "બંધ કરો"
+    }
   },
   "forumForm": {
     "buttons": {
@@ -565,7 +603,8 @@
       "description": "ફોરમનું વર્ણન",
       "additionalFile": "અતિરિક્ત ફાઇલ",
       "additionalFileDescription": "આ ફોરમ માટે સંદર્ભ સામગ્રી અથવા અતિરિક્ત સ્ત્રોત અપલોડ કરો",
-      "currentFile": "વર્તમાન ફાઇલ"
+      "currentFile": "વર્તમાન ફાઇલ",
+      "dueDate": "અંતિમ તારીખ"
     },
     "placeholders": {
       "name": "ફોરમનું નામ દાખલ કરો"
@@ -915,7 +954,8 @@
         "backToEditor": "એડિટર પર પાછા જાઓ",
         "nextButton": "આગળ: પુનરાવલોકન પ્રોમ્પ્ટ",
         "toastIdeaRequired": "કૃપા કરીને તમારા રૂબ્રિક વિચારોનું વર્ણન કરો.",
-        "loading": "પ્રોમ્પ્ટ જનરેટ કરી રહ્યા છીએ..."
+        "loading": "પ્રોમ્પ્ટ જનરેટ કરી રહ્યા છીએ...",
+        "cancel": "રદ કરો"
       },
       "step2": {
         "title": "AI રૂબ્રિક ટેમ્પલેટ",
@@ -1056,7 +1096,8 @@
       "title": "હજુ રૂબ્રિક ટેમ્પલેટ્સ નથી",
       "description": "પ્રથમ રૂબ્રિક ટેમ્પલેટ બનાવીને શરૂ કરો.",
       "createButton": "ટેમ્પ્લેટ બનાવો"
-    }
+    },
+    "deleteConfirm": "આ અસાઇનમેન્ટમાં હાલમાં રૂબ્રિક છે. સ્કોર-આધારિત ગ્રેડિંગ પર બદલવાથી રૂબ્રિક કાઢી નાખવામાં આવશે. શું તમે ચાલુ રાખવા માંગો છો?"
   },
   "notificationsModal": {
     "sidebarTitle": "શ્રેણીઓ",
@@ -1146,5 +1187,35 @@
     "generating": "જનરેટ થઈ રહ્યું છે...",
     "qrActive": "QR સક્રિય",
     "generateNewQr": "નવો QR કોડ જનરેટ કરો"
+  },
+  "activityCreationChoice": {
+    "quiz": {
+      "title": "બનાવો એક",
+      "titleHighlight": "ક્વિઝ",
+      "description": "તમે તમારી ક્વિઝ કેવી રીતે બનાવવી છે, તે પસંદ કરો.",
+      "manualDescription": "ક્વિઝની વિગતો સેટ કરો અને જાતે એક-એક કરીને પ્રશ્નો ઉમેરો.",
+      "aiDescription": "AI નો ઉપયોગ કરીને તમારા કોર્સ કન્ટેન્ટ પરથી આપમેળે ક્વિઝ પ્રશ્નો બનાવો."
+    },
+    "assignment": {
+      "title": "બનાવો એક",
+      "titleHighlight": "અસાઇનમેન્ટ",
+      "description": "તમે તમારું અસાઇનમેન્ટ કેવી રીતે બનાવવું છે, તે પસંદ કરો.",
+      "manualDescription": "અસાઇનમેન્ટની વિગતો, સૂચનાઓ અને સેટિંગ્સ જાતે ભરો.",
+      "aiDescription": "AI નો ઉપયોગ કરીને તમારા કોર્સ મટિરિયલમાંથી અસાઇનમેન્ટ કન્ટેન્ટ અને સૂચનાઓ બનાવો."
+    },
+    "forum": {
+      "title": "બનાવો એક",
+      "titleHighlight": "ચર્ચા ફોરમ",
+      "description": "તમે તમારું ચર્ચા ફોરમ કેવી રીતે બનાવવું છે, તે પસંદ કરો.",
+      "manualDescription": "ફોરમની વિગતો અને ચર્ચાના પ્રોમ્પ્ટ્સ જાતે સેટ કરો.",
+      "aiDescription": "AI નો ઉપયોગ કરીને તમારા કોર્સ કન્ટેન્ટ પરથી ફોરમ ટોપિક્સ અને ચર્ચાના પ્રોમ્પ્ટ્સ બનાવો."
+    },
+    "manualTitle": "હાથથી બનાવો",
+    "aiTitleBefore": "આ સાથે બનાવો",
+    "aiTitleHighlight": "AI",
+    "aiRecommended": "ભલામણ કરેલ",
+    "pickMethod": "એક રીત પસંદ કરો",
+    "hint": "ખાતરી નથી? તમે",
+    "hintHighlight": "આને પછીથી બદલી શકો છો."
   }
 }

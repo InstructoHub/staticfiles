@@ -54,14 +54,30 @@
       "descriptionHeader": "বিবরণ",
       "createdAtHeader": "তৈরি হয়েছে",
       "actionsHeader": "ক্রিয়াকলাপ",
-      "noModulesFound": "কোন মডিউল পাওয়া যায়নি"
+      "noModulesFound": "কোন মডিউল পাওয়া যায়নি",
+      "moduleTypeHeader": "মডিউল টাইপ"
     },
     "form": {
       "moduleNameLabel": "মডিউল নাম *",
       "moduleDescriptionLabel": "মডিউল বিবরণ",
       "saveChangesButton": "পরিবর্তন সংরক্ষণ করুন",
       "savingButton": "সংরক্ষণ করা হচ্ছে...",
-      "cancelButton": "বাতিল করুন"
+      "cancelButton": "বাতিল করুন",
+      "moduleTypeLabel": "মডিউল টাইপ *",
+      "moduleTypePlaceholder": "মডিউল টাইপ নির্বাচন করুন",
+      "courseTypeLabel": "কোর্স পেজ এরিয়া *",
+      "courseTypePlaceholder": "কোর্স পেজ এরিয়া নির্বাচন করুন",
+      "moduleTypes": {
+        "adminMenu": "অ্যাডমিন মেনু",
+        "dashboard": "ড্যাশবোর্ড",
+        "leftMenu": "বাম পাশের সাইডবার",
+        "course": "কোর্স পেজ",
+        "courseMain": "কোর্সের মূল কনটেন্ট",
+        "courseRightbar": "কোর্সের রাইট বার"
+      },
+      "createButton": "মডিউল তৈরি করুন",
+      "creatingButton": "তৈরি হচ্ছে...",
+      "editTitle": "মডিউল সম্পাদনা করুন"
     },
     "deleteModal": {
       "title": "মুছে ফেলার নিশ্চিতকরণ",
@@ -83,7 +99,9 @@
       "nameRequired": "মডিউল নাম প্রয়োজন",
       "nameMinLength": "মডিউল নাম অন্তত 2 অক্ষর হতে হবে",
       "nameMaxLength": "মডিউল নাম 100 অক্ষরের বেশি হতে পারবে না",
-      "descriptionMaxLength": "বিবরণ 500 অক্ষরের বেশি হতে পারবে না"
+      "descriptionMaxLength": "বিবরণ 500 অক্ষরের বেশি হতে পারবে না",
+      "moduleTypeRequired": "মডিউল টাইপ প্রয়োজন",
+      "courseTypeRequired": "কোর্স পেজ এরিয়া প্রয়োজন"
     }
   },
   "pageHeader": {
@@ -235,7 +253,10 @@
     "noModulesForRole": "এই রোলের জন্য কোনো মডিউল নেই",
     "teacher": "শিক্ষক",
     "toggleDisabled": "এই পারমিশন সাময়িকভাবে উপলব্ধ নেই",
-    "toggleAlwaysOn": "এই টগল বন্ধ করা যাবে না"
+    "toggleAlwaysOn": "এই টগল বন্ধ করা যাবে না",
+    "defaultRolesGroup": "ডিফল্ট রোল",
+    "customRolesGroup": "কাস্টম রোল",
+    "customRoleTag": "কাস্টম"
   },
   "smtpConfiguration": {
     "title": "SMTP কনফিগারেশন",
@@ -313,7 +334,9 @@
     "sections": {
       "learningActivities": {
         "title": "শিক্ষণ কার্যক্রম",
-        "description": "কোর্স স্তরের কার্যক্রমের জন্য দেখার, তৈরি, সম্পাদনা এবং মুছে ফেলার অনুমতিগুলি কনফিগার করুন"
+        "description": "কোর্স স্তরের কার্যক্রমের জন্য দেখার, তৈরি, সম্পাদনা এবং মুছে ফেলার অনুমতিগুলি কনফিগার করুন",
+        "manageActionsNote": "তৈরি, সম্পাদনা এবং মুছুন কোর্সের সব অ্যাক্টিভিটিতে প্রযোজ্য — এটা পুরো কোর্সের জন্য একটি পারমিশন",
+        "courseModulesNote": "কোর্সের আউটলাইন আর সেকশনগুলো দেখুন এটা অন থাকলেই বাকি অ্যাক্টিভিটি পারমিশনগুলো প্রযোজ্য হবে"
       },
       "tools": {
         "title": "টুলস",
@@ -325,7 +348,10 @@
       "read": "দেখুন",
       "edit": "সম্পাদনা করুন",
       "delete": "মুছে ফেলুন",
-      "enabledCount": "সক্রিয়"
+      "enabledCount": "সক্রিয়",
+      "access": "অ্যাক্সেস",
+      "manage": "ম্যানেজ",
+      "manageAll": "সব অ্যাক্টিভিটি ম্যানেজ করুন"
     },
     "table": {
       "moduleNameHeader": "মডিউলের নাম",

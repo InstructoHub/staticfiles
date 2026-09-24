@@ -20,8 +20,16 @@
     "loadingActivities": "Loading activities...",
     "noActivitiesFound": "No activities found",
     "adjustSearchCriteria": "Try adjusting your search criteria.",
-    "activityCompletion.bulkStep1": "Select Activity Type",
-    "activityCompletion.setCompletionType": "Set Completion Type",
+    "filterAll": "All",
+    "filterUnsaved": "Unsaved",
+    "filterSaved": "Saved",
+    "modified": "Modified",
+    "bulkStep1": "Select Activity Type",
+    "bulkStep1Label": "Select an activity type to configure:",
+    "setCompletionType": "Set Completion Type",
+    "applyToAll": "Apply to All",
+    "applyToAllLabel": "Choose a setting to apply to all",
+    "orOverrideIndividually": "Or override individually",
     "tableHeaders": {
       "sno": "S.No",
       "activity": "Activity",
@@ -48,6 +56,7 @@
     }
   },
   "certificate": {
+    "title": "Certificate",
     "pageTitle": "Certificate of Completion",
     "presentedTo": "This certificate is proudly presented to",
     "completionText": "For successfully completing the course",
@@ -101,12 +110,17 @@
       "enrollNow": "Enroll Now",
       "enrolling": "Enrolling..."
     },
+    "courseEnded": "Course Ended",
+    "courseEndedTitle": "This course has ended",
+    "courseEndedDescription": "You can still view the course details, but enrollment is closed because the course end date has passed.",
+    "endedMessage": "This course has ended. You can view details but cannot enroll.",
     "toastMessages": {
       "alreadyEnrolled": "Already enrolled in course. Redirecting...",
       "courseIdNotAvailable": "Course ID not available. Please try again.",
       "enrollmentSuccess": "Successfully enrolled in {{courseName}}!",
       "enrollmentFailed": "Enrollment failed. Please try again.",
-      "enrollmentError": "Failed to enroll in course. Please try again."
+      "enrollmentError": "Failed to enroll in course. Please try again.",
+      "courseEnded": "This course has ended. Enrollment is no longer available."
     }
   },
   "moduleOrganization": {
@@ -133,6 +147,8 @@
     "deleting": "Deleting...",
     "deleteSelected": "Delete {{count}} Module(s)",
     "deleteSuccess": "Successfully deleted {{count}} module(s)",
-    "deleteError": "Failed to delete modules. Please try again."
+    "deleteError": "Failed to delete modules. Please try again.",
+    "expandModule": "Expand module",
+    "collapseModule": "Collapse module"
   }
 }

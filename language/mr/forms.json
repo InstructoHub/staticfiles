@@ -62,7 +62,9 @@
         "countryInvalid": "कृपया वैध देश निवडा",
         "usernameTaken": "हा यूजरनेम आधीच वापरात आहे",
         "emailTaken": "हा ईमेल आधीच नोंदणीकृत आहे"
-      }
+      },
+      "dateNotInPast": "Date मागच्या काळात असू शकत नाही",
+      "startDateInPast": "Start date मागच्या काळात असू शकत नाही"
     },
     "hints": {
       "characterLimit": "कमाल {{max}} अक्षरे"
@@ -390,6 +392,7 @@
   },
   "validation": {
     "availabilityAfterDue": "सबमिशन सुरू होण्याची तारीख ड्यू डेटच्या आधी असावी",
-    "dueDateBeforeAvailability": "ड्यू डेट सबमिशन सुरू होण्याच्या तारखेच्या नंतर असावी"
+    "dueDateBeforeAvailability": "ड्यू डेट सबमिशन सुरू होण्याच्या तारखेच्या नंतर असावी",
+    "fillAllRequiredFields": "कृपया सगळी आवश्यक fields भरा"
   }
 }

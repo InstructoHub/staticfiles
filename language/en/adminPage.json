@@ -62,6 +62,20 @@
       "total_enrollments": "Total Enrollments",
       "completed_courses": "Completed Courses",
       "pending_completions": "Pending Completions"
+    },
+    "recentUsers": {
+      "title": "Recent platform use — {{name}}",
+      "subtitle": "Who used this tenant and what they did on the platform.",
+      "lastAccess": "Last access: {{time}}",
+      "activityCount": "actions",
+      "noLogs": "No platform actions in this snapshot.",
+      "noUsers": "No recent users for this tenant.",
+      "systemEventsHidden": "{{count}} system notification events hidden",
+      "origin": {
+        "web": "Web",
+        "ws": "API",
+        "cli": "System"
+      }
     }
   }
 }

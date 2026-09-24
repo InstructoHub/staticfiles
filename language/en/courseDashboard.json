@@ -58,7 +58,13 @@
     },
     "ai": {
       "confirmEnableAIForCourse": "Are you sure you want to enable AI for this course?",
-      "confirmDisableAIForCourse": "Are you sure you want to disable AI for this course?"
+      "confirmDisableAIForCourse": "Are you sure you want to disable AI for this course?",
+      "disablingAIForCourse": "Disabling...",
+      "enablingAIForCourse": "Enabling..."
+    },
+    "courseEnded": {
+      "title": "This course has ended",
+      "description": "You can still view course content, but submissions for graded activities are closed."
     },
     "aiCta": {
       "buildTitle": "Build with AI",
@@ -422,7 +428,8 @@
       "gradeMethod": "Grade Method",
       "maxGrade": "Maximum Grade",
       "passingGrade": "Passing Grade (%)",
-      "description": "Description"
+      "description": "Description",
+      "availabilityDate": "Allow Submissions From"
     },
     "placeholders": {
       "name": "Enter quiz name",
@@ -440,7 +447,12 @@
     "labels": {
       "enable": "Enable",
       "minutes": "minutes",
-      "unlimited": "Unlimited"
+      "unlimited": "Unlimited",
+      "attempt": "attempt",
+      "attempts": "attempts",
+      "noAvailabilityDate": "Always Available",
+      "noDueDate": "No Due Date Defined",
+      "noTimeLimit": "Unlimited"
     },
     "buttons": {
       "cancel": "Cancel",
@@ -464,7 +476,9 @@
       "dueDatePast": "Due date cannot be in the past",
       "invalidDate": "Please enter a valid date",
       "availabilityAfterDue": "Allow Submissions From must be before Due Date",
-      "dueDateBeforeAvailability": "Due date must be after Allow Submissions From date"
+      "dueDateBeforeAvailability": "Due date must be after Allow Submissions From date",
+      "availabilityPast": "Allow Submissions From date cannot be in the past",
+      "fillAllRequiredFields": "Please fill all required fields"
     },
     "messages": {
       "createSuccess": "Quiz created successfully!",
@@ -568,6 +582,12 @@
       "refresh": "Refresh Page",
       "close": "Close"
     },
+    "error": {
+      "title": "Error",
+      "generationError": "Generation Error",
+      "refresh": "Refresh Page",
+      "close": "Close"
+    },
     "defaults": {
       "courseName": "Course",
       "moduleName": "Module",
@@ -582,7 +602,8 @@
     "loader": {
       "loading": "Loading",
       "generating": "Generating",
-      "creating": "Creating"
+      "creating": "Creating",
+      "submitting": "Submitting"
     }
   },
   "forumForm": {
@@ -595,7 +616,8 @@
       "description": "Forum Description",
       "additionalFile": "Additional File",
       "additionalFileDescription": "Upload a reference material or additional resource for this forum",
-      "currentFile": "Current file"
+      "currentFile": "Current file",
+      "dueDate": "Due Date"
     },
     "placeholders": {
       "name": "Enter forum name"
@@ -882,6 +904,7 @@
     "templateUpdateError": "Failed to update rubric template.",
     "templateCreateSuccess": "Template created successfully.",
     "templateCreateError": "Failed to create rubric template.",
+    "deleteConfirm": "This assignment currently has a rubric. Switching to score-based grading will delete the rubric. Do you want to continue?",
     "deleteTemplateConfirm": "Are you sure you want to delete this rubric template?",
     "templateDeleteSuccess": "Template deleted successfully.",
     "templateDeleteError": "Failed to delete rubric template.",
@@ -1001,6 +1024,7 @@
         "questionPlaceholder": "e.g. I want to grade a student's essay on climate change with focus on argumentation, evidence, and writing quality...",
         "helperText": "Be as descriptive as possible — mention the subject, grade level, or specific skills you want to evaluate.",
         "backToEditor": "Back to Editor",
+        "cancel": "Cancel",
         "nextButton": "Next: Review Prompt",
         "toastIdeaRequired": "Please describe your rubric idea.",
         "loading": "Generating Prompt..."

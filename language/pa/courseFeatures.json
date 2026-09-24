@@ -18,10 +18,6 @@
     "loadingActivities": "ਐਕਟਿਵਿਟੀਆਂ ਲੋਡ ਹੋ ਰਹੀਆਂ ਹਨ...",
     "noActivitiesFound": "ਕੋਈ ਐਕਟਿਵਿਟੀਆਂ ਨਹੀਂ ਮਿਲੀਆਂ",
     "adjustSearchCriteria": "ਕਿਰਪਾ ਕਰਕੇ ਆਪਣੀਆਂ ਖੋਜ ਮਾਪਦੰਡਾਂ ਨੂੰ ਸਹੀ ਕਰੋ",
-    "activityCompletion": {
-      "bulkStep1": "ਐਕਟਿਵਿਟੀ ਕਿਸਮ ਚੁਣੋ",
-      "setCompletionType": "ਪੂਰਨਤਾ ਕਿਸਮ ਸੈਟ ਕਰੋ"
-    },
     "tableHeaders": {
       "sno": "ਐਸ.ਨੰ.",
       "activity": "ਐਕਟਿਵਿਟੀ",
@@ -47,7 +43,17 @@
       "savedReset": "ਕੰਪਲੀਸ਼ਨ ਸੈਟਿੰਗਾਂ ਸੇਵ ਹੋ ਗਈਆਂ ਅਤੇ ਐਕਟਿਵਿਟੀ ਡੇਟਾ ਰੀਸੈਟ ਹੋ ਗਿਆ"
     },
     "unlock": "ਅਨਲੌਕ",
-    "unlockReset": "ਅਨਲੌਕ ਅਤੇ ਸੇਵ ਕੀਤਾ ਡਾਟਾ ਰੀਸੈਟ ਕਰੋ"
+    "unlockReset": "ਅਨਲੌਕ ਅਤੇ ਸੇਵ ਕੀਤਾ ਡਾਟਾ ਰੀਸੈਟ ਕਰੋ",
+    "filterAll": "ਸਾਰੇ",
+    "filterUnsaved": "ਨਾ-ਸੰਭਾਲੇ",
+    "filterSaved": "ਸੰਭਾਲੇ",
+    "modified": "ਬਦਲਿਆ ਗਿਆ",
+    "bulkStep1": "ਐਕਟਿਵਿਟੀ ਕਿਸਮ ਚੁਣੋ",
+    "bulkStep1Label": "ਕਨਫਿਗਰ ਕਰਨ ਲਈ ਇੱਕ ਐਕਟਿਵਿਟੀ ਕਿਸਮ ਚੁਣੋ:",
+    "setCompletionType": "ਕੰਪਲੀਸ਼ਨ ਕਿਸਮ ਸੈੱਟ ਕਰੋ",
+    "applyToAll": "ਸਭ 'ਤੇ ਲਾਗੂ ਕਰੋ",
+    "applyToAllLabel": "ਸਭ 'ਤੇ ਲਾਗੂ ਕਰਨ ਲਈ ਇੱਕ ਸੈਟਿੰਗ ਚੁਣੋ",
+    "orOverrideIndividually": "ਜਾਂ ਵੱਖ-ਵੱਖ ਤੌਰ 'ਤੇ ਬਦਲੋ"
   },
   "certificate": {
     "pageTitle": "ਪੂਰਨਤਾ ਦਾ ਸਰਟੀਫਿਕੇਟ",
@@ -68,7 +74,8 @@
       "scriptsLoadFailed": "PDF ਡਾਊਨਲੋਡ ਲਈ ਲੋੜੀਂਦੇ ਲਾਇਬ੍ਰੇਰੀਆਂ ਲੋਡ ਕਰਨ ਵਿੱਚ ਅਸਫਲ",
       "libraryNotReady": "PDF ਜਨਰੇਸ਼ਨ ਲਾਇਬ੍ਰੇਰੀ ਤਿਆਰ ਨਹੀਂ ਹੈ ਕਿਰਪਾ ਕਰਕੇ ਥੋੜ੍ਹੀ ਦੇਰ ਰੁਕੋ ਅਤੇ ਦੁਬਾਰਾ ਕੋਸ਼ਿਸ਼ ਕਰੋ",
       "pdfGenerationError": "PDF ਜਨਰੇਸ਼ਨ ਦੌਰਾਨ ਇੱਕ ਗਲਤੀ ਆਈ"
-    }
+    },
+    "title": "ਸਰਟੀਫਿਕੇਟ"
   },
   "selfEnroll": {
     "previewMode": "ਪ੍ਰੀਵਿਊ ਮੋਡ",
@@ -108,8 +115,13 @@
       "courseIdNotAvailable": "ਕੋਰਸ ID ਉਪਲਬਧ ਨਹੀਂ ਹੈ ਕਿਰਪਾ ਕਰਕੇ ਦੁਬਾਰਾ ਕੋਸ਼ਿਸ਼ ਕਰੋ",
       "enrollmentSuccess": "{{courseName}} ਵਿੱਚ ਸਫਲਤਾਪੂਰਵਕ ਇਨਰੋਲ ਹੋ ਗਏ!",
       "enrollmentFailed": "ਇਨਰੋਲਮੈਂਟ ਫੇਲ੍ਹ ਹੋ ਗਿਆ ਕਿਰਪਾ ਕਰਕੇ ਦੁਬਾਰਾ ਕੋਸ਼ਿਸ਼ ਕਰੋ",
-      "enrollmentError": "ਕੋਰਸ ਵਿੱਚ ਇਨਰੋਲ ਹੋਣ ਵਿੱਚ ਫੇਲ੍ਹ ਕਿਰਪਾ ਕਰਕੇ ਦੁਬਾਰਾ ਕੋਸ਼ਿਸ਼ ਕਰੋ"
-    }
+      "enrollmentError": "ਕੋਰਸ ਵਿੱਚ ਇਨਰੋਲ ਹੋਣ ਵਿੱਚ ਫੇਲ੍ਹ ਕਿਰਪਾ ਕਰਕੇ ਦੁਬਾਰਾ ਕੋਸ਼ਿਸ਼ ਕਰੋ",
+      "courseEnded": "ਇਹ ਕੋਰਸ ਖਤਮ ਹੋ ਗਿਆ ਹੈ ਹੁਣ ਨਾਮਾਂਕਨ ਉਪਲਬਧ ਨਹੀਂ ਹੈ"
+    },
+    "courseEnded": "ਕੋਰਸ ਖਤਮ ਹੋ ਗਿਆ",
+    "courseEndedTitle": "ਇਹ ਕੋਰਸ ਖਤਮ ਹੋ ਗਿਆ ਹੈ",
+    "courseEndedDescription": "ਤੁਸੀਂ ਅਜੇ ਵੀ ਕੋਰਸ ਦੇ ਵੇਰਵੇ ਵੇਖ ਸਕਦੇ ਹੋ, ਪਰ ਨਾਮਾਂਕਨ ਬੰਦ ਹੈ ਕਿਉਂਕਿ ਕੋਰਸ ਦੀ ਅੰਤਿਮ ਤਾਰੀਖ ਲੰਘ ਚੁੱਕੀ ਹੈ",
+    "endedMessage": "ਇਹ ਕੋਰਸ ਖਤਮ ਹੋ ਗਿਆ ਹੈ ਤੁਸੀਂ ਵੇਰਵੇ ਵੇਖ ਸਕਦੇ ਹੋ, ਪਰ ਨਾਮਾਂਕਨ ਨਹੀਂ ਕਰ ਸਕਦੇ"
   },
   "moduleOrganization": {
     "pageTitle": "ਕੋਰਸ ਢਾਂਚਾ ਸੰਗਠਿਤ ਕਰੋ",
@@ -135,6 +147,8 @@
     "deleting": "ਮਿਟਾ ਰਹੇ ਹਾਂ...",
     "deleteSelected": "{{count}} ਮਾਡਿਊਲ(ਜ਼) ਮਿਟਾਓ",
     "deleteSuccess": "{{count}} ਮਾਡਿਊਲ(ਜ਼) ਸਫਲਤਾਪੂਰਵਕ ਮਿਟਾਏ ਗਏ",
-    "deleteError": "ਮੌਡਿਊਲ ਡਿਲੀਟ ਕਰਨ ਵਿੱਚ ਅਸਫਲ ਕਿਰਪਾ ਕਰਕੇ ਦੁਬਾਰਾ ਕੋਸ਼ਿਸ਼ ਕਰੋ"
+    "deleteError": "ਮੌਡਿਊਲ ਡਿਲੀਟ ਕਰਨ ਵਿੱਚ ਅਸਫਲ ਕਿਰਪਾ ਕਰਕੇ ਦੁਬਾਰਾ ਕੋਸ਼ਿਸ਼ ਕਰੋ",
+    "expandModule": "ਮੋਡੀਊਲ ਵਧਾਓ",
+    "collapseModule": "ਮੋਡੀਊਲ ਘਟਾਓ"
   }
 }

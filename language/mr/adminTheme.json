@@ -267,6 +267,11 @@
     "actionBlockedShort": "प्रिव्ह्यू मोडमध्ये उपलब्ध नाही",
     "closeConfirmTitle": "प्रिव्ह्यू मोडमधून बाहेर जायचं का?",
     "closeConfirmMessage": "खरंच तुम्हाला थीम प्रिव्ह्यू सोडायचंय का?",
-    "closeConfirmContinue": "प्रिव्ह्यू सोडून जा"
+    "closeConfirmContinue": "प्रिव्ह्यू सोडून जा",
+    "titleShort": "प्रिव्ह्यू",
+    "hideBar": "प्रिव्ह्यू बार लपवा",
+    "showBar": "प्रिव्ह्यू बार दाखवा",
+    "showBarAction": "दाखवा",
+    "dragHandle": "हलवण्यासाठी ड्रॅग करा"
   }
 }

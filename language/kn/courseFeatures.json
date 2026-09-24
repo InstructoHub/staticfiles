@@ -18,10 +18,6 @@
     "loadingActivities": "ಚಟುವಟಿಕೆಗಳನ್ನು ಲೋಡ್ ಮಾಡುತ್ತಿದೆ...",
     "noActivitiesFound": "ಯಾವುದೇ ಚಟುವಟಿಕೆಗಳು ಕಂಡುಬಂದಿಲ್ಲ",
     "adjustSearchCriteria": "ನಿಮ್ಮ ಹುಡುಕಾಟದ ಮಾನದಂಡವನ್ನು ಹೊಂದಿಸಲು ಪ್ರಯತ್ನಿಸಿ.",
-    "activityCompletion": {
-      "bulkStep1": "ಚಟುವಟಿಕೆ ಪ್ರಕಾರವನ್ನು ಆಯ್ಕೆ ಮಾಡಿ",
-      "setCompletionType": "ಪೂರ್ಣಗೊಳಿಸುವಿಕೆ ಪ್ರಕಾರವನ್ನು ಹೊಂದಿಸಿ"
-    },
     "tableHeaders": {
       "sno": "ಸಂ. ಸಂಖ್ಯೆ",
       "activity": "ಚಟುವಟಿಕೆ",
@@ -47,7 +43,17 @@
       "savedReset": "Completion ಸೆಟ್ಟಿಂಗ್ಸ್ ಉಳಿಸಲಾಗಿದೆ ಮತ್ತು activity ಡೇಟಾ ರಿಸೆಟ್ ಆಗಿದೆ."
     },
     "unlock": "ಅನ್‌ಲಾಕ್",
-    "unlockReset": "ಅನ್‌ಲಾಕ್ & ಉಳಿಸಿದ ಡೇಟಾವನ್ನು ರಿಸೆಟ್ ಮಾಡಿ"
+    "unlockReset": "ಅನ್‌ಲಾಕ್ & ಉಳಿಸಿದ ಡೇಟಾವನ್ನು ರಿಸೆಟ್ ಮಾಡಿ",
+    "filterAll": "ಎಲ್ಲಾ",
+    "filterUnsaved": "ಸೇವ್ ಆಗಿಲ್ಲ",
+    "filterSaved": "ಸೇವ್ ಆಗಿದೆ",
+    "modified": "ಬದಲಾಯಿಸಲಾಗಿದೆ",
+    "bulkStep1": "ಚಟುವಟಿಕೆ ಪ್ರಕಾರ ಆಯ್ಕೆಮಾಡಿ",
+    "bulkStep1Label": "ಕಾನ್ಫಿಗರ್ ಮಾಡಲು ಒಂದು ಚಟುವಟಿಕೆ ಪ್ರಕಾರವನ್ನು ಆಯ್ಕೆಮಾಡಿ:",
+    "setCompletionType": "ಪೂರ್ಣಗೊಳಿಸುವ ಪ್ರಕಾರ ಸೆಟ್ ಮಾಡಿ",
+    "applyToAll": "ಎಲ್ಲರಿಗೂ ಅನ್ವಯಿಸಿ",
+    "applyToAllLabel": "ಎಲ್ಲರಿಗೂ ಅನ್ವಯಿಸಲು ಒಂದು ಸೆಟ್ಟಿಂಗ್ ಆಯ್ಕೆಮಾಡಿ",
+    "orOverrideIndividually": "ಅಥವಾ ಪ್ರತ್ಯೇಕವಾಗಿ ಬದಲಾಯಿಸಿ"
   },
   "certificate": {
     "toastMessages": {
@@ -68,7 +74,8 @@
     "downloading": "ಡೌನ್‌ಲೋಡ್ ಮಾಡುತ್ತಿದೆ...",
     "startDate": "ಆರಂಭ ದಿನಾಂಕ",
     "endDate": "ಅಂತಿಮ ದಿನಾಂಕ",
-    "completionDate": "ಪೂರ್ಣಗೊಳಿಸುವ ದಿನಾಂಕ"
+    "completionDate": "ಪೂರ್ಣಗೊಳಿಸುವ ದಿನಾಂಕ",
+    "title": "ಪ್ರಮಾಣಪತ್ರ"
   },
   "selfEnroll": {
     "previewMode": "ಪ್ರೀವ್ಯೂ ಮೋಡ್",
@@ -108,8 +115,13 @@
       "courseIdNotAvailable": "ಕೋರ್ಸ್ ಐಡಿ ಲಭ್ಯವಿಲ್ಲ. ದಯವಿಟ್ಟು ಪುನಃ ಪ್ರಯತ್ನಿಸಿ.",
       "enrollmentSuccess": "{{courseName}}-ನಲ್ಲಿ ಯಶಸ್ವಿಯಾಗಿ ಎನ್ರೋಲ್ ಆಗಿದೆ!",
       "enrollmentFailed": "ಎನ್ರೋಲ್ ಆಗುವುದು ವಿಫಲವಾಗಿದೆ. ದಯವಿಟ್ಟು ಪುನಃ ಪ್ರಯತ್ನಿಸಿ.",
-      "enrollmentError": "ಕೋರ್ಸ್‌ನಲ್ಲಿ ಎನ್ರೋಲ್ ಆಗಲು ವಿಫಲವಾಗಿದೆ. ದಯವಿಟ್ಟು ಪುನಃ ಪ್ರಯತ್ನಿಸಿ."
-    }
+      "enrollmentError": "ಕೋರ್ಸ್‌ನಲ್ಲಿ ಎನ್ರೋಲ್ ಆಗಲು ವಿಫಲವಾಗಿದೆ. ದಯವಿಟ್ಟು ಪುನಃ ಪ್ರಯತ್ನಿಸಿ.",
+      "courseEnded": "ಈ Course ಮುಗಿದಿದೆ. Enrollment ಈಗ ಲಭ್ಯವಿಲ್ಲ."
+    },
+    "courseEnded": "Course ಮುಗಿದಿದೆ",
+    "courseEndedTitle": "ಈ Course ಮುಗಿದಿದೆ",
+    "courseEndedDescription": "ನೀವು ಇನ್ನೂ Course ವಿವರಗಳನ್ನು ನೋಡಬಹುದು, ಆದರೆ Course ಮುಗಿಯುವ ದಿನಾಂಕ ಕಳೆದಿರುವುದರಿಂದ enrollment ಮುಚ್ಚಲಾಗಿದೆ.",
+    "endedMessage": "ಈ Course ಮುಗಿದಿದೆ. ನೀವು ವಿವರಗಳನ್ನು ನೋಡಬಹುದು, ಆದರೆ enroll ಆಗಲು ಸಾಧ್ಯವಿಲ್ಲ."
   },
   "moduleOrganization": {
     "pageTitle": "ಕೋರ್ಸ್ ರಚನೆಯನ್ನು ಸಂಘಟಿಸಿ",
@@ -135,6 +147,8 @@
     "deleting": "ಡಿಲೀಟ್ ಮಾಡುತ್ತಿದೆ...",
     "deleteSelected": "{{count}} ಮಾಡ್ಯೂಲ್‌ಗಳನ್ನು ಡಿಲೀಟ್ ಮಾಡಿ",
     "deleteSuccess": "{{count}} ಮಾಡ್ಯೂಲ್‌ಗಳನ್ನು ಯಶಸ್ವಿಯಾಗಿ ಡಿಲೀಟ್ ಮಾಡಲಾಗಿದೆ",
-    "deleteError": "ಮಾಡ್ಯೂಲ್‌ಗಳನ್ನು ಡಿಲೀಟ್ ಮಾಡಲು ವಿಫಲವಾಗಿದೆ. ದಯವಿಟ್ಟು ಪುನಃ ಪ್ರಯತ್ನಿಸಿ."
+    "deleteError": "ಮಾಡ್ಯೂಲ್‌ಗಳನ್ನು ಡಿಲೀಟ್ ಮಾಡಲು ವಿಫಲವಾಗಿದೆ. ದಯವಿಟ್ಟು ಪುನಃ ಪ್ರಯತ್ನಿಸಿ.",
+    "expandModule": "Module ವಿಸ್ತರಿಸಿ",
+    "collapseModule": "Module ಕುಗ್ಗಿಸಿ"
   }
 }

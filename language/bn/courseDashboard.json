@@ -43,7 +43,9 @@
     },
     "ai": {
       "confirmEnableAIForCourse": "আপনি কি নিশ্চিত যে আপনি এই কোর্সের জন্য এআই সক্রিয় করতে চান?",
-      "confirmDisableAIForCourse": "আপনি কি নিশ্চিত যে আপনি এই কোর্সের জন্য এআই নিষ্ক্রিয় করতে চান?"
+      "confirmDisableAIForCourse": "আপনি কি নিশ্চিত যে আপনি এই কোর্সের জন্য এআই নিষ্ক্রিয় করতে চান?",
+      "disablingAIForCourse": "বন্ধ হচ্ছে...",
+      "enablingAIForCourse": "চালু হচ্ছে..."
     },
     "aiCta": {
       "buildTitle": "এআই দিয়ে তৈরি করুন",
@@ -66,6 +68,25 @@
       "manualChoiceButton": "নিজে তৈরি করুন",
       "firstVisitHint": "নিশ্চিত না? আপনি",
       "firstVisitHintHighlight": "পরে এটি পরিবর্তন করতে পারবেন"
+    },
+    "whatYoullLearn": {
+      "title": "আপনি কী শিখবেন"
+    },
+    "courseIncludes": {
+      "title": "এই কোর্সে আছে:",
+      "modules": "মডিউল",
+      "pages": "পৃষ্ঠা",
+      "resources": "রিসোর্স",
+      "assignments": "অ্যাসাইনমেন্ট",
+      "quizzes": "কুইজ",
+      "h5pActivities": "এইচ৫পি অ্যাক্টিভিটি",
+      "forums": "আলোচনা",
+      "scormPackages": "স্কর্ম প্যাকেজ",
+      "liveSessions": "লাইভ সেশন"
+    },
+    "courseEnded": {
+      "title": "এই কোর্সটি শেষ হয়েছে",
+      "description": "আপনি এখনও কোর্সের কনটেন্ট দেখতে পারবেন, তবে গ্রেডেড অ্যাক্টিভিটির সাবমিশন বন্ধ আছে"
     }
   },
   "studentSummary": {
@@ -373,7 +394,8 @@
       "gradeMethod": "গ্রেড পদ্ধতি",
       "maxGrade": "সর্বাধিক গ্রেড",
       "passingGrade": "পাস গ্রেড (%)",
-      "description": "বিবরণ"
+      "description": "বিবরণ",
+      "availabilityDate": "এই তারিখ থেকে সাবমিশন নিন"
     },
     "placeholders": {
       "name": "কুইজের নাম লিখুন",
@@ -391,7 +413,12 @@
     "labels": {
       "enable": "সক্রিয় করুন",
       "minutes": "মিনিট",
-      "unlimited": "অসীম"
+      "unlimited": "অসীম",
+      "attempt": "চেষ্টা",
+      "attempts": "চেষ্টা",
+      "noAvailabilityDate": "সবসময় খোলা",
+      "noDueDate": "কোনো ডেডলাইন নেই",
+      "noTimeLimit": "সীমাহীন"
     },
     "buttons": {
       "cancel": "বাতিল করুন",
@@ -415,7 +442,9 @@
       "dueDatePast": "নির্ধারিত তারিখ অতীতে হতে পারে না",
       "invalidDate": "দয়া করে একটি বৈধ তারিখ লিখুন",
       "availabilityAfterDue": "জমা নেওয়া শুরু অবশ্যই শেষ তারিখের আগে হতে হবে",
-      "dueDateBeforeAvailability": "শেষ তারিখ অবশ্যই জমা নেওয়া শুরুর তারিখের পরে হতে হবে"
+      "dueDateBeforeAvailability": "শেষ তারিখ অবশ্যই জমা নেওয়া শুরুর তারিখের পরে হতে হবে",
+      "availabilityPast": "এই তারিখ থেকে সাবমিশন নিন তারিখ অতীতে হতে পারে না",
+      "fillAllRequiredFields": "দয়া করে সব বাধ্যতামূলক ফিল্ড পূরণ করুন"
     },
     "messages": {
       "createSuccess": "কুইজ সফলভাবে তৈরি হয়েছে!",
@@ -489,7 +518,8 @@
       "enterPrompt": "দয়া করে একটি প্রম্পট লিখুন",
       "selectQuestion": "দয়া করে অন্তত একটি প্রশ্নের ধরন নির্বাচন করুন",
       "promptOverLimit": "কুইজ প্রম্পট {{limit}} অক্ষরের বেশি হতে পারে না",
-      "titleOverLimit": "কুইজ শিরোনাম {{limit}} অক্ষরের বেশি হতে পারে না"
+      "titleOverLimit": "কুইজ শিরোনাম {{limit}} অক্ষরের বেশি হতে পারে না",
+      "titleRequired": "কুইজের শিরোনাম প্রয়োজন"
     },
     "messages": {
       "noItems": "কোন পৃষ্ঠা বা সম্পদ পাওয়া যায়নি",
@@ -511,7 +541,8 @@
       "errorOccurred": "প্রম্পট তৈরি করার সময় একটি ত্রুটি ঘটেছে",
       "generationError": "তৈরি করার ত্রুটি",
       "refresh": "পেজ রিফ্রেশ করুন",
-      "close": "বন্ধ করুন"
+      "close": "বন্ধ করুন",
+      "tokenUnavailable": "এআই টোকেন পাওয়া যাচ্ছে না দয়া করে অ্যাডমিনিস্ট্রেটরের সাথে যোগাযোগ করুন"
     },
     "defaults": {
       "courseName": "কোর্স",
@@ -527,12 +558,19 @@
     "loader": {
       "loading": "লোড হচ্ছে",
       "generating": "তৈরি হচ্ছে",
-      "creating": "তৈরি করা হচ্ছে"
+      "creating": "তৈরি করা হচ্ছে",
+      "submitting": "সাবমিট হচ্ছে"
     },
     "pageLabel": "পৃষ্ঠা",
     "folderLabel": "ফোল্ডার",
     "resourceLabel": "রিসোর্স",
-    "urlLabel": "ইউআরএল"
+    "urlLabel": "ইউআরএল",
+    "error": {
+      "title": "ত্রুটি",
+      "generationError": "তৈরি করতে সমস্যা হয়েছে",
+      "refresh": "পেজ রিফ্রেশ করুন",
+      "close": "বন্ধ করুন"
+    }
   },
   "forumForm": {
     "title": {
@@ -544,7 +582,8 @@
       "description": "ফোরামের বর্ণনা",
       "additionalFile": "অতিরিক্ত ফাইল",
       "additionalFileDescription": "এই ফোরামের জন্য একটি রেফারেন্স উপাদান বা অতিরিক্ত সম্পদ আপলোড করুন",
-      "currentFile": "বর্তমান ফাইল"
+      "currentFile": "বর্তমান ফাইল",
+      "dueDate": "ডেডলাইন"
     },
     "placeholders": {
       "name": "ফোরামের নাম লিখুন"
@@ -945,7 +984,8 @@
         "backToEditor": "এডিটরে ফিরে যাও",
         "nextButton": "পরবর্তী: পুনরায় দেখুন প্রম্পট",
         "toastIdeaRequired": "দয়া করে তোমার রুব্রিক আইডিয়া বর্ণনা করো",
-        "loading": "প্রম্পট তৈরি হচ্ছে..."
+        "loading": "প্রম্পট তৈরি হচ্ছে...",
+        "cancel": "বাতিল"
       },
       "step2": {
         "title": "AI রুব্রিক টেমপ্লেট",
@@ -1056,7 +1096,8 @@
       "title": "এখনও কোনো রুব্রিক টেমপ্লেট নেই",
       "description": "প্রথম রুব্রিক টেমপ্লেট তৈরি করে শুরু করুন",
       "createButton": "টেমপ্লেট তৈরি করুন"
-    }
+    },
+    "deleteConfirm": "এই অ্যাসাইনমেন্টে বর্তমানে একটি রুব্রিক আছে স্কোর-ভিত্তিক গ্রেডিংয়ে বদলালে রুব্রিকটি মুছে যাবে আপনি কি চালিয়ে যেতে চান?"
   },
   "notificationsModal": {
     "sidebarTitle": "বিভাগসমূহ",
@@ -1146,5 +1187,35 @@
     "generating": "তৈরি হচ্ছে...",
     "qrActive": "QR সক্রিয়",
     "generateNewQr": "নতুন QR কোড তৈরি করুন"
+  },
+  "activityCreationChoice": {
+    "quiz": {
+      "title": "একটি",
+      "titleHighlight": "কুইজ",
+      "description": "আপনি কীভাবে কুইজটি তৈরি করতে চান, সেটা বেছে নিন",
+      "manualDescription": "কুইজের ডিটেইলস সেট আপ করুন আর ধাপে ধাপে নিজেই প্রশ্ন যোগ করুন",
+      "aiDescription": "এআই ব্যবহার করে আপনার কোর্স কনটেন্ট থেকে অটোভাবে কুইজ প্রশ্ন জেনারেট করুন"
+    },
+    "assignment": {
+      "title": "একটি",
+      "titleHighlight": "অ্যাসাইনমেন্ট",
+      "description": "আপনি কীভাবে অ্যাসাইনমেন্টটি তৈরি করতে চান, সেটা বেছে নিন",
+      "manualDescription": "অ্যাসাইনমেন্টের ডিটেইলস, ইনস্ট্রাকশন আর সেটিংস নিজেই ভরুন",
+      "aiDescription": "এআই ব্যবহার করে আপনার কোর্স ম্যাটেরিয়াল থেকে অ্যাসাইনমেন্ট কনটেন্ট আর ইনস্ট্রাকশন জেনারেট করুন"
+    },
+    "forum": {
+      "title": "একটি",
+      "titleHighlight": "আলোচনা ফোরাম",
+      "description": "আপনি কীভাবে আলোচনা ফোরামটি তৈরি করতে চান, সেটা বেছে নিন",
+      "manualDescription": "ফোরামের ডিটেইলস আর আলোচনা প্রম্পট নিজেই সেট আপ করুন",
+      "aiDescription": "এআই ব্যবহার করে আপনার কোর্স কনটেন্ট থেকে ফোরাম টপিক আর আলোচনা প্রম্পট জেনারেট করুন"
+    },
+    "manualTitle": "ম্যানুয়ালি তৈরি করুন",
+    "aiTitleBefore": "দিয়ে তৈরি করুন",
+    "aiTitleHighlight": "এআই",
+    "aiRecommended": "প্রস্তাবিত",
+    "pickMethod": "একটা পদ্ধতি বেছে নিন",
+    "hint": "নিশ্চিত না? আপনি পরে",
+    "hintHighlight": "এটা বদলাতে পারবেন"
   }
 }

@@ -35,6 +35,15 @@
     "errorGeneric": "ਕੁਝ ਗਲਤ ਹੋ ਗਿਆ ਕਿਰਪਾ ਕਰਕੇ ਪੇਜ਼ ਨੂੰ ਰਿਫ੍ਰੈਸ਼ ਕਰੋ",
     "promptGenerationFailed": "ਇੱਕ ਪ੍ਰੰਪਟ ਬਣਾਉਣ ਵਿੱਚ ਅਸਫਲ ਕਿਰਪਾ ਕਰਕੇ ਆਪਣਾ ਖੁਦ ਲਿਖੋ",
     "errorOccurred": "ਇੱਕ ਗਲਤੀ ਹੋਈ ਕਿਰਪਾ ਕਰਕੇ ਆਪਣਾ ਖੁਦ ਪ੍ਰੰਪਟ ਲਿਖੋ",
-    "pageTitle": "ਲੈਸਨ ਪਲਾਨ ਬਣਾਓ"
+    "pageTitle": "ਲੈਸਨ ਪਲਾਨ ਬਣਾਓ",
+    "activityDateNotInPast": "ਐਕਟਿਵਿਟੀ ਦੀ ਮਿਤੀ ਅੱਜ ਜਾਂ ਭਵਿੱਖ ਦੀ ਹੋਣੀ ਚਾਹੀਦੀ ਹੈ",
+    "previewAndPrint": "ਪ੍ਰੀਵਿਊ ਤੇ ਪ੍ਰਿੰਟ",
+    "printLessonPlan": "ਲੇਸਨ ਪਲਾਨ ਪ੍ਰਿੰਟ ਕਰੋ",
+    "print": "ਪ੍ਰਿੰਟ",
+    "backToEdit": "ਐਡਿਟ ਤੇ ਵਾਪਸ"
+  },
+  "templateT1": {
+    "error": "ਗਲਤੀ",
+    "templateNotFound": "ਟੈਂਪਲੇਟ \"{{templateId}}\" ਨਹੀਂ ਮਿਲਿਆ"
   }
 }

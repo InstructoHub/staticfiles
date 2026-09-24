@@ -62,7 +62,9 @@
         "countryInvalid": "કૃપા કરીને માન્ય દેશ પસંદ કરો",
         "usernameTaken": "આ યૂઝરનામ પહેલેથી જ લેવામાં આવ્યું છે",
         "emailTaken": "આ ઈમેલ પહેલેથી જ નોંધાયેલ છે"
-      }
+      },
+      "dateNotInPast": "તારીખ ભૂતકાળની ન હોઈ શકે",
+      "startDateInPast": "શરૂઆતની તારીખ ભૂતકાળની ન હોઈ શકે"
     },
     "hints": {
       "characterLimit": "મહત્તમ {{max}} અક્ષરો"
@@ -390,6 +392,7 @@
   },
   "validation": {
     "availabilityAfterDue": "સબમિશન શરૂ કરવાની તારીખ ડ્યૂ ડેટ કરતા પહેલા હોવી જોઈએ",
-    "dueDateBeforeAvailability": "ડ્યૂ ડેટ સબમિશન શરૂ કરવાની તારીખ પછીની હોવી જોઈએ"
+    "dueDateBeforeAvailability": "ડ્યૂ ડેટ સબમિશન શરૂ કરવાની તારીખ પછીની હોવી જોઈએ",
+    "fillAllRequiredFields": "કૃપા કરીને બધા જરૂરી fields ભરો"
   }
 }

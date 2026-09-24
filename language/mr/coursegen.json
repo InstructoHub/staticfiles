@@ -42,7 +42,9 @@
     "tooltips": {
       "uploadInfo": "तुम्ही PDF, HTML किंवा MP4 फाइली अपलोड करू शकता",
       "fileSizeInfo": "कमाल एकूण फाइल आकार १ GB आहे"
-    }
+    },
+    "uploadAria": "फाइल्स अपलोड करा",
+    "deleteFile": "फाइल डिलीट करा"
   },
   "createModules": {
     "title": "मॉड्यूलची संख्या निवडा",
@@ -56,7 +58,13 @@
       "moduleInfo": "तुम्ही १ ते ८ मॉड्यूल बनवू शकता"
     },
     "promptLabel": "प्रारंभिक प्रॉम्प्ट:",
-    "promptPlaceholder": "मॉड्यूल तयार करताना मार्गदर्शनासाठी एक प्रारंभिक प्रॉम्प्ट द्या (ऐच्छिक)"
+    "promptPlaceholder": "मॉड्यूल तयार करताना मार्गदर्शनासाठी एक प्रारंभिक प्रॉम्प्ट द्या (ऐच्छिक)",
+    "loading": "मॉड्यूल्स लोड होत आहेत...",
+    "decrease": "मॉड्यूल्स कमी करा",
+    "decreaseAria": "मॉड्यूल्सची संख्या कमी करा",
+    "increase": "मॉड्यूल्स वाढवा",
+    "increaseAria": "मॉड्यूल्सची संख्या वाढवा",
+    "selectCountAria": "मॉड्यूल्सची संख्या निवडा"
   },
   "defineStructure": {
     "quickTips": "त्वरित सूचना",
@@ -94,7 +102,10 @@
       "caseStudy": "केस स्टडी",
       "experiments": "प्रयोग",
       "learningOutcomes": "शिकण्याची उद्दिष्टे"
-    }
+    },
+    "definingStructure": "रचना सेट करत आहे",
+    "atLeastOneModule": "पुढे जाण्यापूर्वी किमान एक मॉड्यूल जोडा.",
+    "resetFailed": "स्टेट रीसेट करण्यात अयशस्वी"
   },
   "reviewPrompts": {
     "title": "प्रॉम्प्ट्स पुनरावलोकन करा",
@@ -132,7 +143,10 @@
       "page": "पृष्ठ",
       "assignment": "असाइनमेंट",
       "forum": "फोरम"
-    }
+    },
+    "dragToReorder": "क्रम बदलण्यासाठी ड्रॅग करा",
+    "delete": "डिलीट करा",
+    "generatingPrompts": "प्रॉम्प्ट्स तयार होत आहेत"
   },
   "courseReview": {
     "title": "अभ्यासक्रम पुनरावलोकन",
@@ -158,7 +172,9 @@
     "regeneratePrompt": {
       "title": "सामग्री पुनर्निर्मित करा",
       "submitButton": "सबमिट करा",
-      "cancelButton": "रद्द करा"
+      "cancelButton": "रद्द करा",
+      "placeholder": "इथे तुमचा मजकूर टाका...",
+      "regenerating": "पुन्हा तयार करत आहे..."
     },
     "tooltips": {
       "regenerateInfo": "नव्या प्रॉम्प्टसह ही सामग्री पुनर्निर्मित करा"
@@ -167,7 +183,12 @@
       "page": "पृष्ठ",
       "assignment": "असाइनमेंट",
       "forum": "फोरम"
-    }
+    },
+    "creatingCourse": "कोर्स तयार करत आहे",
+    "generatingPage": "पेज तयार होत आहे...",
+    "generatingContent": "कंटेंट तयार होत आहे",
+    "regenerateContent": "कंटेंट पुन्हा तयार करा",
+    "saving": "सेव्ह होत आहे..."
   },
   "commonMessages": {
     "success": {

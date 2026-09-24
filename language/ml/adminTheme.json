@@ -267,6 +267,11 @@
     "actionBlockedShort": "പ്രിവ്യൂ മോഡിൽ ലഭ്യമല്ല",
     "closeConfirmTitle": "പ്രിവ്യൂ മോഡ് വിടണോ?",
     "closeConfirmMessage": "തീം പ്രിവ്യൂ വിടാൻ നിങ്ങൾ ഉറപ്പണോ?",
-    "closeConfirmContinue": "പ്രിവ്യൂ വിടുക"
+    "closeConfirmContinue": "പ്രിവ്യൂ വിടുക",
+    "titleShort": "പ്രിവ്യൂ",
+    "hideBar": "പ്രിവ്യൂ ബാർ മറയ്ക്കുക",
+    "showBar": "പ്രിവ്യൂ ബാർ കാണിക്കുക",
+    "showBarAction": "കാണിക്കുക",
+    "dragHandle": "നീക്കാൻ വലിക്കുക"
   }
 }

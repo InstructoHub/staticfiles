@@ -41,5 +41,9 @@
     "printLessonPlan": "Print Lesson Plan",
     "print": "Print",
     "backToEdit": "Back to Edit"
+  },
+  "templateT1": {
+    "error": "Error",
+    "templateNotFound": "Template \"{{templateId}}\" was not found."
   }
 }

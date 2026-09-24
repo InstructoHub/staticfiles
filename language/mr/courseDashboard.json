@@ -43,7 +43,9 @@
     },
     "ai": {
       "confirmEnableAIForCourse": "आपण या अभ्यासक्रमासाठी AI सक्षम करू इच्छिता याची खात्री आहे का?",
-      "confirmDisableAIForCourse": "आपण या अभ्यासक्रमासाठी AI अक्षम करू इच्छिता याची खात्री आहे का?"
+      "confirmDisableAIForCourse": "आपण या अभ्यासक्रमासाठी AI अक्षम करू इच्छिता याची खात्री आहे का?",
+      "disablingAIForCourse": "डिसेबल करत आहे...",
+      "enablingAIForCourse": "एनेबल करत आहे..."
     },
     "aiCta": {
       "buildTitle": "एआयने बनवा",
@@ -66,6 +68,25 @@
       "manualChoiceButton": "मॅन्युअली तयार करा",
       "firstVisitHint": "निश्चित नाही का? तुम्ही",
       "firstVisitHintHighlight": "हे नंतर बदलू शकता."
+    },
+    "whatYoullLearn": {
+      "title": "तुम्ही काय शिकाल"
+    },
+    "courseIncludes": {
+      "title": "या कोर्समध्ये आहे:",
+      "modules": "मॉड्यूल्स",
+      "pages": "पेजेस",
+      "resources": "रिसोर्सेस",
+      "assignments": "असाइनमेंट्स",
+      "quizzes": "क्विझेस",
+      "h5pActivities": "H5P अ‍ॅक्टिव्हिटीज",
+      "forums": "चर्चा",
+      "scormPackages": "SCORM पॅकेजेस",
+      "liveSessions": "लाईव्ह सेशन्स"
+    },
+    "courseEnded": {
+      "title": "हा कोर्स संपला आहे",
+      "description": "तुम्ही अजूनही कोर्सचा कंटेंट पाहू शकता, पण ग्रेडेड अ‍ॅक्टिव्हिटीजसाठी सबमिशन्स बंद आहेत."
     }
   },
   "studentSummary": {
@@ -377,7 +398,8 @@
       "maxGrade": "कमाल ग्रेड",
       "passingGrade": "उत्तीर्ण ग्रेड (%)",
       "description": "वर्णन",
-      "definedDueDate": "निर्धारित अंतिम तारीख"
+      "definedDueDate": "निर्धारित अंतिम तारीख",
+      "availabilityDate": "सबमिशन सुरू होईल"
     },
     "placeholders": {
       "name": "क्विजचे नाव प्रविष्ट करा",
@@ -395,7 +417,12 @@
     "labels": {
       "enable": "सक्षम करा",
       "minutes": "मिनिटे",
-      "unlimited": "अमर्यादित"
+      "unlimited": "अमर्यादित",
+      "attempt": "प्रयत्न",
+      "attempts": "प्रयत्न",
+      "noAvailabilityDate": "नेहमी उपलब्ध",
+      "noDueDate": "ड्यू डेट नाही",
+      "noTimeLimit": "अमर्यादित"
     },
     "buttons": {
       "cancel": "रद्द करा",
@@ -419,7 +446,9 @@
       "dueDatePast": "अंतिम तारीख भूतकाळात असू शकत नाही",
       "invalidDate": "कृपया वैध तारीख प्रविष्ट करा",
       "availabilityAfterDue": "Allow Submissions From ड्यू डेटच्या आधी असावे",
-      "dueDateBeforeAvailability": "ड्यू डेट 'Allow Submissions From' तारखेनंतर असावी"
+      "dueDateBeforeAvailability": "ड्यू डेट 'Allow Submissions From' तारखेनंतर असावी",
+      "availabilityPast": "सबमिशन सुरू होईल ही तारीख भूतकाळातील असू शकत नाही",
+      "fillAllRequiredFields": "कृपया सगळी आवश्यक फील्ड भरा"
     },
     "messages": {
       "createSuccess": "क्विज यशस्वीरित्या तयार केली!",
@@ -493,7 +522,8 @@
       "enterPrompt": "कृपया प्रॉम्प्ट प्रविष्ट करा",
       "selectQuestion": "कृपया किमान एक प्रश्न प्रकार निवडा",
       "promptOverLimit": "क्विज प्रॉम्प्ट {{limit}} अक्षरांपेक्षा जास्त असू शकत नाही",
-      "titleOverLimit": "क्विज शीर्षक {{limit}} अक्षरांपेक्षा जास्त असू शकत नाही"
+      "titleOverLimit": "क्विज शीर्षक {{limit}} अक्षरांपेक्षा जास्त असू शकत नाही",
+      "titleRequired": "क्विझचं शीर्षक आवश्यक आहे"
     },
     "messages": {
       "noItems": "कोणते पृष्ठ किंवा संसाधन सापडले नाहीत",
@@ -515,7 +545,8 @@
       "errorOccurred": "प्रॉम्प्ट निर्माण करताना त्रुटी घडली",
       "generationError": "निर्माण त्रुटी",
       "refresh": "पृष्ठ रीफ्रेश करा",
-      "close": "बंद करा"
+      "close": "बंद करा",
+      "tokenUnavailable": "एआय टोकन्स उपलब्ध नाहीत. कृपया अॅडमिनशी संपर्क करा."
     },
     "defaults": {
       "courseName": "अभ्यासक्रम",
@@ -531,12 +562,19 @@
     "loader": {
       "loading": "लोड करत आहे",
       "generating": "निर्माण करत आहे",
-      "creating": "तयार करत आहे"
+      "creating": "तयार करत आहे",
+      "submitting": "सबमिट करत आहे"
     },
     "pageLabel": "पेज",
     "folderLabel": "फोल्डर",
     "resourceLabel": "रिसोर्स",
-    "urlLabel": "यूआरएल"
+    "urlLabel": "यूआरएल",
+    "error": {
+      "title": "एरर",
+      "generationError": "जनरेशन एरर",
+      "refresh": "पेज रिफ्रेश करा",
+      "close": "बंद करा"
+    }
   },
   "forumForm": {
     "title": {
@@ -548,7 +586,8 @@
       "description": "मंच वर्णन",
       "additionalFile": "अतिरिक्त फाइल",
       "additionalFileDescription": "या मंचासाठी संदर्भ सामग्री किंवा अतिरिक्त संसाधन अपलोड करा",
-      "currentFile": "वर्तमान फाइल"
+      "currentFile": "वर्तमान फाइल",
+      "dueDate": "ड्यू डेट"
     },
     "placeholders": {
       "name": "मंच नाव प्रविष्ट करा"
@@ -952,7 +991,8 @@
         "backToEditor": "संपादकाकडे परत",
         "nextButton": "पुढे: पुनरावलोकन प्रॉम्प्ट",
         "toastIdeaRequired": "कृपया तुमचा रुब्रिक आयडिया वर्णन करा.",
-        "loading": "प्रॉम्प्ट जनरेट करत आहे..."
+        "loading": "प्रॉम्प्ट जनरेट करत आहे...",
+        "cancel": "रद्द करा"
       }
     },
     "criterionRow": {
@@ -1060,7 +1100,8 @@
       "title": "अजून रुब्रिक टेम्पलेट्स नाहीत",
       "description": "पहिला रुब्रिक टेम्पलेट क्रिएट करून सुरुवात करा.",
       "createButton": "टेम्पलेट क्रिएट करा"
-    }
+    },
+    "deleteConfirm": "या असाइनमेंटसाठी सध्या रुब्रिक आहे. स्कोर-आधारित ग्रेडिंगवर स्विच केल्यास रुब्रिक डिलीट होईल. तुम्हाला पुढे जायचं आहे का?"
   },
   "notificationsModal": {
     "sidebarTitle": "विभाग",
@@ -1150,5 +1191,35 @@
     "generating": "तयार होत आहे...",
     "qrActive": "QR सक्रिय",
     "generateNewQr": "नवीन QR कोड तयार करा"
+  },
+  "activityCreationChoice": {
+    "quiz": {
+      "title": "तयार करा एक",
+      "titleHighlight": "क्विझ",
+      "description": "तुम्हाला क्विझ कसा तयार करायचा आहे ते निवडा.",
+      "manualDescription": "क्विझचे तपशील सेट करा आणि प्रश्न स्वतः एक एक करून जोडा.",
+      "aiDescription": "AI वापरून तुमच्या कोर्स कंटेंटमधून क्विझ प्रश्न आपोआप तयार करा."
+    },
+    "assignment": {
+      "title": "तयार करा एक",
+      "titleHighlight": "असाइनमेंट",
+      "description": "तुम्हाला असाइनमेंट कशी तयार करायची आहे ते निवडा.",
+      "manualDescription": "असाइनमेंटचे तपशील, सूचना आणि सेटिंग्ज स्वतः भरा.",
+      "aiDescription": "AI वापरून तुमच्या कोर्स मटेरियलमधून असाइनमेंट कंटेंट आणि सूचना तयार करा."
+    },
+    "forum": {
+      "title": "तयार करा एक",
+      "titleHighlight": "चर्चा फोरम",
+      "description": "तुम्हाला चर्चा फोरम कसा तयार करायचा आहे ते निवडा.",
+      "manualDescription": "फोरमचे तपशील आणि चर्चा प्रश्न स्वतः सेट करा.",
+      "aiDescription": "AI वापरून तुमच्या कोर्स कंटेंटमधून फोरम विषय आणि चर्चा प्रश्न तयार करा."
+    },
+    "manualTitle": "हाताने तयार करा",
+    "aiTitleBefore": "यासोबत तयार करा",
+    "aiTitleHighlight": "एआय",
+    "aiRecommended": "शिफारस केलेलं",
+    "pickMethod": "एक पद्धत निवडा",
+    "hint": "कन्फ्यूज आहात? तुम्ही",
+    "hintHighlight": "नंतर हे बदलू शकता."
   }
 }

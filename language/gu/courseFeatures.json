@@ -17,10 +17,6 @@
     "loadingActivities": "િઓ લોડ થઈ રહી છે...",
     "noActivitiesFound": "કોઈกิจિથિઓ મળી નથી",
     "adjustSearchCriteria": "તમારા શોધ માપદંડને સમાયોજિત કરવાનો પ્રયાસ કરો.",
-    "activityCompletion": {
-      "bulkStep1": "િ પ્રકાર પસંદ કરો",
-      "setCompletionType": "પૂર્ણતા પ્રકાર સેટ કરો"
-    },
     "tableHeaders": {
       "sno": "ક્રમ સંખ્યા",
       "activity": "િ",
@@ -47,7 +43,17 @@
     },
     "pageTitle": "એક્ટિવિટી પૂર્ણતા સેટિંગ્સ",
     "unlock": "અનલોક",
-    "unlockReset": "અનલોક અને સેવ થયેલ ડેટા રીસેટ કરો"
+    "unlockReset": "અનલોક અને સેવ થયેલ ડેટા રીસેટ કરો",
+    "filterAll": "બધા",
+    "filterUnsaved": "સેવ ન કરેલું",
+    "filterSaved": "સેવ કરેલું",
+    "modified": "બદલાયેલું",
+    "bulkStep1": "એક્ટિવિટીનો પ્રકાર પસંદ કરો",
+    "bulkStep1Label": "કન્ફિગર કરવા માટે એક એક્ટિવિટીનો પ્રકાર પસંદ કરો:",
+    "setCompletionType": "કમ્પ્લિશન પ્રકાર સેટ કરો",
+    "applyToAll": "બધા પર લાગુ કરો",
+    "applyToAllLabel": "બધા પર લાગુ કરવા માટે સેટિંગ પસંદ કરો",
+    "orOverrideIndividually": "અથવા અલગથી ઓવરરાઇડ કરો"
   },
   "selfEnroll": {
     "modal": {
@@ -63,7 +69,8 @@
       "courseIdNotAvailable": "કોર્સ ID ઉપલબ્ધ નથી. કૃપા કરીને ફરી પ્રયાસ કરો.",
       "enrollmentSuccess": "સફળતાપૂર્વક {{courseName}}માં એનરોલ થઈ ગયા!",
       "enrollmentFailed": "એનરોલમેન્ટ નિષ્ફળ ગયું. કૃપા કરીને ફરી પ્રયાસ કરો.",
-      "enrollmentError": "કોર્સમાં એનરોલ કરવામાં નિષ્ફળ. કૃપા કરીને ફરી પ્રયાસ કરો."
+      "enrollmentError": "કોર્સમાં એનરોલ કરવામાં નિષ્ફળ. કૃપા કરીને ફરી પ્રયાસ કરો.",
+      "courseEnded": "આ કોર્સ સમાપ્ત થઈ ગયો છે. એનરોલમેન્ટ હવે ઉપલબ્ધ નથી."
     },
     "previewMode": "પ્રિવ્યુ મોડ",
     "courseLocked": "કોર્સ લોકડ",
@@ -88,7 +95,11 @@
     "moduleProgress": "મોડ્યુલ {{current}} માં {{total}}",
     "percentComplete": "{{percent}}% પૂર્ણ",
     "introduction": "પરિચય",
-    "items": "આઇટમ"
+    "items": "આઇટમ",
+    "courseEnded": "કોર્સ સમાપ્ત થયો",
+    "courseEndedTitle": "આ કોર્સ સમાપ્ત થઈ ગયો છે",
+    "courseEndedDescription": "તમે હજી પણ કોર્સની વિગતો જોઈ શકો છો, પણ એનરોલમેન્ટ બંધ છે કારણ કે કોર્સની અંતિમ તારીખ પસાર થઈ ગઈ છે.",
+    "endedMessage": "આ કોર્સ સમાપ્ત થઈ ગયો છે. તમે વિગતો જોઈ શકો છો પણ એનરોલ થઈ શકતા નથી."
   },
   "moduleOrganization": {
     "pageTitle": "કોર્સની રચના ગોઠવો",
@@ -114,7 +125,9 @@
     "deleting": "ડિલીટ કરી રહ્યું છે...",
     "deleteSelected": "ડિલીટ {{count}} મૉડ્યૂલ(ઓ)",
     "deleteError": "કરવામાં નિષ્ફળ. કૃપા કરીને ફરીથી પ્રયાસ કરો.",
-    "deleteSuccess": "{{count}} (s)"
+    "deleteSuccess": "{{count}} (s)",
+    "expandModule": "મોડ્યુલ વધારો",
+    "collapseModule": "મોડ્યુલ સંકુચિત કરો"
   },
   "certificate": {
     "pageTitle": "પૂર્ણતાનો પ્રમાણપત્ર",
@@ -135,6 +148,7 @@
       "scriptsLoadFailed": "PDF ડાઉનલોડ માટે જરૂરી લાઇબ્રેરીઝ લોડ કરવામાં નિષ્ફળ.",
       "libraryNotReady": "PDF જનરેશન લાઇબ્રેરી તૈયાર નથી. કૃપા કરીને રાહ જુઓ અને ફરીથી પ્રયાસ કરો.",
       "pdfGenerationError": "PDF જનરેટ કરતી વખતે ભૂલ આવી."
-    }
+    },
+    "title": "સર્ટિફિકેટ"
   }
 }

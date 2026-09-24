@@ -267,6 +267,11 @@
     "actionBlockedShort": "ପ୍ରିଭ୍ୟୁ ମୋଡ୍‌ରେ ଉପଲବ୍ଧ ନାହିଁ",
     "closeConfirmTitle": "ପ୍ରିଭ୍ୟୁ ମୋଡ୍ ଛାଡ଼ିବେ?",
     "closeConfirmMessage": "ଆପଣ ନିଶ୍ଚିତ ଭାବରେ ଥିମ୍ ପ୍ରିଭ୍ୟୁ ଛାଡ଼ିବାକୁ ଚାହାଁନ୍ତି କି?",
-    "closeConfirmContinue": "ପ୍ରିଭ୍ୟୁ ଛାଡ଼ନ୍ତୁ"
+    "closeConfirmContinue": "ପ୍ରିଭ୍ୟୁ ଛାଡ଼ନ୍ତୁ",
+    "titleShort": "ପ୍ରିଭ୍ୟୁ",
+    "hideBar": "ପ୍ରିଭ୍ୟୁ ବାର୍ ଲୁଚାନ୍ତୁ",
+    "showBar": "ପ୍ରିଭ୍ୟୁ ବାର୍ ଦେଖାନ୍ତୁ",
+    "showBarAction": "ଦେଖାନ୍ତୁ",
+    "dragHandle": "ସରାଇବା ପାଇଁ ଡ୍ରାଗ୍ କରନ୍ତୁ"
   }
 }

@@ -54,14 +54,30 @@
       "descriptionHeader": "डिस्क्रिप्शन",
       "createdAtHeader": "क्रिएटेड डेट",
       "actionsHeader": "एक्शन्स",
-      "noModulesFound": "कोई मॉड्यूल्स नहीं मिले।"
+      "noModulesFound": "कोई मॉड्यूल्स नहीं मिले।",
+      "moduleTypeHeader": "मॉड्यूल टाइप"
     },
     "form": {
       "moduleNameLabel": "मॉड्यूल का नाम *",
       "moduleDescriptionLabel": "मॉड्यूल का डिस्क्रिप्शन",
       "saveChangesButton": "सेव चेंजेस",
       "savingButton": "सेव हो रहा है...",
-      "cancelButton": "कैंसिल"
+      "cancelButton": "कैंसिल",
+      "moduleTypeLabel": "मॉड्यूल टाइप *",
+      "moduleTypePlaceholder": "मॉड्यूल टाइप चुनें",
+      "courseTypeLabel": "कोर्स पेज एरिया *",
+      "courseTypePlaceholder": "कोर्स पेज एरिया चुनें",
+      "moduleTypes": {
+        "adminMenu": "एडमिन मेन्यू",
+        "dashboard": "डैशबोर्ड",
+        "leftMenu": "लेफ्ट साइड बार",
+        "course": "कोर्स पेज",
+        "courseMain": "कोर्स का मेन कंटेंट",
+        "courseRightbar": "कोर्स राइट बार"
+      },
+      "createButton": "मॉड्यूल बनाएं",
+      "creatingButton": "बनाया जा रहा है...",
+      "editTitle": "मॉड्यूल एडिट करें"
     },
     "deleteModal": {
       "title": "डिलीशन कन्फर्म करें",
@@ -83,7 +99,9 @@
       "nameRequired": "मॉड्यूल का नाम ज़रूरी है",
       "nameMinLength": "मॉड्यूल का नाम कम से कम 2 कैरेक्टर्स का होना चाहिए",
       "nameMaxLength": "मॉड्यूल का नाम 100 कैरेक्टर्स से ज़्यादा नहीं होना चाहिए",
-      "descriptionMaxLength": "डिस्क्रिप्शन 500 कैरेक्टर्स से ज़्यादा नहीं होना चाहिए"
+      "descriptionMaxLength": "डिस्क्रिप्शन 500 कैरेक्टर्स से ज़्यादा नहीं होना चाहिए",
+      "moduleTypeRequired": "मॉड्यूल टाइप जरूरी है",
+      "courseTypeRequired": "कोर्स पेज एरिया जरूरी है"
     }
   },
   "pageHeader": {
@@ -235,7 +253,10 @@
     "noModulesForRole": "इस रोल के लिए कोई मॉड्यूल उपलब्ध नहीं है",
     "teacher": "टीचर",
     "toggleDisabled": "यह अनुमति अस्थायी रूप से उपलब्ध नहीं है",
-    "toggleAlwaysOn": "इस टॉगल को बंद नहीं किया जा सकता"
+    "toggleAlwaysOn": "इस टॉगल को बंद नहीं किया जा सकता",
+    "defaultRolesGroup": "डिफ़ॉल्ट रोल्स",
+    "customRolesGroup": "कस्टम रोल्स",
+    "customRoleTag": "कस्टम"
   },
   "smtpConfiguration": {
     "title": "एसएमटीपी कॉन्फ़िगरेशन",
@@ -313,7 +334,9 @@
     "sections": {
       "learningActivities": {
         "title": "लर्निंग एक्टिविटीज़",
-        "description": "कोर्स-लेवल एक्टिविटीज़ के लिए View, Create, Edit और Delete परमिशन्स कॉन्फ़िगर करें।"
+        "description": "कोर्स-लेवल एक्टिविटीज़ के लिए View, Create, Edit और Delete परमिशन्स कॉन्फ़िगर करें।",
+        "manageActionsNote": "बनाएं, एडिट करें और डिलीट करें। कोर्स की सभी एक्टिविटीज़ पर लागू होता है — ये एक कोर्स-लेवल परमिशन है।",
+        "courseModulesNote": "कोर्स का आउटलाइन और सेक्शन देखें। बाकी एक्टिविटी परमिशन्स सिर्फ तभी लागू होंगे जब ये ऑन हो।"
       },
       "tools": {
         "title": "टूल्स",
@@ -325,7 +348,10 @@
       "read": "देखें",
       "edit": "एडिट",
       "delete": "डिलीट",
-      "enabledCount": "इनेबल्ड"
+      "enabledCount": "इनेबल्ड",
+      "access": "एक्सेस",
+      "manage": "मैनेज",
+      "manageAll": "सभी एक्टिविटीज़ मैनेज करें"
     },
     "table": {
       "moduleNameHeader": "मॉड्यूल का नाम",

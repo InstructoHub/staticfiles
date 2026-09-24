@@ -74,7 +74,10 @@
       "selfEnrollment": "ସ୍ୱୟଂ ଭର୍ତ୍ତି",
       "manualEnrollment": "ମାନୁଆଲ୍ ଭର୍ତ୍ତି",
       "guestAccess": "ଗେଷ୍ଟ ଆକ୍ସେସ",
-      "courseVisibility": "କୋର୍ସ ଦୃଶ୍ୟତା"
+      "courseVisibility": "କୋର୍ସ ଦୃଶ୍ୟତା",
+      "aiCourseOverview": "ଏଆଇ କୋର୍ସ ଓଭରଭ୍ୟୁ",
+      "loadFromAi": "ଏଆଇରୁ କୋର୍ସ ଓଭରଭ୍ୟୁ ଲୋଡ୍ କରନ୍ତୁ",
+      "autoUpdateFromAi": "ଏଆଇରୁ ଅଟୋ ଅପଡେଟ୍"
     },
     "placeholders": {
       "courseName": "ପୂର୍ଣ୍ଣ କୋର୍ସ ନାମ ଦିଅନ୍ତୁ",
@@ -131,6 +134,11 @@
       "hidden": "ଲୁଚାଇ ରହିଛି",
       "visibleDescription": "ଛାତ୍ରଛାତ୍ରୀମାନେ ଏହି କୋର୍ସ ଖୋଜି ପାଇବେ ଏବଂ ପ୍ରବେଶ କରିପାରିବେ",
       "hiddenDescription": "ଆପଣ ଏହାକୁ ଦୃଶ୍ୟମାନ କରିବା ପର୍ଯ୍ୟନ୍ତ, କୋର୍ସ ଛାତ୍ରଛାତ୍ରୀଙ୍କ ପାଇଁ ଲୁଚାଇ ରହିଛି"
+    },
+    "descriptions": {
+      "loadFromAi": "କୋର୍ସ ଏଆଇ ଏନେବଲ୍ ହେଲେ, କୋର୍ସ ଓଭରଭ୍ୟୁ ଥରେ ଜେନେରେଟ୍ କରି ସମସ୍ତ userଙ୍କୁ ଦେଖାନ୍ତୁ",
+      "autoUpdateFromAi": "moduleଗୁଡ଼ିକ ବଦଳିଲେ, ଏଆଇ କୋର୍ସ ଓଭରଭ୍ୟୁକୁ ଅଟୋମେଟିକ୍ ଭାବେ ପୁଣି ଜେନେରେଟ୍ ଏବଂ ଅପଡେଟ୍ କରନ୍ତୁ",
+      "blankDescriptionAi": "ଯଦି Description ଖାଲି ରହିଛି ଏବଂ ଏହି course ପାଇଁ AI ଏନେବଲ୍ ଅଛି, ତେବେ AI ଅଟୋମେଟିକ୍ ଭାବେ ଏକ Course Overview (ଛୋଟ description ଏବଂ learning outcomes) ଜେନେରେଟ୍ କରିଦେବ"
     }
   },
   "modals": {

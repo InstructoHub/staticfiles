@@ -62,7 +62,9 @@
         "countryInvalid": "ദയവായി സാധുവായ ഒരു രാജ്യം തെരഞ്ഞെടുത്തു",
         "usernameTaken": "ഈ യൂസർനേം ഇതിനകം ഉപയോഗത്തിലാണ്",
         "emailTaken": "ഈ ഇമെയിൽ ഇതിനകം രജിസ്റ്റർ ചെയ്തിരിക്കുന്നു"
-      }
+      },
+      "dateNotInPast": "തീയതി പഴയതാകാൻ പാടില്ല",
+      "startDateInPast": "ആരംഭ തീയതി പഴയതാകാൻ പാടില്ല"
     },
     "hints": {
       "characterLimit": "പരമാവധി {{max}} അക്ഷരങ്ങൾ"
@@ -390,6 +392,7 @@
   },
   "validation": {
     "availabilityAfterDue": "“Allow Submissions From” തീയതി “Due Date”-ന് മുൻപായിരിക്കണം",
-    "dueDateBeforeAvailability": "“Due Date” എന്നത് “Allow Submissions From” തീയതിക്ക് ശേഷം ആയിരിക്കണം"
+    "dueDateBeforeAvailability": "“Due Date” എന്നത് “Allow Submissions From” തീയതിക്ക് ശേഷം ആയിരിക്കണം",
+    "fillAllRequiredFields": "ദയവായി ആവശ്യമായ എല്ലാ ഫീൽഡുകളും പൂരിപ്പിക്കുക"
   }
 }

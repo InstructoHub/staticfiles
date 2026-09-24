@@ -18,7 +18,8 @@
     "activityCompletion": "কার্যক্রম সম্পন্ন",
     "certificate": "সার্টিফিকেট",
     "organize": "সংগঠিত করুন",
-    "gradeAssignment": "অ্যাসাইনমেন্টের গ্রেড দিন"
+    "gradeAssignment": "অ্যাসাইনমেন্টের গ্রেড দিন",
+    "courseComplete": "আপনি এই কোর্সটি শেষ করেছেন!"
   },
   "participants": {
     "title": "অংশগ্রহণকারীরা",
@@ -96,8 +97,22 @@
     "messages": "বার্তা",
     "viewStudentProgressReport": "ছাত্রের অগ্রগতি রিপোর্ট দেখুন",
     "you": "আপনি",
-    "usernameSearchDisclaimer": "তালিকা দেখতে সম্পূর্ণ ব্যবহারকারীর নাম লিখুন।",
-    "spaceNotAllowed": "অনুসন্ধানে স্পেস অনুমোদিত নয়।"
+    "usernameSearchDisclaimer": "তালিকা দেখতে সম্পূর্ণ ব্যবহারকারীর নাম লিখুন",
+    "spaceNotAllowed": "অনুসন্ধানে স্পেস অনুমোদিত নয়",
+    "messageGroup": {
+      "create": "মেসেজ গ্রুপ তৈরি করুন",
+      "createTitle": "মেসেজ গ্রুপ তৈরি করুন",
+      "nameLabel": "গ্রুপের নাম",
+      "namePlaceholder": "গ্রুপের নাম লিখুন",
+      "selectMembers": "অংশগ্রহণকারী যোগ করুন",
+      "searchPlaceholder": "অংশগ্রহণকারী খুঁজুন...",
+      "noMembersFound": "যোগ করার মতো কোনো অংশগ্রহণকারী পাওয়া যায়নি",
+      "selectedCount": "{{count}} জন সিলেক্টেড",
+      "creating": "তৈরি করা হচ্ছে...",
+      "createSuccess": "মেসেজ গ্রুপ সফলভাবে তৈরি হয়েছে",
+      "createFailed": "মেসেজ গ্রুপ তৈরি করা যায়নি",
+      "loadFailed": "অংশগ্রহণকারীদের লোড করা যায়নি"
+    }
   },
   "buttons": {
     "continueeLearning": "শিক্ষা চালিয়ে যান",
@@ -117,7 +132,8 @@
     "view": "দেখুন",
     "download": "ডাউনলোড করুন",
     "upload": "আপলোড করুন",
-    "enrollSelected": "নির্বাচিত ভর্তি করুন"
+    "enrollSelected": "নির্বাচিত ভর্তি করুন",
+    "retry": "আবার চেষ্টা করুন"
   },
   "actions": {
     "create": "তৈরি করুন",

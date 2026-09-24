@@ -28,7 +28,8 @@
     "create": "Create",
     "update": "Update",
     "createWithAI": "Create With AI",
-    "done": "Done"
+    "done": "Done",
+    "ok": "OK"
   },
   "navigation": {
     "dashboard": "Dashboard",
@@ -102,6 +103,7 @@
     "loadingTeacherDetails": "Loading teacher details...",
     "filePreviewNotAvailable": "File Preview Not Available",
     "unableToPreviewDocument": "Unable to preview document",
+    "unableToPreviewImage": "Unable to preview image",
     "failedToLoadPosts": "Failed to load posts",
     "noQuestionsAvailable": "No questions available for this quiz",
     "noDiscussionsYet": "No discussions yet",
@@ -119,6 +121,7 @@
     "creating": "Creating...",
     "updating": "Updating...",
     "item": "item",
+    "items": "s",
     "or": "or"
   },
   "loginQr": {
@@ -300,7 +303,9 @@
   },
   "sidebar": {
     "logoutTitle": "Ready to sign out?",
-    "logoutMessage": "You'll need to sign back in to access your dashboard and continue where you left off."
+    "logoutMessage": "You'll need to sign back in to access your dashboard and continue where you left off.",
+    "quizModeTitle": "Quiz in Progress",
+    "quizModeMessage": "You are currently taking a quiz. Please finish or close the quiz before navigating to other pages."
   },
   "courseCatalog": {
     "searchPlaceholder": "Search for courses...",

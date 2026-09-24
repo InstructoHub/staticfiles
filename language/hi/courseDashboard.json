@@ -43,7 +43,9 @@
     },
     "ai": {
       "confirmEnableAIForCourse": "क्या आप वाकई इस कोर्स के लिए एआई इनेबल करना चाहते हैं?",
-      "confirmDisableAIForCourse": "क्या आप वाकई इस कोर्स के लिए एआई डिसेबल करना चाहते हैं?"
+      "confirmDisableAIForCourse": "क्या आप वाकई इस कोर्स के लिए एआई डिसेबल करना चाहते हैं?",
+      "disablingAIForCourse": "डिसेबल हो रहा है...",
+      "enablingAIForCourse": "एनेबल हो रहा है..."
     },
     "aiCta": {
       "buildTitle": "एआई से बनाएं",
@@ -66,6 +68,25 @@
       "manualChoiceButton": "मैन्युअली बनाएं",
       "firstVisitHint": "पक्का नहीं? आप",
       "firstVisitHintHighlight": "इसे बाद में बदल सकते हैं।"
+    },
+    "whatYoullLearn": {
+      "title": "आप क्या सीखेंगे"
+    },
+    "courseIncludes": {
+      "title": "इस कोर्स में शामिल है:",
+      "modules": "मॉड्यूल",
+      "pages": "पेज",
+      "resources": "रिसोर्सेस",
+      "assignments": "असाइनमेंट्स",
+      "quizzes": "क्विज़",
+      "h5pActivities": "एच5पी एक्टिविटीज़",
+      "forums": "डिस्कशन्स",
+      "scormPackages": "एससीओआरएम पैकेजेस",
+      "liveSessions": "लाइव सेशन्स"
+    },
+    "courseEnded": {
+      "title": "यह कोर्स खत्म हो गया है",
+      "description": "आप अभी भी कोर्स कंटेंट देख सकते हैं, लेकिन ग्रेडेड एक्टिविटीज़ के लिए सबमिशन बंद हैं।"
     }
   },
   "studentSummary": {
@@ -377,7 +398,8 @@
       "gradeMethod": "ग्रेड का मेथड",
       "maxGrade": "मैक्सिमम ग्रेड",
       "passingGrade": "पासिंग ग्रेड (%)",
-      "description": "डिस्क्रिप्शन"
+      "description": "डिस्क्रिप्शन",
+      "availabilityDate": "सबमिशन की शुरुआत"
     },
     "placeholders": {
       "name": "क्विज़ का नाम एंटर करें",
@@ -395,7 +417,12 @@
     "labels": {
       "enable": "इनेबल करें",
       "minutes": "मिनट्स",
-      "unlimited": "अनलिमिटेड"
+      "unlimited": "अनलिमिटेड",
+      "attempt": "कोशिश",
+      "attempts": "कोशिशें",
+      "noAvailabilityDate": "हमेशा उपलब्ध",
+      "noDueDate": "कोई ड्यू डेट तय नहीं",
+      "noTimeLimit": "अनलिमिटेड"
     },
     "buttons": {
       "cancel": "कैंसिल",
@@ -419,7 +446,9 @@
       "dueDatePast": "ड्यू डेट पास्ट में नहीं हो सकती",
       "invalidDate": "प्लीज एक वैलिड डेट एंटर करें",
       "availabilityAfterDue": "सबमिशन शुरू करने की तारीख़ ड्यू डेट से पहले होनी चाहिए",
-      "dueDateBeforeAvailability": "ड्यू डेट, सबमिशन शुरू करने की तारीख़ के बाद होनी चाहिए"
+      "dueDateBeforeAvailability": "ड्यू डेट, सबमिशन शुरू करने की तारीख़ के बाद होनी चाहिए",
+      "availabilityPast": "सबमिशन की शुरुआत की तारीख बीत चुकी नहीं हो सकती",
+      "fillAllRequiredFields": "कृपया सारे ज़रूरी फ़ील्ड भरें"
     },
     "messages": {
       "createSuccess": "क्विज़ सक्सेसफुली क्रिएट हो गया!",
@@ -493,7 +522,8 @@
       "enterPrompt": "प्लीज एक प्रॉम्प्ट एंटर करें",
       "selectQuestion": "प्लीज कम से कम एक क्वेश्चन टाइप सेलेक्ट करें",
       "promptOverLimit": "क्विज़ का प्रॉम्प्ट {{limit}} कैरेक्टर्स से ज़्यादा नहीं हो सकता",
-      "titleOverLimit": "क्विज़ का टाइटल {{limit}} कैरेक्टर्स से ज़्यादा नहीं हो सकता"
+      "titleOverLimit": "क्विज़ का टाइटल {{limit}} कैरेक्टर्स से ज़्यादा नहीं हो सकता",
+      "titleRequired": "क्विज़ का टाइटल ज़रूरी है"
     },
     "messages": {
       "noItems": "कोई पेजेस या रिसोर्सेज नहीं मिले",
@@ -515,7 +545,8 @@
       "errorOccurred": "प्रॉम्प्ट जनरेट करते समय एक एरर आई",
       "generationError": "जनरेशन एरर",
       "refresh": "पेज रिफ्रेश करें",
-      "close": "क्लोज करें"
+      "close": "क्लोज करें",
+      "tokenUnavailable": "एआई टोकन उपलब्ध नहीं हैं। कृपया एडमिनिस्ट्रेटर से संपर्क करें।"
     },
     "defaults": {
       "courseName": "कोर्स",
@@ -531,12 +562,19 @@
     "loader": {
       "loading": "लोड हो रहा है",
       "generating": "जनरेट हो रहा है",
-      "creating": "क्रिएट हो रहा है"
+      "creating": "क्रिएट हो रहा है",
+      "submitting": "सबमिट हो रहा है"
     },
     "pageLabel": "पेज",
     "folderLabel": "फोल्डर",
     "resourceLabel": "रिसोर्स",
-    "urlLabel": "यूआरएल"
+    "urlLabel": "यूआरएल",
+    "error": {
+      "title": "एरर",
+      "generationError": "जनरेशन एरर",
+      "refresh": "पेज रिफ्रेश करें",
+      "close": "बंद करें"
+    }
   },
   "forumForm": {
     "title": {
@@ -548,7 +586,8 @@
       "description": "फोरम का डिस्क्रिप्शन",
       "additionalFile": "एडिशनल फ़ाइल",
       "additionalFileDescription": "इस फोरम के लिए कोई रेफरेंस मटेरियल या एडिशनल रिसोर्स अपलोड करें",
-      "currentFile": "करेंट फ़ाइल"
+      "currentFile": "करेंट फ़ाइल",
+      "dueDate": "ड्यू डेट"
     },
     "placeholders": {
       "name": "फोरम का नाम एंटर करें"
@@ -946,7 +985,8 @@
         "backToEditor": "एडिटर पर वापस जाएं",
         "nextButton": "नेक्स्ट: प्रॉम्प्ट रिव्यू करें",
         "toastIdeaRequired": "कृपया अपना रूब्रिक आइडिया डिस्क्राइब करें।",
-        "loading": "प्रॉम्प्ट जनरेट हो रहा है..."
+        "loading": "प्रॉम्प्ट जनरेट हो रहा है...",
+        "cancel": "कैंसिल"
       },
       "step2": {
         "title": "एआई रूब्रिक टेम्पलेट",
@@ -1060,7 +1100,8 @@
       "title": "अभी तक कोई रुब्रिक टेम्पलेट नहीं है",
       "description": "पहला रुब्रिक टेम्पलेट बनाकर शुरू करें।",
       "createButton": "टेम्पलेट बनाएं"
-    }
+    },
+    "deleteConfirm": "इस असाइनमेंट में अभी एक रुब्रिक है। स्कोर-बेस्ड ग्रेडिंग पर स्विच करने से रुब्रिक डिलीट हो जाएगा। क्या आप जारी रखना चाहते हैं?"
   },
   "notificationsModal": {
     "sidebarTitle": "श्रेणियाँ",
@@ -1150,5 +1191,35 @@
     "generating": "जेनरेट हो रहा है...",
     "qrActive": "QR सक्रिय",
     "generateNewQr": "नया QR कोड जेनरेट करें"
+  },
+  "activityCreationChoice": {
+    "quiz": {
+      "title": "एक",
+      "titleHighlight": "क्विज़",
+      "description": "आप अपना क्विज़ कैसे बनाना चाहते हैं, चुनें।",
+      "manualDescription": "क्विज़ डिटेल्स सेट करें और सवाल खुद स्टेप बाय स्टेप जोड़ें।",
+      "aiDescription": "अपने कोर्स कंटेंट से एआई की मदद से ऑटोमैटिकली क्विज़ सवाल जनरेट करें।"
+    },
+    "assignment": {
+      "title": "एक",
+      "titleHighlight": "असाइनमेंट",
+      "description": "आप अपना असाइनमेंट कैसे बनाना चाहते हैं, चुनें।",
+      "manualDescription": "असाइनमेंट डिटेल्स, इंस्ट्रक्शन्स, और सेटिंग्स खुद भरें।",
+      "aiDescription": "एआई की मदद से अपने कोर्स मटीरियल्स से असाइनमेंट कंटेंट और इंस्ट्रक्शन्स जनरेट करें।"
+    },
+    "forum": {
+      "title": "एक",
+      "titleHighlight": "डिस्कशन फोरम",
+      "description": "आप अपना डिस्कशन फोरम कैसे बनाना चाहते हैं, चुनें।",
+      "manualDescription": "फोरम डिटेल्स और डिस्कशन प्रॉम्प्ट्स खुद सेट करें।",
+      "aiDescription": "एआई की मदद से अपने कोर्स कंटेंट से फोरम टॉपिक्स और डिस्कशन प्रॉम्प्ट्स जनरेट करें।"
+    },
+    "manualTitle": "मैन्युअली बनाएं",
+    "aiTitleBefore": "के साथ बनाएं",
+    "aiTitleHighlight": "एआई",
+    "aiRecommended": "सुझाया गया",
+    "pickMethod": "कोई तरीका चुनें",
+    "hint": "समझ नहीं आ रहा? आप",
+    "hintHighlight": "इसे बाद में बदल सकते हैं।"
   }
 }

@@ -50,13 +50,30 @@
       "savingButton": "...",
       "moduleDescriptionLabel": "ಮಾಡ್ಯೂಲ್ ವಿವರಣೆ",
       "saveChangesButton": "ಬದಲಾವಣೆಗಳನ್ನು ಉಳಿಸಿ",
-      "cancelButton": "ರದ್ದು ಮಾಡಿ"
+      "cancelButton": "ರದ್ದು ಮಾಡಿ",
+      "moduleTypeLabel": "ಮಾಡ್ಯೂಲ್ ಪ್ರಕಾರ *",
+      "moduleTypePlaceholder": "ಮಾಡ್ಯೂಲ್ ಪ್ರಕಾರ ಆಯ್ಕೆಮಾಡಿ",
+      "courseTypeLabel": "ಕೋರ್ಸ್ ಪುಟದ ಪ್ರದೇಶ *",
+      "courseTypePlaceholder": "ಕೋರ್ಸ್ ಪುಟದ ಪ್ರದೇಶ ಆಯ್ಕೆಮಾಡಿ",
+      "moduleTypes": {
+        "adminMenu": "ಅಡ್ಮಿನ್ ಮೆನು",
+        "dashboard": "ಡ್ಯಾಶ್‌ಬೋರ್ಡ್",
+        "leftMenu": "ಎಡ ಸೈಡ್ ಬಾರ್",
+        "course": "ಕೋರ್ಸ್ ಪುಟ",
+        "courseMain": "ಕೋರ್ಸ್ ಮುಖ್ಯ ವಿಷಯ",
+        "courseRightbar": "ಕೋರ್ಸ್ ಬಲ ಬಾರ್"
+      },
+      "createButton": "ಮಾಡ್ಯೂಲ್ ರಚಿಸಿ",
+      "creatingButton": "ರಚಿಸಲಾಗುತ್ತಿದೆ...",
+      "editTitle": "ಮಾಡ್ಯೂಲ್ ಸಂಪಾದಿಸಿ"
     },
     "validation": {
       "nameMinLength": "2",
       "nameMaxLength": "100",
       "descriptionMaxLength": "500",
-      "nameRequired": "ಮಾಡ್ಯೂಲ್ ಹೆಸರನ್ನು ನೀಡಬೇಕು"
+      "nameRequired": "ಮಾಡ್ಯೂಲ್ ಹೆಸರನ್ನು ನೀಡಬೇಕು",
+      "moduleTypeRequired": "ಮಾಡ್ಯೂಲ್ ಪ್ರಕಾರ ಅಗತ್ಯವಾಗಿದೆ",
+      "courseTypeRequired": "ಕೋರ್ಸ್ ಪುಟದ ಪ್ರದೇಶ ಅಗತ್ಯವಾಗಿದೆ"
     },
     "title": "ಮಾಡ್ಯೂಲ್ ನಿರ್ವಹಣೆ",
     "subtitle": "ಸಿಸ್ಟಮ್ ಮಾಡ್ಯೂಲ್‌ಗಳನ್ನು ಮತ್ತು ಅವರ ಮೆಟಾಡೇಟಾವನ್ನು ನಿರ್ವಹಿಸಿ",
@@ -67,7 +84,8 @@
       "createdAtHeader": "ರಚಿಸಿದಾಗ",
       "actionsHeader": "ಕ್ರಿಯೆಗಳು",
       "noModulesFound": "ಯಾವುದೇ ಮಾಡ್ಯೂಲ್‌ಗಳು ಕಂಡುಬಂದಿಲ್ಲ.",
-      "slNoHeader": "ಕ್ರಮ ಸಂ."
+      "slNoHeader": "ಕ್ರಮ ಸಂ.",
+      "moduleTypeHeader": "ಮಾಡ್ಯೂಲ್ ಪ್ರಕಾರ"
     },
     "deleteModal": {
       "title": "ಅಳಿಸುವುದನ್ನು ದೃಢೀಕರಿಸಿ",
@@ -235,7 +253,10 @@
     "noModulesForRole": "ಈ ರೋಲ್‌ಗೆ ಯಾವುದೇ ಮಾಡ್ಯೂಲ್‌ಗಳು ಲಭ್ಯವಿಲ್ಲ",
     "teacher": "ಟೀಚರ್",
     "toggleDisabled": "ಈ ಅನುಮತಿ ತಾತ್ಕಾಲಿಕವಾಗಿ ಲಭ್ಯವಿಲ್ಲ",
-    "toggleAlwaysOn": "ಈ ಟಾಗಲ್ ಅನ್ನು ಆಫ್ ಮಾಡಲು ಸಾಧ್ಯವಿಲ್ಲ"
+    "toggleAlwaysOn": "ಈ ಟಾಗಲ್ ಅನ್ನು ಆಫ್ ಮಾಡಲು ಸಾಧ್ಯವಿಲ್ಲ",
+    "defaultRolesGroup": "ಡೀಫಾಲ್ಟ್ ರೋಲ್ಸ್",
+    "customRolesGroup": "ಕಸ್ಟಮ್ ರೋಲ್ಸ್",
+    "customRoleTag": "ಕಸ್ಟಮ್"
   },
   "smtpConfiguration": {
     "title": "SMTP",
@@ -303,7 +324,9 @@
     "sections": {
       "learningActivities": {
         "description": "-    , ,",
-        "title": "ಕಲಿಕಾ ಚಟುವಟಿಕೆಗಳು"
+        "title": "ಕಲಿಕಾ ಚಟುವಟಿಕೆಗಳು",
+        "manageActionsNote": "ರಚಿಸಿ, ಸಂಪಾದಿಸಿ ಮತ್ತು ಅಳಿಸಿ. ಇದು ಕೋರ್ಸ್‌ನ ಎಲ್ಲಾ ಚಟುವಟಿಕೆಗಳಿಗೆ ಅನ್ವಯಿಸುತ್ತದೆ — ಇದು ಒಂದು ಕೋರ್ಸ್-ವ್ಯಾಪಿ ಅನುಮತಿ.",
+        "courseModulesNote": "ಕೋರ್ಸ್ ರೂಪರೇಖೆ ಮತ್ತು ವಿಭಾಗಗಳನ್ನು ನೋಡಿ. ಇದು ಆನ್ ಇದ್ದಾಗ ಮಾತ್ರ ಇತರ ಚಟುವಟಿಕೆ ಅನುಮತಿಗಳು ಅನ್ವಯಿಸುತ್ತವೆ."
       },
       "tools": {
         "description": "()",
@@ -342,7 +365,10 @@
       "read": "ಕಂಡು",
       "edit": "ತಿದ್ದುಪಡಿ",
       "delete": "ಅಳಿಸು",
-      "enabledCount": "ಸಕ್ರಿಯ"
+      "enabledCount": "ಸಕ್ರಿಯ",
+      "access": "ಪ್ರವೇಶ",
+      "manage": "ನಿರ್ವಹಿಸಿ",
+      "manageAll": "ಎಲ್ಲಾ ಚಟುವಟಿಕೆಗಳನ್ನು ನಿರ್ವಹಿಸಿ"
     },
     "table": {
       "moduleNameHeader": "ಮಾಡ್ಯೂಲ್ ಹೆಸರು",

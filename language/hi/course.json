@@ -18,7 +18,8 @@
     "activityCompletion": "एक्टिविटी का कम्प्लीशन",
     "certificate": "सर्टिफिकेट",
     "organize": "ऑर्गेनाइज",
-    "gradeAssignment": "असाइनमेंट ग्रेड करें"
+    "gradeAssignment": "असाइनमेंट ग्रेड करें",
+    "courseComplete": "आपने यह कोर्स पूरा कर लिया है!"
   },
   "participants": {
     "title": "पार्टिसिपेंट्स",
@@ -97,7 +98,21 @@
     "viewStudentProgressReport": "स्टूडेंट प्रोग्रेस रिपोर्ट देखें",
     "you": "आप",
     "usernameSearchDisclaimer": "सूची देखने के लिए पूरा उपयोगकर्ता नाम दर्ज करें।",
-    "spaceNotAllowed": "खोज में स्पेस की अनुमति नहीं है।"
+    "spaceNotAllowed": "खोज में स्पेस की अनुमति नहीं है।",
+    "messageGroup": {
+      "create": "मैसेज ग्रुप बनाएं",
+      "createTitle": "मैसेज ग्रुप बनाएं",
+      "nameLabel": "ग्रुप का नाम",
+      "namePlaceholder": "ग्रुप का नाम डालें",
+      "selectMembers": "पार्टिसिपेंट्स जोड़ें",
+      "searchPlaceholder": "पार्टिसिपेंट्स खोजें...",
+      "noMembersFound": "जोड़ने के लिए कोई पार्टिसिपेंट नहीं मिला।",
+      "selectedCount": "{{count}} चुने गए",
+      "creating": "बनाया जा रहा है...",
+      "createSuccess": "मैसेज ग्रुप सफलतापूर्वक बन गया।",
+      "createFailed": "मैसेज ग्रुप बनाने में दिक्कत हुई।",
+      "loadFailed": "पार्टिसिपेंट्स लोड करने में दिक्कत हुई।"
+    }
   },
   "buttons": {
     "continueeLearning": "लर्निंग कंटिन्यू करें",
@@ -117,7 +132,8 @@
     "view": "व्यू",
     "download": "डाउनलोड",
     "upload": "अपलोड",
-    "enrollSelected": "सिलेक्टेड को एनरोल करें"
+    "enrollSelected": "सिलेक्टेड को एनरोल करें",
+    "retry": "फिर से कोशिश करें"
   },
   "actions": {
     "create": "क्रिएट",

@@ -18,7 +18,8 @@
     "activityCompletion": "ಚಟುವಟಿಕೆ ಪೂರ್ಣಗೊಳಣೆ",
     "certificate": "ಪ್ರಮಾಣಪತ್ರ",
     "organize": "ಸಂಘಟಿತ ಮಾಡಿ",
-    "gradeAssignment": "ಅಸೈನ್‌ಮೆಂಟ್ ಗೆ ಅಂಕ ನೀಡಿ"
+    "gradeAssignment": "ಅಸೈನ್‌ಮೆಂಟ್ ಗೆ ಅಂಕ ನೀಡಿ",
+    "courseComplete": "ನೀವು ಈ ಕೋರ್ಸ್ ಪೂರ್ಣಗೊಳಿಸಿದ್ದೀರಿ!"
   },
   "participants": {
     "searchParticipants": "...",
@@ -97,7 +98,21 @@
     "message": "ಸಂದೇಶ",
     "addContacts": "ಸಂಪರ್ಕಗಳಿಗೆ ಸೇರಿಸಿ",
     "removeContacts": "ಸಂಪರ್ಕಗಳಿಂದ ತೆಗೆದುಹಾಕಿ",
-    "leaveCourse": "ಕೋರ್ಸ್ ಬಿಟ್ಟುಹೋಗಿ"
+    "leaveCourse": "ಕೋರ್ಸ್ ಬಿಟ್ಟುಹೋಗಿ",
+    "messageGroup": {
+      "create": "ಸಂದೇಶ ಗುಂಪು ರಚಿಸಿ",
+      "createTitle": "ಸಂದೇಶ ಗುಂಪು ರಚಿಸಿ",
+      "nameLabel": "ಗುಂಪಿನ ಹೆಸರು",
+      "namePlaceholder": "ಗುಂಪಿನ ಹೆಸರನ್ನು ನಮೂದಿಸಿ",
+      "selectMembers": "ಭಾಗವಹಿಸುವವರನ್ನು ಸೇರಿಸಿ",
+      "searchPlaceholder": "ಭಾಗವಹಿಸುವವರನ್ನು ಹುಡುಕಿ...",
+      "noMembersFound": "ಸೇರಿಸಲು ಭಾಗವಹಿಸುವವರು ಸಿಕ್ಕಿಲ್ಲ.",
+      "selectedCount": "{{count}} ಆಯ್ಕೆ ಮಾಡಲಾಗಿದೆ",
+      "creating": "ರಚಿಸಲಾಗುತ್ತಿದೆ...",
+      "createSuccess": "ಸಂದೇಶ ಗುಂಪು ಯಶಸ್ವಿಯಾಗಿ ರಚಿಸಲಾಗಿದೆ.",
+      "createFailed": "ಸಂದೇಶ ಗುಂಪು ರಚಿಸಲು ವಿಫಲವಾಗಿದೆ.",
+      "loadFailed": "ಭಾಗವಹಿಸುವವರನ್ನು ಲೋಡ್ ಮಾಡಲು ವಿಫಲವಾಗಿದೆ."
+    }
   },
   "buttons": {
     "continueeLearning": "ಕಂಟಿನ್ಯೂ ಲರ್ನಿಂಗ್",
@@ -117,7 +132,8 @@
     "view": "ವ್ಯೂ",
     "download": "ಡೌನ್‌ಲೋಡ್",
     "upload": "ಅಪ್‌ಲೋಡ್",
-    "enrollSelected": "ಚಯನಿತವನ್ನು ನೋಂದಣಿ ಮಾಡಿ"
+    "enrollSelected": "ಚಯನಿತವನ್ನು ನೋಂದಣಿ ಮಾಡಿ",
+    "retry": "ಮತ್ತೆ ಪ್ರಯತ್ನಿಸಿ"
   },
   "actions": {
     "create": "ಕ್ರಿಯೇಟ್",

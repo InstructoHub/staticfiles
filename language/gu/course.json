@@ -18,7 +18,8 @@
     "activityCompletion": "ક્રિયાની પૂર્ણતા",
     "certificate": "પ્રમાણપત્ર",
     "organize": "સંઘટિત કરો",
-    "gradeAssignment": "અસાઇનમેન્ટ ગ્રેડ કરો"
+    "gradeAssignment": "અસાઇનમેન્ટ ગ્રેડ કરો",
+    "courseComplete": "તમે આ કોર્સ પૂરું કરી લીધો છે!"
   },
   "participants": {
     "searchParticipants": "...",
@@ -97,7 +98,21 @@
     "message": "સંદેશ",
     "addContacts": "સંપર્કોમાં ઉમેરો",
     "removeContacts": "સંપર્કોમાંથી દૂર કરો",
-    "leaveCourse": "કોર્સ છોડો"
+    "leaveCourse": "કોર્સ છોડો",
+    "messageGroup": {
+      "create": "મેસેજ ગ્રુપ બનાવો",
+      "createTitle": "મેસેજ ગ્રુપ બનાવો",
+      "nameLabel": "ગ્રુપનું નામ",
+      "namePlaceholder": "ગ્રુપનું નામ દાખલ કરો",
+      "selectMembers": "ભાગ લેનારાઓ ઉમેરો",
+      "searchPlaceholder": "ભાગ લેનારાઓ શોધો...",
+      "noMembersFound": "ઉમેરવા માટે કોઈ ભાગ લેનારાઓ મળ્યા નથી.",
+      "selectedCount": "{{count}} પસંદ કર્યાં",
+      "creating": "બનાવી રહ્યા છીએ...",
+      "createSuccess": "મેસેજ ગ્રુપ સફળતાપૂર્વક બની ગયું.",
+      "createFailed": "મેસેજ ગ્રુપ બનાવવામાં નિષ્ફળ રહ્યું.",
+      "loadFailed": "ભાગ લેનારાઓ લોડ કરવામાં નિષ્ફળ રહ્યું."
+    }
   },
   "status": {
     "loading": "...",
@@ -216,7 +231,8 @@
     "view": "જુઓ",
     "download": "ડાઉનલોડ કરો",
     "upload": "અપલોડ કરો",
-    "enrollSelected": "ચૂંટેલને નોંધણી કરો"
+    "enrollSelected": "ચૂંટેલને નોંધણી કરો",
+    "retry": "ફરી પ્રયાસ કરો"
   },
   "actions": {
     "create": "બનાવો",

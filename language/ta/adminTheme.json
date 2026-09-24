@@ -267,6 +267,11 @@
     "actionBlockedShort": "ப்ரீவியூ முறையில் கிடைக்காது",
     "closeConfirmTitle": "ப்ரீவியூ முறையை வெளியேறவா?",
     "closeConfirmMessage": "நீங்கள் உண்மையில் தீம் ப்ரீவியூவிலிருந்து வெளியேற விரும்புகிறீர்களா?",
-    "closeConfirmContinue": "ப்ரீவியூவிலிருந்து வெளியேறு"
+    "closeConfirmContinue": "ப்ரீவியூவிலிருந்து வெளியேறு",
+    "titleShort": "முன்னோட்டம்",
+    "hideBar": "முன்னோட்ட பட்டையை மறை",
+    "showBar": "முன்னோட்ட பட்டையைக் காட்டு",
+    "showBarAction": "காட்டு",
+    "dragHandle": "நகர்த்த இழுக்கவும்"
   }
 }

@@ -62,6 +62,20 @@
       "total_enrollments": "ମୋଟ ଏନରୋଲମେଣ୍ଟ",
       "completed_courses": "ସମାପ୍ତ କୋର୍ସ",
       "pending_completions": "ବକାୟା ସମାପ୍ତି"
+    },
+    "recentUsers": {
+      "title": "ସମ୍ପ୍ରତି ପ୍ଲାଟଫର୍ମ ବ୍ୟବହାର — {{name}}",
+      "subtitle": "ଏହି tenant କୁ କିଏ ବ୍ୟବହାର କଲେ ଏବଂ ପ୍ଲାଟଫର୍ମରେ ସେମାନେ କ’ଣ କଲେ",
+      "lastAccess": "ଶେଷ ଆକ୍ସେସ: {{time}}",
+      "activityCount": "କାର୍ଯ୍ୟ",
+      "noLogs": "ଏହି snapshot ରେ କୌଣସି ପ୍ଲାଟଫର୍ମ କାର୍ଯ୍ୟ ନାହିଁ",
+      "noUsers": "ଏହି tenant ପାଇଁ ସମ୍ପ୍ରତି କୌଣସି user ନାହାନ୍ତି",
+      "systemEventsHidden": "{{count}} system notification event ଲୁକ୍କାୟିତ",
+      "origin": {
+        "web": "Web",
+        "ws": "API",
+        "cli": "System"
+      }
     }
   }
 }

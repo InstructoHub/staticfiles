@@ -18,7 +18,8 @@
     "activityCompletion": "क्रियाकलाप पूर्णता",
     "certificate": "प्रमाणपत्र",
     "organize": "आयोजित करा",
-    "gradeAssignment": "ग्रेड असाइनमेंट"
+    "gradeAssignment": "ग्रेड असाइनमेंट",
+    "courseComplete": "तुम्ही हा कोर्स पूर्ण केला आहे!"
   },
   "participants": {
     "title": "सहभागी",
@@ -97,7 +98,21 @@
     "viewStudentProgressReport": "छात्र प्रगती रिपोर्ट पहा",
     "you": "तू",
     "usernameSearchDisclaimer": "यादी पाहण्यासाठी पूर्ण वापरकर्तानाव प्रविष्ट करा.",
-    "spaceNotAllowed": "शोधामध्ये स्पेस अनुमत नाही."
+    "spaceNotAllowed": "शोधामध्ये स्पेस अनुमत नाही.",
+    "messageGroup": {
+      "create": "मेसेज ग्रुप तयार करा",
+      "createTitle": "मेसेज ग्रुप तयार करा",
+      "nameLabel": "ग्रुपचे नाव",
+      "namePlaceholder": "ग्रुपचे नाव एंटर करा",
+      "selectMembers": "सभासद जोडा",
+      "searchPlaceholder": "सभासद शोधा...",
+      "noMembersFound": "जोडण्यासाठी कोणतेही सभासद सापडले नाहीत.",
+      "selectedCount": "{{count}} निवडले",
+      "creating": "तयार करत आहे...",
+      "createSuccess": "मेसेज ग्रुप यशस्वीरित्या तयार झाला.",
+      "createFailed": "मेसेज ग्रुप तयार करण्यात अयशस्वी.",
+      "loadFailed": "सभासद लोड करण्यात अयशस्वी."
+    }
   },
   "buttons": {
     "continueeLearning": "शिक्षण सुरू ठेवा",
@@ -117,7 +132,8 @@
     "view": "पाहा",
     "download": "डाउनलोड करा",
     "upload": "अपलोड करा",
-    "enrollSelected": "निवडलेले नोंदणी करा"
+    "enrollSelected": "निवडलेले नोंदणी करा",
+    "retry": "पुन्हा प्रयत्न करा"
   },
   "actions": {
     "add": "जोडा",

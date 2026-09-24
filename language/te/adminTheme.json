@@ -267,6 +267,11 @@
     "actionBlockedShort": "ప్రీవ్యూ మోడ్‌లో అందుబాటులో లేదు",
     "closeConfirmTitle": "ప్రీవ్యూ మోడ్ నుంచి బయటకు రావాలా?",
     "closeConfirmMessage": "థీమ్ ప్రీవ్యూ నుంచి బయటకు రావాలనుకుంటున్నారా?",
-    "closeConfirmContinue": "ప్రీవ్యూ నుంచి బయటకు రండి"
+    "closeConfirmContinue": "ప్రీవ్యూ నుంచి బయటకు రండి",
+    "titleShort": "ప్రీవ్యూ",
+    "hideBar": "ప్రీవ్యూ బార్ దాచండి",
+    "showBar": "ప్రీవ్యూ బార్ చూపించండి",
+    "showBarAction": "చూపించు",
+    "dragHandle": "తరలించడానికి లాగండి"
   }
 }

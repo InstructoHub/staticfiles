@@ -62,7 +62,9 @@
         "countryInvalid": "ଦୟାକରି ଏକ ବୈଧ ଦେଶ ଚୟନ କରନ୍ତୁ",
         "usernameTaken": "ଏହି ଉଜରନେମ୍ ପୂର୍ବରୁ ନିଆଯାଇଛି",
         "emailTaken": "ଏହି ଇମେଲ୍ ପୂର୍ବରୁ ରେଜିଷ୍ଟର୍ ହୋଇଛି"
-      }
+      },
+      "dateNotInPast": "ତାରିଖ ପୁରୁଣା ହୋଇପାରିବ ନାହିଁ",
+      "startDateInPast": "ଶୁରୁଆତ ତାରିଖ ପୁରୁଣା ହୋଇପାରିବ ନାହିଁ"
     },
     "hints": {
       "characterLimit": "ସର୍ବାଧିକ {{max}} ଅକ୍ଷରଗୁଡ଼ିକ"
@@ -390,6 +392,7 @@
   },
   "validation": {
     "availabilityAfterDue": "ସମର୍ପଣ ଆରମ୍ଭ ତାରିଖଟି ଶେଷ ତାରିଖ ପୂର୍ବରୁ ଥିବା ଦରକାର",
-    "dueDateBeforeAvailability": "ଶେଷ ତାରିଖ ସମର୍ପଣ ଆରମ୍ଭ ତାରିଖ ପରେ ଥିବା ଦରକାର"
+    "dueDateBeforeAvailability": "ଶେଷ ତାରିଖ ସମର୍ପଣ ଆରମ୍ଭ ତାରିଖ ପରେ ଥିବା ଦରକାର",
+    "fillAllRequiredFields": "ଦୟାକରି ସମସ୍ତ ଆବଶ୍ୟକ ଫିଲ୍ଡ ପୂରଣ କରନ୍ତୁ"
   }
 }

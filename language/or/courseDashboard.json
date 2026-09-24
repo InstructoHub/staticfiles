@@ -24,7 +24,9 @@
     },
     "ai": {
       "confirmEnableAIForCourse": "ଆପଣ ଏହି କୋର୍ସ ପାଇଁ AI ସକ୍ରିୟ କରିବାକୁ ନିଶ୍ଚିତ କି?",
-      "confirmDisableAIForCourse": "ଆପଣ ଏହି କୋର୍ସ ପାଇଁ AI ବନ୍ଦ କରିବାକୁ ନିଶ୍ଚିତ କି?"
+      "confirmDisableAIForCourse": "ଆପଣ ଏହି କୋର୍ସ ପାଇଁ AI ବନ୍ଦ କରିବାକୁ ନିଶ୍ଚିତ କି?",
+      "disablingAIForCourse": "ଡିସେବଲ୍ କରୁଛି...",
+      "enablingAIForCourse": "ଏନେବଲ୍ କରୁଛି..."
     },
     "courseOverview": {
       "title": "କୋର୍ସ ଅବଲୋକନ",
@@ -66,6 +68,25 @@
       "manualChoiceButton": "ମାନୁଆଲି ସୃଷ୍ଟି କରନ୍ତୁ",
       "firstVisitHint": "ନିଶ୍ଚିତ ନୁହେଁ? ଆପଣ",
       "firstVisitHintHighlight": "ପରେ ଏହା ପରିବର୍ତ୍ତନ କରିପାରିବେ."
+    },
+    "whatYoullLearn": {
+      "title": "ଆପଣ କ’ଣ ଶିଖିବେ"
+    },
+    "courseIncludes": {
+      "title": "ଏହି କୋର୍ସରେ ଅଛି:",
+      "modules": "ମଡ୍ୟୁଲ୍ସ",
+      "pages": "ପେଜ୍ସ",
+      "resources": "ରିସୋର୍ସେସ୍",
+      "assignments": "ଅସାଇନ୍‌ମେଣ୍ଟ୍ସ",
+      "quizzes": "କ୍ୱିଜ୍‌ସ୍",
+      "h5pActivities": "H5P ଆକ୍ଟିଭିଟିଜ୍",
+      "forums": "ଡିସକସନ୍‌ସ୍",
+      "scormPackages": "SCORM ପ୍ୟାକେଜ୍‌ସ୍",
+      "liveSessions": "ଲାଇଭ୍ ସେସନ୍‌ସ୍"
+    },
+    "courseEnded": {
+      "title": "ଏହି କୋର୍ସ ଶେଷ ହୋଇଛି",
+      "description": "ଆପଣ ଏଉଁଠିକି କୋର୍ସ କଣ୍ଟେଣ୍ଟ ଦେଖିପାରିବେ, କିନ୍ତୁ ଗ୍ରେଡେଡ୍ ଆକ୍ଟିଭିଟି ପାଇଁ ସବମିଶନ୍ ବନ୍ଦ ଅଛି"
     }
   },
   "studentSummary": {
@@ -373,7 +394,8 @@
       "gradeMethod": "ଗ୍ରେଡ୍ ପ୍ରଣାଳୀ",
       "maxGrade": "ସର୍ବାଧିକ ଗ୍ରେଡ୍",
       "passingGrade": "ପାସିଂ ଗ୍ରେଡ୍ (%)",
-      "description": "ବିବରଣୀ"
+      "description": "ବିବରଣୀ",
+      "availabilityDate": "ଏହି ତାରିଖରୁ ଜମା ଗ୍ରହଣ କରନ୍ତୁ"
     },
     "placeholders": {
       "name": "କ୍ୱିଜ୍ ନାମ ଦିଅନ୍ତୁ",
@@ -391,7 +413,12 @@
     "labels": {
       "enable": "ସକ୍ରିୟ କରନ୍ତୁ",
       "minutes": "ମିନିଟ୍",
-      "unlimited": "ଅସୀମିତ"
+      "unlimited": "ଅସୀମିତ",
+      "attempt": "ଚେଷ୍ଟା",
+      "attempts": "ଚେଷ୍ଟାଗୁଡ଼ିକ",
+      "noAvailabilityDate": "ସବୁବେଳେ ଉପଲବ୍ଧ",
+      "noDueDate": "କୌଣସି ଶେଷ ତାରିଖ ନିର୍ଦ୍ଧାରିତ ନାହିଁ",
+      "noTimeLimit": "ଅସୀମିତ"
     },
     "buttons": {
       "cancel": "ବାତିଲ୍ କରନ୍ତୁ",
@@ -415,7 +442,9 @@
       "dueDatePast": "ଦେୟ ତାରିଖ ପୂର୍ବରୁ ହେବା ଚାହିଁ",
       "invalidDate": "ଦୟାକରି ଏକ ବୃହତ ତାରିଖ ଦିଅନ୍ତୁ",
       "availabilityAfterDue": "ଦାଖଲ ଆରମ୍ଭ ତାରିଖ ଡ୍ୟୁ ଡେଟ୍ ପୂର୍ବରୁ ରହିବା ଦରକାର",
-      "dueDateBeforeAvailability": "ଡ୍ୟୁ ଡେଟ୍ ଦାଖଲ ଆରମ୍ଭ ତାରିଖ ପରେ ହେବା ଦରକାର"
+      "dueDateBeforeAvailability": "ଡ୍ୟୁ ଡେଟ୍ ଦାଖଲ ଆରମ୍ଭ ତାରିଖ ପରେ ହେବା ଦରକାର",
+      "availabilityPast": "ଏହି ତାରିଖରୁ ଜମା ଗ୍ରହଣ କରନ୍ତୁ ତାରିଖ ପୂର୍ବତନ ହୋଇପାରିବ ନାହିଁ",
+      "fillAllRequiredFields": "ଦୟାକରି ସମସ୍ତ ଆବଶ୍ୟକ ଫିଲ୍ଡ ଭରନ୍ତୁ"
     },
     "messages": {
       "createSuccess": "କ୍ୱିଜ୍ ସଫଳତାର ସହ ସୃଷ୍ଟି ହେଲା!",
@@ -473,7 +502,8 @@
       "titleOverLimit": "{{limit}}",
       "selectContent": "ଦୟାକରି କମ୍ ସେ କମ୍ ଗୋଟିଏ ସାମଗ୍ରୀ ବାଛନ୍ତୁ",
       "enterPrompt": "ଦୟାକରି ଗୋଟିଏ ପ୍ରମ୍ପ୍ଟ ଦିଅନ୍ତୁ",
-      "selectQuestion": "ଦୟାକରି କମ୍ ସେ କମ୍ ଗୋଟିଏ ପ୍ରଶ୍ନ ପ୍ରକାର ବାଛନ୍ତୁ"
+      "selectQuestion": "ଦୟାକରି କମ୍ ସେ କମ୍ ଗୋଟିଏ ପ୍ରଶ୍ନ ପ୍ରକାର ବାଛନ୍ତୁ",
+      "titleRequired": "Quiz title ଆବଶ୍ୟକ"
     },
     "messages": {
       "quizCreated": "!",
@@ -517,7 +547,8 @@
       "errorOccurred": "ପ୍ରମ୍ପ୍ଟ ତିଆରି କରିବା ସମୟରେ ଏକ ତ୍ରୁଟି ଘଟିଛି",
       "generationError": "ତିଆରି ତ୍ରୁଟି",
       "refresh": "ପୃଷ୍ଠାକୁ ନବୀକରଣ କରନ୍ତୁ",
-      "close": "ବନ୍ଦ କରନ୍ତୁ"
+      "close": "ବନ୍ଦ କରନ୍ତୁ",
+      "tokenUnavailable": "AI token ଉପଲବ୍ଧ ନାହିଁ ଦୟାକରି administrator ସହିତ ସମ୍ପର୍କ କରନ୍ତୁ"
     },
     "defaults": {
       "courseName": "କୋର୍ସ",
@@ -527,12 +558,19 @@
     "loader": {
       "loading": "ଲୋଡ୍ ହେଉଛି",
       "generating": "ଜନ୍ମ ଦେଉଛି",
-      "creating": "ସୃଷ୍ଟି କରୁଛି"
+      "creating": "ସୃଷ୍ଟି କରୁଛି",
+      "submitting": "ଜମା କରୁଛି"
     },
     "pageLabel": "ପୃଷ୍ଠା",
     "folderLabel": "ଫୋଲ୍ଡର୍",
     "resourceLabel": "ରିସୋର୍ସ",
-    "urlLabel": "ୟୁଆରଏଲ୍"
+    "urlLabel": "ୟୁଆରଏଲ୍",
+    "error": {
+      "title": "ତ୍ରୁଟି",
+      "generationError": "ତିଆରି କରିବାରେ ତ୍ରୁଟି",
+      "refresh": "ପେଜ୍ ରିଫ୍ରେଶ କରନ୍ତୁ",
+      "close": "ବନ୍ଦ କରନ୍ତୁ"
+    }
   },
   "forumForm": {
     "buttons": {
@@ -565,7 +603,8 @@
       "description": "ଫୋରମ୍ ବିବରଣୀ",
       "additionalFile": "ଅତିରିକ୍ତ ଫାଇଲ୍",
       "additionalFileDescription": "ଏହି ଫୋରମ୍ ପାଇଁ ଏକ ସନ୍ଦର୍ଭ ସାମଗ୍ରୀ କିମ୍ବା ଅତିରିକ୍ତ ସାଧନ ଅପଲୋଡ୍ କରନ୍ତୁ",
-      "currentFile": "ବର୍ତ୍ତମାନ ଫାଇଲ୍"
+      "currentFile": "ବର୍ତ୍ତମାନ ଫାଇଲ୍",
+      "dueDate": "ଶେଷ ତାରିଖ"
     },
     "placeholders": {
       "name": "ଫୋରମ୍ ନାମ ଦାଖଲ କରନ୍ତୁ"
@@ -907,7 +946,8 @@
         "toastIdeaRequired": "ଦୟାକରି ତୁମର ରୁବ୍ରିକ୍ ଆଇଡିଆ ବର୍ଣ୍ଣନା କର",
         "loading": "ପ୍ରମ୍ପ୍ଟ ତିଆରି କରାଯାଉଛି...",
         "title": "AI ରୁବ୍ରିକ୍ ଟେମ୍ପଲେଟ୍",
-        "subtitle": "ଆପଣଙ୍କର ରୁବ୍ରିକ୍ ଧାରଣା ବର୍ଣ୍ଣନା କରନ୍ତୁ ଏବଂ AI କୁ ଏହା ନିର୍ମାଣ କରିବାକୁ ଦିଅନ୍ତୁ"
+        "subtitle": "ଆପଣଙ୍କର ରୁବ୍ରିକ୍ ଧାରଣା ବର୍ଣ୍ଣନା କରନ୍ତୁ ଏବଂ AI କୁ ଏହା ନିର୍ମାଣ କରିବାକୁ ଦିଅନ୍ତୁ",
+        "cancel": "ବାତିଲ୍"
       },
       "step2": {
         "title": "AI ରୁବ୍ରିକ୍ ଟେମ୍ପଲେଟ୍",
@@ -1056,7 +1096,8 @@
       "title": "ଏପର୍ଯ୍ୟନ୍ତ କୌଣସି ରୁବ୍ରିକ୍ ଟେମ୍ପଲେଟ୍ ନାହିଁ",
       "description": "ପ୍ରଥମ ରୁବ୍ରିକ୍ ଟେମ୍ପଲେଟ୍ ତିଆରି କରି ଆରମ୍ଭ କରନ୍ତୁ",
       "createButton": "ଟେମ୍ପଲେଟ୍ ବନାନ୍ତୁ"
-    }
+    },
+    "deleteConfirm": "ଏହି assignmentରେ ବର୍ତ୍ତମାନ ଏକ rubric ଅଛି score-based grading କୁ ସ୍ୱିଚ୍ କଲେ rubric ଡିଲିଟ୍ ହେବ ଆପଣ ଜାରି ରଖିବେ କି?"
   },
   "notificationsModal": {
     "sidebarTitle": "ଶ୍ରେଣୀଗୁଡ଼ିକ",
@@ -1146,5 +1187,35 @@
     "generating": "ସୃଷ୍ଟି ହେଉଛି...",
     "qrActive": "QR ସକ୍ରିୟ",
     "generateNewQr": "ନୂଆ QR କୋଡ୍ ସୃଷ୍ଟି କରନ୍ତୁ"
+  },
+  "activityCreationChoice": {
+    "quiz": {
+      "title": "ତିଆରି କରନ୍ତୁ ଏକ",
+      "titleHighlight": "କ୍ୱିଜ୍",
+      "description": "ଆପଣ କିପରି ନିଜ କ୍ୱିଜ୍ ତିଆରି କରିବାକୁ ଚାହୁଁଛନ୍ତି ବାଛନ୍ତୁ",
+      "manualDescription": "କ୍ୱିଜ୍ ଡିଟେଲ୍ସ ସେଟ୍ କରନ୍ତୁ ଏବଂ ପ୍ରଶ୍ନଗୁଡ଼ିକ ନିଜେ ଧୀରେଧୀରେ ଯୋଡ଼ନ୍ତୁ",
+      "aiDescription": "AI ବ୍ୟବହାର କରି ଆପଣଙ୍କ କୋର୍ସ କଣ୍ଟେଣ୍ଟରୁ ଆପେଆପେ କ୍ୱିଜ୍ ପ୍ରଶ୍ନ ଜେନେରେଟ୍ କରନ୍ତୁ"
+    },
+    "assignment": {
+      "title": "ତିଆରି କରନ୍ତୁ ଏକ",
+      "titleHighlight": "ଅସାଇନ୍‌ମେଣ୍ଟ",
+      "description": "ଆପଣ କିପରି ନିଜ ଅସାଇନ୍‌ମେଣ୍ଟ ତିଆରି କରିବାକୁ ଚାହୁଁଛନ୍ତି ବାଛନ୍ତୁ",
+      "manualDescription": "ଅସାଇନ୍‌ମେଣ୍ଟ ଡିଟେଲ୍ସ, ଇନ୍‌ଷ୍ଟ୍ରକ୍ସନ୍‌ସ୍ ଏବଂ ସେଟିଙ୍ଗ୍‌ସ୍ ନିଜେ ପୂରଣ କରନ୍ତୁ",
+      "aiDescription": "AI ବ୍ୟବହାର କରି ଆପଣଙ୍କ କୋର୍ସ ମାଟେରିଆଲ୍‌ସ୍‌ରୁ ଅସାଇନ୍‌ମେଣ୍ଟ କଣ୍ଟେଣ୍ଟ ଏବଂ ଇନ୍‌ଷ୍ଟ୍ରକ୍ସନ୍‌ସ୍ ଜେନେରେଟ୍ କରନ୍ତୁ"
+    },
+    "forum": {
+      "title": "ତିଆରି କରନ୍ତୁ ଏକ",
+      "titleHighlight": "ଡିସକସନ୍ ଫୋରମ୍",
+      "description": "ଆପଣ କିପରି ନିଜ ଡିସକସନ୍ ଫୋରମ୍ ତିଆରି କରିବାକୁ ଚାହୁଁଛନ୍ତି ବାଛନ୍ତୁ",
+      "manualDescription": "ଫୋରମ୍ ଡିଟେଲ୍ସ ଏବଂ ଡିସକସନ୍ ପ୍ରମ୍ପ୍ଟ୍‌ସ୍ ନିଜେ ସେଟ୍ କରନ୍ତୁ",
+      "aiDescription": "AI ବ୍ୟବହାର କରି ଆପଣଙ୍କ କୋର୍ସ କଣ୍ଟେଣ୍ଟରୁ ଫୋରମ୍ ଟପିକ୍‌ସ୍ ଏବଂ ଡିସକସନ୍ ପ୍ରମ୍ପ୍ଟ୍‌ସ୍ ଜେନେରେଟ୍ କରନ୍ତୁ"
+    },
+    "manualTitle": "ହାତେ ତିଆରି କରନ୍ତୁ",
+    "aiTitleBefore": "ସହିତ ତିଆରି କରନ୍ତୁ",
+    "aiTitleHighlight": "AI",
+    "aiRecommended": "ସୁପାରିଶିତ",
+    "pickMethod": "ଏକ ପଦ୍ଧତି ବାଛନ୍ତୁ",
+    "hint": "ନିଶ୍ଚିତ ନୁହେଁ? ଆପଣ",
+    "hintHighlight": "ପରେ ଏହା ବଦଳାଇପାରିବେ"
   }
 }

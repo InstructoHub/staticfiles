@@ -126,7 +126,8 @@
     "view": "View",
     "download": "Download",
     "upload": "Upload",
-    "enrollSelected": "Enroll Selected"
+    "enrollSelected": "Enroll Selected",
+    "retry": "Retry"
   },
 
   "actions": {

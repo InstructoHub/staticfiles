@@ -267,6 +267,11 @@
     "actionBlockedShort": "ਪ੍ਰੀਵਿਊ ਮੋਡ ਵਿੱਚ ਉਪਲਬਧ ਨਹੀਂ",
     "closeConfirmTitle": "ਪ੍ਰੀਵਿਊ ਮੋਡ ਛੱਡਣਾ?",
     "closeConfirmMessage": "ਕੀ ਤੁਸੀਂ ਪੱਕੇ ਹੋ ਕਿ ਤੁਸੀਂ ਥੀਮ ਪ੍ਰੀਿਊ ਛੱਡਣਾ ਚਾਹੁੰਦੇ ਹੋ?",
-    "closeConfirmContinue": "ਪ੍ਰੀਵਿਊ ਛੱਡੋ"
+    "closeConfirmContinue": "ਪ੍ਰੀਵਿਊ ਛੱਡੋ",
+    "titleShort": "ਪ੍ਰੀਵਿਊ",
+    "hideBar": "ਪ੍ਰੀਵਿਊ ਬਾਰ ਲੁਕਾਓ",
+    "showBar": "ਪ੍ਰੀਵਿਊ ਬਾਰ ਦਿਖਾਓ",
+    "showBarAction": "ਦਿਖਾਓ",
+    "dragHandle": "ਹਿਲਾਉਣ ਲਈ ਡ੍ਰੈਗ ਕਰੋ"
   }
 }

@@ -74,7 +74,10 @@
       "selfEnrollment": "ਸਵੈ-ਭਰਤੀ",
       "manualEnrollment": "ਮੈਨੂਅਲ ਭਰਤੀ",
       "guestAccess": "ਗੈਸਟ ਐਕਸੈਸ",
-      "courseVisibility": "ਕੋਰਸ ਵਿਜ਼ੀਬਿਲਟੀ"
+      "courseVisibility": "ਕੋਰਸ ਵਿਜ਼ੀਬਿਲਟੀ",
+      "aiCourseOverview": "AI ਕੋਰਸ ਓਵਰਵਿਊ",
+      "loadFromAi": "AI ਤੋਂ ਕੋਰਸ ਓਵਰਵਿਊ ਲੋਡ ਕਰੋ",
+      "autoUpdateFromAi": "AI ਤੋਂ ਆਪੇ ਅੱਪਡੇਟ ਕਰੋ"
     },
     "placeholders": {
       "courseName": "ਪੂਰਾ ਕੋਰਸ ਨਾਮ ਦਰਜ ਕਰੋ",
@@ -135,6 +138,11 @@
       "hidden": "ਛੁਪਿਆ",
       "visibleDescription": "ਵਿਦਿਆਰਥੀ ਇਹ ਕੋਰਸ ਲੱਭ ਕੇ ਪਹੁੰਚ ਕਰ ਸਕਦੇ ਹਨ",
       "hiddenDescription": "ਕੋਰਸ ਵਿਦਿਆਰਥੀਆਂ ਤੋਂ ਛੁਪਿਆ ਰਹੇਗਾ ਜਦ ਤੱਕ ਤੁਸੀਂ ਇਸਨੂੰ ਦਿਖਣਯੋਗ ਨਹੀਂ ਬਣਾਉਂਦੇ"
+    },
+    "descriptions": {
+      "loadFromAi": "ਜਦੋਂ ਕੋਰਸ ਲਈ AI ਚਾਲੂ ਹੋਵੇ, ਕੋਰਸ ਓਵਰਵਿਊ ਇੱਕ ਵਾਰ ਬਣਾਇਆ ਜਾਂਦਾ ਹੈ ਅਤੇ ਸਾਰੇ ਯੂਜ਼ਰਾਂ ਨੂੰ ਦਿਖਾਇਆ ਜਾਂਦਾ ਹੈ",
+      "autoUpdateFromAi": "ਜਦੋਂ ਮੋਡੀਊਲ ਬਦਲਦੇ ਹਨ, AI ਕੋਰਸ ਓਵਰਵਿਊ ਆਪੇ ਮੁੜ ਬਣਾਇਆ ਅਤੇ ਅੱਪਡੇਟ ਕੀਤਾ ਜਾਂਦਾ ਹੈ",
+      "blankDescriptionAi": "ਜੇ Description ਖਾਲੀ ਛੱਡੀ ਹੋਵੇ ਅਤੇ ਇਸ ਕੋਰਸ ਲਈ AI ਚਾਲੂ ਹੋਵੇ, ਤਾਂ AI ਆਪੇ ਕੋਰਸ ਓਵਰਵਿਊ (ਛੋਟੀ ਵਰਣਨਾ ਅਤੇ ਲਰਨਿੰਗ ਆਉਟਕਮਜ਼) ਬਣਾਏਗਾ"
     }
   },
   "modals": {

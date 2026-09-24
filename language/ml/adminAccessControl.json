@@ -54,14 +54,30 @@
       "createdAtHeader": "എപ്പോൾ സൃഷ്ടിച്ചത്",
       "actionsHeader": "ആക്ഷനുകൾ",
       "noModulesFound": "മോഡ്യൂലുകൾ കണ്ടെത്തിയില്ല.",
-      "slNoHeader": "ക്രമം"
+      "slNoHeader": "ക്രമം",
+      "moduleTypeHeader": "മൊഡ്യൂൾ തരം"
     },
     "form": {
       "moduleNameLabel": "മോഡ്യൂലിന്റെ പേര് *",
       "moduleDescriptionLabel": "മോഡ്യൂലിന്റെ വിവരണം",
       "saveChangesButton": "മാറ്റങ്ങൾ സേവ് ചെയ്യുക",
       "savingButton": "സേവ് ചെയ്യുന്നു...",
-      "cancelButton": "കാൻസൽ ചെയ്യുക"
+      "cancelButton": "കാൻസൽ ചെയ്യുക",
+      "moduleTypeLabel": "മൊഡ്യൂൾ തരം *",
+      "moduleTypePlaceholder": "മൊഡ്യൂൾ തരം തിരഞ്ഞെടുക്കുക",
+      "courseTypeLabel": "കോഴ്‌സ് പേജ് ഏരിയ *",
+      "courseTypePlaceholder": "കോഴ്‌സ് പേജ് ഏരിയ തിരഞ്ഞെടുക്കുക",
+      "moduleTypes": {
+        "adminMenu": "അഡ്മിൻ മെനു",
+        "dashboard": "ഡാഷ്ബോർഡ്",
+        "leftMenu": "ഇടത് സൈഡ്‌ബാർ",
+        "course": "കോഴ്‌സ് പേജ്",
+        "courseMain": "കോഴ്‌സിന്റെ പ്രധാന ഉള്ളടക്കം",
+        "courseRightbar": "കോഴ്‌സ് റൈറ്റ് ബാർ"
+      },
+      "createButton": "മൊഡ്യൂൾ സൃഷ്ടിക്കുക",
+      "creatingButton": "സൃഷ്ടിക്കുന്നു...",
+      "editTitle": "മൊഡ്യൂൾ എഡിറ്റ് ചെയ്യുക"
     },
     "deleteModal": {
       "title": "ഡിലീഷൻ സ്ഥിരീകരിക്കുക",
@@ -83,7 +99,9 @@
       "nameRequired": "മോഡ്യൂലിന്റെ പേര് ആവശ്യമാണ്",
       "nameMinLength": "മോഡ്യൂലിന്റെ പേര് കുറഞ്ഞത് 2 അക്ഷരങ്ങൾ ആയിരിക്കണം",
       "nameMaxLength": "മോഡ്യൂലിന്റെ പേര് 100 അക്ഷരങ്ങൾ കവിയരുത്",
-      "descriptionMaxLength": "വിവരണം 500 അക്ഷരങ്ങൾ കവിയരുത്"
+      "descriptionMaxLength": "വിവരണം 500 അക്ഷരങ്ങൾ കവിയരുത്",
+      "moduleTypeRequired": "മൊഡ്യൂൾ തരം ആവശ്യമാണ്",
+      "courseTypeRequired": "കോഴ്‌സ് പേജ് ഏരിയ ആവശ്യമാണ്"
     }
   },
   "pageHeader": {
@@ -235,7 +253,9 @@
     "sections": {
       "learningActivities": {
         "title": "ലർനിംഗ് അക്ടിവിറ്റികൾ",
-        "description": "കോഴ്സ് ലെവൽ അക്ടിവിറ്റികൾക്കായി വ്യൂ, ക്രിയേറ്റ്, എഡിറ്റ്, ഡിലീറ്റ് പർമിഷനുകൾ കൺഫിഗർ ചെയ്യുക."
+        "description": "കോഴ്സ് ലെവൽ അക്ടിവിറ്റികൾക്കായി വ്യൂ, ക്രിയേറ്റ്, എഡിറ്റ്, ഡിലീറ്റ് പർമിഷനുകൾ കൺഫിഗർ ചെയ്യുക.",
+        "manageActionsNote": "സൃഷ്ടിക്കുക, എഡിറ്റ് ചെയ്യുക, ഡിലീറ്റ് ചെയ്യുക. ഇത് കോഴ്‌സിലെ എല്ലാ ആക്ടിവിറ്റികളിലും ബാധകമാണ് — ഇത് ഒരു കോഴ്‌സ്-വ്യാപക പെർമിഷനാണ്.",
+        "courseModulesNote": "കോഴ്‌സ് ഔട്ട്‌ലൈനും സെക്ഷനുകളും കാണുക. ഇത് ഓൺ ആകുമ്പോൾ മാത്രമേ മറ്റു ആക്ടിവിറ്റി പെർമിഷനുകൾ ബാധകമാകൂ."
       },
       "tools": {
         "title": "ടൂൾസ്",
@@ -247,7 +267,10 @@
       "read": "വ്യൂ",
       "edit": "എഡിറ്റ്",
       "delete": "ഡിലീറ്റ്",
-      "enabledCount": "എനേബ്ൾഡ്"
+      "enabledCount": "എനേബ്ൾഡ്",
+      "access": "ആക്‌സസ്",
+      "manage": "മാനേജ്",
+      "manageAll": "എല്ലാ ആക്ടിവിറ്റികളും മാനേജ് ചെയ്യുക"
     },
     "table": {
       "moduleNameHeader": "മോഡ്യൂൾ പേരു",
@@ -350,6 +373,9 @@
     "noModulesForRole": "ഈ റോളിന് മോഡ്യൂളുകൾ ലഭ്യമില്ല",
     "teacher": "ടീച്ചർ",
     "toggleDisabled": "ഈ അനുമതി താൽക്കാലികമായി ലഭ്യമല്ല",
-    "toggleAlwaysOn": "ഈ ടോഗിൾ ഓഫ് ചെയ്യാൻ സാധ്യമല്ല"
+    "toggleAlwaysOn": "ഈ ടോഗിൾ ഓഫ് ചെയ്യാൻ സാധ്യമല്ല",
+    "defaultRolesGroup": "ഡീഫോൾട്ട് റോളുകൾ",
+    "customRolesGroup": "കസ്റ്റം റോളുകൾ",
+    "customRoleTag": "കസ്റ്റം"
   }
 }

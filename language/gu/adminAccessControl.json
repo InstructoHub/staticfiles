@@ -54,14 +54,30 @@
       "createdAtHeader": "બનાવેલ",
       "actionsHeader": "ક્રિયાઓ",
       "noModulesFound": "કોઈ મૉડ્યુલ્સ મળ્યાં નથી.",
-      "slNoHeader": "ક્રમ નં."
+      "slNoHeader": "ક્રમ નં.",
+      "moduleTypeHeader": "મોડ્યુલ પ્રકાર"
     },
     "form": {
       "moduleNameLabel": "મૉડ્યુલ નું નામ *",
       "moduleDescriptionLabel": "મૉડ્યુલ વર્ણન",
       "saveChangesButton": "બદલાવો સેવ કરો",
       "savingButton": "સેવ કરી રહ્યા છીએ...",
-      "cancelButton": "રદ કરો"
+      "cancelButton": "રદ કરો",
+      "moduleTypeLabel": "મોડ્યુલ પ્રકાર *",
+      "moduleTypePlaceholder": "મોડ્યુલ પ્રકાર પસંદ કરો",
+      "courseTypeLabel": "કોર્સ પેજ એરિયા *",
+      "courseTypePlaceholder": "કોર્સ પેજ એરિયા પસંદ કરો",
+      "moduleTypes": {
+        "adminMenu": "એડમિન મેનુ",
+        "dashboard": "ડેશબોર્ડ",
+        "leftMenu": "ડાબી સાઇડ બાર",
+        "course": "કોર્સ પેજ",
+        "courseMain": "કોર્સનું મુખ્ય કન્ટેન્ટ",
+        "courseRightbar": "કોર્સ જમણી બાર"
+      },
+      "createButton": "મોડ્યુલ બનાવો",
+      "creatingButton": "બનાવી રહ્યા છીએ...",
+      "editTitle": "મોડ્યુલ એડિટ કરો"
     },
     "deleteModal": {
       "title": "ડિલીશન કન્ફર્મ કરો",
@@ -83,7 +99,9 @@
       "nameRequired": "મૉડ્યુલ નું નામ જરૂરી છે",
       "nameMinLength": "મૉડ્યુલ નું નામ ઓછામાં ઓછા 2 અક્ષર હોવા જોઈએ",
       "nameMaxLength": "મૉડ્યુલ નું નામ 100 અક્ષર કરતાં વધુ હોઈ શકતું નથી",
-      "descriptionMaxLength": "વર્ણન 500 અક્ષર કરતાં વધુ હોઈ શકતું નથી"
+      "descriptionMaxLength": "વર્ણન 500 અક્ષર કરતાં વધુ હોઈ શકતું નથી",
+      "moduleTypeRequired": "મોડ્યુલ પ્રકાર જરૂરી છે",
+      "courseTypeRequired": "કોર્સ પેજ એરિયા જરૂરી છે"
     }
   },
   "pageHeader": {
@@ -235,7 +253,10 @@
     "noModulesForRole": "આ રોલ માટે કોઈ મોડ્યુલ ઉપલબ્ધ નથી",
     "teacher": "શિક્ષક",
     "toggleDisabled": "આ પરવાનગી હાલમાં ઉપલબ્ધ નથી",
-    "toggleAlwaysOn": "આ ટોગલ બંધ કરી શકાતું નથી"
+    "toggleAlwaysOn": "આ ટોગલ બંધ કરી શકાતું નથી",
+    "defaultRolesGroup": "ડિફૉલ્ટ રોલ્સ",
+    "customRolesGroup": "કસ્ટમ રોલ્સ",
+    "customRoleTag": "કસ્ટમ"
   },
   "smtpConfiguration": {
     "title": "SMTP",
@@ -313,7 +334,9 @@
     "sections": {
       "learningActivities": {
         "title": "લર્નિંગ એક્ટિવિટીઝ",
-        "description": "કોર્સ-લેવલ એક્ટિવિટીઝ માટે View, Create, Edit અને Delete પરમિશન કૉન્ફિગર કરો."
+        "description": "કોર્સ-લેવલ એક્ટિવિટીઝ માટે View, Create, Edit અને Delete પરમિશન કૉન્ફિગર કરો.",
+        "manageActionsNote": "બનાવો, એડિટ કરો અને ડિલીટ કરો. કોર્સની બધી activities પર લાગુ પડે છે — આ એક કોર્સ-વાઇડ પરમિશન છે.",
+        "courseModulesNote": "કોર્સનો આઉટલાઇન અને sections જુઓ. આ ચાલુ હોય ત્યારે જ બીજા activity permissions લાગુ પડે છે."
       },
       "tools": {
         "title": "ટૂલ્સ",
@@ -325,7 +348,10 @@
       "read": "View",
       "edit": "Edit",
       "delete": "ડિલીટ",
-      "enabledCount": "એનેબલ્ડ"
+      "enabledCount": "એનેબલ્ડ",
+      "access": "ઍક્સેસ",
+      "manage": "મેનેજ",
+      "manageAll": "બધી activities મેનેજ કરો"
     },
     "table": {
       "moduleNameHeader": "મોડ્યુલ નું નામ",

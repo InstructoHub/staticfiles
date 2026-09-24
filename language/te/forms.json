@@ -62,7 +62,9 @@
         "countryInvalid": "దయచేసి సరైన దేశాన్ని ఎంచుకోండి",
         "usernameTaken": "ఈ యూజర్నేమ్ ఇప్పటికే వాడబడుతోంది",
         "emailTaken": "ఈ ఇమెయిల్ ఇప్పటికే నమోదు అయింది"
-      }
+      },
+      "dateNotInPast": "తేదీ గతంలో ఉండకూడదు",
+      "startDateInPast": "స్టార్ట్ డేట్ గతంలో ఉండకూడదు"
     },
     "hints": {
       "characterLimit": "గరిష్టంగా {{max}} అక్షరాలు"
@@ -390,6 +392,7 @@
   },
   "validation": {
     "availabilityAfterDue": "సమర్పణ ప్రారంభ తేదీ గడువు తేదీకి ముందు ఉండాలి",
-    "dueDateBeforeAvailability": "గడువు తేదీ సమర్పణ ప్రారంభ తేదీకి తర్వాత ఉండాలి"
+    "dueDateBeforeAvailability": "గడువు తేదీ సమర్పణ ప్రారంభ తేదీకి తర్వాత ఉండాలి",
+    "fillAllRequiredFields": "దయచేసి అవసరమైన అన్ని ఫీల్డ్స్ నింపండి"
   }
 }

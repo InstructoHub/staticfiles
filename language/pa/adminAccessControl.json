@@ -54,14 +54,30 @@
       "createdAtHeader": "ਬਣਾਇਆ ਗਿਆ",
       "actionsHeader": "ਐਕਸ਼ਨਸ",
       "noModulesFound": "ਕੋਈ ਮੋਡੀਊਲ ਨਹੀਂ ਮਿਲਿਆ",
-      "slNoHeader": "ਕ੍ਰਮ ਨੰ."
+      "slNoHeader": "ਕ੍ਰਮ ਨੰ.",
+      "moduleTypeHeader": "ਮੋਡਿਊਲ ਕਿਸਮ"
     },
     "form": {
       "moduleNameLabel": "ਮੋਡੀਊਲ ਦਾ ਨਾਮ *",
       "moduleDescriptionLabel": "ਮੋਡੀਊਲ ਦਾ ਵਰਣਨ",
       "saveChangesButton": "ਬਦਲਾਅ ਸੇਵ ਕਰੋ",
       "savingButton": "ਸੇਵ ਹੋ ਰਿਹਾ ਹੈ...",
-      "cancelButton": "ਕੈਂਸਲ"
+      "cancelButton": "ਕੈਂਸਲ",
+      "moduleTypeLabel": "ਮੋਡਿਊਲ ਕਿਸਮ *",
+      "moduleTypePlaceholder": "ਮੋਡਿਊਲ ਕਿਸਮ ਚੁਣੋ",
+      "courseTypeLabel": "ਕੋਰਸ ਪੇਜ ਏਰੀਆ *",
+      "courseTypePlaceholder": "ਕੋਰਸ ਪੇਜ ਏਰੀਆ ਚੁਣੋ",
+      "moduleTypes": {
+        "adminMenu": "ਐਡਮਿਨ ਮੈਨੂ",
+        "dashboard": "ਡੈਸ਼ਬੋਰਡ",
+        "leftMenu": "ਖੱਬਾ ਸਾਈਡ ਬਾਰ",
+        "course": "ਕੋਰਸ ਪੇਜ",
+        "courseMain": "ਕੋਰਸ ਮੁੱਖ ਸਮੱਗਰੀ",
+        "courseRightbar": "ਕੋਰਸ ਸੱਜਾ ਬਾਰ"
+      },
+      "createButton": "ਮੋਡਿਊਲ ਬਣਾਓ",
+      "creatingButton": "ਬਣਾਇਆ ਜਾ ਰਿਹਾ ਹੈ...",
+      "editTitle": "ਮੋਡਿਊਲ ਸੋਧੋ"
     },
     "deleteModal": {
       "title": "ਡਿਲੀਟ ਕਰਨ ਦੀ ਪੁਸ਼ਟੀ",
@@ -83,7 +99,9 @@
       "nameRequired": "ਮੋਡੀਊਲ ਦਾ ਨਾਮ ਲਾਜ਼ਮੀ ਹੈ",
       "nameMinLength": "ਨਾਮ ਘੱਟੋ-ਘੱਟ 2 ਅੱਖਰਾਂ ਦਾ ਹੋਣਾ ਚਾਹੀਦਾ ਹੈ",
       "nameMaxLength": "ਨਾਮ 100 ਅੱਖਰਾਂ ਤੋਂ ਵੱਧ ਨਹੀਂ ਹੋਣਾ ਚਾਹੀਦਾ",
-      "descriptionMaxLength": "ਵਰਣਨ 500 ਅੱਖਰਾਂ ਤੋਂ ਵੱਧ ਨਹੀਂ ਹੋਣਾ ਚਾਹੀਦਾ"
+      "descriptionMaxLength": "ਵਰਣਨ 500 ਅੱਖਰਾਂ ਤੋਂ ਵੱਧ ਨਹੀਂ ਹੋਣਾ ਚਾਹੀਦਾ",
+      "moduleTypeRequired": "ਮੋਡਿਊਲ ਕਿਸਮ ਲਾਜ਼ਮੀ ਹੈ",
+      "courseTypeRequired": "ਕੋਰਸ ਪੇਜ ਏਰੀਆ ਲਾਜ਼ਮੀ ਹੈ"
     }
   },
   "pageHeader": {
@@ -235,7 +253,10 @@
     "noModulesForRole": "ਇਸ ਰੋਲ ਲਈ ਕੋਈ ਮੋਡੀਊਲ ਉਪਲਬਧ ਨਹੀਂ",
     "teacher": "ਅਧਿਆਪਕ",
     "toggleDisabled": "ਇਹ ਪਰਮੀਸ਼ਨ ਅਸਥਾਈ ਤੌਰ ਤੇ ਉਪਲਬਧ ਨਹੀਂ ਹੈ",
-    "toggleAlwaysOn": "ਇਸ ਟੌਗਲ ਨੂੰ ਬੰਦ ਨਹੀਂ ਕੀਤਾ ਜਾ ਸਕਦਾ"
+    "toggleAlwaysOn": "ਇਸ ਟੌਗਲ ਨੂੰ ਬੰਦ ਨਹੀਂ ਕੀਤਾ ਜਾ ਸਕਦਾ",
+    "defaultRolesGroup": "ਡਿਫਾਲਟ ਰੋਲ",
+    "customRolesGroup": "ਕਸਟਮ ਰੋਲ",
+    "customRoleTag": "ਕਸਟਮ"
   },
   "smtpConfiguration": {
     "title": "SMTP ਕੰਫੀਗਰੇਸ਼ਨ",
@@ -313,7 +334,9 @@
     "sections": {
       "learningActivities": {
         "title": "ਲਰਨਿੰਗ ਐਕਟੀਵਿਟੀਜ਼",
-        "description": "ਕੋਰਸ ਪੱਧਰ ਦੀਆਂ ਐਕਟੀਵਿਟੀਜ਼ ਲਈ View, Create, Edit ਅਤੇ Delete ਪਰਮਿਸ਼ਨਸ ਕੰਫੀਗਰ ਕਰੋ"
+        "description": "ਕੋਰਸ ਪੱਧਰ ਦੀਆਂ ਐਕਟੀਵਿਟੀਜ਼ ਲਈ View, Create, Edit ਅਤੇ Delete ਪਰਮਿਸ਼ਨਸ ਕੰਫੀਗਰ ਕਰੋ",
+        "manageActionsNote": "ਬਣਾਓ, ਸੋਧੋ ਅਤੇ ਮਿਟਾਓ ਕੋਰਸ ਦੀਆਂ ਸਾਰੀਆਂ ਗਤੀਵਿਧੀਆਂ 'ਤੇ ਲਾਗੂ ਹੁੰਦਾ ਹੈ — ਇਹ ਇਕ ਕੋਰਸ-ਵਿਆਪੀ ਪਰਮੀਸ਼ਨ ਹੈ",
+        "courseModulesNote": "ਕੋਰਸ ਦੀ ਔਟਲਾਈਨ ਅਤੇ ਸੈਕਸ਼ਨ ਵੇਖੋ ਹੋਰ ਗਤੀਵਿਧੀ ਪਰਮੀਸ਼ਨ ਸਿਰਫ਼ ਇਸਨੂੰ ਚਾਲੂ ਕਰਨ 'ਤੇ ਲਾਗੂ ਹੁੰਦੇ ਹਨ"
       },
       "tools": {
         "title": "ਟੂਲਸ",
@@ -325,7 +348,10 @@
       "read": "ਵੇਖੋ (View)",
       "edit": "ਐਡਿਟ",
       "delete": "ਡਿਲੀਟ",
-      "enabledCount": "ਸਰਗਰਮ (enabled)"
+      "enabledCount": "ਸਰਗਰਮ (enabled)",
+      "access": "ਪਹੁੰਚ",
+      "manage": "ਮੈਨੇਜ ਕਰੋ",
+      "manageAll": "ਸਾਰੀਆਂ ਗਤੀਵਿਧੀਆਂ ਮੈਨੇਜ ਕਰੋ"
     },
     "table": {
       "moduleNameHeader": "ਮੋਡੀਊਲ ਦਾ ਨਾਮ",

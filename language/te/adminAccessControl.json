@@ -54,14 +54,30 @@
       "createdAtHeader": "సృష్టించిన తేదీ",
       "actionsHeader": "చర్యలు",
       "noModulesFound": "కোనీ మాడ్యూల్‌లు కనపడలేదు.",
-      "slNoHeader": "సీరియల్ నం."
+      "slNoHeader": "సీరియల్ నం.",
+      "moduleTypeHeader": "మాడ్యూల్ రకం"
     },
     "form": {
       "moduleNameLabel": "మాడ్యూల్ పేరు *",
       "moduleDescriptionLabel": "మాడ్యూల్ వివరణ",
       "saveChangesButton": "చేసిన మార్పులను సేవ్ చేయండి",
       "savingButton": "సేవ్ చేస్తోంది...",
-      "cancelButton": "రద్దు చేయండి"
+      "cancelButton": "రద్దు చేయండి",
+      "moduleTypeLabel": "మాడ్యూల్ రకం *",
+      "moduleTypePlaceholder": "మాడ్యూల్ రకం ఎంచుకోండి",
+      "courseTypeLabel": "కోర్స్ పేజీ ఏరియా *",
+      "courseTypePlaceholder": "కోర్స్ పేజీ ఏరియా ఎంచుకోండి",
+      "moduleTypes": {
+        "adminMenu": "అడ్మిన్ మెనూ",
+        "dashboard": "డాష్‌బోర్డ్",
+        "leftMenu": "ఎడమ సైడ్ బార్",
+        "course": "కోర్స్ పేజీ",
+        "courseMain": "కోర్స్ మెయిన్ కంటెంట్",
+        "courseRightbar": "కోర్స్ రైట్ బార్"
+      },
+      "createButton": "మాడ్యూల్ సృష్టించండి",
+      "creatingButton": "సృష్టిస్తోంది...",
+      "editTitle": "మాడ్యూల్ ఎడిట్ చేయండి"
     },
     "deleteModal": {
       "title": "డిలీషన్‌ను నిర్ధారించండి",
@@ -83,7 +99,9 @@
       "nameRequired": "మాడ్యూల్ పేరు అవసరం",
       "nameMinLength": "మాడ్యూల్ పేరు కనీసం 2 అక్షరాలు ఉండాలి",
       "nameMaxLength": "మాడ్యూల్ పేరు 100 అక్షరాలను మించకూడదు",
-      "descriptionMaxLength": "వివరణ 500 అక్షరాలను మించకూడదు"
+      "descriptionMaxLength": "వివరణ 500 అక్షరాలను మించకూడదు",
+      "moduleTypeRequired": "మాడ్యూల్ రకం తప్పనిసరి",
+      "courseTypeRequired": "కోర్స్ పేజీ ఏరియా తప్పనిసరి"
     }
   },
   "pageHeader": {
@@ -235,7 +253,10 @@
     "noModulesForRole": "ఈ భూమికకు ఎలాంటి మాడ్యూల్స్ అందుబాటులో లేవు",
     "teacher": "టీచర్",
     "toggleDisabled": "ఈ అనుమతి తాత్కాలికంగా అందుబాటులో లేదు",
-    "toggleAlwaysOn": "ఈ టోగుల్‌ను ఆఫ్ చేయడం సాధ్యం కాదు"
+    "toggleAlwaysOn": "ఈ టోగుల్‌ను ఆఫ్ చేయడం సాధ్యం కాదు",
+    "defaultRolesGroup": "డిఫాల్ట్ రోల్స్",
+    "customRolesGroup": "కస్టమ్ రోల్స్",
+    "customRoleTag": "కస్టమ్"
   },
   "smtpConfiguration": {
     "title": "SMTP కాన్ఫిగరేషన్",
@@ -313,7 +334,9 @@
     "sections": {
       "learningActivities": {
         "title": "లర్నింగ్ ఆక్టివిటీలు",
-        "description": "కోర్స్-లెవల్ ఆక్టివిటీల కోసం వ్యూ, క్రియేట్, ఎడిట్ మరియు డిలీట్ పర్మిషన్‌లను కాన్ఫిగర్ చేయండి."
+        "description": "కోర్స్-లెవల్ ఆక్టివిటీల కోసం వ్యూ, క్రియేట్, ఎడిట్ మరియు డిలీట్ పర్మిషన్‌లను కాన్ఫిగర్ చేయండి.",
+        "manageActionsNote": "సృష్టించండి, ఎడిట్ చేయండి మరియు డిలీట్ చేయండి. కోర్స్‌లోని అన్ని యాక్టివిటీలకు వర్తిస్తుంది — ఇది ఒక కోర్స్-వైడ్ పర్మిషన్.",
+        "courseModulesNote": "కోర్స్ అవుట్‌లైన్ మరియు సెక్షన్లను చూడండి. ఇది ఆన్‌లో ఉన్నప్పుడు మాత్రమే ఇతర యాక్టివిటీ పర్మిషన్లు వర్తిస్తాయి."
       },
       "tools": {
         "title": "టూల్‌లు",
@@ -325,7 +348,10 @@
       "read": "వ్యూ చేయండి",
       "edit": "ఎడిట్ చేయండి",
       "delete": "డిలీట్ చేయండి",
-      "enabledCount": "ఎనేబల్ చేయబడింది"
+      "enabledCount": "ఎనేబల్ చేయబడింది",
+      "access": "యాక్సెస్",
+      "manage": "మేనేజ్",
+      "manageAll": "అన్ని యాక్టివిటీలను మేనేజ్ చేయండి"
     },
     "table": {
       "moduleNameHeader": "మాడ్యూల్ పేరు",
