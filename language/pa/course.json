@@ -175,7 +175,12 @@
     "enrollmentRequired": "ਇਸ ਕੰਟੈਂਟ ਨੂੰ ਵੇਖਣ ਲਈ ਭਰਤੀ ਹੋਣਾ ਲਾਜ਼ਮੀ ਹੈ",
     "enrollUsers": "ਯੂਜ਼ਰਸ ਨੂੰ ਭਰਤੀ ਕਰੋ",
     "assignGroup": "ਬੈਚ ਅਸਾਈਨ ਕਰੋ",
-    "assignGroupTitle": "ਕੋਰਸ ਵਿੱਚ ਬੈਚ ਅਸਾਈਨ ਕਰੋ"
+    "assignGroupTitle": "ਕੋਰਸ ਵਿੱਚ ਬੈਚ ਅਸਾਈਨ ਕਰੋ",
+    "enrolled": "ਦਾਖਲ ਹੋਇਆ",
+    "enrolledAsStudent": "ਵਿਦਿਆਰਥੀ ਵਜੋਂ ਦਾਖਲ",
+    "enrolledAsTeacher": "ਅਧਿਆਪਕ ਵਜੋਂ ਦਾਖਲ",
+    "locked": "ਲੌਕ ਕੀਤਾ ਹੋਇਆ",
+    "selfEnroll": "ਖੁਦ ਦਾਖਲ ਹੋਵੋ"
   },
   "sections": {
     "general": "ਜਨਰਲ",
@@ -256,5 +261,15 @@
     "teacherProfile": "ਟੀਚਰ ਪ੍ਰੋਫਾਈਲ",
     "totalStudents": "ਕੁੱਲ ਸਟੂਡੈਂਟਸ",
     "totalCourses": "ਕੁੱਲ ਕੋਰਸ"
+  },
+  "myCourse": {
+    "lastViewed": "ਆਖਰੀ ਵਾਰ ਵੇਖਿਆ",
+    "progress": "ਤਰੱਕੀ",
+    "notStarted": "ਸ਼ੁਰੂ ਨਹੀਂ ਕੀਤਾ",
+    "completed": "ਪੂਰਾ ਹੋਇਆ",
+    "noSummary": "ਓਹੋ! ਇੱਥੇ ਹਾਲੇ ਕੋਈ ਵੇਰਵਾ ਨਹੀਂ — ਜੁੜੇ ਰਹੋ!"
+  },
+  "catalog": {
+    "filterByCategory": "ਸ਼੍ਰੇਣੀ ਮੁਤਾਬਕ ਫਿਲਟਰ ਕਰੋ"
   }
 }

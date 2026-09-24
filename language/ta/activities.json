@@ -603,7 +603,17 @@
     "loadingVideo": "வீடியோவை ஏற்றுகிறது...",
     "loadingImage": "படத்தை ஏற்றுகிறது...",
     "activityNotAccessible": "இந்த செயல்பாடு அணுக முடியாது",
-    "redirecting": "கோ் பக்கத்திற்கு மறுபடியும் செல்லுகிறது..."
+    "redirecting": "கோ் பக்கத்திற்கு மறுபடியும் செல்லுகிறது...",
+    "examples": {
+      "documents": "PDF, MP4, HTML, DOC, DOCX, PPT, PPTX, XLS, XLSX, TXT",
+      "images": "JPG, JPEG, PNG, SVG",
+      "media": "MP4",
+      "archives": "ZIP",
+      "scorm": "SCORM பாக்கேஜ்கள் (ZIP)"
+    },
+    "fileOrUrlNotBoth": "தயவுசெய்து ஒரு கோப்பை மட்டும் பதிவேற்றுங்கள் அல்லது ஒரு URL-ஐ மட்டும் உள்ளிடுங்கள், இரண்டும் வேண்டாம்.",
+    "urlPlaceholder": "https://example.com/resource",
+    "fillMandatory": "அனைத்து கட்டாய புலங்களையும் நிரப்பவும்"
   },
   "pages": {
     "title": "பக்கம்",

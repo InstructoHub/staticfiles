@@ -603,7 +603,17 @@
     "loadingVideo": "ವೀಡಿಯೋ ಲೋಡ್ ಮಾಡಲಾಗುತ್ತಿದೆ...",
     "loadingImage": "ಚಿತ್ರ ಲೋಡ್ ಮಾಡಲಾಗುತ್ತಿದೆ...",
     "activityNotAccessible": "ಈ ಚಟುವಟಿಕೆ ಪ್ರವೇಶಿಸಲು ಸಾಧ್ಯವಿಲ್ಲ",
-    "redirecting": "ಕೋರ್ಸ್ ಪುಟಕ್ಕೆ ಪುನರ್‌ನಿರ್ದೇಶನ ಮಾಡಲಾಗುತ್ತಿದೆ..."
+    "redirecting": "ಕೋರ್ಸ್ ಪುಟಕ್ಕೆ ಪುನರ್‌ನಿರ್ದೇಶನ ಮಾಡಲಾಗುತ್ತಿದೆ...",
+    "examples": {
+      "documents": "PDF, MP4, HTML, DOC, DOCX, PPT, PPTX, XLS, XLSX, TXT",
+      "images": "JPG, JPEG, PNG, SVG",
+      "media": "MP4",
+      "archives": "ZIP",
+      "scorm": "SCORM ಪ್ಯಾಕೇಜ್‌ಗಳು (ZIP)"
+    },
+    "fileOrUrlNotBoth": "ದಯವಿಟ್ಟು ಫೈಲ್ ಅಪ್‌ಲೋಡ್ ಮಾಡಿ ಅಥವಾ URL ನಮೂದಿಸಿ, ಎರಡೂ ಅಲ್ಲ.",
+    "urlPlaceholder": "https://example.com/resource",
+    "fillMandatory": "ಎಲ್ಲಾ ಕಡ್ಡಾಯ ಫೀಲ್ಡ್‌ಗಳನ್ನು ಭರ್ತಿ ಮಾಡಿ"
   },
   "pages": {
     "title": "ಪುಟ",

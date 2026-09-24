@@ -140,7 +140,12 @@
     "enrollmentRequired": "આ સામગ્રીને ઍક્સેસ કરવા માટે નોંધણી જરૂરી છે",
     "enrollUsers": "યૂઝર્સને નોંધણી કરો",
     "assignGroup": "બેચ અસાઇન કરો",
-    "assignGroupTitle": "કોર્સમાં બેચ અસાઇન કરો"
+    "assignGroupTitle": "કોર્સમાં બેચ અસાઇન કરો",
+    "enrolled": "નોંધાયેલ",
+    "enrolledAsStudent": "વિદ્યાર્થી તરીકે નોંધાયેલ",
+    "enrolledAsTeacher": "શિક્ષક તરીકે નોંધાયેલ",
+    "locked": "લૉકડ",
+    "selfEnroll": "સ્વ-નોંધણી"
   },
   "content": {
     "noSummary": "કોઈ કોર્સ સારાંશ આપવામાં આવ્યો નથી",
@@ -256,5 +261,15 @@
     "lesson": "પાઠ",
     "chapter": "અધ્યાય",
     "unit": "યુનિટ"
+  },
+  "myCourse": {
+    "lastViewed": "છેલ્લે જોયેલું",
+    "progress": "પ્રગતિ",
+    "notStarted": "શરૂ નથી કર્યું",
+    "completed": "પૂર્ણ થયું",
+    "noSummary": "અરે! અહીં હજી વર્ણન નથી — થોડું રાહ જુઓ!"
+  },
+  "catalog": {
+    "filterByCategory": "શ્રેણી પ્રમાણે ફિલ્ટર કરો"
   }
 }

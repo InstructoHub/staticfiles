@@ -140,7 +140,12 @@
     "enrollmentRequired": "ଏହି ସାମଗ୍ରୀକୁ ପ୍ରବେଶ କରିବାକୁ ଭର୍ତ୍ତି ଆବଶ୍ୟକ",
     "enrollUsers": "ଉପଯୋଗକାରୀଙ୍କୁ ଭର୍ତ୍ତି କରନ୍ତୁ",
     "assignGroup": "ବ୍ୟାଚ୍ ନ୍ୟସ୍ତ କରନ୍ତୁ",
-    "assignGroupTitle": "କୋର୍ସରେ ବ୍ୟାଚ୍ ନ୍ୟସ୍ତ କରନ୍ତୁ"
+    "assignGroupTitle": "କୋର୍ସରେ ବ୍ୟାଚ୍ ନ୍ୟସ୍ତ କରନ୍ତୁ",
+    "enrolled": "ଭର୍ତ୍ତି ହୋଇଛି",
+    "enrolledAsStudent": "ଛାତ୍ର ଭାବେ ଭର୍ତ୍ତି ହୋଇଛି",
+    "enrolledAsTeacher": "ଶିକ୍ଷକ ଭାବେ ଭର୍ତ୍ତି ହୋଇଛି",
+    "locked": "ଲକ୍ ହୋଇଛି",
+    "selfEnroll": "ନିଜେ ଭର୍ତ୍ତି ହେଉନ୍ତୁ"
   },
   "content": {
     "noSummary": "କୌଣସି କୋର୍ସ ସାରାଂଶ ଦିଆଯାଇନି",
@@ -256,5 +261,15 @@
     "lesson": "ପାଠ",
     "chapter": "ଅଧ୍ୟାୟ",
     "unit": "ଏକକ"
+  },
+  "myCourse": {
+    "lastViewed": "ଶେଷ ଦେଖାଯାଇଥିଲା",
+    "progress": "ପ୍ରଗତି",
+    "notStarted": "ଆରମ୍ଭ ହୋଇନି",
+    "completed": "ସମ୍ପୂର୍ଣ୍ଣ ହୋଇଛି",
+    "noSummary": "ଓଃ! ଏଠାରେ ଏଯାବତ୍ କୌଣସି ବର୍ଣ୍ଣନା ନାହିଁ — ଖବର ରହନ୍ତୁ!"
+  },
+  "catalog": {
+    "filterByCategory": "ଶ୍ରେଣୀ ଅନୁଯାୟୀ ଫିଲ୍ଟର କରନ୍ତୁ"
   }
 }

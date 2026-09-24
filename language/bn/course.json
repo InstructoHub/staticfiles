@@ -175,7 +175,12 @@
     "enrollmentRequired": "এই কনটেন্টে প্রবেশাধিকার পেতে ভর্তি হওয়া প্রয়োজন",
     "enrollUsers": "ব্যবহারকারীদের ভর্তি করুন",
     "assignGroup": "ব্যাচ অ্যাসাইন করুন",
-    "assignGroupTitle": "কোর্সে ব্যাচ অ্যাসাইন করুন"
+    "assignGroupTitle": "কোর্সে ব্যাচ অ্যাসাইন করুন",
+    "enrolled": "এনরোল্ড",
+    "enrolledAsStudent": "স্টুডেন্ট হিসেবে এনরোল্ড",
+    "enrolledAsTeacher": "টিচার হিসেবে এনরোল্ড",
+    "locked": "লক করা",
+    "selfEnroll": "নিজে এনরোল করুন"
   },
   "sections": {
     "general": "সাধারণ",
@@ -256,5 +261,15 @@
     "teacherProfile": "শিক্ষকের প্রোফাইল",
     "totalStudents": "মোট ছাত্র",
     "totalCourses": "মোট কোর্স"
+  },
+  "myCourse": {
+    "lastViewed": "শেষ দেখা",
+    "progress": "প্রগ্রেস",
+    "notStarted": "শুরু হয়নি",
+    "completed": "সম্পন্ন",
+    "noSummary": "ওহ! এখানে এখনও কোনো বর্ণনা নেই — একটু অপেক্ষা করুন!"
+  },
+  "catalog": {
+    "filterByCategory": "ক্যাটাগরি অনুযায়ী ফিল্টার করুন"
   }
 }

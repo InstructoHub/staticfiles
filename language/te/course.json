@@ -175,7 +175,12 @@
     "enrollmentRequired": "ఈ కంటెంట్‌కు యాక్సెస్ కోసం నమోదు అవసరం",
     "enrollUsers": "యూజర్లను నమోదు చేయండి",
     "assignGroup": "బ్యాచ్‌ను కేటాయించండి",
-    "assignGroupTitle": "కోర్సుకు బ్యాచ్‌ను కేటాయించండి"
+    "assignGroupTitle": "కోర్సుకు బ్యాచ్‌ను కేటాయించండి",
+    "enrolled": "నమోదైంది",
+    "enrolledAsStudent": "విద్యార్థిగా నమోదు అయ్యారు",
+    "enrolledAsTeacher": "టీచర్‌గా నమోదు అయ్యారు",
+    "locked": "లాక్ అయింది",
+    "selfEnroll": "స్వయంగా నమోదు చేసుకోండి"
   },
   "sections": {
     "general": "సామాన్య",
@@ -256,5 +261,15 @@
     "teacherProfile": "టీచర్ ప్రొఫైల్",
     "totalStudents": "మొత్తం విద్యార్థులు",
     "totalCourses": "మొత్తం కోర్సులు"
+  },
+  "myCourse": {
+    "lastViewed": "చివరిసారి చూసింది",
+    "progress": "ప్రగతి",
+    "notStarted": "ఇంకా ప్రారంభించలేదు",
+    "completed": "పూర్తయింది",
+    "noSummary": "అయ్యో! ఇక్కడ ఇంకా వివరణ లేదు — త్వరలో వస్తుంది!"
+  },
+  "catalog": {
+    "filterByCategory": "కేటగిరీ ప్రకారం ఫిల్టర్ చేయండి"
   }
 }

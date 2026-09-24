@@ -603,7 +603,17 @@
     "loadingVideo": "ଭିଡିଓ ଲୋଡ୍ ହେଉଛି...",
     "loadingImage": "ଛବି ଲୋଡ୍ ହେଉଛି...",
     "activityNotAccessible": "ଏହି କାର୍ୟ ଉପଲବ୍ଧ ନୁହେଁ",
-    "redirecting": "କୋର୍ସ ପୃଷ୍ଠାକୁ ପୁନର୍ନିର୍ଦେଶ କରାଯାଉଛି..."
+    "redirecting": "କୋର୍ସ ପୃଷ୍ଠାକୁ ପୁନର୍ନିର୍ଦେଶ କରାଯାଉଛି...",
+    "examples": {
+      "documents": "PDF, MP4, HTML, DOC, DOCX, PPT, PPTX, XLS, XLSX, TXT",
+      "images": "JPG, JPEG, PNG, SVG",
+      "media": "MP4",
+      "archives": "ZIP",
+      "scorm": "SCORM ପ୍ୟାକେଜ୍‌ସ୍ (ZIP)"
+    },
+    "fileOrUrlNotBoth": "ଦୟାକରି ଫାଇଲ୍ ଅପଲୋଡ୍ କରନ୍ତୁ କିମ୍ବା URL ଦିଅନ୍ତୁ, ଦୁଇଟି ନୁହେଁ",
+    "urlPlaceholder": "https://example.com/resource",
+    "fillMandatory": "ସମସ୍ତ ଆବଶ୍ୟକୀୟ ଫିଲ୍ଡ ପୂରଣ କରନ୍ତୁ"
   },
   "pages": {
     "title": "ପୃଷ୍ଠା",

@@ -175,7 +175,12 @@
     "enrollmentRequired": "இந்த உள்ளடக்கத்திற்கு அணுகுவதற்கு பதிவு தேவை",
     "enrollUsers": "யூசர்களை பதிவு செய்யவும்",
     "assignGroup": "பேட்சை ஒதுக்கவும்",
-    "assignGroupTitle": "பாடநெறியில் பேட்சை ஒதுக்கவும்"
+    "assignGroupTitle": "பாடநெறியில் பேட்சை ஒதுக்கவும்",
+    "enrolled": "சேர்க்கப்பட்டது",
+    "enrolledAsStudent": "மாணவராக சேர்க்கப்பட்டது",
+    "enrolledAsTeacher": "ஆசிரியராக சேர்க்கப்பட்டது",
+    "locked": "பூட்டப்பட்டது",
+    "selfEnroll": "நீங்களே சேருங்கள்"
   },
   "sections": {
     "general": "பொதுவானது",
@@ -256,5 +261,15 @@
     "teacherProfile": "ஆசிரியர் சுயவிவரம்",
     "totalStudents": "மொத்த மாணவர்கள்",
     "totalCourses": "மொத்த கோர்ஸ்கள்"
+  },
+  "myCourse": {
+    "lastViewed": "கடைசியாக பார்த்தது",
+    "progress": "முன்னேற்றம்",
+    "notStarted": "தொடங்கவில்லை",
+    "completed": "முடிந்தது",
+    "noSummary": "அய்யோ! இங்கே இன்னும் விளக்கம் இல்லை — விரைவில் வரும்!"
+  },
+  "catalog": {
+    "filterByCategory": "வகைப்படி வடிகட்டு"
   }
 }

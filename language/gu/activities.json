@@ -603,7 +603,17 @@
     "loadingVideo": "વિડિયો લોડ થઈ રહ્યો છે...",
     "loadingImage": "છબી લોડ થઈ રહી છે...",
     "activityNotAccessible": "આ ક્રિયા ઉપલબ્ધ નથી",
-    "redirecting": "કોર્સ પેજ પર ફરી મોકલવામાં આવી રહ્યું છે..."
+    "redirecting": "કોર્સ પેજ પર ફરી મોકલવામાં આવી રહ્યું છે...",
+    "examples": {
+      "documents": "PDF, MP4, HTML, DOC, DOCX, PPT, PPTX, XLS, XLSX, TXT",
+      "images": "JPG, JPEG, PNG, SVG",
+      "media": "MP4",
+      "archives": "ZIP",
+      "scorm": "SCORM પેકેજીસ (ZIP)"
+    },
+    "fileOrUrlNotBoth": "કૃપા કરીને ફાઇલ અપલોડ કરો અથવા URL દાખલ કરો, બન્ને નહીં.",
+    "urlPlaceholder": "https://example.com/resource",
+    "fillMandatory": "બધી ફરજિયાત ફિલ્ડ્સ ભરો"
   },
   "pages": {
     "title": "પેજ",

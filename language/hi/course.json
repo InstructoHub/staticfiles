@@ -175,7 +175,12 @@
     "enrollmentRequired": "इस कंटेंट को एक्सेस करने के लिए एनरोलमेंट ज़रूरी है",
     "enrollUsers": "यूज़र्स एनरोल करें",
     "assignGroup": "बैच असाइन करें",
-    "assignGroupTitle": "कोर्स में बैच असाइन करें"
+    "assignGroupTitle": "कोर्स में बैच असाइन करें",
+    "enrolled": "एनरोल्ड",
+    "enrolledAsStudent": "स्टूडेंट के रूप में एनरोल्ड",
+    "enrolledAsTeacher": "टीचर के रूप में एनरोल्ड",
+    "locked": "लॉक्ड",
+    "selfEnroll": "सेल्फ एनरोल"
   },
   "sections": {
     "general": "जनरल",
@@ -256,5 +261,15 @@
     "teacherProfile": "टीचर की प्रोफाइल",
     "totalStudents": "टोटल स्टूडेंट्स",
     "totalCourses": "टोटल कोर्सेस"
+  },
+  "myCourse": {
+    "lastViewed": "आख़िरी बार देखा गया",
+    "progress": "प्रोग्रेस",
+    "notStarted": "शुरू नहीं हुआ",
+    "completed": "पूरा हुआ",
+    "noSummary": "ओह! यहाँ अभी कोई डिस्क्रिप्शन नहीं है — बने रहिए!"
+  },
+  "catalog": {
+    "filterByCategory": "कैटेगरी के हिसाब से फ़िल्टर करें"
   }
 }

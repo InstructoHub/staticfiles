@@ -175,7 +175,12 @@
     "enrollmentRequired": "या सामग्रीमध्ये प्रवेश करण्यासाठी नावनोंदणी आवश्यक आहे",
     "enrollUsers": "वापरकर्ता नोंदणी करा",
     "assignGroup": "बॅच असाइन करा",
-    "assignGroupTitle": "अभ्यासक्रमात बॅच असाइन करा"
+    "assignGroupTitle": "अभ्यासक्रमात बॅच असाइन करा",
+    "enrolled": "नोंदणीकृत",
+    "enrolledAsStudent": "विद्यार्थी म्हणून नोंदणीकृत",
+    "enrolledAsTeacher": "शिक्षक म्हणून नोंदणीकृत",
+    "locked": "लॉक केलेले",
+    "selfEnroll": "स्वतः नोंदणी करा"
   },
   "sections": {
     "general": "सामान्य",
@@ -256,5 +261,15 @@
     "teacherProfile": "शिक्षक प्रोफाइल",
     "totalStudents": "एकूण विद्यार्थी",
     "totalCourses": "एकूण अभ्यासक्रम"
+  },
+  "myCourse": {
+    "lastViewed": "शेवटचे पाहिले",
+    "progress": "प्रगती",
+    "notStarted": "सुरू नाही",
+    "completed": "पूर्ण",
+    "noSummary": "अरेरे! इथे अजून वर्णन नाही — थोडं थांबा!"
+  },
+  "catalog": {
+    "filterByCategory": "कॅटेगरीनुसार फिल्टर करा"
   }
 }

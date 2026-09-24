@@ -578,6 +578,16 @@
       "scorm": "SCORM"
     },
     "supportedFormats": "Supported Formats",
+    "examples": {
+      "documents": "PDF, MP4, HTML, DOC, DOCX, PPT, PPTX, XLS, XLSX, TXT",
+      "images": "JPG, JPEG, PNG, SVG",
+      "media": "MP4",
+      "archives": "ZIP",
+      "scorm": "SCORM packages (ZIP)"
+    },
+    "fileOrUrlNotBoth": "Please either upload a file or enter a URL, not both.",
+    "urlPlaceholder": "https://example.com/resource",
+    "fillMandatory": "Fill all mandatory fields",
     "maxFileSize": "Maximum File Size",
     "zipChoice": {
       "title": "Upload this .zip as:",

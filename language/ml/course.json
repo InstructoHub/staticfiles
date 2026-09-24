@@ -246,7 +246,12 @@
     "enrollmentRequired": "ഈ ഉള്ളടക്കത്തിന് ആക്സസ് ചെയ്യാൻ ചേർച്ച ആവശ്യമാണ്",
     "enrollUsers": "ഉപയോക്താക്കളെ ചേർക്കുക",
     "assignGroup": "ബാച്ച് അസൈൻ ചെയ്യുക",
-    "assignGroupTitle": "കോഴ്സിലേക്ക് ബാച്ച് അസൈൻ ചെയ്യുക"
+    "assignGroupTitle": "കോഴ്സിലേക്ക് ബാച്ച് അസൈൻ ചെയ്യുക",
+    "enrolled": "ചേർന്നു",
+    "enrolledAsStudent": "വിദ്യാർത്ഥിയായി ചേർന്നു",
+    "enrolledAsTeacher": "അധ്യാപകനായി ചേർന്നു",
+    "locked": "ലോക്ക് ചെയ്തു",
+    "selfEnroll": "സ്വയം ചേർക്കുക"
   },
   "sections": {
     "general": "സാധാരണ",
@@ -256,5 +261,15 @@
     "lesson": "പാഠം",
     "chapter": "അധ്യായം",
     "unit": "യൂണിറ്റ്"
+  },
+  "myCourse": {
+    "lastViewed": "അവസാനം കണ്ടത്",
+    "progress": "പുരോഗതി",
+    "notStarted": "ആരംഭിച്ചിട്ടില്ല",
+    "completed": "പൂർത്തിയായി",
+    "noSummary": "ഓപ്പ്സ്! ഇവിടെ ഇതുവരെ വിവരണം ഇല്ല — ഉടൻ വരും!"
+  },
+  "catalog": {
+    "filterByCategory": "വിഭാഗം അനുസരിച്ച് ഫിൽട്ടർ ചെയ്യുക"
   }
 }

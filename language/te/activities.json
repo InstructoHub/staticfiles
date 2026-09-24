@@ -603,7 +603,17 @@
     "loadingVideo": "వీడియో లోడ్ అవుతోంది...",
     "loadingImage": "ఇమేజ్ లోడ్ అవుతోంది...",
     "activityNotAccessible": "ఈ యాక్టివిటీ యాక్సెస్ చేయడానికి సాధ్యం కాలేదు",
-    "redirecting": "కోర్సు పేజీకి రీడిరెక్ట్ చేస్తోంది..."
+    "redirecting": "కోర్సు పేజీకి రీడిరెక్ట్ చేస్తోంది...",
+    "examples": {
+      "documents": "PDF, MP4, HTML, DOC, DOCX, PPT, PPTX, XLS, XLSX, TXT",
+      "images": "JPG, JPEG, PNG, SVG",
+      "media": "MP4",
+      "archives": "ZIP",
+      "scorm": "SCORM ప్యాకేజీలు (ZIP)"
+    },
+    "fileOrUrlNotBoth": "దయచేసి ఫైల్ అప్‌లోడ్ చేయండి లేదా URL ఇవ్వండి, రెండూ కాకుండా.",
+    "urlPlaceholder": "https://example.com/resource",
+    "fillMandatory": "అన్ని తప్పనిసరి ఫీల్డ్‌లను నింపండి"
   },
   "pages": {
     "title": "పేజీ",

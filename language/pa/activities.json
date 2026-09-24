@@ -603,7 +603,17 @@
     "loadingVideo": "ਵੀਡੀਓ ਲੋਡ ਹੋ ਰਹੀ ਹੈ...",
     "loadingImage": "ਚਿੱਤਰ ਲੋਡ ਹੋ ਰਿਹਾ ਹੈ...",
     "activityNotAccessible": "ਇਹ ਐਕਟੀਵਿਟੀ ਉਪਲਬਧ ਨਹੀਂ ਹੈ",
-    "redirecting": "ਕੋਰਸ ਪੇਜ 'ਤੇ ਜਾ ਰਹੇ ਹਾਂ..."
+    "redirecting": "ਕੋਰਸ ਪੇਜ 'ਤੇ ਜਾ ਰਹੇ ਹਾਂ...",
+    "examples": {
+      "documents": "PDF, MP4, HTML, DOC, DOCX, PPT, PPTX, XLS, XLSX, TXT",
+      "images": "JPG, JPEG, PNG, SVG",
+      "media": "MP4",
+      "archives": "ZIP",
+      "scorm": "SCORM ਪੈਕੇਜਜ਼ (ZIP)"
+    },
+    "fileOrUrlNotBoth": "ਕਿਰਪਾ ਕਰਕੇ ਫਾਈਲ ਅਪਲੋਡ ਕਰੋ ਜਾਂ URL ਦਿਓ, ਦੋਵੇਂ ਨਹੀਂ",
+    "urlPlaceholder": "https://example.com/resource",
+    "fillMandatory": "ਸਾਰੇ ਲਾਜ਼ਮੀ ਫੀਲਡ ਭਰੋ"
   },
   "pages": {
     "title": "ਪੇਜ",

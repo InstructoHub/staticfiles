@@ -172,7 +172,22 @@
     "enrollmentRequired": "Enrollment required to access this content",
     "enrollUsers": "Enroll Users",
     "assignGroup": "Assign Batch",
-    "assignGroupTitle": "Assign batch to course"
+    "assignGroupTitle": "Assign batch to course",
+    "enrolled": "Enrolled",
+    "enrolledAsStudent": "Enrolled as Student",
+    "enrolledAsTeacher": "Enrolled as Teacher",
+    "locked": "Locked",
+    "selfEnroll": "Self-Enroll"
+  },
+  "myCourse": {
+    "lastViewed": "Last Viewed",
+    "progress": "Progress",
+    "notStarted": "Not Started",
+    "completed": "Completed",
+    "noSummary": "Oops! No description here yet — stay tuned!"
+  },
+  "catalog": {
+    "filterByCategory": "Filter by category"
   },
 
   "sections": {

@@ -57,7 +57,61 @@
     "organization": "Organization",
     "participants": "Participants",
     "userDetails": "User Details",
-    "quizModeWarning": "Finish or submit the quiz before leaving this page."
+    "quizModeWarning": "Finish or submit the quiz before leaving this page.",
+    "inbox": "Inbox",
+    "account": "Account",
+    "power": "Power",
+    "switchRole": "Switch Role",
+    "teacher": "Teacher",
+    "student": "Student",
+    "closeNavigationMenu": "Close navigation menu"
+  },
+  "fileUploader": {
+    "title": "Upload Files",
+    "description": "Drop files or click to browse",
+    "dropHere": "Drop files here",
+    "processing": "Processing files...",
+    "maxSize": "Maximum file size: {{limit}}",
+    "singleFileOnly": "(Single file only)",
+    "accepted": "Accepted: {{types}}",
+    "chooseFiles": "Choose Files",
+    "chooseFile": "Choose File",
+    "selectedFiles": "Selected Files ({{count}})",
+    "selectedFile": "Selected File",
+    "removeFile": "Remove file",
+    "typeNotAllowed": "File type not allowed. Allowed types: {{types}}",
+    "types": {
+      "pdf": "PDF (.pdf)",
+      "mp4": "Video Files (.mp4)",
+      "doc": "Word Documents (.doc, .docx)",
+      "txt": "Text Files (.txt)",
+      "image": "Images (.jpg, .png, .gif)",
+      "spreadsheet": "Spreadsheets (.xls, .xlsx, .csv)",
+      "presentation": "Presentations (.ppt, .pptx)"
+    }
+  },
+  "footer": {
+    "privacyPolicy": "Privacy Policy",
+    "facebook": "Facebook",
+    "twitter": "Twitter",
+    "linkedin": "LinkedIn",
+    "youtube": "YouTube"
+  },
+  "roles": {
+    "teacher": "Teacher",
+    "student": "Student"
+  },
+  "activityHeader": {
+    "due": "Due:",
+    "status": "Status:",
+    "progress": "Progress:",
+    "questions": "{{count}} Questions",
+    "timeLimit": "Time Limit: {{count}} minutes",
+    "attemptsAllowed": "{{count}} Attempts Allowed",
+    "discussions": "Discussions:",
+    "noDueDate": "No due date set",
+    "noActivity": "No Activity",
+    "lastModified": "Last Modified:"
   },
   "status": {
     "loading": "Loading...",
@@ -182,7 +236,13 @@
     "noPermissionMessage": "You don't have permission to access this page. Please contact your instructor or administrator if you believe this is a mistake.",
     "contactAdminIfNeeded": "If you need access, please contact your course instructor.",
     "permissionError": "Permission Error",
-    "tryRefresh": "Please try refreshing the page or contact support if the issue persists."
+    "tryRefresh": "Please try refreshing the page or contact support if the issue persists.",
+    "somethingWentWrong": "Something went wrong",
+    "unexpectedError": "We encountered an unexpected error. Please try refreshing the page.",
+    "tryAgain": "Try Again",
+    "goHome": "Go Home",
+    "pageError": "Page Error",
+    "pageUnexpectedError": "This page encountered an unexpected error."
   },
   "ui": {
     "chatbot": "Chatbot",

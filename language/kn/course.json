@@ -175,7 +175,12 @@
     "enrollmentRequired": "ಈ ವಿಷಯವನ್ನು ಪ್ರವೇಶಿಸಲು ನೋಂದಾಯಣೆ ಅಗತ್ಯ",
     "enrollUsers": "ಬಳಕೆದಾರರನ್ನು ನೋಂದಾಯಿಸಿ",
     "assignGroup": "ಬ್ಯಾಚ್ ನಿಯೋಜಿಸಿ",
-    "assignGroupTitle": "ಕೋರ್ಸ್‌ಗೆ ಬ್ಯಾಚ್ ನಿಯೋಜಿಸಿ"
+    "assignGroupTitle": "ಕೋರ್ಸ್‌ಗೆ ಬ್ಯಾಚ್ ನಿಯೋಜಿಸಿ",
+    "enrolled": "ನೋಂದಾಯಿಸಲಾಗಿದೆ",
+    "enrolledAsStudent": "ವಿದ್ಯಾರ್ಥಿಯಾಗಿ ನೋಂದಾಯಿಸಲಾಗಿದೆ",
+    "enrolledAsTeacher": "ಶಿಕ್ಷಕರಾಗಿ ನೋಂದಾಯಿಸಲಾಗಿದೆ",
+    "locked": "ಲಾಕ್ ಮಾಡಲಾಗಿದೆ",
+    "selfEnroll": "ಸ್ವಯಂ ನೋಂದಣಿ"
   },
   "content": {
     "noSummary": "ಯಾವುದೇ ಕೋರ್ಸ್ ಸಾರಾಂಶ ನೀಡಿಲ್ಲ",
@@ -256,5 +261,15 @@
     "lesson": "ಪಾಠ",
     "chapter": "ಅಧ್ಯಾಯ",
     "unit": "ಯೂನಿಟ್"
+  },
+  "myCourse": {
+    "lastViewed": "ಕೊನೆಯದಾಗಿ ನೋಡಿದದು",
+    "progress": "ಪ್ರಗತಿ",
+    "notStarted": "ಇನ್ನೂ ಆರಂಭವಾಗಿಲ್ಲ",
+    "completed": "ಪೂರ್ಣಗೊಂಡಿದೆ",
+    "noSummary": "ಅಯ್ಯೋ! ಇಲ್ಲಿ ಇನ್ನೂ ವಿವರಣೆ ಇಲ್ಲ — ಸ್ವಲ್ಪ ಕಾಯಿರಿ!"
+  },
+  "catalog": {
+    "filterByCategory": "ವರ್ಗದ ಪ್ರಕಾರ ಫಿಲ್ಟರ್ ಮಾಡಿ"
   }
 }

@@ -23,14 +23,14 @@
     "description": "Just let me know how you'd like to start building your course content.",
     "uploadTitle": "Upload sources",
     "dragDropText": "Drag & drop or choose file",
-    "supportedFilesText": "Supported file types: PDF, HTML, MP4, DOC, DOCX, PPT, PPTX, XLS, XLSX, TXT , DOC, DOCX, PPT, PPTX, XLS, XLSX, TXT ",
+    "supportedFilesText": "Supported file types: PDF, HTML, MP4, DOC, DOCX, PPT, PPTX, XLS, XLSX, TXT ",
     "selectedFilesLabel": "Selected Files:",
     "sourceLimitLabel": "Source limit",
     "continueButtonText": "Continue",
     "uploadAria": "Upload files",
     "deleteFile": "Delete file",
     "errors": {
-      "unsupportedFiles": "file(s) have unsupported types. Supported: PDF, HTML, MP4, DOC, DOCX, PPT, PPTX, XLS, XLSX, TXT, DOC, DOCX, PPT, PPTX, XLS, XLSX, TXT",
+      "unsupportedFiles": "file(s) have unsupported types. Supported: PDF, HTML, MP4, DOC, DOCX, PPT, PPTX, XLS, XLSX, TXT",
       "maxFilesExceeded": "Maximum {{max}} files allowed",
       "fileSizeExceeded": "Total file size exceeds 1 GB limit",
       "noFilesSelected": "Please select at least one file to continue",
@@ -45,7 +45,7 @@
       }
     },
     "tooltips": {
-      "uploadInfo": "You can upload PDF, HTML, or MP4 files",
+      "uploadInfo": "You can upload PDF, HTML, MP4, DOC, DOCX, PPT, PPTX, XLS, XLSX, or TXT files",
       "fileSizeInfo": "Maximum total file size is 1 GB"
     }
   },
