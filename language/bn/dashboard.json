@@ -412,25 +412,25 @@
     "browseButton": "Course Catalog দেখুন"
   },
   "kvicMonitoringMetrics": {
-    "title": "KVIC Monitoring",
-    "titleCount": "KVIC Monitoring — {{count}}",
-    "subtitle": "Capacity Building Command Centre · Demo",
-    "demoBadge": "Demo data — backend pending",
+    "title": "কেভিআইসি মনিটরিং",
+    "titleCount": "কেভিআইসি মনিটরিং — {{count}}",
+    "subtitle": "ক্যাপাসিটি বিল্ডিং কমান্ড সেন্টার · ডেমো",
+    "demoBadge": "ডেমো ডাটা — ব্যাকএন্ড বাকি",
     "viewAll": "Command Centre খুলুন",
     "openCommandCentre": "পুরো Command Centre খুলুন →",
     "mapAlt": "India map — Command Centre খুলতে ক্লিক করুন",
     "mapHint": "খুলতে map-এ ক্লিক করুন",
-    "legend": "Achievement",
+    "legend": "অর্জন",
     "aiPreview": "মনোযোগ দরকার: UP আর Rajasthan physical target achievement-এ পিছিয়ে আছে districts ড্রিল ডাউন করতে map-এ ক্লিক করুন এবং InstructoNex-কে জিজ্ঞেস করুন",
-    "kpiTrainees": "Trainees",
-    "kpiAchievement": "Achievement",
+    "kpiTrainees": "প্রশিক্ষণার্থী",
+    "kpiAchievement": "অর্জন",
     "kpiVsTarget": "physical target-এর তুলনায়",
     "kpiDistricts": "জেলা",
-    "kpiCovered": "field coverage",
+    "kpiCovered": "ফিল্ড কভারেজ",
     "kpiStates": "States / UTs",
     "kpiMonitored": "মনিটর করা",
     "registeredUnits": "নিবন্ধিত ইউনিট",
-    "inspectionCoverage": "Inspection Coverage",
+    "inspectionCoverage": "ইনস্পেকশন কভারেজ",
     "statesMonitored": "মনিটর করা রাজ্য",
     "openActions": "Actions খুলুন"
   },
@@ -438,7 +438,7 @@
     "back": "← dashboard-এ ফিরে যান",
     "open": "খুলুন",
     "viewAll": "সব দেখুন →",
-    "colZone": "Zone",
+    "colZone": "জোন",
     "allSchemes": "সব scheme",
     "pmegp": "PMEGP",
     "kgvy": "KGVY",
@@ -689,7 +689,7 @@
   "kvicSchemeBlock": {
     "title": "স্কিমের পারফরম্যান্স",
     "titleCount": "স্কিমের পারফরম্যান্স — {{count}}",
-    "subtitle": "PMEGP · KGVY · SDP · EDP"
+    "subtitle": "পিএমইজিপি · কেজিভিওয়াই · এসডিপি · ইডিপি"
   },
   "kvicDashFilters": {
     "fy": "অর্থবর্ষ {{fy}}",
@@ -831,11 +831,11 @@
     "colTrained": "প্রশিক্ষিত",
     "colCert": "সার্টিফায়েড",
     "colPlaced": "প্লেসড",
-    "colAlloc": "₹ Cr"
+    "colAlloc": "₹ ক্রো"
   },
   "kvicAlertsPage": {
     "title": "অ্যালার্ট ও কমপ্লায়েন্স",
-    "crestSub": "KVIC · Directorate of Capacity Building",
+    "crestSub": "কেভিআইসি · ডিরেক্টরেট অব ক্যাপাসিটি বিল্ডিং",
     "heading": "মনোযোগ প্রয়োজন",
     "sub": "যে সেন্টারগুলো attendance floor বা physical target-এর নিচে, পাশাপাশি certification এবং placement backlog আছে",
     "kpiAtt": "Attendance floor-এর নিচে",

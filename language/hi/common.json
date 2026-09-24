@@ -129,7 +129,7 @@
     "tooManyLoginAttempts": "बहुत ज़्यादा असफल लॉगिन प्रयास हुए हैं। कृपया बाद में फिर से प्रयास करें।",
     "tooManyLoginAttemptsTimer": "बहुत ज़्यादा असफल लॉगिन प्रयास हुए हैं। {{time}} में फिर से प्रयास करें।",
     "unableToPreviewImage": "इमेज प्रीव्यू नहीं हो पा रही",
-    "items": "s"
+    "items": "स"
   },
   "time": {
     "today": "आज",
@@ -251,8 +251,21 @@
       "english": "इंग्लिश",
       "hindi": "हिंदी",
       "spanish": "स्पेनिश",
-      "french": "फ्रेंच"
-    }
+      "french": "फ्रेंच",
+      "assamese": "असमी",
+      "bengali": "बंगाली",
+      "gujarati": "गुजराती",
+      "kannada": "कन्नड़",
+      "malayalam": "मलयालम",
+      "marathi": "मराठी",
+      "odia": "ओड़िया",
+      "punjabi": "पंजाबी",
+      "tamil": "तमिल",
+      "telugu": "तेलुगु",
+      "urdu": "उर्दू"
+    },
+    "inputLanguage": "इनपुट लैंग्वेज",
+    "responseLanguage": "रिस्पॉन्स लैंग्वेज"
   },
   "statistics": {
     "overview": "ओवरव्यू",

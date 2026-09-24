@@ -21,7 +21,7 @@
     "never": "কখনোই না",
     "courseProgress": "কোর্সের অগ্রগতি",
     "timeOnCourse": "কোর্সে সময়",
-    "inactiveDaysLabel": "নিষ্ক্রিয় দিন",
+    "inactiveDaysLabel": "নিষ্ক্রিয় দিন {{days}}",
     "progressOverview": "অগ্রগতি পর্যালোচনা",
     "activityCompletion": "ক্রিয়াকলাপ সম্পন্ন",
     "engagementMetrics": "এনগেজমেন্ট মেট্রিক্স",

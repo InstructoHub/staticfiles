@@ -21,7 +21,7 @@
     "never": "ક્યારેય નહીં",
     "courseProgress": "કોર્સ પ્રગતિ",
     "timeOnCourse": "કોર્સ પર સમય",
-    "inactiveDaysLabel": "નિષ્ક્રિય દિવસ",
+    "inactiveDaysLabel": "નિષ્ક્રિય દિવસ {{days}}",
     "progressOverview": "પ્રગતિનો સમીક્ષા",
     "activityCompletion": "ક્રિયાઓની પૂર્ણતા",
     "engagementMetrics": "એંગેજમેન્ટ મેટ્રિક્સ",

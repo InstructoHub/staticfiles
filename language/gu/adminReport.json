@@ -151,7 +151,7 @@
   },
   "categoryReport": {
     "loadingData": "...",
-    "errorPrefix": "Error:",
+    "errorPrefix": "ત્રુટિ:",
     "tooltipTotalCourses": ":",
     "title": "કોર્સ વિતરણ શ્રેણી દ્વારા",
     "subtitle": "જુઓ કે કોર્સો કેટેગરીઓમાં કેવી રીતે ફેલાયેલા છે અને કન્ટેન્ટ કયા સ્થળે વધુ કેન્દ્રિત છે તે ઓળખો.",
@@ -179,10 +179,10 @@
     "colDistribution": "વિતરણ"
   },
   "advancedAnalytics": {
-    "title": "Advanced Analytics",
+    "title": "એડવાન્સ્ડ એનાલિટિક્સ",
     "cardTimeEngagementTitle": "Time Engagement",
     "cardTimeEngagementDescription": "activities      ,      Moodle logs    plugin",
-    "cardAssessmentTitle": "Assessment Performance",
+    "cardAssessmentTitle": "એસેસમેન્ટ પરફોર્મન્સ",
     "cardAssessmentDescription": "Average scores, pass/fail rates analyze ,",
     "cardPopularContentDescription": "modules, pages,  activities",
     "subtitle": "અહીં કેટલાક વિચારો છે જે વધુ ઊંડા રિપોર્ટ્સ માટે તમે બનાવી શકો છો.",

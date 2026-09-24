@@ -21,7 +21,7 @@
     "never": "ఎప్పుడూ కాదు",
     "courseProgress": "కోర్సు ప్రోగ్రెస్",
     "timeOnCourse": "కోర్సులో సమయం",
-    "inactiveDaysLabel": "సక్రియంగా లేని రోజులు",
+    "inactiveDaysLabel": "సక్రియంగా లేని రోజులు {{days}}",
     "progressOverview": "ప్రోగ్రెస్ అవలోకనం",
     "activityCompletion": "చర్య పూర్తి",
     "engagementMetrics": "ఎంగేజ్మెంట్ మెట్రిక్స్",

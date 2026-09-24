@@ -97,7 +97,7 @@
     "sessionTimeoutToast": "ଆପଣଙ୍କର ସେସନ୍ ସମୟସୀମା ଶେଷ ହେଲା ଦୟାକରି ପୁଣି ଲଗଇନ୍ କରନ୍ତୁ",
     "sessionTimeoutBanner": "ନିଷ୍କ୍ରିୟତାରୁ ଆପଣଙ୍କର ପୂର୍ବତନ ସେସନ୍ ସମୟସୀମା ଶେଷ ହେଲା ଦୟାକରି ପୁଣି ଲଗଇନ୍ କରନ୍ତୁ",
     "unableToPreviewImage": "ଛବି ପ୍ରିଭ୍ୟୁ କରିପାରୁନାହିଁ",
-    "items": "s"
+    "items": "ଗୁଡ଼ିକ"
   },
   "time": {
     "today": "ଆଜି",
@@ -201,7 +201,18 @@
       "english": "ଇଂରାଜୀ",
       "hindi": "ହିନ୍ଦୀ",
       "spanish": "ସ୍ପାନିଶ୍",
-      "french": "ଫ୍ରେଞ୍ଚ"
+      "french": "ଫ୍ରେଞ୍ଚ",
+      "assamese": "ଆସାମୀ",
+      "bengali": "ବଙ୍ଗାଳୀ",
+      "gujarati": "ଗୁଜରାଟୀ",
+      "kannada": "କନ୍ନଡ",
+      "malayalam": "ମାଲୟାଳମ୍",
+      "marathi": "ମରାଠୀ",
+      "odia": "ଓଡ଼ିଆ",
+      "punjabi": "ପଞ୍ଜାବୀ",
+      "tamil": "ତାମିଲ୍",
+      "telugu": "ତେଲୁଗୁ",
+      "urdu": "ଉର୍ଦ୍ଦୁ"
     },
     "checkAnswer": "ଉତ୍ତର ଯାଞ୍ଚ କରନ୍ତୁ",
     "tryAgain": "ପୁନର୍ବାର ଚେଷ୍ଟା କରନ୍ତୁ",
@@ -211,7 +222,9 @@
     "editNumber": "ସଂଖ୍ୟା ସଂପାଦନ କରନ୍ତୁ",
     "phoneNumber": "ଫୋନ୍ ସଂଖ୍ୟା",
     "signUp": "ସାଇନ୍ ଅପ୍",
-    "learningModes": "ଶିକ୍ଷା ମୋଡ୍"
+    "learningModes": "ଶିକ୍ଷା ମୋଡ୍",
+    "inputLanguage": "ଇନ୍ପୁଟ୍ ଭାଷା",
+    "responseLanguage": "ପ୍ରତିକ୍ରିୟା ଭାଷା"
   },
   "statistics": {
     "overview": "ସାରାଂଶ",

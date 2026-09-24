@@ -377,7 +377,7 @@
     "currentPackage": "SCORM",
     "dropOrClick": "SCORM",
     "onlyZipSupported": "SCORM   ZIP",
-    "maxFileSize": ": {{size}}MB",
+    "maxFileSize": ": {{limit}}",
     "keepExistingPrompt": "SCORM",
     "validation": {
       "nameRequired": "SCORM",

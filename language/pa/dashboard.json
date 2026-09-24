@@ -458,7 +458,7 @@
   "kvicTargetAllocation": {
     "title": "ਟਾਰਗੇਟ ਐਲੋਕੇਸ਼ਨ",
     "titleCount": "ਟਾਰਗੇਟ ਐਲੋਕੇਸ਼ਨ — {{count}}",
-    "subtitle": "FY 2026–27 · HQ → Zone → State → Centre",
+    "subtitle": "ਵਿੱਤੀ ਵਰ੍ਹਾ 2026–27 · ਮੁੱਖ ਦਫ਼ਤਰ → ਜ਼ੋਨ → ਰਾਜ → ਕੇਂਦਰ",
     "open": "ਖੋਲ੍ਹੋ",
     "physical": "ਭੌਤਿਕ (ਉਮੀਦਵਾਰ)",
     "physicalCount": "{{count}} ਭੌਤਿਕ ਟਾਰਗੇਟ",
@@ -689,7 +689,7 @@
   "kvicSchemeBlock": {
     "title": "ਸਕੀਮ ਪਰਫਾਰਮੈਂਸ",
     "titleCount": "ਸਕੀਮ ਪਰਫਾਰਮੈਂਸ — {{count}}",
-    "subtitle": "PMEGP · KGVY · SDP · EDP"
+    "subtitle": "ਪੀਐਮਈਜੀਪੀ · ਕੇਜੀਵੀਵਾਈ · ਐਸਡੀਪੀ · ਈਡੀਪੀ"
   },
   "kvicDashFilters": {
     "fy": "ਵਿੱਤੀ ਵਰ੍ਹਾ {{fy}}",
@@ -831,7 +831,7 @@
     "colTrained": "ਟ੍ਰੇਨਡ",
     "colCert": "ਸਰਟੀਫਾਈਡ",
     "colPlaced": "ਪਲੇਸਡ",
-    "colAlloc": "₹ Cr"
+    "colAlloc": "₹ ਕਰੋੜ"
   },
   "kvicAlertsPage": {
     "title": "ਅਲਰਟਸ ਅਤੇ ਕੰਪਲਾਇੰਸ",

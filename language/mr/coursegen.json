@@ -26,7 +26,7 @@
     "continueButtonText": "पुढे जा",
     "errors": {
       "unsupportedFiles": "{count} फाइल(या) ला असमर्थित प्रकार आहेत. समर्थित: PDF, HTML, MP4, DOC, DOCX, PPT, PPTX, XLS, XLSX, TXT",
-      "maxFilesExceeded": "जास्तीत जास्त {max} फाइली परवानगी आहे",
+      "maxFilesExceeded": "जास्तीत जास्त {{max}} फाइली परवानगी आहे",
       "fileSizeExceeded": "एकूण फाइल आकार १ GB मर्यादा ओलांडून गेला",
       "noFilesSelected": "पुढे जाण्यासाठी कमीत कमी एक फाइल निवडा",
       "uploadFailed": "फाइली अपलोड करणे अयशस्वी",

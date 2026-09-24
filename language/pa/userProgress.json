@@ -21,7 +21,7 @@
     "never": "ਕਦੇ ਨਹੀਂ",
     "courseProgress": "ਕੋ ਦੀ ਪ੍ਰਗਤੀ",
     "timeOnCourse": "ਕੋ 'ਤੇ ਸਮਾਂ",
-    "inactiveDaysLabel": "ਗੈਰ ਸਰਗਰਮ ਦਿਨ",
+    "inactiveDaysLabel": "ਗੈਰ ਸਰਗਰਮ ਦਿਨ {{days}}",
     "progressOverview": "ਪ੍ਰਗਤੀ ਦਾ ਜਾਇਜ਼ਾ",
     "activityCompletion": "ਗਤੀਵਿਧੀ ਪੂਰਨਤਾ",
     "engagementMetrics": "ਸਹਿਭਾਗੀ ਮੈਟਰਿਕਸ",

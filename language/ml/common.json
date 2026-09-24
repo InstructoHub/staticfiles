@@ -251,8 +251,21 @@
       "english": "ഇംഗ്ലീഷ്",
       "hindi": "ഹിന്ദി",
       "spanish": "സ്പാനിഷ്",
-      "french": "ഫ്രഞ്ച്"
-    }
+      "french": "ഫ്രഞ്ച്",
+      "assamese": "അസമീസ്",
+      "bengali": "ബംഗാളി",
+      "gujarati": "ഗുജറാത്തി",
+      "kannada": "കന്നഡ",
+      "malayalam": "മലയാളം",
+      "marathi": "മറാത്തി",
+      "odia": "ഒഡിയ",
+      "punjabi": "പഞ്ചാബി",
+      "tamil": "തമിഴ്",
+      "telugu": "തെലുങ്ക്",
+      "urdu": "ഉർദു"
+    },
+    "inputLanguage": "ഇൻപുട്ട് ഭാഷ",
+    "responseLanguage": "പ്രതികരണ ഭാഷ"
   },
   "statistics": {
     "overview": "അവലോകനം",

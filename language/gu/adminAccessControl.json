@@ -345,8 +345,8 @@
     },
     "capabilities": {
       "create": "ક્રિએટ",
-      "read": "View",
-      "edit": "Edit",
+      "read": "જુઓ",
+      "edit": "એડિટ",
       "delete": "ડિલીટ",
       "enabledCount": "એનેબલ્ડ",
       "access": "ઍક્સેસ",

@@ -607,7 +607,7 @@
     "colPlaced": "ప్లేస్ అయినవి",
     "colVsLy": "LYతో పోల్చి",
     "stageCentres": "సెంటర్లు",
-    "stageCentresSub": "MDTC 18 · NDTC 216 · TP 680",
+    "stageCentresSub": "ఎండీటీసీ 18 · ఎన్‌డీటీసీ 216 · టీపీ 680",
     "stageBatches": "బ్యాచ్‌లు",
     "stageBatchesSub": "ఈ ఆర్థిక సంవత్సరంలో నడుస్తున్నవి + పూర్తైనవి",
     "stageTrained": "ట్రెయిన్డ్",
@@ -689,10 +689,10 @@
   "kvicSchemeBlock": {
     "title": "స్కీమ్ పనితీరు",
     "titleCount": "స్కీమ్ పనితీరు — {{count}}",
-    "subtitle": "PMEGP · KGVY · SDP · EDP"
+    "subtitle": "పీఎమ్‌ఈజీపీ · కేజీవీవై · ఎస్‌డీపీ · ఈడీపీ"
   },
   "kvicDashFilters": {
-    "fy": "FY {{fy}}",
+    "fy": "ఆర్థిక సంవత్సరం {{fy}}",
     "fyAria": "ఆర్థిక సంవత్సరం",
     "schemeAria": "స్కీమ్",
     "zoneAria": "జోన్",
@@ -831,7 +831,7 @@
     "colTrained": "ట్రెయిన్ అయినవి",
     "colCert": "సర్టిఫై అయినవి",
     "colPlaced": "ప్లేస్ అయినవి",
-    "colAlloc": "₹ Cr"
+    "colAlloc": "₹ కోటి"
   },
   "kvicAlertsPage": {
     "title": "అలర్ట్స్ & కంప్లయెన్స్",

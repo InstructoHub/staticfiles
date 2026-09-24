@@ -458,7 +458,7 @@
   "kvicTargetAllocation": {
     "title": "ടാർഗെറ്റ് അലോക്കേഷൻ",
     "titleCount": "ടാർഗെറ്റ് അലോക്കേഷൻ — {{count}}",
-    "subtitle": "FY 2026–27 · HQ → Zone → State → Centre",
+    "subtitle": "അധ്യായം 2026–27 · മേധാവി ഓഫീസ് → മേഖല → സംസ്ഥാനം → കേന്ദ്രം",
     "open": "ഓപ്പൺ",
     "physical": "ഫിസിക്കൽ (കാൻഡിഡേറ്റുകൾ)",
     "physicalCount": "{{count}} ഫിസിക്കൽ ടാർഗറ്റ്",
@@ -607,7 +607,7 @@
     "colPlaced": "പ്ലേസ്ഡ്",
     "colVsLy": "കഴിഞ്ഞ വർഷത്തിനെതിരെ",
     "stageCentres": "കേന്ദ്രങ്ങൾ",
-    "stageCentresSub": "MDTC 18 · NDTC 216 · TP 680",
+    "stageCentresSub": "എംഡിടിസി 18 · എൻഡിടിസി 216 · ടിപി 680",
     "stageBatches": "ബാച്ചുകൾ",
     "stageBatchesSub": "ഈ സാമ്പത്തിക വർഷത്തിൽ നടന്നുകൊണ്ടിരിക്കുന്നതും പൂർത്തിയായതും",
     "stageTrained": "പരിശീലനം നേടിയവർ",

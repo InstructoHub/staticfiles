@@ -251,8 +251,21 @@
       "english": "ఇంగ్లీష్",
       "hindi": "హిందీ",
       "spanish": "స్పానిష్",
-      "french": "ఫ్రెంచ్"
-    }
+      "french": "ఫ్రెంచ్",
+      "assamese": "అస్సామీస్",
+      "bengali": "బెంగాలీ",
+      "gujarati": "గుజరాతీ",
+      "kannada": "కన్నడ",
+      "malayalam": "మలయాళం",
+      "marathi": "మరాఠీ",
+      "odia": "ఒడియా",
+      "punjabi": "పంజాబీ",
+      "tamil": "తమిళం",
+      "telugu": "తెలుగు",
+      "urdu": "ఉర్దూ"
+    },
+    "inputLanguage": "ఇన్‌పుట్ భాష",
+    "responseLanguage": "రెస్పాన్స్ భాష"
   },
   "statistics": {
     "overview": "అవలోకనం",

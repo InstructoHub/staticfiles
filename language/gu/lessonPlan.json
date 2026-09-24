@@ -37,13 +37,13 @@
     "errorOccurred": "એક ભૂલ થઈ છે. કૃપા કરીને તમારું પોતાનું પ્રોમ્પ્ટ લખો.",
     "pageTitle": "લેસન પ્લાન બનાવો",
     "activityDateNotInPast": "Activity તારીખ આજની અથવા ભવિષ્યની હોવી જોઈએ",
-    "previewAndPrint": "Preview & Print",
+    "previewAndPrint": "પૂર્વદર્શન અને પ્રિન્ટ",
     "printLessonPlan": "Lesson Plan Print કરો",
     "print": "Print",
     "backToEdit": "Edit પર પાછા જાઓ"
   },
   "templateT1": {
-    "error": "Error",
+    "error": "એરર",
     "templateNotFound": "Template \"{{templateId}}\" મળ્યું નથી."
   }
 }

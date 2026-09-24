@@ -377,7 +377,7 @@
     "currentPackage": "ਮੌਜੂਦਾ SCORM ਪੈਕੇਜ",
     "dropOrClick": "ਆਪਣਾ SCORM ਪੈਕੇਜ ਇੱਥੇ ਡ੍ਰਾਪ ਕਰੋ ਜਾਂ ਬ੍ਰਾਊਜ਼ ਕਰਨ ਲਈ ਕਲਿੱਕ ਕਰੋ",
     "onlyZipSupported": "ਸਿਰਫ਼ SCORM ਪੈਕੇਜਾਂ ਵਾਲੀਆਂ ZIP ਫਾਈਲਾਂ ਦਾ ਸਮਰਥਨ ਕੀਤਾ ਜਾਂਦਾ ਹੈ",
-    "maxFileSize": "ਅਧਿਕਤਮ ਫਾਈਲ ਆਕਾਰ: {{size}}MB",
+    "maxFileSize": "ਅਧਿਕਤਮ ਫਾਈਲ ਆਕਾਰ: {{limit}}",
     "browseFiles": "ਫਾਈਲਾਂ ਬ੍ਰਾਊਜ਼ ਕਰੋ",
     "readyToUpload": "ਅਪਲੋਡ ਕਰਨ ਲਈ ਤਿਆਰ",
     "removeCurrentFile": "ਨਵਾਂ ਅਪਲੋਡ ਕਰਨ ਲਈ ਮੌਜੂਦਾ ਫਾਈਲ ਹਟਾਓ",

@@ -61,7 +61,7 @@
     "loading": "ಲೋಡ್ ಆಗುತ್ತಿದೆ...",
     "totalLogins": "ಒಟ್ಟು ಲಾಗಿನ್‌ಗಳು",
     "daysCount": "{{count}} ದಿನಗಳು",
-    "plural": "s",
+    "plural": "ಗಳು",
     "loginSessions": "({{count}})",
     "logoutSessions": "({{count}})",
     "scrollToViewAll": "{{count}}",

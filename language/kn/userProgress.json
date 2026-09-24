@@ -21,7 +21,7 @@
     "never": "ಏಕಕಾಲದಲ್ಲಿ ಇಲ್ಲ",
     "courseProgress": "ಕೊರ್ಸ್ ಪ್ರೋಗ್ರೆಸ್",
     "timeOnCourse": "ಕೊರ್ಸ್ ನಲ್ಲಿ ಸಮಯ",
-    "inactiveDaysLabel": "ನಿಷ್ಕ್ರಿಯ ದಿನಗಳು",
+    "inactiveDaysLabel": "ನಿಷ್ಕ್ರಿಯ ದಿನಗಳು {{days}}",
     "progressOverview": "ಪ್ರೋಗ್ರೆಸ್ ಓವರ್ವ್ಯೂ",
     "activityCompletion": "ಚಟುವಟಿಕೆ ಪೂರ್ಣಗೊಳಣೆ",
     "engagementMetrics": "ಎಂಗೇಜ್‌ಮೆಂಟ್ ಮೆಟ್ರಿಕ್‌ಗಳು",

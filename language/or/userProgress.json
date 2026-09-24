@@ -21,7 +21,7 @@
     "never": "କେବେ ନୁହେଁ",
     "courseProgress": "କୋର୍ସ ପ୍ରଗତି",
     "timeOnCourse": "କୋର୍ସରେ ସମୟ",
-    "inactiveDaysLabel": "ନିଷ୍କ୍ରିୟ ଦିନ",
+    "inactiveDaysLabel": "ନିଷ୍କ୍ରିୟ ଦିନ {{days}}",
     "progressOverview": "ପ୍ରଗତି ସାରାଂଶ",
     "activityCompletion": "କାର୍ଯ୍ୟ ସମ୍ପୂର୍ଣ୍ଣତା",
     "engagementMetrics": "ଏଙ୍ଗେଜ୍‌ମେଣ୍ଟ ମେଟ୍ରିକ୍ସ",

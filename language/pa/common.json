@@ -236,8 +236,21 @@
       "english": "ਅੰਗਰੇਜ਼ੀ",
       "hindi": "ਹਿੰਦੀ",
       "spanish": "ਸਪੇਨੀ",
-      "french": "ਫਰਾਂਸੀਸੀ"
-    }
+      "french": "ਫਰਾਂਸੀਸੀ",
+      "assamese": "ਅਸਮੀਆ",
+      "bengali": "ਬੰਗਾਲੀ",
+      "gujarati": "ਗੁਜਰਾਤੀ",
+      "kannada": "ਕੰਨੜ",
+      "malayalam": "ਮਲਿਆਲਮ",
+      "marathi": "ਮਰਾਠੀ",
+      "odia": "ਉੜੀਆ",
+      "punjabi": "ਪੰਜਾਬੀ",
+      "tamil": "ਤਮਿਲ",
+      "telugu": "ਤੇਲਗੂ",
+      "urdu": "ਉਰਦੂ"
+    },
+    "inputLanguage": "ਇਨਪੁੱਟ ਭਾਸ਼ਾ",
+    "responseLanguage": "ਜਵਾਬ ਭਾਸ਼ਾ"
   },
   "statistics": {
     "overview": "ਜਾਇਜ਼ਾ",

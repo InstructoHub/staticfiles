@@ -251,8 +251,21 @@
       "english": "ஆங்கிலம்",
       "hindi": "ஹிந்தி",
       "spanish": "ஸ்பானிஷ்",
-      "french": "பிரெஞ்சு"
-    }
+      "french": "பிரெஞ்சு",
+      "assamese": "அஸ்ஸாமி",
+      "bengali": "பெங்காலி",
+      "gujarati": "குஜராத்தி",
+      "kannada": "கன்னடம்",
+      "malayalam": "மலையாளம்",
+      "marathi": "மராத்தி",
+      "odia": "ஒடியா",
+      "punjabi": "பஞ்சாபி",
+      "tamil": "தமிழ்",
+      "telugu": "தெலுங்கு",
+      "urdu": "உருது"
+    },
+    "inputLanguage": "உள்ளீட்டு மொழி",
+    "responseLanguage": "பதில் மொழி"
   },
   "statistics": {
     "overview": "மேலோட்டம்",
@@ -267,17 +280,17 @@
   "grading": {
     "grade": "தரம்",
     "graded": "தரமிட்டது",
-    "ungraded": "Ungraded",
-    "pending": "Pending",
-    "submitted": "Submitted",
-    "notSubmitted": "Not Submitted",
-    "maxGrade": "Max Grade",
-    "outOf": "out of",
+    "ungraded": "மதிப்பிடப்படாதது",
+    "pending": "நிலுவையில்",
+    "submitted": "சமர்ப்பிக்கப்பட்டது",
+    "notSubmitted": "சமர்ப்பிக்கப்படவில்லை",
+    "maxGrade": "அதிகபட்ச மதிப்பெண்",
+    "outOf": "இல் இருந்து",
     "percentage": "{{percent}}%"
   },
   "visibility": {
-    "hide": "Hide",
-    "show": "Show",
+    "hide": "மறை",
+    "show": "காட்டு",
     "hiddenFromStudents": "மாணவர்களிடமிருந்து மறைக்கப்பட்டது",
     "showOnCoursePage": "பாடநெறி பக்கத்தில் காட்டு",
     "hideOnCoursePage": "பாடநெறி பக்கத்தில் மறை"

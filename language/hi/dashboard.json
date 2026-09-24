@@ -693,10 +693,10 @@
   "kvicSchemeBlock": {
     "title": "स्कीम परफॉर्मेंस",
     "titleCount": "स्कीम परफॉर्मेंस — {{count}}",
-    "subtitle": "PMEGP · KGVY · SDP · EDP"
+    "subtitle": "पीएमईजीपी · केजीवाई · एसडीपी · ईडीपी"
   },
   "kvicDashFilters": {
-    "fy": "FY {{fy}}",
+    "fy": "वित्त वर्ष {{fy}}",
     "fyAria": "वित्तीय वर्ष",
     "schemeAria": "स्कीम",
     "zoneAria": "ज़ोन",
@@ -762,7 +762,7 @@
   },
   "kvicAssessmentPage": {
     "title": "असेसमेंट & सर्टिफिकेशन",
-    "crestSub": "KVIC · Directorate of Capacity Building",
+    "crestSub": "केवीआईसी · क्षमता निर्माण निदेशालय",
     "heading": "असेसमेंट पाइपलाइन",
     "sub": "70% attendance rule और pending assessments के basis पर certification.",
     "kpiRate": "सर्टिफिकेशन रेट",
@@ -777,7 +777,7 @@
   },
   "kvicPlacementPage": {
     "title": "प्लेसमेंट & एम्प्लॉयमेंट",
-    "crestSub": "KVIC · Directorate of Capacity Building",
+    "crestSub": "केवीआईसी · क्षमता निर्माण निदेशालय",
     "heading": "प्लेसमेंट outcomes",
     "sub": "सर्टिफाइड कैंडिडेट्स placed या enterprise से credit-linked.",
     "kpiPlaced": "प्लेस्ड",
@@ -787,41 +787,41 @@
     "tableTitle": "ज़ोन के हिसाब से प्लेसमेंट",
     "tableSub": "Training Outcomes जैसे ही placement rates",
     "colTrained": "ट्रेंड",
-    "colPlaced": "Placed",
-    "colRate": "Rate"
+    "colPlaced": "प्लेस्ड",
+    "colRate": "रेट"
   },
   "kvicTrainerPage": {
     "title": "Trainer मैनेजमेंट",
     "crestSub": "KVIC · डायरेक्टरेट ऑफ कैपेसिटी बिल्डिंग",
     "heading": "Trainer utilization",
     "sub": "इस FY में चल रहे batches के लिए deploy किए गए faculty.",
-    "kpiTrainers": "Trainers",
-    "kpiDeployed": "Deployed",
-    "kpiBatches": "Active batches",
-    "kpiUtil": "Utilisation",
+    "kpiTrainers": "ट्रेनर्स",
+    "kpiDeployed": "डिप्लॉयड",
+    "kpiBatches": "ऐक्टिव बैचेस",
+    "kpiUtil": "यूटीलाईज़ेशन",
     "tableTitle": "ज़ोन के हिसाब से Trainers",
     "tableSub": "सेंटर footprint के हिसाब से national faculty का share",
-    "colCentres": "Centres",
-    "colShare": "Trainers"
+    "colCentres": "सेंटर्स",
+    "colShare": "ट्रेनर्स"
   },
   "kvicFundPage": {
-    "title": "Financial Utilisation",
+    "title": "फाइनेंशियल यूटीलाईज़ेशन",
     "crestSub": "KVIC · डायरेक्टरेट ऑफ कैपेसिटी बिल्डिंग",
-    "heading": "Fund utilisation",
+    "heading": "फंड यूटीलाईज़ेशन",
     "sub": "इस FY में sanctioned financial outlay बनाम expenditure.",
-    "kpiAlloc": "Allocated",
-    "kpiUtil": "Utilised",
-    "kpiSpent": "Spent",
-    "kpiBalance": "Unspent",
+    "kpiAlloc": "अलॉकेटेड",
+    "kpiUtil": "यूटीलाईज़्ड",
+    "kpiSpent": "स्पेंट",
+    "kpiBalance": "अनस्पेंट",
     "tableTitle": "Scheme के हिसाब से utilisation",
     "tableSub": "Target Allocation जैसा ही scheme mix",
-    "colScheme": "Scheme",
-    "colAlloc": "Allocated ₹ Cr",
-    "colSpent": "Spent ₹ Cr",
-    "colPct": "Utilised"
+    "colScheme": "स्कीम",
+    "colAlloc": "अलॉकेटेड ₹ Cr",
+    "colSpent": "स्पेंट ₹ Cr",
+    "colPct": "यूटीलाईज़्ड"
   },
   "kvicSchemePage": {
-    "title": "Scheme Performance",
+    "title": "स्कीम परफॉर्मेंस",
     "crestSub": "KVIC · डायरेक्टरेट ऑफ कैपेसिटी बिल्डिंग",
     "heading": "योजना तुलना",
     "sub": "राष्ट्रीय स्तर पर प्रशिक्षित, प्रमाणित और प्लेस्ड टोटल्स के मुकाबले PMEGP, KGVY, SDP और EDP।",
@@ -835,7 +835,7 @@
     "colTrained": "प्रशिक्षित",
     "colCert": "प्रमाणित",
     "colPlaced": "प्लेस्ड",
-    "colAlloc": "₹ Cr"
+    "colAlloc": "₹ करोड़"
   },
   "kvicAlertsPage": {
     "title": "अलर्ट्स और कंप्लायंस",

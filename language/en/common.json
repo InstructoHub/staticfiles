@@ -307,9 +307,22 @@
     "messagePlaceholder": "Message InstructoEcho...",
     "sendMessage": "Send message",
     "aiDisclaimer": "AI responses are automated and may contain mistakes. Use discretion.",
+    "inputLanguage": "Input language",
+    "responseLanguage": "Response language",
     "languages": {
       "english": "English",
+      "assamese": "Assamese",
+      "bengali": "Bengali",
+      "gujarati": "Gujarati",
       "hindi": "Hindi",
+      "kannada": "Kannada",
+      "malayalam": "Malayalam",
+      "marathi": "Marathi",
+      "odia": "Odia",
+      "punjabi": "Punjabi",
+      "tamil": "Tamil",
+      "telugu": "Telugu",
+      "urdu": "Urdu",
       "spanish": "Spanish",
       "french": "French"
     }

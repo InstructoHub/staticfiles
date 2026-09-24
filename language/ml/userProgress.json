@@ -21,7 +21,7 @@
     "never": "എപ്പോഴും",
     "courseProgress": "കോഴ്‌സ് പ്രോഗ്രസ്",
     "timeOnCourse": "കോഴ്‌സിൽ സമയം",
-    "inactiveDaysLabel": "സജീവമല്ലാത്ത ദിവസങ്ങൾ",
+    "inactiveDaysLabel": "സജീവമല്ലാത്ത ദിവസങ്ങൾ {{days}}",
     "progressOverview": "പ്രോഗ്രസിന്റെ അവലോകനം",
     "activityCompletion": "പ്രവൃത്തി പൂർത്തീകരണം",
     "engagementMetrics": "എംഗേജ്മെന്റ് മെട്രിക്‌സ്",

@@ -21,7 +21,7 @@
     "never": "எப்போது இல்லையா",
     "courseProgress": "கோர்ஸ் முன்னேற்றம்",
     "timeOnCourse": "கோர்ஸில் செலவான நேரம்",
-    "inactiveDaysLabel": "செயலற்ற நாட்கள்",
+    "inactiveDaysLabel": "செயலற்ற நாட்கள் {{days}}",
     "progressOverview": "முன்னேற்றத்தின் மேற்பார்வை",
     "activityCompletion": "செயல்பாடு நிறைவு",
     "engagementMetrics": "இணைப்பு அளவீடுகள்",

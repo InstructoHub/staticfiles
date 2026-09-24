@@ -67,14 +67,14 @@
       "title": "ఇటీవల ప్లాట్‌ఫారమ్ ఉపయోగం — {{name}}",
       "subtitle": "ఈ tenant‌ను ఎవరు ఉపయోగించారు, ప్లాట్‌ఫారమ్‌లో వారు ఏమి చేశారు.",
       "lastAccess": "చివరి access: {{time}}",
-      "activityCount": "actions",
+      "activityCount": "యాక్షన్లు",
       "noLogs": "ఈ snapshot‌లో platform actions లేవు.",
       "noUsers": "ఈ tenant‌కు ఇటీవల users లేరు.",
-      "systemEventsHidden": "{{count}} system notification events hidden",
+      "systemEventsHidden": "{{count}} సిస్టమ్ నోటిఫికేషన్ ఈవెంట్లు దాచబడ్డాయి",
       "origin": {
         "web": "Web",
         "ws": "API",
-        "cli": "System"
+        "cli": "సిస్టమ్"
       }
     }
   }

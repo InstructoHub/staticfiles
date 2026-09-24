@@ -21,7 +21,7 @@
     "never": "कभी नहीं",
     "courseProgress": "कोर्स की प्रोग्रेस",
     "timeOnCourse": "कोर्स पर बिताया टाइम",
-    "inactiveDaysLabel": "इनएक्टिव दिन",
+    "inactiveDaysLabel": "इनएक्टिव दिन {{days}}",
     "progressOverview": "प्रोग्रेस का ओवरव्यू",
     "activityCompletion": "एक्टिविटी का कंप्लीशन",
     "engagementMetrics": "एंगेजमेंट मैट्रिक्स",

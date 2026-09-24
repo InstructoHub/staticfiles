@@ -399,7 +399,7 @@
     }
   },
   "scorm": {
-    "title": "SCORM Package",
+    "title": "SCORM ప్యాకేజ్",
     "loadingContent": "SCORM లాంచ్ చేస్తున్నాము...",
     "packageTitle": "SCORM Package",
     "activityNotAccessible": "ఈ Activity యాక్సెస్ చేయబడదు",
@@ -413,7 +413,7 @@
     "title": "H5P కంటెంట్",
     "loadingContent": "H5P కంటెంట్ లోడ్ చేస్తున్నాము...",
     "interactiveContent": "ఇంటరాక్టివ్ H5P కంటెంట్",
-    "packageTitle": "H5P Package",
+    "packageTitle": "H5P ప్యాకేజ్",
     "courseFallbackName": "ఈ కోర్సు",
     "searchPlaceholder": "కంటెంట్ టైపులను సర్చ్ చేయండి...",
     "allContentTypes": "అన్ని కంటెంట్ టైపులు",
@@ -427,8 +427,8 @@
       "aToZ": "A నుండి Z"
     },
     "ai": {
-      "promptTitle": "H5P Prompt",
-      "characters": "characters",
+      "promptTitle": "H5P ప్రాంప్ట్",
+      "characters": "అక్షరాలు",
       "promptPlaceholder": "H5P prompt ను నమోదు చేయండి లేదా సవరించండి...",
       "charLimitExceeded": "H5P prompt {{limit}} characters కన్నా ఎక్కువ ఉండకూడదు",
       "contentSource": "కంటెంట్ సోర్స్",

@@ -194,7 +194,7 @@
     "speech": "स्पीच"
   },
   "tools": {
-    "instructoGen": "InstructoGen ",
+    "instructoGen": "InstructoGen",
     "instructoGrade": "InstructoGrade",
     "instructoPlan": "InstructoPlan",
     "instructoEcho": "InstructoEcho",
@@ -326,8 +326,21 @@
       "english": "इंग्रजी",
       "hindi": "हिंदी",
       "spanish": "स्पॅनिश",
-      "french": "फ्रेंच"
-    }
+      "french": "फ्रेंच",
+      "assamese": "आसामी",
+      "bengali": "बंगाली",
+      "gujarati": "गुजराती",
+      "kannada": "कन्नड",
+      "malayalam": "मलयाळम",
+      "marathi": "मराठी",
+      "odia": "ओडिया",
+      "punjabi": "पंजाबी",
+      "tamil": "तमिळ",
+      "telugu": "तेलुगू",
+      "urdu": "उर्दू"
+    },
+    "inputLanguage": "इनपुट भाषा",
+    "responseLanguage": "उत्तर भाषा"
   },
   "ai": {
     "courseNotEnabledMessage": "हा कोर्स AI प्रक्रियेसाठी सक्षम केलेला नाही."

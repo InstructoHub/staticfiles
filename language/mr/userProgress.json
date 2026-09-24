@@ -53,7 +53,7 @@
     "never": "कधीच नाही",
     "courseProgress": "कोर्स प्रगती",
     "timeOnCourse": "कोर्सवरचा वेळ",
-    "inactiveDaysLabel": "निष्क्रिय दिवस",
+    "inactiveDaysLabel": "निष्क्रिय दिवस {{days}}",
     "progressOverview": "प्रगतीचा आढावा",
     "activityCompletion": "अभ्यास पूर्णता",
     "engagementMetrics": "सक्रियता मेट्रिक्स",
