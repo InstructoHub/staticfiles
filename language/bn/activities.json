@@ -615,7 +615,8 @@
     },
     "fileOrUrlNotBoth": "দয়া করে ফাইল আপলোড করুন অথবা ইউআরএল দিন, দুটো একসাথে নয়",
     "urlPlaceholder": "https://example.com/resource",
-    "fillMandatory": "সব বাধ্যতামূলক ফিল্ড পূরণ করুন"
+    "fillMandatory": "সব বাধ্যতামূলক ফিল্ড পূরণ করুন",
+    "fileOrUrlHelper": "আপনি একটি ফাইল আপলোড করতে পারেন বা একটি URL দিতে পারেন একবারে শুধু একটি-ই দেওয়া যাবে"
   },
   "pages": {
     "title": "পৃষ্ঠা",

@@ -615,7 +615,8 @@
     },
     "fileOrUrlNotBoth": "कृपया या तो फाइल अपलोड करें या यूआरएल डालें, दोनों नहीं।",
     "urlPlaceholder": "https://example.com/resource",
-    "fillMandatory": "सारे ज़रूरी फील्ड भरें"
+    "fillMandatory": "सारे ज़रूरी फील्ड भरें",
+    "fileOrUrlHelper": "आप या तो फ़ाइल अपलोड कर सकते हैं या एक यूआरएल दे सकते हैं। एक समय में सिर्फ़ एक ही अनुमति है।"
   },
   "pages": {
     "title": "पेज",

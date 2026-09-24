@@ -615,7 +615,8 @@
     },
     "fileOrUrlNotBoth": "தயவுசெய்து ஒரு கோப்பை மட்டும் பதிவேற்றுங்கள் அல்லது ஒரு URL-ஐ மட்டும் உள்ளிடுங்கள், இரண்டும் வேண்டாம்.",
     "urlPlaceholder": "https://example.com/resource",
-    "fillMandatory": "அனைத்து கட்டாய புலங்களையும் நிரப்பவும்"
+    "fillMandatory": "அனைத்து கட்டாய புலங்களையும் நிரப்பவும்",
+    "fileOrUrlHelper": "நீங்கள் ஒரு file-ஐ upload செய்யலாம் அல்லது ஒரு URL-ஐ கொடுக்கலாம். ஒரே நேரத்தில் ஒன்றே allowed."
   },
   "pages": {
     "title": "பக்கம்",

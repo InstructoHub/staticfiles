@@ -615,7 +615,8 @@
     },
     "fileOrUrlNotBoth": "कृपया फाइल अपलोड करा किंवा URL एंटर करा, दोन्ही नाही.",
     "urlPlaceholder": "https://example.com/resource",
-    "fillMandatory": "सगळी गरजेची फील्ड्स भरा"
+    "fillMandatory": "सगळी गरजेची फील्ड्स भरा",
+    "fileOrUrlHelper": "तुम्ही एकतर फाइल अपलोड करू शकता किंवा URL देऊ शकता. एका वेळी फक्त एकच परवानगी आहे."
   },
   "pages": {
     "title": "पृष्ठ",

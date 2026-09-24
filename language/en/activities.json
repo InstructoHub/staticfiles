@@ -588,6 +588,7 @@
       "scorm": "ZIP"
     },
     "fileOrUrlNotBoth": "Please either upload a file or enter a URL, not both.",
+    "fileOrUrlHelper": "You can either upload a file or provide a URL. Only one is allowed at a time.",
     "urlPlaceholder": "https://example.com/resource",
     "fillMandatory": "Fill all mandatory fields",
     "maxFileSize": "Maximum File Size",

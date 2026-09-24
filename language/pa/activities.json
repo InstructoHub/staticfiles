@@ -615,7 +615,8 @@
     },
     "fileOrUrlNotBoth": "ਕਿਰਪਾ ਕਰਕੇ ਫਾਈਲ ਅਪਲੋਡ ਕਰੋ ਜਾਂ URL ਦਿਓ, ਦੋਵੇਂ ਨਹੀਂ",
     "urlPlaceholder": "https://example.com/resource",
-    "fillMandatory": "ਸਾਰੇ ਲਾਜ਼ਮੀ ਫੀਲਡ ਭਰੋ"
+    "fillMandatory": "ਸਾਰੇ ਲਾਜ਼ਮੀ ਫੀਲਡ ਭਰੋ",
+    "fileOrUrlHelper": "ਤੁਸੀਂ ਫਾਈਲ ਅੱਪਲੋਡ ਕਰ ਸਕਦੇ ਹੋ ਜਾਂ URL ਦੇ ਸਕਦੇ ਹੋ ਇੱਕ ਸਮੇਂ 'ਤੇ ਸਿਰਫ਼ ਇੱਕ ਹੀ ਮਨਜ਼ੂਰ ਹੈ"
   },
   "pages": {
     "title": "ਪੇਜ",
