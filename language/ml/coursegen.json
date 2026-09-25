@@ -105,7 +105,9 @@
     },
     "definingStructure": "ഘടന നിർവചിക്കുന്നു",
     "atLeastOneModule": "തുടരുന്നതിന് മുമ്പ് കുറഞ്ഞത് ഒരു മൊഡ്യൂൾ എങ്കിലും ചേർക്കുക.",
-    "resetFailed": "സ്റ്റേറ്റ് റീസെറ്റ് ചെയ്യാൻ പരാജയപ്പെട്ടു"
+    "resetFailed": "സ്റ്റേറ്റ് റീസെറ്റ് ചെയ്യാൻ പരാജയപ്പെട്ടു",
+    "learningObjectCount": "{{count}} പഠന വസ്തുക്കൾ",
+    "emptyLearningObjects": "ഇതുവരെ പഠന വസ്തുക്കൾ ഇല്ല"
   },
   "reviewPrompts": {
     "title": "റിവ്യൂ പ്രോംപ്റ്റുകൾ",

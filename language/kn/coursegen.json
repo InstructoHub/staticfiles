@@ -93,7 +93,9 @@
     },
     "definingStructure": "ರಚನೆ ನಿರ್ಧರಿಸಲಾಗುತ್ತಿದೆ",
     "atLeastOneModule": "ಮುಂದುವರೆಯುವ ಮೊದಲು ದಯವಿಟ್ಟು ಕನಿಷ್ಠ ಒಂದು ಮಾಡ್ಯೂಲ್ ಸೇರಿಸಿ.",
-    "resetFailed": "ಸ್ಥಿತಿಯನ್ನು ಮರುಹೊಂದಿಸಲು ವಿಫಲವಾಗಿದೆ"
+    "resetFailed": "ಸ್ಥಿತಿಯನ್ನು ಮರುಹೊಂದಿಸಲು ವಿಫಲವಾಗಿದೆ",
+    "learningObjectCount": "{{count}} ಕಲಿಕಾ ವಸ್ತುಗಳು",
+    "emptyLearningObjects": "ಇನ್ನೂ ಕಲಿಕಾ ವಸ್ತುಗಳಿಲ್ಲ"
   },
   "reviewPrompts": {
     "title": "ರಿವ್ಯೂ ಪ್ರಾಂಪ್ಟ್‌ಗಳು",

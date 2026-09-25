@@ -105,7 +105,9 @@
     },
     "definingStructure": "స్ట్రక్చర్‌ను నిర్వచిస్తున్నారు",
     "atLeastOneModule": "కొనసాగించే ముందు కనీసం ఒక మాడ్యూల్‌ను జోడించండి.",
-    "resetFailed": "స్టేట్‌ను రీసెట్ చేయడం విఫలమైంది"
+    "resetFailed": "స్టేట్‌ను రీసెట్ చేయడం విఫలమైంది",
+    "learningObjectCount": "{{count}} అభ్యాస అంశాలు",
+    "emptyLearningObjects": "ఇంకా అభ్యాస అంశాలు లేవు"
   },
   "reviewPrompts": {
     "title": "రివ్యూ ప్రాంప్ట్స్",

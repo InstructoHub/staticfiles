@@ -108,7 +108,9 @@
     },
     "definingStructure": "স্ট্রাকচার নির্ধারণ করা হচ্ছে",
     "atLeastOneModule": "চালিয়ে যাওয়ার আগে অন্তত একটি মডিউল যোগ করুন",
-    "resetFailed": "স্টেট রিসেট করা যায়নি"
+    "resetFailed": "স্টেট রিসেট করা যায়নি",
+    "learningObjectCount": "{{count}} লার্নিং অবজেক্ট",
+    "emptyLearningObjects": "এখনও কোনো লার্নিং অবজেক্ট নেই"
   },
   "reviewPrompts": {
     "title": "রিভিউ প্রম্পটস",

@@ -105,7 +105,9 @@
     },
     "definingStructure": "स्ट्रक्चर सेट किया जा रहा है",
     "atLeastOneModule": "आगे बढ़ने से पहले कम से कम एक मॉड्यूल जोड़ें।",
-    "resetFailed": "स्टेट रीसेट नहीं हो पाया"
+    "resetFailed": "स्टेट रीसेट नहीं हो पाया",
+    "learningObjectCount": "{{count}} लर्निंग ऑब्जेक्ट्स",
+    "emptyLearningObjects": "अभी कोई लर्निंग ऑब्जेक्ट नहीं"
   },
   "reviewPrompts": {
     "title": "प्रॉम्प्ट्स रिव्यू करें",

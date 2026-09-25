@@ -632,8 +632,10 @@
       "nameRequired": "Forum name is required",
       "nameMinLength": "Forum name must be at least 3 characters",
       "nameMaxLength": "Forum name must be 200 characters or less",
+      "descriptionRequired": "Forum description is required",
       "descriptionMaxLength": "Forum description must be 2000 characters or less",
       "dueDateAfterNoon": "Due date cannot be today after 12 PM. Select tomorrow or later.",
+      "dueDateNotToday": "Due date cannot be today. Select tomorrow or later.",
       "dueDatePast": "Due date cannot be in the past"
     },
     "messages": {

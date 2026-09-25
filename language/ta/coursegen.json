@@ -105,7 +105,9 @@
     },
     "definingStructure": "அமைப்பை வரையறுக்கிறது",
     "atLeastOneModule": "தொடர்வதற்கு முன் குறைந்தது ஒரு மாட்யூலைச் சேர்க்கவும்.",
-    "resetFailed": "நிலையை மீட்டமைக்க முடியவில்லை"
+    "resetFailed": "நிலையை மீட்டமைக்க முடியவில்லை",
+    "learningObjectCount": "{{count}} கற்றல் பொருட்கள்",
+    "emptyLearningObjects": "இதுவரை கற்றல் பொருட்கள் இல்லை"
   },
   "reviewPrompts": {
     "title": "ரிவியூ பிரம்ப்ட்ஸ்",

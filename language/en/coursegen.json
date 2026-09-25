@@ -77,6 +77,8 @@
     "quickTipsText": "Drag modules to reorder them. Drag and drop Learning Objects in Modules from the right panel.",
     "addModuleButton": "Add Module",
     "dragDropText": "Drag and drop learning objects here",
+    "learningObjectCount": "{{count}} learning objects",
+    "emptyLearningObjects": "No learning objects yet",
     "noDataTitle": "No Data Found",
     "noDataContent": "There are no items to display",
     "modulePlaceholder": "Enter Title Here",

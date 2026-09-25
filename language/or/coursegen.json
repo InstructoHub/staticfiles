@@ -93,7 +93,9 @@
     },
     "definingStructure": "ଗଠନ ତିଆରି ହେଉଛି",
     "atLeastOneModule": "ଆଗକୁ ବଢ଼ିବା ପୂର୍ବରୁ ଦୟାକରି କମ୍‌ରେ କମ୍‌ ଗୋଟିଏ ମଡ୍ୟୁଲ୍ ଯୋଡନ୍ତୁ",
-    "resetFailed": "ଷ୍ଟେଟ୍ ରିସେଟ୍ କରିବାରେ ବିଫଳ"
+    "resetFailed": "ଷ୍ଟେଟ୍ ରିସେଟ୍ କରିବାରେ ବିଫଳ",
+    "learningObjectCount": "{{count}} ଶିକ୍ଷଣ ବସ୍ତୁ",
+    "emptyLearningObjects": "ଏପର୍ଯ୍ୟନ୍ତ କୌଣସି ଶିକ୍ଷଣ ବସ୍ତୁ ନାହିଁ"
   },
   "reviewPrompts": {
     "title": "ରିଭ୍ୟୁ ପ୍ରମ୍ପ୍ଟସ୍",

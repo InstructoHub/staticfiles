@@ -58,7 +58,9 @@
     },
     "definingStructure": "ਸਟਰਕਚਰ ਤਿਆਰ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ",
     "atLeastOneModule": "ਜਾਰੀ ਰੱਖਣ ਤੋਂ ਪਹਿਲਾਂ ਘੱਟੋ-ਘੱਟ ਇੱਕ ਮੋਡਿਊਲ ਸ਼ਾਮਲ ਕਰੋ",
-    "resetFailed": "ਸਟੇਟ ਰੀਸੈੱਟ ਕਰਨ ਵਿੱਚ ਅਸਫਲ"
+    "resetFailed": "ਸਟੇਟ ਰੀਸੈੱਟ ਕਰਨ ਵਿੱਚ ਅਸਫਲ",
+    "learningObjectCount": "{{count}} ਲਰਨਿੰਗ ਆਬਜੈਕਟ",
+    "emptyLearningObjects": "ਹਾਲੇ ਕੋਈ ਲਰਨਿੰਗ ਆਬਜੈਕਟ ਨਹੀਂ"
   },
   "reviewPrompts": {
     "title": "ਰੀਵਿਊ ਪ੍ਰੰਪਟਸ",

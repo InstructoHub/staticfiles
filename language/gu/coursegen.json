@@ -205,7 +205,9 @@
     },
     "definingStructure": "સ્ટ્રક્ચર ડિફાઇન કરી રહ્યા છીએ",
     "atLeastOneModule": "કૃપા કરીને આગળ વધતા પહેલા ઓછામાં ઓછું એક મોડ્યુલ ઉમેરો.",
-    "resetFailed": "સ્ટેટ રીસેટ કરવામાં નિષ્ફળ"
+    "resetFailed": "સ્ટેટ રીસેટ કરવામાં નિષ્ફળ",
+    "learningObjectCount": "{{count}} લર્નિંગ ઑબ્જેક્ટ્સ",
+    "emptyLearningObjects": "હજુ લર્નિંગ ઑબ્જેક્ટ્સ નથી"
   },
   "stepper": {
     "courseDetails": "કોર્સ વિગતો",

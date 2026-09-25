@@ -106,7 +106,7 @@
       "shortNameRequired": "Short name is required",
       "shortNameMinLength": "Short name must be at least 2 characters",
       "shortNameMaxLength": "Short name must not exceed 30 characters",
-      "shortNameFormat": "Short name can only contain letters, numbers, underscore and dash",
+      "shortNameFormat": "Short name can only contain letters, numbers, hyphens, and underscore (no spaces)",
       "shortNameTaken": "Short name is already used!",
       "checkingShortName": "Checking short name availability...",
       "fixErrorsFirst": "Please fill in all required fields correctly before submitting",

@@ -75,6 +75,7 @@
       "categoryNameMinLength": "Category name must be at least 2 characters",
       "categoryNameMaxLength": "Category name must not exceed 200 characters",
       "idNumberMaxLength": "ID number must not exceed 50 characters",
+      "idNumberFormat": "ID number can only contain letters, numbers, hyphens, and underscore (no spaces)",
       "idNumberTaken": "This ID number is already in use by another category",
       "descriptionMaxLength": "Description must not exceed 1000 characters"
     },
