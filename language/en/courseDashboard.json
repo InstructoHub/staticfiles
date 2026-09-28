@@ -505,11 +505,13 @@
     },
     "fields": {
       "quizTitle": "Quiz Title",
+      "quizDescription": "Quiz Description",
       "quizPrompt": "Quiz Prompt"
     },
     "placeholders": {
       "prompt": "Enter or edit the quiz prompt...",
       "quizTitle": "Quiz Title",
+      "quizDescription": "Quiz Description",
       "questionTitle": "Question Title",
       "questionContent": "Question Content"
     },
@@ -557,7 +559,9 @@
       "selectQuestion": "Please select at least one question type",
       "promptOverLimit": "Quiz prompt cannot exceed {{limit}} characters",
       "titleRequired": "Quiz title is required",
-      "titleOverLimit": "Quiz title cannot exceed {{limit}} characters"
+      "titleOverLimit": "Quiz title cannot exceed {{limit}} characters",
+      "descriptionRequired": "Quiz description is required",
+      "descriptionOverLimit": "Quiz description cannot exceed {{limit}} characters"
     },
     "messages": {
       "noItems": "No pages, resources, folders, or URLs found",

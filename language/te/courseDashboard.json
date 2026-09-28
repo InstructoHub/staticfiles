@@ -467,13 +467,15 @@
     },
     "fields": {
       "quizTitle": "క్విజ్ శీర్షిక",
-      "quizPrompt": "క్విజ్ ప్రాంప్ట్"
+      "quizPrompt": "క్విజ్ ప్రాంప్ట్",
+      "quizDescription": "క్విజ్ వివరణ"
     },
     "placeholders": {
       "prompt": "క్విజ్ ప్రాంప్ట్‌ను నమోదు చేయండి లేదా సవరించండి...",
       "quizTitle": "క్విజ్ శీర్షిక",
       "questionTitle": "ప్రశ్న శీర్షిక",
-      "questionContent": "ప్రశ్న కంటెంట్"
+      "questionContent": "ప్రశ్న కంటెంట్",
+      "quizDescription": "క్విజ్ వివరణ"
     },
     "buttons": {
       "back": "తిరిగి",
@@ -519,7 +521,9 @@
       "selectQuestion": "కనీసం ఒక ప్రశ్న రకం ఎంచుకోండి",
       "promptOverLimit": "క్విజ్ ప్రాంప్ట్ {{limit}} అక్షరాలను మించకూడదు",
       "titleOverLimit": "క్విజ్ శీర్షిక {{limit}} అక్షరాలను మించకూడదు",
-      "titleRequired": "క్విజ్ టైటిల్ అవసరం"
+      "titleRequired": "క్విజ్ టైటిల్ అవసరం",
+      "descriptionRequired": "క్విజ్ వివరణ అవసరం",
+      "descriptionOverLimit": "క్విజ్ వివరణ {{limit}} అక్షరాలకంటే ఎక్కువ ఉండకూడదు"
     },
     "messages": {
       "noItems": "ఏ పేజీలు లేదా రీసోర్సులు కనుగొనబడలేదు",

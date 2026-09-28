@@ -457,7 +457,8 @@
       "prompt": "...",
       "quizTitle": "ક્વિઝ શીર્ષક",
       "questionTitle": "પ્રશ્ન શીર્ષક",
-      "questionContent": "પ્રશ્ન સામગ્રી"
+      "questionContent": "પ્રશ્ન સામગ્રી",
+      "quizDescription": "ક્વિઝ વર્ણન"
     },
     "buttons": {
       "loading": "...",
@@ -503,7 +504,9 @@
       "selectQuestion": "કૃપા કરીને ઓછામાં ઓછું એક પ્રશ્ન પ્રકાર પસંદ કરો",
       "promptOverLimit": "ક્વિઝ પ્રોમ્પ્ટ {{limit}} અક્ષરોને પાર નથી જવું જોઈએ",
       "titleOverLimit": "ક્વિઝ શીર્ષક {{limit}} અક્ષરોને પાર નથી જવું જોઈએ",
-      "titleRequired": "ક્વિઝનું શીર્ષક જરૂરી છે"
+      "titleRequired": "ક્વિઝનું શીર્ષક જરૂરી છે",
+      "descriptionRequired": "ક્વિઝ વર્ણન જરૂરી છે",
+      "descriptionOverLimit": "ક્વિઝ વર્ણન {{limit}} અક્ષરોથી વધુ ન હોવું જોઈએ"
     },
     "messages": {
       "noItems": "કોઈ પેજ અથવા સ્રોત મળ્યા નથી",
@@ -559,7 +562,8 @@
     },
     "fields": {
       "quizTitle": "ક્વિઝ શીર્ષક",
-      "quizPrompt": "ક્વિઝ પ્રોમ્પ્ટ"
+      "quizPrompt": "ક્વિઝ પ્રોમ્પ્ટ",
+      "quizDescription": "ક્વિઝ વર્ણન"
     },
     "pageLabel": "પેજ",
     "folderLabel": "ફોલ્ડર",

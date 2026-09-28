@@ -457,7 +457,8 @@
       "prompt": "...",
       "quizTitle": "କୁଇଜ୍ ଶୀର୍ଷକ",
       "questionTitle": "ପ୍ରଶ୍ନ ଶୀର୍ଷକ",
-      "questionContent": "ପ୍ରଶ୍ନ ବିଷୟବସ୍ତୁ"
+      "questionContent": "ପ୍ରଶ୍ନ ବିଷୟବସ୍ତୁ",
+      "quizDescription": "କ୍ବିଜ୍ ବିବରଣୀ"
     },
     "buttons": {
       "loading": "...",
@@ -503,7 +504,9 @@
       "selectContent": "ଦୟାକରି କମ୍ ସେ କମ୍ ଗୋଟିଏ ସାମଗ୍ରୀ ବାଛନ୍ତୁ",
       "enterPrompt": "ଦୟାକରି ଗୋଟିଏ ପ୍ରମ୍ପ୍ଟ ଦିଅନ୍ତୁ",
       "selectQuestion": "ଦୟାକରି କମ୍ ସେ କମ୍ ଗୋଟିଏ ପ୍ରଶ୍ନ ପ୍ରକାର ବାଛନ୍ତୁ",
-      "titleRequired": "Quiz title ଆବଶ୍ୟକ"
+      "titleRequired": "Quiz title ଆବଶ୍ୟକ",
+      "descriptionRequired": "କ୍ବିଜ୍ ବିବରଣୀ ଆବଶ୍ୟକ",
+      "descriptionOverLimit": "କ୍ବିଜ୍ ବିବରଣୀ {{limit}} ଅକ୍ଷରକୁ ଅତିକ୍ରମ କରିପାରିବ ନାହିଁ"
     },
     "messages": {
       "quizCreated": "!",
@@ -532,7 +535,8 @@
     },
     "fields": {
       "quizTitle": "କୁଇଜ୍ ଶୀର୍ଷକ",
-      "quizPrompt": "କୁଇଜ୍ ପ୍ରମ୍ପ୍ଟ"
+      "quizPrompt": "କୁଇଜ୍ ପ୍ରମ୍ପ୍ଟ",
+      "quizDescription": "କ୍ବିଜ୍ ବିବରଣୀ"
     },
     "errors": {
       "title": "ତ୍ରୁଟି",

@@ -457,7 +457,8 @@
       "prompt": "...",
       "quizTitle": "ਕਵਿਜ ਦਾ ਸਿਰਲੇਖ",
       "questionTitle": "ਸਵਾਲ ਦਾ ਸਿਰਲੇਖ",
-      "questionContent": "ਸਵਾਲ ਦੀ ਸਮੱਗਰੀ"
+      "questionContent": "ਸਵਾਲ ਦੀ ਸਮੱਗਰੀ",
+      "quizDescription": "ਕੁਇਜ਼ ਵੇਰਵਾ"
     },
     "buttons": {
       "loading": "...",
@@ -503,7 +504,9 @@
       "selectQuestion": "ਕਿਰਪਾ ਕਰਕੇ ਘੱਟੋ-ਘੱਟ ਇੱਕ ਸਵਾਲ ਦੀ ਕਿਸਮ ਚੁਣੋ",
       "promptOverLimit": "ਕੁਇਜ਼ ਪ੍ਰੰਪਟ {{limit}} ਅੱਖਰਾਂ ਤੋਂ ਵੱਧ ਨਹੀਂ ਹੋ ਸਕਦੀ",
       "titleOverLimit": "ਕੁਇਜ਼ ਦਾ ਸਿਰਲੇਖ {{limit}} ਅੱਖਰਾਂ ਤੋਂ ਵੱਧ ਨਹੀਂ ਹੋ ਸਕਦਾ",
-      "titleRequired": "ਕੁਇਜ਼ ਦਾ ਸਿਰਲੇਖ ਲਾਜ਼ਮੀ ਹੈ"
+      "titleRequired": "ਕੁਇਜ਼ ਦਾ ਸਿਰਲੇਖ ਲਾਜ਼ਮੀ ਹੈ",
+      "descriptionRequired": "ਕੁਇਜ਼ ਵੇਰਵਾ ਲਾਜ਼ਮੀ ਹੈ",
+      "descriptionOverLimit": "ਕੁਇਜ਼ ਵੇਰਵਾ {{limit}} ਅੱਖਰਾਂ ਤੋਂ ਵੱਧ ਨਹੀਂ ਹੋ ਸਕਦਾ"
     },
     "messages": {
       "noItems": "ਕੋਈ ਪੰਨੇ ਜਾਂ ਸੰਸਾਧਨ ਨਹੀਂ ਮਿਲੇ",
@@ -559,7 +562,8 @@
     },
     "fields": {
       "quizTitle": "ਕਵਿਜ ਦਾ ਸਿਰਲੇਖ",
-      "quizPrompt": "ਕਵਿਜ ਪ੍ਰੰਪਟ"
+      "quizPrompt": "ਕਵਿਜ ਪ੍ਰੰਪਟ",
+      "quizDescription": "ਕੁਇਜ਼ ਵੇਰਵਾ"
     },
     "pageLabel": "ਪੰਨਾ",
     "folderLabel": "ਫੋਲਡਰ",

@@ -471,13 +471,15 @@
     },
     "fields": {
       "quizTitle": "ಕ್ವಿಜ್ ಟೈಟಲ್",
-      "quizPrompt": "ಕ್ವಿಜ್ ಪ್ರಾಂಪ್ಟ್"
+      "quizPrompt": "ಕ್ವಿಜ್ ಪ್ರಾಂಪ್ಟ್",
+      "quizDescription": "ಕ್ವಿಜ್ ವಿವರಣೆ"
     },
     "placeholders": {
       "prompt": "ಕ್ವಿಜ್ ಪ್ರಾಂಪ್ಟ್ ಎಂಟರ್ ಮಾಡಿ ಅಥವಾ ಎಡಿಟ್ ಮಾಡಿ...",
       "quizTitle": "ಕ್ವಿಜ್ ಟೈಟಲ್",
       "questionTitle": "ಪ್ರಶ್ನೆ ಟೈಟಲ್",
-      "questionContent": "ಪ್ರಶ್ನೆ ಕಂಟೆಂಟ್"
+      "questionContent": "ಪ್ರಶ್ನೆ ಕಂಟೆಂಟ್",
+      "quizDescription": "ಕ್ವಿಜ್ ವಿವರಣೆ"
     },
     "buttons": {
       "back": "ಬ್ಯಾಕ್",
@@ -523,7 +525,9 @@
       "selectQuestion": "ದಯವಿಟ್ಟು ಕನಿಷ್ಠ ಒಂದು ಪ್ರಶ್ನೆ ವಿಧ ಆಯ್ಕೆಮಾಡಿ",
       "promptOverLimit": "ಕ್ವಿಜ್ ಪ್ರಾಂಪ್ಟ್ {{limit}} ಅಕ್ಷರಗಳನ್ನು ಮೀರಬಾರದು",
       "titleOverLimit": "ಕ್ವಿಜ್ ಟೈಟಲ್ {{limit}} ಅಕ್ಷರಗಳನ್ನು ಮೀರಬಾರದು",
-      "titleRequired": "ಕ್ವಿಜ್ ಶೀರ್ಷಿಕೆ ಅಗತ್ಯವಾಗಿದೆ"
+      "titleRequired": "ಕ್ವಿಜ್ ಶೀರ್ಷಿಕೆ ಅಗತ್ಯವಾಗಿದೆ",
+      "descriptionRequired": "ಕ್ವಿಜ್ ವಿವರಣೆ ಅಗತ್ಯವಿದೆ",
+      "descriptionOverLimit": "ಕ್ವಿಜ್ ವಿವರಣೆ {{limit}} ಅಕ್ಷರಗಳನ್ನು ಮೀರಬಾರದು"
     },
     "messages": {
       "noItems": "ಯಾವುದೇ ಪೇಜ್ ಅಥವಾ ರಿಸೋರ್ಸ್ ಕಂಡುಬಂದಿಲ್ಲ",

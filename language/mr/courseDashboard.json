@@ -471,13 +471,15 @@
     },
     "fields": {
       "quizTitle": "क्विजचे शीर्षक",
-      "quizPrompt": "क्विज प्रॉम्प्ट"
+      "quizPrompt": "क्विज प्रॉम्प्ट",
+      "quizDescription": "क्विझचे वर्णन"
     },
     "placeholders": {
       "prompt": "क्विज प्रॉम्प्ट प्रविष्ट किंवा संपादित करा...",
       "quizTitle": "क्विजचे शीर्षक",
       "questionTitle": "प्रश्नचे शीर्षक",
-      "questionContent": "प्रश्न सामग्री"
+      "questionContent": "प्रश्न सामग्री",
+      "quizDescription": "क्विझचे वर्णन"
     },
     "buttons": {
       "back": "परत जा",
@@ -523,7 +525,9 @@
       "selectQuestion": "कृपया किमान एक प्रश्न प्रकार निवडा",
       "promptOverLimit": "क्विज प्रॉम्प्ट {{limit}} अक्षरांपेक्षा जास्त असू शकत नाही",
       "titleOverLimit": "क्विज शीर्षक {{limit}} अक्षरांपेक्षा जास्त असू शकत नाही",
-      "titleRequired": "क्विझचं शीर्षक आवश्यक आहे"
+      "titleRequired": "क्विझचं शीर्षक आवश्यक आहे",
+      "descriptionRequired": "क्विझचे वर्णन आवश्यक आहे",
+      "descriptionOverLimit": "क्विझचे वर्णन {{limit}} अक्षरांपेक्षा जास्त नसावे"
     },
     "messages": {
       "noItems": "कोणते पृष्ठ किंवा संसाधन सापडले नाहीत",

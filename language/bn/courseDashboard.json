@@ -467,13 +467,15 @@
     },
     "fields": {
       "quizTitle": "কুইজ শিরোনাম",
-      "quizPrompt": "কুইজ প্রম্পট"
+      "quizPrompt": "কুইজ প্রম্পট",
+      "quizDescription": "কুইজের বর্ণনা"
     },
     "placeholders": {
       "prompt": "কুইজ প্রম্পট লিখুন বা সম্পাদনা করুন...",
       "quizTitle": "কুইজ শিরোনাম",
       "questionTitle": "প্রশ্নের শিরোনাম",
-      "questionContent": "প্রশ্নের বিষয়বস্তু"
+      "questionContent": "প্রশ্নের বিষয়বস্তু",
+      "quizDescription": "কুইজের বর্ণনা"
     },
     "buttons": {
       "back": "পিছনে",
@@ -519,7 +521,9 @@
       "selectQuestion": "দয়া করে অন্তত একটি প্রশ্নের ধরন নির্বাচন করুন",
       "promptOverLimit": "কুইজ প্রম্পট {{limit}} অক্ষরের বেশি হতে পারে না",
       "titleOverLimit": "কুইজ শিরোনাম {{limit}} অক্ষরের বেশি হতে পারে না",
-      "titleRequired": "কুইজের শিরোনাম প্রয়োজন"
+      "titleRequired": "কুইজের শিরোনাম প্রয়োজন",
+      "descriptionRequired": "কুইজের বর্ণনা প্রয়োজন",
+      "descriptionOverLimit": "কুইজের বর্ণনা {{limit}} অক্ষরের বেশি হতে পারে না"
     },
     "messages": {
       "noItems": "কোন পৃষ্ঠা বা সম্পদ পাওয়া যায়নি",

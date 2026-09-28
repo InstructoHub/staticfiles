@@ -471,13 +471,15 @@
     },
     "fields": {
       "quizTitle": "க்விஸ் டைட்டில்",
-      "quizPrompt": "க்விஸ் பிராம்ப்ட்"
+      "quizPrompt": "க்விஸ் பிராம்ப்ட்",
+      "quizDescription": "க்விஸ் விளக்கம்"
     },
     "placeholders": {
       "prompt": "க்விஸ் பிராம்ப்ட்டை உள்ளிடவும் அல்லது எடிட் செய்யவும்...",
       "quizTitle": "க்விஸ் டைட்டில்",
       "questionTitle": "கேள்வி டைட்டில்",
-      "questionContent": "கேள்வி கன்டென்ட்"
+      "questionContent": "கேள்வி கன்டென்ட்",
+      "quizDescription": "க்விஸ் விளக்கம்"
     },
     "buttons": {
       "back": "பேக்",
@@ -523,7 +525,9 @@
       "selectQuestion": "குறைந்தது ஒரு கேள்வி வகையையாவது தேர்ந்தெடுக்கவும்",
       "promptOverLimit": "க்விஸ் பிராம்ப்ட் {{limit}} கேரக்டர்களைத் தாண்டக்கூடாது",
       "titleOverLimit": "க்விஸ் டைட்டில் {{limit}} கேரக்டர்களைத் தாண்டக்கூடாது",
-      "titleRequired": "க்விஸ் தலைப்பு அவசியம்"
+      "titleRequired": "க்விஸ் தலைப்பு அவசியம்",
+      "descriptionRequired": "க்விஸ் விளக்கம் அவசியம்",
+      "descriptionOverLimit": "க்விஸ் விளக்கம் {{limit}} எழுத்துகளை தாண்டக்கூடாது"
     },
     "messages": {
       "noItems": "பேஜ்கள் அல்லது ரிசோர்ஸ்கள் எதுவும் இல்லை",

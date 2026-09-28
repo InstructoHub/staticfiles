@@ -471,13 +471,15 @@
     },
     "fields": {
       "quizTitle": "क्विज़ का टाइटल",
-      "quizPrompt": "क्विज़ का प्रॉम्प्ट"
+      "quizPrompt": "क्विज़ का प्रॉम्प्ट",
+      "quizDescription": "क्विज़ डिस्क्रिप्शन"
     },
     "placeholders": {
       "prompt": "क्विज़ का प्रॉम्प्ट एंटर या एडिट करें...",
       "quizTitle": "क्विज़ का टाइटल",
       "questionTitle": "क्वेश्चन का टाइटल",
-      "questionContent": "क्वेश्चन का कंटेंट"
+      "questionContent": "क्वेश्चन का कंटेंट",
+      "quizDescription": "क्विज़ डिस्क्रिप्शन"
     },
     "buttons": {
       "back": "बैक",
@@ -523,7 +525,9 @@
       "selectQuestion": "प्लीज कम से कम एक क्वेश्चन टाइप सेलेक्ट करें",
       "promptOverLimit": "क्विज़ का प्रॉम्प्ट {{limit}} कैरेक्टर्स से ज़्यादा नहीं हो सकता",
       "titleOverLimit": "क्विज़ का टाइटल {{limit}} कैरेक्टर्स से ज़्यादा नहीं हो सकता",
-      "titleRequired": "क्विज़ का टाइटल ज़रूरी है"
+      "titleRequired": "क्विज़ का टाइटल ज़रूरी है",
+      "descriptionRequired": "क्विज़ डिस्क्रिप्शन ज़रूरी है",
+      "descriptionOverLimit": "क्विज़ डिस्क्रिप्शन {{limit}} कैरेक्टर्स से ज़्यादा नहीं हो सकता"
     },
     "messages": {
       "noItems": "कोई पेजेस या रिसोर्सेज नहीं मिले",
