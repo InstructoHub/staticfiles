@@ -64,7 +64,8 @@
     "switchRole": "రోల్ మార్చండి",
     "teacher": "టీచర్",
     "student": "స్టూడెంట్",
-    "closeNavigationMenu": "నావిగేషన్ మెనూని మూసివేయండి"
+    "closeNavigationMenu": "నావిగేషన్ మెనూని మూసివేయండి",
+    "mainMenu": "మెయిన్ మెనూ"
   },
   "status": {
     "loading": "లోడ్ అవుతోంది...",
@@ -265,7 +266,8 @@
       "urdu": "ఉర్దూ"
     },
     "inputLanguage": "ఇన్‌పుట్ భాష",
-    "responseLanguage": "రెస్పాన్స్ భాష"
+    "responseLanguage": "రెస్పాన్స్ భాష",
+    "openSidebar": "చాట్ మెనూ తెరవండి"
   },
   "statistics": {
     "overview": "అవలోకనం",
@@ -327,7 +329,10 @@
     "visibilityFilter": {
       "allCourses": "అన్ని కోర్సులను చూడండి",
       "visibleOnly": "కనిపించే కోర్సులను చూడండి",
-      "hiddenOnly": "లొకేషన్ లో ఉన్న కోర్సులను చూడండి"
+      "hiddenOnly": "లొకేషన్ లో ఉన్న కోర్సులను చూడండి",
+      "allCoursesShort": "అన్నీ",
+      "visibleOnlyShort": "కనిపించే",
+      "hiddenOnlyShort": "దాచిన"
     },
     "totalCourses": "మొత్తం కోర్సులు {{count}}",
     "showing": "{{start}}-{{end}} చూపిస్తున్నాయి",
@@ -355,7 +360,10 @@
     "currentView": "ప్రస్తుత వీక్షణ: {{role}}",
     "mobileAppLogin": "మొబైల్ యాప్‌లో లాగిన్ చేయండి",
     "quizModeTitle": "క్విజ్ మోడ్ యాక్టివ్‌లో ఉంది",
-    "quizModeMessage": "క్విజ్ మోడ్ యాక్టివ్‌గా ఉన్నప్పుడు నావిగేషన్ పరిమితంగా ఉంటుంది. కొనసాగించడానికి క్విజ్ మోడ్ పూర్తి చేయండి లేదా బయటకు రండి."
+    "quizModeMessage": "క్విజ్ మోడ్ యాక్టివ్‌గా ఉన్నప్పుడు నావిగేషన్ పరిమితంగా ఉంటుంది. కొనసాగించడానికి క్విజ్ మోడ్ పూర్తి చేయండి లేదా బయటకు రండి.",
+    "toggleCourseOutline": "కోర్స్ అవుట్‌లైన్ మార్చండి",
+    "toggleAdminPanel": "అడ్మిన్ ప్యానెల్ మార్చండి",
+    "toggleCourseTools": "కోర్స్ టూల్స్ మార్చండి"
   },
   "loginQr": {
     "scanTitle": "మొబైల్ యాప్ సెటప్ చేయడానికి క్యూఆర్ కోడ్ స్కాన్ చేయండి",

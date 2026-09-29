@@ -64,7 +64,8 @@
     "switchRole": "റോൾ മാറ്റുക",
     "teacher": "ടീച്ചർ",
     "student": "സ്റ്റുഡന്റ്",
-    "closeNavigationMenu": "നാവിഗേഷൻ മെനു അടയ്ക്കുക"
+    "closeNavigationMenu": "നാവിഗേഷൻ മെനു അടയ്ക്കുക",
+    "mainMenu": "പ്രധാന മെനു"
   },
   "status": {
     "loading": "ലോഡിംഗ്...",
@@ -265,7 +266,8 @@
       "urdu": "ഉർദു"
     },
     "inputLanguage": "ഇൻപുട്ട് ഭാഷ",
-    "responseLanguage": "പ്രതികരണ ഭാഷ"
+    "responseLanguage": "പ്രതികരണ ഭാഷ",
+    "openSidebar": "ചാറ്റ് മെനു തുറക്കുക"
   },
   "statistics": {
     "overview": "അവലോകനം",
@@ -327,7 +329,10 @@
     "visibilityFilter": {
       "allCourses": "എല്ലാ കോഴ്‌സുകളും കാണുക",
       "visibleOnly": "കാണുന്ന കോഴ്‌സുകൾ മാത്രം കാണുക",
-      "hiddenOnly": "മറഞ്ഞ കോഴ്‌സുകൾ കാണുക"
+      "hiddenOnly": "മറഞ്ഞ കോഴ്‌സുകൾ കാണുക",
+      "allCoursesShort": "എല്ലാം",
+      "visibleOnlyShort": "ദൃശ്യമാനം മാത്രം",
+      "hiddenOnlyShort": "മറച്ചത് മാത്രം"
     },
     "totalCourses": "മൊത്തം കോഴ്‌സുകൾ {{count}}",
     "showing": "{{start}}-{{end}} കാണിക്കുന്നു",
@@ -355,7 +360,10 @@
     "currentView": "നിലവിലെ കാഴ്ച: {{role}}",
     "mobileAppLogin": "മൊബൈൽ ആപ്പിലേക്ക് ലോഗിൻ ചെയ്യുക",
     "quizModeTitle": "ക്വിസ് മോഡ് സജീവമാണ്",
-    "quizModeMessage": "ക്വിസ് മോഡ് സജീവമായിരിക്കുമ്പോൾ നാവിഗേഷൻ നിയന്ത്രിക്കപ്പെടും. തുടരാൻ ക്വിസ് മോഡ് പൂർത്തിയാക്കുക അല്ലെങ്കിൽ പുറത്തുകടക്കുക."
+    "quizModeMessage": "ക്വിസ് മോഡ് സജീവമായിരിക്കുമ്പോൾ നാവിഗേഷൻ നിയന്ത്രിക്കപ്പെടും. തുടരാൻ ക്വിസ് മോഡ് പൂർത്തിയാക്കുക അല്ലെങ്കിൽ പുറത്തുകടക്കുക.",
+    "toggleCourseOutline": "കോഴ്‌സ് ഔട്ട്‌ലൈൻ ടോഗിൾ ചെയ്യുക",
+    "toggleAdminPanel": "അഡ്മിൻ പാനൽ ടോഗിൾ ചെയ്യുക",
+    "toggleCourseTools": "കോഴ്‌സ് ടൂൾസ് ടോഗിൾ ചെയ്യുക"
   },
   "loginQr": {
     "scanTitle": "മൊബൈൽ ആപ്പ് സെറ്റ്‌അപ്പ് ചെയ്യാൻ ക്യു ആർ കോഡ് സ്കാൻ ചെയ്യുക",

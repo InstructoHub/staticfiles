@@ -64,7 +64,8 @@
     "switchRole": "ರೋಲ್ ಬದಲಾಯಿಸಿ",
     "teacher": "ಟೀಚರ್",
     "student": "ಸ್ಟೂಡೆಂಟ್",
-    "closeNavigationMenu": "ನ್ಯಾವಿಗೇಶನ್ ಮೆನು ಮುಚ್ಚಿ"
+    "closeNavigationMenu": "ನ್ಯಾವಿಗೇಶನ್ ಮೆನು ಮುಚ್ಚಿ",
+    "mainMenu": "ಮುಖ್ಯ ಮೆನು"
   },
   "status": {
     "loading": "ಲೋಡ್ ಆಗುತ್ತಿದೆ...",
@@ -265,7 +266,8 @@
       "urdu": "ಉರ್ದು"
     },
     "inputLanguage": "ಇನ್‌ಪುಟ್ ಭಾಷೆ",
-    "responseLanguage": "ಪ್ರತಿಕ್ರಿಯೆ ಭಾಷೆ"
+    "responseLanguage": "ಪ್ರತಿಕ್ರಿಯೆ ಭಾಷೆ",
+    "openSidebar": "ಚಾಟ್ ಮೆನು ತೆರೆಯಿರಿ"
   },
   "statistics": {
     "overview": "ಊಹ",
@@ -327,7 +329,10 @@
     "visibilityFilter": {
       "allCourses": "ಎಲ್ಲಾ ಕೋರ್ಸ್‌ಗಳನ್ನು ನೋಡಿ",
       "visibleOnly": "ಕಾಣುವ ಕೋರ್ಸ್‌ಗಳನ್ನು ನೋಡಿ",
-      "hiddenOnly": "ಹಿಡಿದ ಕೋರ್ಸ್‌ಗಳನ್ನು ನೋಡಿ"
+      "hiddenOnly": "ಹಿಡಿದ ಕೋರ್ಸ್‌ಗಳನ್ನು ನೋಡಿ",
+      "allCoursesShort": "ಎಲ್ಲಾ",
+      "visibleOnlyShort": "ಕಾಣಿಸುವವು",
+      "hiddenOnlyShort": "ಮರೆಮಾಡಿರುವವು"
     },
     "totalCourses": "ಒಟ್ಟು ಕೋರ್ಸ್‌ಗಳು {{count}}",
     "showing": "{{start}}-{{end}} ತೋರಿಸುತ್ತಿದೆ",
@@ -355,7 +360,10 @@
     "currentView": "ಪ್ರಸ್ತುತ ವೀಕ್ಷಣೆ: {{role}}",
     "mobileAppLogin": "ಮೊಬೈಲ್ ಆ್ಯಪ್‌ಗೆ ಲಾಗಿನ್ ಮಾಡಿ",
     "quizModeTitle": "ಕ್ವಿಜ್ ಮೋಡ್ ಸಕ್ರಿಯವಾಗಿದೆ",
-    "quizModeMessage": "ಕ್ವಿಜ್ ಮೋಡ್ ಸಕ್ರಿಯವಾಗಿರುವಾಗ ನ್ಯಾವಿಗೇಶನ್ ನಿರ್ಬಂಧಿತವಾಗಿರುತ್ತದೆ. ಮುಂದುವರಿಸಲು ದಯವಿಟ್ಟು ಕ್ವಿಜ್ ಮೋಡ್ ಪೂರ್ಣಗೊಳಿಸಿ ಅಥವಾ ನಿರ್ಗಮಿಸಿ."
+    "quizModeMessage": "ಕ್ವಿಜ್ ಮೋಡ್ ಸಕ್ರಿಯವಾಗಿರುವಾಗ ನ್ಯಾವಿಗೇಶನ್ ನಿರ್ಬಂಧಿತವಾಗಿರುತ್ತದೆ. ಮುಂದುವರಿಸಲು ದಯವಿಟ್ಟು ಕ್ವಿಜ್ ಮೋಡ್ ಪೂರ್ಣಗೊಳಿಸಿ ಅಥವಾ ನಿರ್ಗಮಿಸಿ.",
+    "toggleCourseOutline": "ಪಾಠದ ರೂಪರೇಖೆ ಟಾಗಲ್ ಮಾಡಿ",
+    "toggleAdminPanel": "ಅಡ್ಮಿನ್ ಪ್ಯಾನೆಲ್ ಟಾಗಲ್ ಮಾಡಿ",
+    "toggleCourseTools": "ಪಾಠದ ಟೂಲ್‌ಗಳು ಟಾಗಲ್ ಮಾಡಿ"
   },
   "loginQr": {
     "scanTitle": "ಮೊಬೈಲ್ ಆಪ್ ಸೆಟ್‌ಅಪ್‌ಗಾಗಿ ಕ್ಯೂಆರ್ ಕೋಡ್ ಸ್ಕ್ಯಾನ್ ಮಾಡಿ",

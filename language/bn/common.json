@@ -64,7 +64,8 @@
     "switchRole": "রোল বদলান",
     "teacher": "শিক্ষক",
     "student": "ছাত্র",
-    "closeNavigationMenu": "নেভিগেশন মেনু বন্ধ করুন"
+    "closeNavigationMenu": "নেভিগেশন মেনু বন্ধ করুন",
+    "mainMenu": "প্রধান মেনু"
   },
   "status": {
     "loading": "লোড হচ্ছে...",
@@ -265,7 +266,8 @@
       "urdu": "উর্দু"
     },
     "inputLanguage": "ইনপুট ভাষা",
-    "responseLanguage": "প্রতিক্রিয়া ভাষা"
+    "responseLanguage": "প্রতিক্রিয়া ভাষা",
+    "openSidebar": "চ্যাট মেনু খুলুন"
   },
   "statistics": {
     "overview": "সারসংক্ষেপ",
@@ -327,7 +329,10 @@
     "visibilityFilter": {
       "allCourses": "সমস্ত কোর্স দেখুন",
       "visibleOnly": "দেখা যায় এমন কোর্স দেখুন",
-      "hiddenOnly": "লুকানো কোর্স দেখুন"
+      "hiddenOnly": "লুকানো কোর্স দেখুন",
+      "allCoursesShort": "সব",
+      "visibleOnlyShort": "দৃশ্যমান",
+      "hiddenOnlyShort": "লুকানো"
     },
     "totalCourses": "মোট কোর্স {{count}}",
     "showing": "দেখানো {{start}}-{{end}}",
@@ -355,7 +360,10 @@
     "currentView": "বর্তমান ভিউ: {{role}}",
     "mobileAppLogin": "মোবাইল অ্যাপে লগইন করুন",
     "quizModeTitle": "কুইজ মোড সক্রিয়",
-    "quizModeMessage": "কুইজ মোড সক্রিয় থাকলে নেভিগেশন সীমিত থাকে চালিয়ে যেতে কুইজ মোড সম্পন্ন করুন বা বের হয়ে আসুন"
+    "quizModeMessage": "কুইজ মোড সক্রিয় থাকলে নেভিগেশন সীমিত থাকে চালিয়ে যেতে কুইজ মোড সম্পন্ন করুন বা বের হয়ে আসুন",
+    "toggleCourseOutline": "কোর্সের আউটলাইন বদলান",
+    "toggleAdminPanel": "অ্যাডমিন প্যানেল বদলান",
+    "toggleCourseTools": "কোর্স টুলস বদলান"
   },
   "loginQr": {
     "scanTitle": "মোবাইল অ্যাপ সেটআপ করতে কিউআর কোড স্ক্যান করুন",

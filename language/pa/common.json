@@ -64,7 +64,8 @@
     "switchRole": "ਰੋਲ ਬਦਲੋ",
     "teacher": "ਟੀਚਰ",
     "student": "ਸਟੂਡੈਂਟ",
-    "closeNavigationMenu": "ਨੇਵੀਗੇਸ਼ਨ ਮੀਨੂ ਬੰਦ ਕਰੋ"
+    "closeNavigationMenu": "ਨੇਵੀਗੇਸ਼ਨ ਮੀਨੂ ਬੰਦ ਕਰੋ",
+    "mainMenu": "ਮੁੱਖ ਮੀਨੂ"
   },
   "status": {
     "loading": "ਲੋਡ ਹੋ ਰਿਹਾ ਹੈ...",
@@ -250,7 +251,8 @@
       "urdu": "ਉਰਦੂ"
     },
     "inputLanguage": "ਇਨਪੁੱਟ ਭਾਸ਼ਾ",
-    "responseLanguage": "ਜਵਾਬ ਭਾਸ਼ਾ"
+    "responseLanguage": "ਜਵਾਬ ਭਾਸ਼ਾ",
+    "openSidebar": "ਚੈਟ ਮੀਨੂ ਖੋਲ੍ਹੋ"
   },
   "statistics": {
     "overview": "ਜਾਇਜ਼ਾ",
@@ -312,7 +314,10 @@
     "visibilityFilter": {
       "allCourses": "ਸਾਰੇ ਕੋਰਸ ਵੇਖੋ",
       "visibleOnly": "ਦਿਖਾਈ ਦੇ ਰਹੇ ਕੋਰਸ ਵੇਖੋ",
-      "hiddenOnly": "ਛੁਪੇ ਹੋਏ ਕੋਰਸ ਵੇਖੋ"
+      "hiddenOnly": "ਛੁਪੇ ਹੋਏ ਕੋਰਸ ਵੇਖੋ",
+      "allCoursesShort": "ਸਭ",
+      "visibleOnlyShort": "ਦਿਖਣਯੋਗ",
+      "hiddenOnlyShort": "ਲੁਕਿਆ"
     },
     "totalCourses": "ਕੁੱਲ ਕੋਰਸ {{count}}",
     "showing": "{{start}}-{{end}} ਦਿਖਾ ਰਹੇ",
@@ -355,7 +360,10 @@
     "currentView": "ਮੌਜੂਦਾ ਦਰਸ਼ਨ: {{role}}",
     "mobileAppLogin": "ਮੋਬਾਈਲ ਐਪ ਵਿੱਚ ਲੌਗਿਨ ਕਰੋ",
     "quizModeTitle": "ਕੁਇਜ਼ ਮੋਡ ਸਰਗਰਮ ਹੈ",
-    "quizModeMessage": "ਕੁਇਜ਼ ਮੋਡ ਸਰਗਰਮ ਹੋਣ ਦੌਰਾਨ ਨੇਵੀਗੇਸ਼ਨ ਸੀਮਿਤ ਹੁੰਦੀ ਹੈ ਜਾਰੀ ਰੱਖਣ ਲਈ ਕੁਇਜ਼ ਮੋਡ ਪੂਰਾ ਕਰੋ ਜਾਂ ਬਾਹਰ ਆਓ"
+    "quizModeMessage": "ਕੁਇਜ਼ ਮੋਡ ਸਰਗਰਮ ਹੋਣ ਦੌਰਾਨ ਨੇਵੀਗੇਸ਼ਨ ਸੀਮਿਤ ਹੁੰਦੀ ਹੈ ਜਾਰੀ ਰੱਖਣ ਲਈ ਕੁਇਜ਼ ਮੋਡ ਪੂਰਾ ਕਰੋ ਜਾਂ ਬਾਹਰ ਆਓ",
+    "toggleCourseOutline": "ਕੋਰਸ ਆਉਟਲਾਈਨ ਟੌਗਲ ਕਰੋ",
+    "toggleAdminPanel": "ਐਡਮਿਨ ਪੈਨਲ ਟੌਗਲ ਕਰੋ",
+    "toggleCourseTools": "ਕੋਰਸ ਟੂਲਜ਼ ਟੌਗਲ ਕਰੋ"
   },
   "loginQr": {
     "scanTitle": "ਮੋਬਾਈਲ ਐਪ ਸੈਟਅੱਪ ਲਈ ਕਿਊਆਰ ਕੋਡ ਸਕੈਨ ਕਰੋ",

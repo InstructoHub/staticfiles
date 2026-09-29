@@ -61,6 +61,7 @@
     "inbox": "Inbox",
     "account": "Account",
     "power": "Power",
+    "mainMenu": "Main menu",
     "switchRole": "Switch Role",
     "teacher": "Teacher",
     "student": "Student",
@@ -304,6 +305,7 @@
     "noEmbeddingsFound": "No embeddings found for course. Please contact the course administrator.",
     "somethingWentWrong": "Something went wrong. Please refresh the page.",
     "closeAssistant": "Close assistant",
+    "openSidebar": "Open chat menu",
     "messagePlaceholder": "Message InstructoEcho...",
     "sendMessage": "Send message",
     "aiDisclaimer": "AI responses are automated and may contain mistakes. Use discretion.",
@@ -387,7 +389,10 @@
     "visibilityFilter": {
       "allCourses": "View all courses",
       "visibleOnly": "View visible courses",
-      "hiddenOnly": "View hidden courses"
+      "hiddenOnly": "View hidden courses",
+      "allCoursesShort": "All",
+      "visibleOnlyShort": "Visible",
+      "hiddenOnlyShort": "Hidden"
     },
     "totalCourses": "Total courses {{count}}",
     "showing": "Showing {{start}}-{{end}}",
@@ -407,6 +412,9 @@
   },
   "header": {
     "toggleNavigationMenu": "Toggle navigation menu",
+    "toggleCourseOutline": "Toggle course outline",
+    "toggleAdminPanel": "Toggle admin panel",
+    "toggleCourseTools": "Toggle course tools",
     "toggleThemeMode": "Toggle theme mode",
     "changeLanguage": "Change language",
     "languageChanged": "Language changed to {{language}}",

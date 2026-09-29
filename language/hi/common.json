@@ -64,7 +64,8 @@
     "switchRole": "रोल बदलें",
     "teacher": "टीचर",
     "student": "स्टूडेंट",
-    "closeNavigationMenu": "नेविगेशन मेनू बंद करें"
+    "closeNavigationMenu": "नेविगेशन मेनू बंद करें",
+    "mainMenu": "मुख्य मेनू"
   },
   "status": {
     "loading": "लोड हो रहा है...",
@@ -265,7 +266,8 @@
       "urdu": "उर्दू"
     },
     "inputLanguage": "इनपुट लैंग्वेज",
-    "responseLanguage": "रिस्पॉन्स लैंग्वेज"
+    "responseLanguage": "रिस्पॉन्स लैंग्वेज",
+    "openSidebar": "चैट मेनू खोलें"
   },
   "statistics": {
     "overview": "ओवरव्यू",
@@ -327,7 +329,10 @@
     "visibilityFilter": {
       "allCourses": "आल कोर्स देखें",
       "visibleOnly": "विज़िबल कोर्स देखें",
-      "hiddenOnly": "हिडन कोर्स देखें"
+      "hiddenOnly": "हिडन कोर्स देखें",
+      "allCoursesShort": "सब",
+      "visibleOnlyShort": "दिख रहे",
+      "hiddenOnlyShort": "छिपे"
     },
     "totalCourses": "टोटल कोर्सेस {{count}}",
     "showing": "{{start}}-{{end}} दिखा रहे हैं",
@@ -355,7 +360,10 @@
     "currentView": "वर्तमान दृश्य: {{role}}",
     "mobileAppLogin": "मोबाइल ऐप में लॉगिन करें",
     "quizModeTitle": "क्विज़ मोड सक्रिय है",
-    "quizModeMessage": "क्विज़ मोड सक्रिय होने पर नेविगेशन सीमित होता है। जारी रखने के लिए कृपया क्विज़ मोड पूरा करें या उससे बाहर निकलें।"
+    "quizModeMessage": "क्विज़ मोड सक्रिय होने पर नेविगेशन सीमित होता है। जारी रखने के लिए कृपया क्विज़ मोड पूरा करें या उससे बाहर निकलें।",
+    "toggleCourseOutline": "कोर्स आउटलाइन टॉगल करें",
+    "toggleAdminPanel": "एडमिन पैनल टॉगल करें",
+    "toggleCourseTools": "कोर्स टूल्स टॉगल करें"
   },
   "loginQr": {
     "scanTitle": "मोबाइल ऐप सेटअप के लिए क्यूआर कोड स्कैन करें",

@@ -32,7 +32,8 @@
     "switchRole": "ଭୂମିକା ବଦଳାନ୍ତୁ",
     "teacher": "ଶିକ୍ଷକ",
     "student": "ଛାତ୍ର",
-    "closeNavigationMenu": "ନାଭିଗେସନ୍ ମେନୁ ବନ୍ଦ କରନ୍ତୁ"
+    "closeNavigationMenu": "ନାଭିଗେସନ୍ ମେନୁ ବନ୍ଦ କରନ୍ତୁ",
+    "mainMenu": "ମୁଖ୍ୟ ମେନୁ"
   },
   "status": {
     "loading": "ଲୋଡ୍ ହେଉଛି...",
@@ -224,7 +225,8 @@
     "signUp": "ସାଇନ୍ ଅପ୍",
     "learningModes": "ଶିକ୍ଷା ମୋଡ୍",
     "inputLanguage": "ଇନ୍ପୁଟ୍ ଭାଷା",
-    "responseLanguage": "ପ୍ରତିକ୍ରିୟା ଭାଷା"
+    "responseLanguage": "ପ୍ରତିକ୍ରିୟା ଭାଷା",
+    "openSidebar": "ଚାଟ୍ ମେନୁ ଖୋଲନ୍ତୁ"
   },
   "statistics": {
     "overview": "ସାରାଂଶ",
@@ -286,7 +288,10 @@
     "visibilityFilter": {
       "allCourses": "ସମସ୍ତ କୋର୍ସ ଦେଖନ୍ତୁ",
       "visibleOnly": "ଦେଖାଯାଉଥିବା କୋର୍ସ ଦେଖନ୍ତୁ",
-      "hiddenOnly": "ଲୁଚିଥିବା କୋର୍ସଗୁଡିକୁ ଦେଖନ୍ତୁ"
+      "hiddenOnly": "ଲୁଚିଥିବା କୋର୍ସଗୁଡିକୁ ଦେଖନ୍ତୁ",
+      "allCoursesShort": "ସବୁ",
+      "visibleOnlyShort": "ଦେଖାଯାଉଥିବା",
+      "hiddenOnlyShort": "ଲୁଚିଥିବା"
     },
     "totalCourses": "{{count}}",
     "showing": "{{start}}-{{end}}",
@@ -355,7 +360,10 @@
     "currentView": "ବର୍ତ୍ତମାନ ଭ୍ୟୁ: {{role}}",
     "mobileAppLogin": "ମୋବାଇଲ ଆପ୍‌ରେ ଲଗିନ୍ କରନ୍ତୁ",
     "quizModeTitle": "କ୍ୱିଜ୍ ମୋଡ୍ ସକ୍ରିୟ",
-    "quizModeMessage": "କ୍ୱିଜ୍ ମୋଡ୍ ସକ୍ରିୟ ଥିବାବେଳେ ନେଭିଗେସନ୍ ସୀମିତ ହୁଏ ଅଗ୍ରସର ହେବାକୁ କ୍ୱିଜ୍ ମୋଡ୍ ସମାପ୍ତ କରନ୍ତୁ କିମ୍ବା ବାହାରୁନ୍ତୁ"
+    "quizModeMessage": "କ୍ୱିଜ୍ ମୋଡ୍ ସକ୍ରିୟ ଥିବାବେଳେ ନେଭିଗେସନ୍ ସୀମିତ ହୁଏ ଅଗ୍ରସର ହେବାକୁ କ୍ୱିଜ୍ ମୋଡ୍ ସମାପ୍ତ କରନ୍ତୁ କିମ୍ବା ବାହାରୁନ୍ତୁ",
+    "toggleCourseOutline": "କୋର୍ସ ଆଉଟ୍ଲାଇନ୍ ଟୋଗଲ୍ କରନ୍ତୁ",
+    "toggleAdminPanel": "ଅ୍ୟାଡମିନ୍ ପ୍ୟାନେଲ୍ ଟୋଗଲ୍ କରନ୍ତୁ",
+    "toggleCourseTools": "କୋର୍ସ ଟୁଲ୍ସ ଟୋଗଲ୍ କରନ୍ତୁ"
   },
   "loginQr": {
     "scanTitle": "ମୋବାଇଲ୍ ଆପ୍ ସେଟଅପ୍ ପାଇଁ କ୍ୟୁଆର୍ କୋଡ୍ ସ୍କ୍ୟାନ୍ କରନ୍ତୁ",

@@ -64,7 +64,8 @@
     "switchRole": "रोल बदला",
     "teacher": "शिक्षक",
     "student": "विद्यार्थी",
-    "closeNavigationMenu": "नेव्हिगेशन मेनू बंद करा"
+    "closeNavigationMenu": "नेव्हिगेशन मेनू बंद करा",
+    "mainMenu": "मुख्य मेनू"
   },
   "status": {
     "loading": "लोड करत आहे...",
@@ -274,7 +275,10 @@
     "visibilityFilter": {
       "allCourses": "सर्व कोर्सेस पहा",
       "visibleOnly": "दृश्यमान कोर्सेस पहा",
-      "hiddenOnly": "लपवलेले कोर्सेस पहा"
+      "hiddenOnly": "लपवलेले कोर्सेस पहा",
+      "allCoursesShort": "सर्व",
+      "visibleOnlyShort": "दृश्यमान",
+      "hiddenOnlyShort": "लपवलेले"
     },
     "noCourseFound": {
       "title": "कोणतेही अभ्यासक्रम सापडले नाहीत",
@@ -340,7 +344,8 @@
       "urdu": "उर्दू"
     },
     "inputLanguage": "इनपुट भाषा",
-    "responseLanguage": "उत्तर भाषा"
+    "responseLanguage": "उत्तर भाषा",
+    "openSidebar": "चॅट मेनू उघडा"
   },
   "ai": {
     "courseNotEnabledMessage": "हा कोर्स AI प्रक्रियेसाठी सक्षम केलेला नाही."
@@ -355,7 +360,10 @@
     "currentView": "सध्याचा दृश्य: {{role}}",
     "mobileAppLogin": "मोबाइल अॅपमध्ये लॉगिन करा",
     "quizModeTitle": "क्विझ मोड सक्रिय आहे",
-    "quizModeMessage": "क्विझ मोड सक्रिय असताना नेव्हिगेशन मर्यादित असते. पुढे जाण्यासाठी कृपया क्विझ मोड पूर्ण करा किंवा बाहेर पडा."
+    "quizModeMessage": "क्विझ मोड सक्रिय असताना नेव्हिगेशन मर्यादित असते. पुढे जाण्यासाठी कृपया क्विझ मोड पूर्ण करा किंवा बाहेर पडा.",
+    "toggleCourseOutline": "कोर्स आऊटलाइन टॉगल करा",
+    "toggleAdminPanel": "अॅडमिन पॅनेल टॉगल करा",
+    "toggleCourseTools": "कोर्स टूल्स टॉगल करा"
   },
   "loginQr": {
     "scanTitle": "मोबाईल अॅप सेटअपसाठी क्यूआर कोड स्कॅन करा",

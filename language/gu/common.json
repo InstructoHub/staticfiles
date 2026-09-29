@@ -64,7 +64,8 @@
     "switchRole": "રોલ બદલો",
     "teacher": "ટીચર",
     "student": "સ્ટુડન્ટ",
-    "closeNavigationMenu": "નેવિગેશન મેનુ બંધ કરો"
+    "closeNavigationMenu": "નેવિગેશન મેનુ બંધ કરો",
+    "mainMenu": "મુખ્ય મેનુ"
   },
   "status": {
     "loading": "લોડ થઈ રહ્યું છે...",
@@ -250,7 +251,8 @@
       "urdu": "ઉર્દૂ"
     },
     "inputLanguage": "ઇનપુટ ભાષા",
-    "responseLanguage": "રિસ્પોન્સ ભાષા"
+    "responseLanguage": "રિસ્પોન્સ ભાષા",
+    "openSidebar": "ચેટ મેનુ ખોલો"
   },
   "statistics": {
     "overview": "ઓવરવ્યૂ",
@@ -312,7 +314,10 @@
     "visibilityFilter": {
       "allCourses": "બધા કોર્સ જુઓ",
       "visibleOnly": "દેખાતા કોર્સ જુઓ",
-      "hiddenOnly": "છુપાયેલા કોર્સ જુઓ"
+      "hiddenOnly": "છુપાયેલા કોર્સ જુઓ",
+      "allCoursesShort": "બધા",
+      "visibleOnlyShort": "ફક્ત દેખાતા",
+      "hiddenOnlyShort": "ફક્ત છુપાયેલા"
     },
     "totalCourses": "કુલ કોર્સ {{count}}",
     "showing": "{{start}}-{{end}} બતાવી રહ્યા છે",
@@ -355,7 +360,10 @@
     "currentView": "હાલનો વિહંગાવલોકન: {{role}}",
     "mobileAppLogin": "મોબાઇલ એપમાં લૉગિન કરો",
     "quizModeTitle": "ક્વિઝ મોડ સક્રિય છે",
-    "quizModeMessage": "ક્વિઝ મોડ સક્રિય હોય ત્યારે નેવિગેશન મર્યાદિત છે. ચાલુ રાખવા માટે ક્વિઝ મોડ પૂર્ણ કરો અથવા બહાર નીકળો."
+    "quizModeMessage": "ક્વિઝ મોડ સક્રિય હોય ત્યારે નેવિગેશન મર્યાદિત છે. ચાલુ રાખવા માટે ક્વિઝ મોડ પૂર્ણ કરો અથવા બહાર નીકળો.",
+    "toggleCourseOutline": "કોર્સની રૂપરેખા બદલો",
+    "toggleAdminPanel": "એડમિન પેનલ બદલો",
+    "toggleCourseTools": "કોર્સ ટૂલ્સ બદલો"
   },
   "loginQr": {
     "scanTitle": "મોબાઇલ એપ સેટઅપ કરવા માટે ક્યૂઆર કોડ સ્કેન કરો",
