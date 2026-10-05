@@ -94,7 +94,8 @@
     "sort_name_asc": "नाव (अ-ह)",
     "sort_name_desc": "नाव (ह-अ)",
     "sort_id_asc": "ID (कमी-जास्त)",
-    "sort_id_desc": "ID (जास्त-कमी)"
+    "sort_id_desc": "ID (जास्त-कमी)",
+    "open_course": "ओपन"
   },
   "aiConfig": {
     "title": "AI मॉडेल कॉन्फिगरेशन",

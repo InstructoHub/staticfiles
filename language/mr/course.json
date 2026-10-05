@@ -19,7 +19,8 @@
     "certificate": "प्रमाणपत्र",
     "organize": "आयोजित करा",
     "gradeAssignment": "ग्रेड असाइनमेंट",
-    "courseComplete": "तुम्ही हा कोर्स पूर्ण केला आहे!"
+    "courseComplete": "तुम्ही हा कोर्स पूर्ण केला आहे!",
+    "physicalAssessment": "फिजिकल असेसमेंट"
   },
   "participants": {
     "title": "सहभागी",

@@ -164,6 +164,27 @@
       "backToAssignment": "అసైన్‌మెంట్‌కు తిరిగి వెళ్లండి",
       "previousStudent": "మునుపటి స్టూడెంట్",
       "nextStudent": "తదుపరి స్టూడెంట్"
+    },
+    "physicalAssessment": {
+      "title": "శారీరక అంచనా",
+      "subtitle": "ప్రతి స్లైడర్‌ని కొలిచిన ఫలితానికి లాగండి — మీరు కదిలిస్తే బ్యాండ్ అప్‌డేట్ అవుతుంది.",
+      "recorded": "రికార్డ్ అయింది",
+      "bandSummary": "బ్యాండ్ సారాంశం",
+      "aboveRange": "పరిధికి మించి",
+      "onTarget": "లక్ష్యంలో",
+      "belowRange": "పరిధికి తక్కువ",
+      "notSet": "సెట్ కాలేదు",
+      "stopwatch": "స్టాప్‌వాచ్",
+      "start": "Start",
+      "stop": "Stop",
+      "reset": "Reset",
+      "saveResults": "ఫలితాలు సేవ్ చేయండి",
+      "saved": "సేవ్ అయింది",
+      "clearAll": "అన్ని ఫలితాలు క్లియర్ చేయండి",
+      "allRecorded": "అన్ని పరీక్షలు రికార్డ్ అయ్యాయి",
+      "testsLeft": "ఈ విద్యార్థికి ఇంకా {{count}} పరీక్షలు మిగిలాయి",
+      "expected": "అంచనా {{min}}–{{max}} {{unit}}",
+      "completeAll": "సేవ్ చేయడానికి ముందు అన్ని పరీక్షలు రికార్డ్ చేయండి."
     }
   },
   "quizzes": {
@@ -401,7 +422,7 @@
   "scorm": {
     "title": "SCORM ప్యాకేజ్",
     "loadingContent": "SCORM లాంచ్ చేస్తున్నాము...",
-    "packageTitle": "SCORM Package",
+    "packageTitle": "స్కోర్మ్ ప్యాకేజీ",
     "activityNotAccessible": "ఈ Activity యాక్సెస్ చేయబడదు",
     "redirecting": "కోర్సు పేజీకి రిడైరెక్ట్ చేస్తున్నాము...",
     "navigationWarningTitle": "SCORM నుండి వెళ్లాలా?",

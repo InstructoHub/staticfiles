@@ -94,7 +94,8 @@
     "sort_name_asc": "పేరు (A-Z)",
     "sort_name_desc": "పేరు (Z-A)",
     "sort_id_asc": "ID (తక్కువ-ఎత్తు)",
-    "sort_id_desc": "ID (ఎత్తు-తక్కువ)"
+    "sort_id_desc": "ID (ఎత్తు-తక్కువ)",
+    "open_course": "ఓపెన్"
   },
   "aiConfig": {
     "title": "AI మోడల్ కాన్ఫిగరేషన్",

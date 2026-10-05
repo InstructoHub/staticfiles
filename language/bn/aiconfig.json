@@ -94,7 +94,8 @@
     "sort_name_asc": "নাম (A-Z)",
     "sort_name_desc": "নাম (Z-A)",
     "sort_id_asc": "আইডি (নিচ থেকে উপরে)",
-    "sort_id_desc": "আইডি (উপরে থেকে নিচে)"
+    "sort_id_desc": "আইডি (উপরে থেকে নিচে)",
+    "open_course": "ওপেন"
   },
   "aiConfig": {
     "title": "এআই মডেল কনফিগারেশন",

@@ -164,6 +164,27 @@
       "backToAssignment": "ਵਾਪਸ ਅਸਾਈਨਮੈਂਟ 'ਤੇ",
       "previousStudent": "ਪਿਛਲਾ ਵਿਦਿਆਰਥੀ",
       "nextStudent": "ਅਗਲਾ ਵਿਦਿਆਰਥੀ"
+    },
+    "physicalAssessment": {
+      "title": "ਫਿਜ਼ੀਕਲ ਅਸੈਸਮੈਂਟ",
+      "recorded": "ਰਿਕਾਰਡ ਕੀਤਾ",
+      "bandSummary": "ਬੈਂਡ ਸੰਖੇਪ",
+      "aboveRange": "ਰੇਂਜ ਤੋਂ ਉੱਪਰ",
+      "onTarget": "ਟਾਰਗੇਟ 'ਤੇ",
+      "belowRange": "ਰੇਂਜ ਤੋਂ ਹੇਠਾਂ",
+      "notSet": "ਸੈਟ ਨਹੀਂ",
+      "subtitle": "ਹਰ ਸਲਾਈਡਰ ਨੂੰ ਮਾਪੇ ਗਏ ਨਤੀਜੇ ਤੱਕ ਡਰੈਗ ਕਰੋ — ਜਿਵੇਂ-ਜਿਵੇਂ ਤੁਸੀਂ ਅੱਗੇ ਵਧੋਗੇ, ਬੈਂਡ ਅੱਪਡੇਟ ਹੁੰਦਾ ਰਹੇਗਾ।",
+      "stopwatch": "ਸਟਾਪਵਾਚ",
+      "start": "ਸਟਾਰਟ",
+      "stop": "ਸਟਾਪ",
+      "reset": "ਰੀਸੈਟ",
+      "saveResults": "ਨਤੀਜੇ Save ਕਰੋ",
+      "saved": "Save ਹੋ ਗਿਆ",
+      "clearAll": "ਸਾਰੇ ਨਤੀਜੇ ਹਟਾਓ",
+      "allRecorded": "ਸਾਰੇ ਟੈਸਟ ਰਿਕਾਰਡ ਹੋ ਗਏ",
+      "testsLeft": "ਇਸ ਵਿਦਿਆਰਥੀ ਲਈ {{count}} ਟੈਸਟ ਬਾਕੀ ਹਨ",
+      "expected": "ਉਮੀਦਿਤ {{min}}–{{max}} {{unit}}",
+      "completeAll": "ਸੇਵ ਕਰਨ ਤੋਂ ਪਹਿਲਾਂ ਸਾਰੇ ਟੈਸਟ ਰਿਕਾਰਡ ਕਰੋ।"
     }
   },
   "quizzes": {

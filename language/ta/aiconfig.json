@@ -94,7 +94,8 @@
     "sort_name_asc": "பெயர் (A-Z)",
     "sort_name_desc": "பெயர் (Z-A)",
     "sort_id_asc": "ஐடி (குறைந்த-உயர்ந்த)",
-    "sort_id_desc": "ஐடி (உயர்ந்த-குறைந்த)"
+    "sort_id_desc": "ஐடி (உயர்ந்த-குறைந்த)",
+    "open_course": "திற"
   },
   "aiConfig": {
     "title": "AI மாதிரி கட்டமைப்பு",

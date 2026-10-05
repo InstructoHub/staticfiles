@@ -305,7 +305,7 @@
     "emailSetupTitle": "மின்னஞ்சல் அமைப்பு",
     "emailSetupDescription": "மின்னஞ்சல் மாதிரிகள் மற்றும் அறிவிப்பு அமைப்புகளை கட்டமைக்கவும்",
     "smtpConfigurationTitle": "SMTP கட்டமைப்பு",
-    "smtpConfigurationDescription": "SMTP சேவையக அங்கீகாரங்கள் மற்றும் அமைப்புகளை கட்டமைக்கவும்",
+    "smtpConfigurationDescription": "SMTP சர்வர் நற்சான்றுகள் மற்றும் அமைப்புகளை கட்டமைக்கவும்",
     "dashboardManagementTitle": "டாஷ்போர்ட் மேலாண்மை",
     "dashboardManagementDescription": "டாஷ்போர்ட் மாட்யூல்களுக்கு பங்கு மற்றும் அனுமதிகளை நிர்வகிக்கவும்",
     "roleArchitectureManagementTitle": "பங்கு கட்டமைப்பு மேலாண்மை",

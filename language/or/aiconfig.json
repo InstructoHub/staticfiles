@@ -94,7 +94,8 @@
     "no_courses": "କୌଣସି କୋର୍ସ ନାହିଁ",
     "error_enable": "AI ସକ୍ରିୟ କରିବାରେ ବିଫଳ",
     "error_disable": "AI ବନ୍ଦ କରିବାରେ ବିଫଳ",
-    "refresh": "ରିଫ୍ରେଶ୍"
+    "refresh": "ରିଫ୍ରେଶ୍",
+    "open_course": "ଖୋଲନ୍ତୁ"
   },
   "aiConfig": {
     "saving": "...",

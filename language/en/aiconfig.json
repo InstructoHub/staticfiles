@@ -73,6 +73,7 @@
     "available_courses": "Available Courses",
     "ai_enabled_courses": "AI-Enabled Courses",
     "course": "Course",
+    "open_course": "Open",
     "enable_ai": "Enable AI",
     "disable_ai": "Disable AI",
     "no_matches": "No matches.",

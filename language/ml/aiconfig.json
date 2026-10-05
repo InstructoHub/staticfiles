@@ -94,7 +94,8 @@
     "sort_name_asc": "പേര് (A-Z)",
     "sort_name_desc": "പേര് (Z-A)",
     "sort_id_asc": "ഐഡി (കുറഞ്ഞത്-ഉയര്ന്നത്)",
-    "sort_id_desc": "ഐഡി (ഉയര്ന്നത്-കുറഞ്ഞത്)"
+    "sort_id_desc": "ഐഡി (ഉയര്ന്നത്-കുറഞ്ഞത്)",
+    "open_course": "തുറക്കുക"
   },
   "aiConfig": {
     "title": "എഐ മോഡൽ കോൺഫിഗറേഷൻ",

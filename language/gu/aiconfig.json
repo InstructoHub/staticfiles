@@ -94,7 +94,8 @@
     "disable_ai": "એઆઈ બંધ કરો",
     "error_enable": "એઆઈ ચાલુ કરવામાં નિષ્ફળ",
     "error_disable": "એઆઈ બંધ કરવામાં નિષ્ફળ",
-    "refresh": "ફરીથી લોડ કરો"
+    "refresh": "ફરીથી લોડ કરો",
+    "open_course": "ખોલો"
   },
   "aiConfig": {
     "subtitle": ".",

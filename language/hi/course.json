@@ -19,7 +19,8 @@
     "certificate": "सर्टिफिकेट",
     "organize": "ऑर्गेनाइज",
     "gradeAssignment": "असाइनमेंट ग्रेड करें",
-    "courseComplete": "आपने यह कोर्स पूरा कर लिया है!"
+    "courseComplete": "आपने यह कोर्स पूरा कर लिया है!",
+    "physicalAssessment": "फिजिकल असेसमेंट"
   },
   "participants": {
     "title": "पार्टिसिपेंट्स",

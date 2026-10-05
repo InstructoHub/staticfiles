@@ -164,6 +164,27 @@
       "backToAssignment": "અસાઇનમેન્ટ પર પાછા જાઓ",
       "previousStudent": "પાછલો વિદ્યાર્થી",
       "nextStudent": "આગલો વિદ્યાર્થી"
+    },
+    "physicalAssessment": {
+      "title": "શારીરિક મૂલ્યાંકન",
+      "subtitle": "દરેક સ્લાઈડરને માપેલ પરિણામ સુધી ખેંચો — તમે આગળ વધો તેમ બૅન્ડ અપડેટ થાય છે.",
+      "recorded": "નોંધાયું",
+      "bandSummary": "બૅન્ડ સારાંશ",
+      "aboveRange": "રેન્જથી ઉપર",
+      "onTarget": "ટાર્ગેટ પર",
+      "belowRange": "રેન્જથી નીચે",
+      "notSet": "સેટ નથી",
+      "stopwatch": "સ્ટોપવોચ",
+      "start": "શરૂ કરો",
+      "stop": "બંધ કરો",
+      "reset": "રીસેટ",
+      "saveResults": "પરિણામો સેવ કરો",
+      "saved": "સેવ થઈ ગયું",
+      "clearAll": "બધા પરિણામો સાફ કરો",
+      "allRecorded": "બધા ટેસ્ટ નોંધાઈ ગયા",
+      "testsLeft": "આ વિદ્યાર્થી માટે હજુ {{count}} ટેસ્ટ બાકી છે",
+      "expected": "અપેક્ષિત {{min}}–{{max}} {{unit}}",
+      "completeAll": "સેવ કરતા પહેલાં બધા ટેસ્ટ નોંધો."
     }
   },
   "quizzes": {

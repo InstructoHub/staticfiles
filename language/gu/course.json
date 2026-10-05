@@ -19,7 +19,8 @@
     "certificate": "પ્રમાણપત્ર",
     "organize": "સંઘટિત કરો",
     "gradeAssignment": "અસાઇનમેન્ટ ગ્રેડ કરો",
-    "courseComplete": "તમે આ કોર્સ પૂરું કરી લીધો છે!"
+    "courseComplete": "તમે આ કોર્સ પૂરું કરી લીધો છે!",
+    "physicalAssessment": "ફિઝિકલ એસેસમેન્ટ"
   },
   "participants": {
     "searchParticipants": "...",

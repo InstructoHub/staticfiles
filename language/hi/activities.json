@@ -8,7 +8,7 @@
     "assignmentName": "असाइनमेंट का नाम",
     "description": "डिस्क्रिप्शन",
     "instructions": "इन्स्ट्रक्शन्स",
-    "activityInstruction": "एक्टिविटी के इन्स्ट्रक्शन्स",
+    "activityInstruction": "ऐक्टिविटी इंस्ट्रक्शन",
     "dueDate": "ड्यू डेट",
     "allowSubmissionsFrom": "सबमिशन्स यहाँ से अलाउ करें",
     "cutoffDate": "कट-ऑफ डेट",
@@ -164,7 +164,28 @@
       "previousStudent": "पिछला स्टूडेंट",
       "nextStudent": "अगला स्टूडेंट"
     },
-    "selectSubmissionPrompt": "कंटेंट के साथ सबमिशन सिलेक्ट करें असेसमेंट देखने के लिए"
+    "selectSubmissionPrompt": "कंटेंट के साथ सबमिशन सिलेक्ट करें असेसमेंट देखने के लिए",
+    "physicalAssessment": {
+      "title": "फिजिकल असेसमेंट",
+      "subtitle": "हर स्लाइडर को मेज़र किए गए रिजल्ट तक ड्रैग करें — जैसे-जैसे आप आगे बढ़ेंगे, बैंड अपडेट होता रहेगा।",
+      "recorded": "रिकॉर्डेड",
+      "bandSummary": "बैंड समरी",
+      "aboveRange": "रेंज से ऊपर",
+      "onTarget": "टार्गेट पर",
+      "belowRange": "रेंज से नीचे",
+      "notSet": "सेट नहीं",
+      "stopwatch": "स्टॉपवॉच",
+      "start": "स्टार्ट",
+      "stop": "स्टॉप",
+      "reset": "रीसेट",
+      "saveResults": "रिजल्ट्स सेव करें",
+      "saved": "सेव्ड",
+      "clearAll": "सारे रिजल्ट्स क्लियर करें",
+      "allRecorded": "सारे टेस्ट रिकॉर्ड हो गए",
+      "testsLeft": "इस स्टूडेंट के लिए {{count}} टेस्ट बाकी हैं",
+      "expected": "अपेक्षित {{min}}–{{max}} {{unit}}",
+      "completeAll": "सेव करने से पहले सारे टेस्ट रिकॉर्ड करें।"
+    }
   },
   "quizzes": {
     "title": "क्विज़",

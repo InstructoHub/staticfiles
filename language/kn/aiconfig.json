@@ -94,7 +94,8 @@
     "sort_name_asc": "ಹೆಸರು (A-Z)",
     "sort_name_desc": "ಹೆಸರು (Z-A)",
     "sort_id_asc": "ID (ಕೀಳಿಂದ-ಉನ್ನತಕ್ಕೆ)",
-    "sort_id_desc": "ID (ಉನ್ನತದಿಂದ-ಕೀಳಕ್ಕೆ)"
+    "sort_id_desc": "ID (ಉನ್ನತದಿಂದ-ಕೀಳಕ್ಕೆ)",
+    "open_course": "ತೆರೆಯಿರಿ"
   },
   "aiConfig": {
     "title": "AI ಮಾದರಿ ಕಾನ್ಫಿಗರೇಶನ್",

@@ -19,7 +19,8 @@
     "certificate": "Certificate",
     "courseComplete": "You've completed this course!",
     "organize": "Organize",
-    "gradeAssignment": "Grade Assignment"
+    "gradeAssignment": "Grade Assignment",
+    "physicalAssessment": "Physical Assessment"
   },
   "participants": {
     "title": "Participants",
@@ -129,7 +130,6 @@
     "enrollSelected": "Enroll Selected",
     "retry": "Retry"
   },
-
   "actions": {
     "create": "Create",
     "read": "Read",
@@ -144,7 +144,6 @@
     "print": "Print",
     "add": "Add"
   },
-
   "status": {
     "loading": "Loading Course...",
     "saving": "Saving...",
@@ -162,7 +161,6 @@
     "notStarted": "Not Started",
     "inProgress": "In Progress"
   },
-
   "enrollment": {
     "enrollmentSuccess": "Successfully enrolled in course",
     "enrollmentError": "Failed to enroll in course",
@@ -189,7 +187,6 @@
   "catalog": {
     "filterByCategory": "Filter by category"
   },
-
   "sections": {
     "general": "General",
     "module": "Module",
@@ -199,7 +196,6 @@
     "chapter": "Chapter",
     "unit": "Unit"
   },
-
   "content": {
     "noDescription": "No description available",
     "noSummary": "No course summary provided",
@@ -210,7 +206,6 @@
     "contentUnavailable": "Content currently unavailable",
     "content": "Content"
   },
-
   "progress": {
     "completed": "Completed",
     "notCompleted": "Not Completed",
@@ -222,7 +217,6 @@
     "attempts": "Attempts",
     "bestScore": "Best Score"
   },
-
   "roles": {
     "student": "Student",
     "teacher": "Teacher",
@@ -231,7 +225,6 @@
     "manager": "Manager",
     "guest": "Guest"
   },
-
   "dates": {
     "created": "Created",
     "modified": "Modified",
@@ -248,7 +241,6 @@
     "thisMonth": "This Month",
     "custom": "Custom"
   },
-
   "errors": {
     "loadError": "Failed to load data",
     "saveError": "Failed to save changes",
@@ -259,7 +251,6 @@
     "tryAgain": "Please try again",
     "contactSupport": "Contact support if problem persists"
   },
-
   "messages": {
     "changesSaved": "Changes saved successfully",
     "changesDiscarded": "Changes discarded",

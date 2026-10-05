@@ -164,6 +164,27 @@
       "backToAssignment": "অ্যাসাইনমেন্টে ফিরে যান",
       "previousStudent": "আগের স্টুডেন্ট",
       "nextStudent": "পরের স্টুডেন্ট"
+    },
+    "physicalAssessment": {
+      "title": "ফিজিক্যাল অ্যাসেসমেন্ট",
+      "recorded": "সংরক্ষিত",
+      "bandSummary": "ব্যান্ড সারাংশ",
+      "aboveRange": "রেঞ্জের ওপরে",
+      "onTarget": "টার্গেটে",
+      "belowRange": "রেঞ্জের নিচে",
+      "notSet": "সেট হয়নি",
+      "subtitle": "প্রতিটি স্লাইডারকে মাপা ফলাফলের দিকে টেনে নিন — আপনি যত এগোবেন, ব্যান্ডটি আপডেট হতে থাকবে।",
+      "stopwatch": "স্টপওয়াচ",
+      "start": "শুরু",
+      "stop": "থামুন",
+      "reset": "রিসেট",
+      "saveResults": "ফলাফল Save করুন",
+      "saved": "সেভ হয়েছে",
+      "clearAll": "সব ফলাফল মুছুন",
+      "allRecorded": "সব টেস্ট রেকর্ড হয়েছে",
+      "testsLeft": "এই ছাত্রের জন্য {{count}}টি পরীক্ষা বাকি",
+      "expected": "প্রত্যাশিত {{min}}–{{max}} {{unit}}",
+      "completeAll": "সংরক্ষণ করার আগে সব টেস্ট রেকর্ড করুন।"
     }
   },
   "quizzes": {

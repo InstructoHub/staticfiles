@@ -218,7 +218,8 @@
     "certificate": "സർട്ടിഫിക്കറ്റ്",
     "organize": "സംഘടിപ്പിക്കുക",
     "gradeAssignment": "അസൈന്മെന്റ് ഗ്രേഡ് ചെയ്യുക",
-    "courseComplete": "നിങ്ങൾ ഈ കോഴ്സ് പൂർത്തിയാക്കി!"
+    "courseComplete": "നിങ്ങൾ ഈ കോഴ്സ് പൂർത്തിയാക്കി!",
+    "physicalAssessment": "ഫിസിക്കൽ അസസ്‌മെന്റ്"
   },
   "status": {
     "loading": "കോർസ് ലോഡുചെയ്യുന്നു...",

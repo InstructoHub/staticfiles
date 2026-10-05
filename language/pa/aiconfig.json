@@ -94,7 +94,8 @@
     "sort_name_asc": "ਨਾਮ (A-Z)",
     "sort_name_desc": "ਨਾਮ (Z-A)",
     "sort_id_asc": "ID (ਘੱਟ-ਵੱਧ)",
-    "sort_id_desc": "ID (ਵੱਧ-ਘੱਟ)"
+    "sort_id_desc": "ID (ਵੱਧ-ਘੱਟ)",
+    "open_course": "ਖੋਲ੍ਹੋ"
   },
   "aiConfig": {
     "title": "ਏਆਈ ਮਾਡਲ ਕੰਫੀਗਰੇਸ਼ਨ",

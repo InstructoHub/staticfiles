@@ -19,7 +19,8 @@
     "certificate": "ಪ್ರಮಾಣಪತ್ರ",
     "organize": "ಸಂಘಟಿತ ಮಾಡಿ",
     "gradeAssignment": "ಅಸೈನ್‌ಮೆಂಟ್ ಗೆ ಅಂಕ ನೀಡಿ",
-    "courseComplete": "ನೀವು ಈ ಕೋರ್ಸ್ ಪೂರ್ಣಗೊಳಿಸಿದ್ದೀರಿ!"
+    "courseComplete": "ನೀವು ಈ ಕೋರ್ಸ್ ಪೂರ್ಣಗೊಳಿಸಿದ್ದೀರಿ!",
+    "physicalAssessment": "ದೈಹಿಕ ಮೌಲ್ಯಮಾಪನ"
   },
   "participants": {
     "searchParticipants": "...",

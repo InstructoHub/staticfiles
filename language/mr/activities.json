@@ -164,7 +164,28 @@
       "network": "नेटवर्क त्रुटि। कृपया अपना कनेक्शन जांचें और फिर से कोशिश करें।"
     },
     "submissionTitleText": "टेक्स्ट सबमिशन",
-    "submissionTitleUntitled": "अनटाइटल्ड सबमिशन"
+    "submissionTitleUntitled": "अनटाइटल्ड सबमिशन",
+    "physicalAssessment": {
+      "title": "फिजिकल अस्सेसमेंट",
+      "subtitle": "प्रत्येक स्लायडर मोजलेल्या रिजल्टपर्यंत ड्रॅग करा — तुम्ही जसजसे पुढे जाल तसा बँड अपडेट होईल.",
+      "recorded": "नोंदवले",
+      "bandSummary": "बँड सारांश",
+      "aboveRange": "रेंजपेक्षा वर",
+      "onTarget": "टार्गेटवर",
+      "belowRange": "रेंजपेक्षा खाली",
+      "notSet": "सेट नाही",
+      "stopwatch": "स्टॉपवॉच",
+      "start": "सुरू करा",
+      "stop": "थांबा",
+      "reset": "रीसेट",
+      "saveResults": "रिझल्ट्स Save करा",
+      "saved": "Saved",
+      "clearAll": "सगळे रिझल्ट्स साफ करा",
+      "allRecorded": "सगळ्या चाचण्या नोंदवल्या",
+      "testsLeft": "या विद्यार्थ्यासाठी {{count}} चाचण्या बाकी आहेत",
+      "expected": "अपेक्षित {{min}}–{{max}} {{unit}}",
+      "completeAll": "Save करण्याआधी सगळ्या चाचण्या नोंदवा."
+    }
   },
   "quizzes": {
     "title": "क्विজ",

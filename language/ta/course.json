@@ -19,7 +19,8 @@
     "certificate": "சான்றிதழ்",
     "organize": "ஒழுங்குபடுத்து",
     "gradeAssignment": "அசைன்மெண்ட் மதிப்பீடு",
-    "courseComplete": "நீங்கள் இந்த பாடத்தை முடித்துவிட்டீர்கள்!"
+    "courseComplete": "நீங்கள் இந்த பாடத்தை முடித்துவிட்டீர்கள்!",
+    "physicalAssessment": "பௌதிக மதிப்பீடு"
   },
   "participants": {
     "title": "பங்கேற்பாளர்கள்",

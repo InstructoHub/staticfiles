@@ -94,7 +94,8 @@
     "sort_name_asc": "नाम (A-Z)",
     "sort_name_desc": "नाम (Z-A)",
     "sort_id_asc": "ID (कम-ज़्यादा)",
-    "sort_id_desc": "ID (ज़्यादा-कम)"
+    "sort_id_desc": "ID (ज़्यादा-कम)",
+    "open_course": "ओपन"
   },
   "aiConfig": {
     "title": "एआई मॉडल कॉन्फ़िगरेशन",

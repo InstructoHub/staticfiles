@@ -3,9 +3,9 @@
     "templateSubjectLabel": "*",
     "templateSenderEmailLabel": "*",
     "templateSenderDisplayNameLabel": "*",
-    "htmlBodyLabel": "HTML  *",
-    "savingButton": "...",
-    "confirmBackWarning": "?",
+    "htmlBodyLabel": "ಎಚ್‌ಟಿಎಂಎಲ್ ದೇಹ *",
+    "savingButton": "ಉಳಿಸಲಾಗುತ್ತಿದೆ...",
+    "confirmBackWarning": "ಬದಲಾವಣೆಗಳನ್ನು ಉಳಿಸಲಾಗಿಲ್ಲ. ನೀವು ಖಚಿತವಾಗಿಯೂ ಹಿಂತಿರುಗಬೇಕೇ?",
     "toasts": {
       "variableCopied": "!",
       "failedToLoadVariables": "ಇಮೇಲ್ ಚರಗಳನ್ನು ಲೋಡ್ ಮಾಡಲು ವಿಫಲವಾಗಿದೆ",
@@ -151,7 +151,7 @@
       "cancelButton": "ರದ್ದು ಮಾಡಿ"
     },
     "validation": {
-      "nameMinLength": "2",
+      "nameMinLength": "ರೋಲ್ ಹೆಸರು ಕನಿಷ್ಠ 2 ಅಕ್ಷರಗಳಿರಬೇಕು",
       "nameMaxLength": "100",
       "descriptionMaxLength": "500",
       "nameRequired": "ಪಾತ್ರ ವಾಸ್ತುಶಿಲ್ಪದ ಹೆಸರು ಅಗತ್ಯವಿದೆ"
@@ -179,18 +179,18 @@
   },
   "roleManagement": {
     "form": {
-      "roleNameLabel": "*",
-      "architectureLabel": "*",
-      "architecturePlaceholder": "...",
-      "savingButton": "...",
+      "roleNameLabel": "ಪಾತ್ರದ ಹೆಸರು *",
+      "architectureLabel": "ಪಾತ್ರ ವಾಸ್ತುಶಿಲ್ಪ ಆಯ್ಕೆ ಮಾಡಿ *",
+      "architecturePlaceholder": "ಆರ್ಕಿಟೆಕ್ಚರ್ ಆಯ್ಕೆ ಮಾಡಿ...",
+      "savingButton": "ಉಳಿಸಲಾಗುತ್ತಿದೆ...",
       "roleDescriptionLabel": "ಪಾತ್ರ ವಿವರಣೆ",
       "saveChangesButton": "ಬದಲಾವಣೆಗಳನ್ನು ಉಳಿಸಿ",
       "cancelButton": "ರದ್ದು ಮಾಡಿ"
     },
     "validation": {
-      "nameMinLength": "2",
-      "nameMaxLength": "100",
-      "descriptionMaxLength": "500",
+      "nameMinLength": "ರೋಲ್ ಹೆಸರು ಕನಿಷ್ಠ 2 ಅಕ್ಷರಗಳಿರಬೇಕು",
+      "nameMaxLength": "ರೋಲ್ ಹೆಸರು 100 ಅಕ್ಷರಗಳನ್ನು ಮೀರಬಾರದು",
+      "descriptionMaxLength": "ವಿವರಣೆ 500 ಅಕ್ಷರಗಳನ್ನು ಮೀರಬಾರದು",
       "nameRequired": "ಪಾತ್ರದ ಹೆಸರು ಅಗತ್ಯವಿದೆ",
       "architectureRequired": "ಪಾತ್ರ ವಾಸ್ತುಶಿಲ್ಪ ಅಗತ್ಯವಿದೆ"
     },
@@ -225,10 +225,10 @@
     }
   },
   "dashboardManagement": {
-    "loading": "...",
-    "errorPrefix": ":",
-    "activePermissions": ":",
-    "savingButton": "...",
+    "loading": "ಅನುಮತಿಗಳನ್ನು ಲೋಡ್ ಮಾಡಲಾಗುತ್ತಿದೆ...",
+    "errorPrefix": "ದೋಷ: ",
+    "activePermissions": "ಸಕ್ರಿಯ ಅನುಮತಿಗಳು:",
+    "savingButton": "ಉಳಿಸಲಾಗುತ್ತಿದೆ...",
     "title": "ಡ್ಯಾಶ್‌ಬೋರ್ಡ್ ನಿರ್ವಹಣೆ",
     "subtitle": "ನಿಮ್ಮ ಪಾತ್ರಗಳು ಮತ್ತು ಅನುಮತಿಗಳನ್ನು ನಿರ್ವಹಿಸಿ ಮತ್ತು ಸಂಘಟಿಸಿ",
     "backButton": "ಹಿಂದೆ",
@@ -261,21 +261,21 @@
   "smtpConfiguration": {
     "title": "SMTP",
     "subtitle": "(SMTP)",
-    "hostLabel": "SMTP    *",
-    "hostPlaceholder": "., mail.example.com:465  mail1.com:587,mail2.com:587",
-    "securityLabel": "SMTP",
-    "securityHelpText": "465  SMTPS   'ssl'  ,   587  STARTTLS   'tls'",
+    "hostLabel": "ಎಸ್‌ಎಂಪಿಟಿ ಹೋಸ್ಟ್ ಮತ್ತು ಪೋರ್ಟ್ *",
+    "hostPlaceholder": "ಉದಾ., mail.example.com:465 ಅಥವಾ mail1.com:587,mail2.com:587",
+    "securityLabel": "SMTP ಭದ್ರತೆ",
+    "securityHelpText": "ಐಚ್ಛಿಕ. ಪೋರ್ಟ್ 465 ನಲ್ಲಿ SMTPS ಗೆ 'ssl' ಆಯ್ಕೆಮಾಡಿ, ಅಥವಾ ಪೋರ್ಟ್ 587 ನಲ್ಲಿ STARTTLS ಗೆ 'tls' ಆಯ್ಕೆಮಾಡಿ. ಯಾವುದೂ ಇಲ್ಲದಿದ್ದರೆ ಖಾಲಿ ಬಿಡಿ.",
     "securitySSL": "SSL",
     "securityTLS": "TLS",
     "usernameLabel": "SMTP  *",
     "usernamePlaceholder": "., noreply@example.com",
-    "passwordLabel": "SMTP  *",
-    "noreplyEmailLabel": "-  *",
-    "noreplyEmailHelpText": "''",
-    "noreplyDisplayNameLabel": "-   *",
-    "noreplyDisplayNamePlaceholder": "., InstructoHub",
+    "passwordLabel": "ಎಸ್‌ಎಮ್‌ಟಿಪಿ ಪಾಸ್‌ವರ್ಡ್ *",
+    "noreplyEmailLabel": "ನೋ-ರಿಪ್ಲೈ ಇಮೇಲ್ *",
+    "noreplyEmailHelpText": "ಈ ಇಮೇಲ್ ಅನ್ನು ಎಲ್ಲಾ ಸ್ವಯಂಚಾಲಿತ ಅಧಿಸೂಚನೆಗಳಿಗಾಗಿ 'From' ವಿಳಾಸವಾಗಿ ಬಳಸಲಾಗುತ್ತದೆ.",
+    "noreplyDisplayNameLabel": "ನೋ-ರಿಪ್ಲೈ ಪ್ರದರ್ಶನ ಹೆಸರು *",
+    "noreplyDisplayNamePlaceholder": "ಉದಾ., InstructoHub ಸೂಚನೆಗಳು",
     "cancelButton": "ಕ್যಾನ್ಸೆಲ್",
-    "savingButton": "...",
+    "savingButton": "ಉಳಿಸಲಾಗುತ್ತಿದೆ...",
     "toasts": {
       "failedToLoad": "SMTP",
       "updateSuccess": "SMTP",
@@ -302,8 +302,8 @@
     "saveConfigurationButton": "ಕೋಷ್ಟಕವನ್ನು ಉಳಿಸಿ"
   },
   "accessControlDisplay": {
-    "smtpConfigurationTitle": "SMTP",
-    "smtpConfigurationDescription": "SMTP",
+    "smtpConfigurationTitle": "ಎಸ್‌ಎಂಟಿಪಿ ಸಂರಚನೆ",
+    "smtpConfigurationDescription": "SMTP ಸರ್ವರ್ ರುಜುವಾತುಗಳು ಮತ್ತು ಸೆಟ್ಟಿಂಗ್‌ಗಳನ್ನು ಕಾನ್ಫಿಗರ್ ಮಾಡಿ",
     "emailSetupTitle": "ಇಮೇಲ್ ಸೆಟಪ್",
     "emailSetupDescription": "ಇಮೇಲ್ ಟೆಂಪ್ಲೇಟುಗಳು ಮತ್ತು ಸೂಚನೆ ಸೆಟಿಂಗ್‌ಗಳನ್ನು ಕಾನ್ಫಿಗರ್ ಮಾಡಿ",
     "dashboardManagementTitle": "ಡ್ಯಾಶ್‌ಬೋರ್ಡ್ ನಿರ್ವಹಣೆ",
@@ -315,26 +315,26 @@
   },
   "customRoleDetail": {
     "pageHeader": {
-      "title": ": {{roleName}}",
-      "subtitle": "(: {{architectureName}})",
+      "title": "ಸಾಮರ್ಥ್ಯಗಳನ್ನು ನಿರ್ವಹಿಸಿ: {{roleName}}",
+      "subtitle": "ಕಸ್ಟಮ್ ಪಾತ್ರಕ್ಕೆ ಅನುಮತಿಗಳನ್ನು ಸೆಟ್ ಮಾಡಿ (ವಿನ್ಯಾಸ: {{architectureName}})",
       "unknownArchitecture": "ಅಜ್ಞಾತ"
     },
-    "savingButton": "...",
-    "loading": "...",
+    "savingButton": "ಉಳಿಸಲಾಗುತ್ತಿದೆ...",
+    "loading": "ಮಾಡ್ಯೂಲ್‌ಗಳು ಮತ್ತು ಸಾಮರ್ಥ್ಯಗಳನ್ನು ಲೋಡ್ ಮಾಡಲಾಗುತ್ತಿದೆ...",
     "sections": {
       "learningActivities": {
-        "description": "-    , ,",
+        "description": "ಕೋರ್ಸ್ ಮಟ್ಟದ ಚಟುವಟಿಕೆಗಳಿಗೆ ವೀಕ್ಷಣೆ ಮತ್ತು ನಿರ್ವಹಣೆ ಅನುಮತಿಗಳನ್ನು ಕಾನ್ಫಿಗರ್ ಮಾಡಿ",
         "title": "ಕಲಿಕಾ ಚಟುವಟಿಕೆಗಳು",
         "manageActionsNote": "ರಚಿಸಿ, ಸಂಪಾದಿಸಿ ಮತ್ತು ಅಳಿಸಿ. ಇದು ಕೋರ್ಸ್‌ನ ಎಲ್ಲಾ ಚಟುವಟಿಕೆಗಳಿಗೆ ಅನ್ವಯಿಸುತ್ತದೆ — ಇದು ಒಂದು ಕೋರ್ಸ್-ವ್ಯಾಪಿ ಅನುಮತಿ.",
         "courseModulesNote": "ಕೋರ್ಸ್ ರೂಪರೇಖೆ ಮತ್ತು ವಿಭಾಗಗಳನ್ನು ನೋಡಿ. ಇದು ಆನ್ ಇದ್ದಾಗ ಮಾತ್ರ ಇತರ ಚಟುವಟಿಕೆ ಅನುಮತಿಗಳು ಅನ್ವಯಿಸುತ್ತವೆ."
       },
       "tools": {
-        "description": "()",
+        "description": "ಕೋರ್ಸ್ ಸಾಧನಗಳಿಗಾಗಿ ಗೋಚರತೆ (ವೀಕ್ಷಣೆ) ಅನ್ನು ಕಾನ್ಫಿಗರ್ ಮಾಡಿ.",
         "title": "ಉಪಕರಣಗಳು"
       }
     },
     "resetModal": {
-      "message2": "?",
+      "message2": "ಅವುಗಳ ಡೀಫಾಲ್ಟ್ ಸೆಟ್ಟಿಂಗ್‌ಗಳಿಗೆ?",
       "warning2": "ಯಾವುದೇ ಕಸ್ಟಮ್ ಬದಲಾವಣೆಗಳು ಕಳೆದುಹೋಗುತ್ತವೆ.",
       "cancelButton": "ಕ್যಾನ್ಸೆಲ್",
       "resettingButton": "ರಿಸೆಟ್ ಮಾಡುತ್ತಿದೆ...",

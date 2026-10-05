@@ -305,7 +305,7 @@
     "emailSetupTitle": "ইমেইল সেটআপ",
     "emailSetupDescription": "ইমেইল টেমপ্লেট এবং নোটিফিকেশন সেটিংস কনফিগার করুন",
     "smtpConfigurationTitle": "SMTP কনফিগারেশন",
-    "smtpConfigurationDescription": "SMTP সার্ভার ক্রেডেনশিয়াল এবং সেটিংস কনফিগার করুন",
+    "smtpConfigurationDescription": "এসএমটিপি সার্ভারের ক্রেডেনশিয়াল এবং সেটিংস কনফিগার ও পরিচালনা করুন",
     "dashboardManagementTitle": "ড্যাশবোর্ড ব্যবস্থাপনা",
     "dashboardManagementDescription": "ড্যাশবোর্ড মডিউলের জন্য ভূমিকা এবং অনুমতি পরিচালনা করুন",
     "roleArchitectureManagementTitle": "ভূমিকা স্থাপত্য ব্যবস্থাপনা",

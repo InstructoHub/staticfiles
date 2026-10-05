@@ -19,7 +19,8 @@
     "certificate": "ସର୍ଟିଫିକେଟ",
     "organize": "ସଂଗଠନ କର",
     "gradeAssignment": "ଅସାଇନ୍ମେଣ୍ଟ ମୂଲ୍ୟାଙ୍କନ କର",
-    "courseComplete": "ଆପଣ ଏହି କୋର୍ସ ସମ୍ପୂର୍ଣ୍ଣ କରିଛନ୍ତି!"
+    "courseComplete": "ଆପଣ ଏହି କୋର୍ସ ସମ୍ପୂର୍ଣ୍ଣ କରିଛନ୍ତି!",
+    "physicalAssessment": "ଶାରୀରିକ ମୂଲ୍ୟାଙ୍କନ"
   },
   "participants": {
     "searchParticipants": "...",

@@ -19,7 +19,8 @@
     "certificate": "সার্টিফিকেট",
     "organize": "সংগঠিত করুন",
     "gradeAssignment": "অ্যাসাইনমেন্টের গ্রেড দিন",
-    "courseComplete": "আপনি এই কোর্সটি শেষ করেছেন!"
+    "courseComplete": "আপনি এই কোর্সটি শেষ করেছেন!",
+    "physicalAssessment": "শারীরিক মূল্যায়ন"
   },
   "participants": {
     "title": "অংশগ্রহণকারীরা",

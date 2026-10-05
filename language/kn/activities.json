@@ -164,6 +164,27 @@
       "backToAssignment": "ಅಸೈನ್‌ಮೆಂಟ್‌ಗೆ ಹಿಂತಿರುಗಿ",
       "previousStudent": "ಹಿಂದಿನ ವಿದ್ಯಾರ್ಥಿ",
       "nextStudent": "ಮುಂದಿನ ವಿದ್ಯಾರ್ಥಿ"
+    },
+    "physicalAssessment": {
+      "title": "ದೇಹ ಪರೀಕ್ಷೆ",
+      "subtitle": "ಪ್ರತಿ ಸ್ಲೈಡರ್ ಅನ್ನು ಅಳೆಯಲಾದ ಫಲಿತಾಂಶಕ್ಕೆ ಎಳೆಯಿರಿ — ನೀವು ಮುಂದುವರಿದಂತೆ ಬ್ಯಾಂಡ್ ನವೀಕರಿಸುತ್ತದೆ.",
+      "recorded": "ದಾಖಲಿಸಲಾಗಿದೆ",
+      "bandSummary": "ಬ್ಯಾಂಡ್ ಸಾರಾಂಶ",
+      "aboveRange": "ಶ್ರೇಣಿಗಿಂತ ಹೆಚ್ಚು",
+      "onTarget": "ಸರಿಯಾಗಿ",
+      "belowRange": "ಶ್ರೇಣಿಗಿಂತ ಕಡಿಮೆ",
+      "notSet": "ಹೊಂದಿಸಿಲ್ಲ",
+      "stopwatch": "ಸ್ಟಾಪ್‌ವಾಚ್",
+      "start": "Start",
+      "stop": "Stop",
+      "reset": "ಮರುಹೊಂದಿಸಿ",
+      "saveResults": "ಫಲಿತಾಂಶಗಳನ್ನು Save ಮಾಡಿ",
+      "saved": "Saved",
+      "clearAll": "ಎಲ್ಲ ಫಲಿತಾಂಶಗಳನ್ನು ತೆರವುಗೊಳಿಸಿ",
+      "allRecorded": "ಎಲ್ಲಾ ಪರೀಕ್ಷೆಗಳು ದಾಖಲಾಗಿವೆ",
+      "testsLeft": "ಈ ವಿದ್ಯಾರ್ಥಿಗೆ ಇನ್ನೂ {{count}} ಪರೀಕ್ಷೆಗಳು ಉಳಿದಿವೆ",
+      "expected": "ನಿರೀಕ್ಷಿತ {{min}}–{{max}} {{unit}}",
+      "completeAll": "Save ಮಾಡುವ ಮೊದಲು ಎಲ್ಲ ಪರೀಕ್ಷೆಗಳನ್ನೂ ದಾಖಲಿಸಿ."
     }
   },
   "quizzes": {

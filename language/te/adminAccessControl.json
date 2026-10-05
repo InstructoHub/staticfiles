@@ -305,7 +305,7 @@
     "emailSetupTitle": "ఇమెయిల్ సెట్‌అప్",
     "emailSetupDescription": "ఇమెయిల్ టెంప్లేట్‌లు మరియు నోటిఫికేషన్ సెట్టింగ్‌లను కాన్ఫిగర్ చేయండి",
     "smtpConfigurationTitle": "SMTP కాన్ఫిగరేషన్",
-    "smtpConfigurationDescription": "SMTP సర్వర్ క్రెడెన్షియల్‌లు మరియు సెట్టింగ్‌లను కాన్ఫిగర్ చేయండి",
+    "smtpConfigurationDescription": "ఎస్‌ఎమ్‌టిపి సర్వర్ క్రెడెన్షియల్స్ మరియు సెట్టింగ్స్‌ను కాన్ఫిగర్ చేయండి",
     "dashboardManagementTitle": "డాష్‌బోర్డ్ మేనేజ్‌మెంట్",
     "dashboardManagementDescription": "డాష్‌బోర్డ్ మాడ్యూల్‌ల కోసం రోల్‌లు మరియు పర్మిషన్‌లను మేనేజ్ చేయండి",
     "roleArchitectureManagementTitle": "రోల్ ఆర్కిటెక్చర్ మేనేజ్‌మెంట్",
