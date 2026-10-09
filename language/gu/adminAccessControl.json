@@ -55,7 +55,9 @@
       "actionsHeader": "ક્રિયાઓ",
       "noModulesFound": "કોઈ મૉડ્યુલ્સ મળ્યાં નથી.",
       "slNoHeader": "ક્રમ નં.",
-      "moduleTypeHeader": "મોડ્યુલ પ્રકાર"
+      "moduleTypeHeader": "મોડ્યુલ પ્રકાર",
+      "applicableRolesHeader": "લાગુ પડતી ભૂમિકાઓ",
+      "allRoles": "કોઈ ભૂમિકાઓ સેટ નથી (બધી ભૂમિકાઓ)"
     },
     "form": {
       "moduleNameLabel": "મૉડ્યુલ નું નામ *",
@@ -77,7 +79,13 @@
       },
       "createButton": "મોડ્યુલ બનાવો",
       "creatingButton": "બનાવી રહ્યા છીએ...",
-      "editTitle": "મોડ્યુલ એડિટ કરો"
+      "editTitle": "મોડ્યુલ એડિટ કરો",
+      "applicableRolesLabel": "લાગુ પડતી ભૂમિકાઓ",
+      "applicableRolesHint": "ખાલી રાખો (કોઈ ભૂમિકાઓ સેટ નથી) જેથી આ મોડ્યુલ બધી ભૂમિકાઓ પર લાગુ થાય.",
+      "applicableRolesEmpty": "કોઈ ભૂમિકાઓ ઉપલબ્ધ નથી.",
+      "applicableRolesNoneSelected": "કોઈ ભૂમિકાઓ સેટ નથી — બધી ભૂમિકાઓ પર લાગુ પડે છે",
+      "applicableRolesSelected": "{{count}} ભૂમિકા પસંદ",
+      "applicableRolesSelected_plural": "{{count}} ભૂમિકાઓ પસંદ"
     },
     "deleteModal": {
       "title": "ડિલીશન કન્ફર્મ કરો",

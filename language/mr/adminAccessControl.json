@@ -55,7 +55,9 @@
       "actionsHeader": "क्रिया",
       "noModulesFound": "कोणतेही मॉड्यूल्स सापडले नाहीत.",
       "slNoHeader": "क्र. नं.",
-      "moduleTypeHeader": "मॉड्यूल प्रकार"
+      "moduleTypeHeader": "मॉड्यूल प्रकार",
+      "applicableRolesHeader": "लागू भूमिका",
+      "allRoles": "कोणतीही भूमिका सेट नाही (सगळ्या भूमिका)"
     },
     "form": {
       "moduleNameLabel": "मॉड्यूलचे नाव *",
@@ -77,7 +79,13 @@
       },
       "createButton": "मॉड्यूल तयार करा",
       "creatingButton": "तयार करत आहे...",
-      "editTitle": "मॉड्यूल संपादित करा"
+      "editTitle": "मॉड्यूल संपादित करा",
+      "applicableRolesLabel": "लागू भूमिका",
+      "applicableRolesHint": "रिकामं ठेवा (कोणतीही भूमिका सेट नाही) म्हणजे हे मॉड्यूल सगळ्या भूमिकांवर लागू होईल.",
+      "applicableRolesEmpty": "कोणतीही भूमिका उपलब्ध नाही.",
+      "applicableRolesNoneSelected": "कोणतीही भूमिका सेट नाही — सगळ्या भूमिकांवर लागू",
+      "applicableRolesSelected": "{{count}} भूमिका निवडली",
+      "applicableRolesSelected_plural": "{{count}} भूमिका निवडल्या"
     },
     "deleteModal": {
       "title": "हटविणे पुष्टी करा",

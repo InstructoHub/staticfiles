@@ -184,7 +184,14 @@
       "allRecorded": "ਸਾਰੇ ਟੈਸਟ ਰਿਕਾਰਡ ਹੋ ਗਏ",
       "testsLeft": "ਇਸ ਵਿਦਿਆਰਥੀ ਲਈ {{count}} ਟੈਸਟ ਬਾਕੀ ਹਨ",
       "expected": "ਉਮੀਦਿਤ {{min}}–{{max}} {{unit}}",
-      "completeAll": "ਸੇਵ ਕਰਨ ਤੋਂ ਪਹਿਲਾਂ ਸਾਰੇ ਟੈਸਟ ਰਿਕਾਰਡ ਕਰੋ।"
+      "completeAll": "ਸੇਵ ਕਰਨ ਤੋਂ ਪਹਿਲਾਂ ਸਾਰੇ ਟੈਸਟ ਰਿਕਾਰਡ ਕਰੋ।",
+      "maxTarget": "ਹੱਦ {{max}} {{unit}}",
+      "goalTarget": "ਟਾਰਗੇਟ {{max}} {{unit}}",
+      "limitHint": "{{max}} {{unit}} ਤੋਂ ਘੱਟ ਜਾਂ ਬਰਾਬਰ ਰਹੋ",
+      "goalHint": "{{min}}–{{max}} {{unit}} ਦਾ ਟਾਰਗੇਟ ਰੱਖੋ",
+      "viewReport": "ਰਿਪੋਰਟ",
+      "backToGrading": "ਗ੍ਰੇਡਿੰਗ ਤੇ ਵਾਪਸ",
+      "gradedLocked": "ਇਹ ਵਿਦਿਆਰਥੀ ਪਹਿਲਾਂ ਤੋਂ ਗਰੇਡ ਕੀਤਾ ਹੋਇਆ ਹੈ। ਨਤੀਜੇ ਬਦਲੇ ਨਹੀਂ ਜਾ ਸਕਦੇ।"
     }
   },
   "quizzes": {

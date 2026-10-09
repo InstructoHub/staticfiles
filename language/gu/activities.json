@@ -184,7 +184,14 @@
       "allRecorded": "બધા ટેસ્ટ નોંધાઈ ગયા",
       "testsLeft": "આ વિદ્યાર્થી માટે હજુ {{count}} ટેસ્ટ બાકી છે",
       "expected": "અપેક્ષિત {{min}}–{{max}} {{unit}}",
-      "completeAll": "સેવ કરતા પહેલાં બધા ટેસ્ટ નોંધો."
+      "completeAll": "સેવ કરતા પહેલાં બધા ટેસ્ટ નોંધો.",
+      "gradedLocked": "આ વિદ્યાર્થીનું grading થઈ ગયું છે. પરિણામ બદલી શકાતાં નથી.",
+      "maxTarget": "મર્યાદા {{max}} {{unit}}",
+      "goalTarget": "લક્ષ્ય {{max}} {{unit}}",
+      "limitHint": "{{max}} {{unit}} અથવા તેનાથી ઓછું રાખો",
+      "goalHint": "{{min}}–{{max}} {{unit}} માટે લક્ષ્ય રાખો",
+      "viewReport": "રિપોર્ટ",
+      "backToGrading": "ગ્રેડિંગ પર પાછા"
     }
   },
   "quizzes": {

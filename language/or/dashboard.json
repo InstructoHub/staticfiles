@@ -890,5 +890,42 @@
     "status": {
       "new": "ନୂଆ"
     }
+  },
+  "myAssessmentReport": {
+    "feedback": "FEEDBACK",
+    "title": "ମୋ ମୂଲ୍ୟାଙ୍କନ ରିପୋର୍ଟ",
+    "viewFullReport": "ପୂରା ରିପୋର୍ଟ ଦେଖନ୍ତୁ",
+    "empty": "ଏଯାଏଁ କୌଣସି ମୂଲ୍ୟାଙ୍କନ ଫଳାଫଳ ନାହିଁ।",
+    "backToDashboard": "ଡାଶବୋର୍ଡକୁ ଫେରନ୍ତୁ",
+    "aboveAverage": "ହାରାହାରିଠାରୁ ଉପରେ",
+    "average": "ହାରାହାରି",
+    "belowAverage": "ହାରାହାରିଠାରୁ ତଳେ",
+    "readiness": "ପ୍ରସ୍ତୁତି",
+    "readinessStrong": "ଦୃଢ଼ ସ୍ଥିତି",
+    "readinessBuilding": "ଗଠନ ହେଉଥିବା ସ୍ଥିତି",
+    "loadError": "ଆସେସମେଣ୍ଟ ରିପୋର୍ଟ ଲୋଡ କରିବାରେ ଫେଲ ହେଲା।",
+    "readinessFocus": "ଅଭ୍ୟାସ ଦରକାର",
+    "nextChallenge": "ଫୋକସ୍ କ୍ଷେତ୍ର",
+    "skillMap": "କୌଶଳ ମାନଚିତ୍ର",
+    "skillMapHint": "ବାହାର ପଟ = ଲକ୍ଷ୍ୟର ନିକଟରେ / ସମୟ ସୀମା ତଳେ ଅଧିକ ଦୂରେ",
+    "bandMix": "ବ୍ୟାଣ୍ଡ ମିଶ୍ରଣ",
+    "readinessStrongHint": "ଆପଣ ଅଧିକାଂଶ କୌଶଳରେ ଆତ୍ମବିଶ୍ୱାସ ସହିତ ଆଗକୁ ବଢ଼ୁଛନ୍ତି।",
+    "readinessBuildingHint": "ଆଧାର ଭଲ ଅଛି — କିଛି କୌଶଳ ପରବର୍ତ୍ତୀ ସ୍ତରକୁ ପହଞ୍ଚାଇଦେବ।",
+    "readinessFocusHint": "ଦୁର୍ବଳ କୌଶଳଗୁଡ଼ିକ ଉପରେ ଫୋକସ୍ ସେସନ୍ କରିବାରେ ଏହି ସ୍କୋର ଶୀଘ୍ର ବଢ଼ିବ।",
+    "topSkill": "ସର୍ବଶ୍ରେଷ୍ଠ କୌଶଳ",
+    "skillBreakdown": "କୌଶଳ ବିଭାଜନ",
+    "rankedWeakToStrong": "ଦୁର୍ବଳରୁ ଶକ୍ତିଶାଳୀକୁ କ୍ରମବଦ୍ଧ",
+    "limitOf": "{{max}} {{unit}} ସୀମା",
+    "goalOf": "{{max}} {{unit}} ଲକ୍ଷ୍ୟ",
+    "downloadPdf": "PDF ଡାଉନଲୋଡ୍ କରନ୍ତୁ",
+    "downloadingPdf": "ଡାଉନଲୋଡ୍ ହେଉଛି...",
+    "pdfError": "ପିଡିଏଫ ଡାଉନଲୋଡ କରିବାରେ ଅସୁବିଧା ହେଲା।"
+  },
+  "physicalAssessment": {
+    "title": "ଶାରୀରିକ ମୂଲ୍ୟାଙ୍କନ",
+    "totalStudents": "ମୋଟ ଛାତ୍ରଛାତ୍ରୀ",
+    "graded": "ମୂଲ୍ୟାଙ୍କିତ",
+    "notGraded": "ଅମୂଲ୍ୟାଙ୍କିତ",
+    "openGrading": "ମୂଲ୍ୟାଙ୍କନ ଖୋଲନ୍ତୁ"
   }
 }

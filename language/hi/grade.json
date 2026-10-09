@@ -96,8 +96,12 @@
         "emerging": "शुरुआती",
         "developing": "विकसित हो रहा है",
         "onTrack": "ट्रैक पर",
-        "strong": "मज़बूत"
-      }
+        "strong": "मज़बूत",
+        "aboveRange": "औसत से ऊपर",
+        "onTarget": "औसत",
+        "belowRange": "औसत से नीचे"
+      },
+      "metricBandsHint": "हर टेस्ट के लिए उम्मीद की गई माप रेंज से तुलना की गई"
     }
   },
   "teacher": {

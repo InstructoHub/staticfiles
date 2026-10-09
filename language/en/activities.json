@@ -170,9 +170,9 @@
       "subtitle": "Drag each slider to the measured result — the band updates as you go.",
       "recorded": "Recorded",
       "bandSummary": "Band summary",
-      "aboveRange": "Above range",
-      "onTarget": "On target",
-      "belowRange": "Below range",
+      "aboveRange": "Above average",
+      "onTarget": "Average",
+      "belowRange": "Below average",
       "notSet": "Not set",
       "stopwatch": "Stopwatch",
       "start": "Start",
@@ -183,8 +183,15 @@
       "clearAll": "Clear all results",
       "allRecorded": "All tests recorded",
       "testsLeft": "{{count}} tests left for this student",
-      "expected": "expected {{min}}–{{max}} {{unit}}",
-      "completeAll": "Record all tests before saving."
+      "expected": "good band {{min}}–{{max}} {{unit}}",
+      "completeAll": "Record all tests before saving.",
+      "gradedLocked": "This student is already graded. Results cannot be changed.",
+      "maxTarget": "limit {{max}} {{unit}}",
+      "goalTarget": "goal {{max}} {{unit}}",
+      "limitHint": "stay at or under {{max}} {{unit}}",
+      "goalHint": "aim for {{min}}–{{max}} {{unit}}",
+      "viewReport": "Report",
+      "backToGrading": "Back to grading"
     }
   },
   "quizzes": {

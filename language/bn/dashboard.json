@@ -890,5 +890,42 @@
     "status": {
       "new": "নতুন"
     }
+  },
+  "myAssessmentReport": {
+    "feedback": "FEEDBACK",
+    "title": "আমার মূল্যায়ন প্রতিবেদন",
+    "viewFullReport": "পুরো প্রতিবেদন দেখুন",
+    "empty": "এখনও কোনো অ্যাসেসমেন্ট ফলাফল নেই।",
+    "backToDashboard": "ড্যাশবোর্ডে ফিরে যান",
+    "aboveAverage": "গড়ের চেয়ে বেশি",
+    "average": "গড়",
+    "belowAverage": "গড়ের চেয়ে কম",
+    "readiness": "প্রস্তুতি",
+    "readinessStrong": "শক্তিশালী ফর্ম",
+    "readinessBuilding": "গড়ে তোলার ফর্ম",
+    "loadError": "অ্যাসেসমেন্ট রিপোর্ট লোড করতে ব্যর্থ হয়েছে।",
+    "readinessFocus": "অনুশীলন দরকার",
+    "nextChallenge": "ফোকাসের এলাকা",
+    "skillMap": "দক্ষতার মানচিত্র",
+    "skillMapHint": "বাইরের ধার = লক্ষ্যের আরও কাছে / সময়সীমার মধ্যে আরও দূরে",
+    "bandMix": "ব্যান্ড মিক্স",
+    "readinessStrongHint": "আপনি বেশিরভাগ দক্ষতায় আত্মবিশ্বাসের সঙ্গে এগিয়ে যাচ্ছেন।",
+    "readinessBuildingHint": "ভিত্তি ভালো — কিছু দক্ষতা আপনাকে পরের স্তরে নিয়ে যাবে।",
+    "readinessFocusHint": "দুর্বল দক্ষতাগুলোর ওপর ফোকাস সেশন করলে এই স্কোর দ্রুত বাড়বে।",
+    "topSkill": "সেরা দক্ষতা",
+    "skillBreakdown": "দক্ষতার বিশ্লেষণ",
+    "rankedWeakToStrong": "দুর্বল থেকে শক্তিশালী অনুযায়ী সাজানো",
+    "limitOf": "সীমা {{max}} {{unit}}",
+    "goalOf": "লক্ষ্য {{max}} {{unit}}",
+    "downloadPdf": "PDF ডাউনলোড করুন",
+    "downloadingPdf": "ডাউনলোড হচ্ছে...",
+    "pdfError": "পিডিএফ ডাউনলোড করতে সমস্যা হয়েছে."
+  },
+  "physicalAssessment": {
+    "title": "শারীরিক মূল্যায়ন",
+    "totalStudents": "মোট শিক্ষার্থী",
+    "graded": "মূল্যায়িত",
+    "notGraded": "মূল্যায়িত নয়",
+    "openGrading": "মূল্যায়ন খুলুন"
   }
 }

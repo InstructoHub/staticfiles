@@ -96,8 +96,12 @@
         "emerging": "উদীয়মান",
         "developing": "উন্নয়নশীল",
         "onTrack": "ঠিক পথে",
-        "strong": "দৃঢ়"
-      }
+        "strong": "দৃঢ়",
+        "aboveRange": "গড়ের চেয়ে বেশি",
+        "onTarget": "গড়",
+        "belowRange": "গড়ের চেয়ে কম"
+      },
+      "metricBandsHint": "প্রতিটি পরীক্ষার প্রত্যাশিত মাপের সীমার সঙ্গে তুলনা করা হয়েছে"
     }
   },
   "teacher": {

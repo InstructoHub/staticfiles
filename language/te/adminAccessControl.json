@@ -55,7 +55,9 @@
       "actionsHeader": "చర్యలు",
       "noModulesFound": "కোనీ మాడ్యూల్‌లు కనపడలేదు.",
       "slNoHeader": "సీరియల్ నం.",
-      "moduleTypeHeader": "మాడ్యూల్ రకం"
+      "moduleTypeHeader": "మాడ్యూల్ రకం",
+      "applicableRolesHeader": "వర్తించే పాత్రలు",
+      "allRoles": "పాత్రలు లేవు (అన్ని పాత్రలు)"
     },
     "form": {
       "moduleNameLabel": "మాడ్యూల్ పేరు *",
@@ -77,7 +79,13 @@
       },
       "createButton": "మాడ్యూల్ సృష్టించండి",
       "creatingButton": "సృష్టిస్తోంది...",
-      "editTitle": "మాడ్యూల్ ఎడిట్ చేయండి"
+      "editTitle": "మాడ్యూల్ ఎడిట్ చేయండి",
+      "applicableRolesLabel": "వర్తించే పాత్రలు",
+      "applicableRolesHint": "ఖాళీగా వదిలేయండి (పాత్రలు సెట్ చేయలేదు) ఈ మాడ్యూల్‌ను అన్ని పాత్రలకు వర్తింపజేయడానికి.",
+      "applicableRolesEmpty": "పాత్రలు అందుబాటులో లేవు.",
+      "applicableRolesNoneSelected": "పాత్రలు సెట్ చేయలేదు — అన్ని పాత్రలకు వర్తిస్తుంది",
+      "applicableRolesSelected": "{{count}} పాత్ర ఎంపికైంది",
+      "applicableRolesSelected_plural": "{{count}} పాత్రలు ఎంపికయ్యాయి"
     },
     "deleteModal": {
       "title": "డిలీషన్‌ను నిర్ధారించండి",

@@ -65,7 +65,13 @@
       },
       "createButton": "ಮಾಡ್ಯೂಲ್ ರಚಿಸಿ",
       "creatingButton": "ರಚಿಸಲಾಗುತ್ತಿದೆ...",
-      "editTitle": "ಮಾಡ್ಯೂಲ್ ಸಂಪಾದಿಸಿ"
+      "editTitle": "ಮಾಡ್ಯೂಲ್ ಸಂಪಾದಿಸಿ",
+      "applicableRolesLabel": "ಅನ್ವಯಿಸುವ ಪಾತ್ರಗಳು",
+      "applicableRolesHint": "ಈ ಮಾಡ್ಯೂಲ್ ಅನ್ನು ಎಲ್ಲಾ ಪಾತ್ರಗಳಿಗೆ ಅನ್ವಯಿಸಲು ಖಾಲಿ ಬಿಡಿ (ಪಾತ್ರಗಳು ಇಲ್ಲ).",
+      "applicableRolesEmpty": "ಪಾತ್ರಗಳು ಲಭ್ಯವಿಲ್ಲ.",
+      "applicableRolesNoneSelected": "ಪಾತ್ರಗಳು ಇಲ್ಲ — ಎಲ್ಲಾ ಪಾತ್ರಗಳಿಗೆ ಅನ್ವಯಿಸುತ್ತದೆ",
+      "applicableRolesSelected": "{{count}} ಪಾತ್ರ ಆಯ್ಕೆ ಮಾಡಲಾಗಿದೆ",
+      "applicableRolesSelected_plural": "{{count}} ಪಾತ್ರಗಳು ಆಯ್ಕೆ ಮಾಡಲಾಗಿದೆ"
     },
     "validation": {
       "nameMinLength": "2",
@@ -85,7 +91,9 @@
       "actionsHeader": "ಕ್ರಿಯೆಗಳು",
       "noModulesFound": "ಯಾವುದೇ ಮಾಡ್ಯೂಲ್‌ಗಳು ಕಂಡುಬಂದಿಲ್ಲ.",
       "slNoHeader": "ಕ್ರಮ ಸಂ.",
-      "moduleTypeHeader": "ಮಾಡ್ಯೂಲ್ ಪ್ರಕಾರ"
+      "moduleTypeHeader": "ಮಾಡ್ಯೂಲ್ ಪ್ರಕಾರ",
+      "applicableRolesHeader": "ಅನ್ವಯಿಸುವ ಪಾತ್ರಗಳು",
+      "allRoles": "ಪಾತ್ರಗಳು ಇಲ್ಲ (ಎಲ್ಲಾ ಪಾತ್ರಗಳು)"
     },
     "deleteModal": {
       "title": "ಅಳಿಸುವುದನ್ನು ದೃಢೀಕರಿಸಿ",

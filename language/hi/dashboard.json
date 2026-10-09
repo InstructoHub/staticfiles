@@ -894,5 +894,42 @@
     "status": {
       "new": "नया"
     }
+  },
+  "myAssessmentReport": {
+    "feedback": "FEEDBACK",
+    "title": "माय असेसमेंट रिपोर्ट",
+    "viewFullReport": "पूरा रिपोर्ट देखें",
+    "empty": "अभी कोई असेसमेंट रिजल्ट नहीं है।",
+    "loadError": "असेसमेंट रिपोर्ट लोड करने में फेल रहा।",
+    "backToDashboard": "डैशबोर्ड पर वापस जाएं",
+    "aboveAverage": "एवरेज से ऊपर",
+    "average": "एवरेज",
+    "belowAverage": "एवरेज से नीचे",
+    "readiness": "रेडीनेस",
+    "readinessStrong": "स्ट्रॉन्ग फॉर्म",
+    "readinessBuilding": "बिल्डिंग फॉर्म",
+    "readinessFocus": "प्रैक्टिस की जरूरत",
+    "readinessStrongHint": "आप ज्यादातर स्किल्स में कॉन्फिडेंस के साथ आगे बढ़ रहे हैं।",
+    "readinessBuildingHint": "बेस अच्छा है — कुछ स्किल्स अगले लेवल तक पहुंचा देंगी।",
+    "readinessFocusHint": "कमजोर स्किल्स पर फोकस सेशंस करने से यह स्कोर जल्दी बढ़ेगा।",
+    "nextChallenge": "फोकस एरिया",
+    "skillMap": "स्किल मैप",
+    "skillMapHint": "आउटर एज = गोल के ज्यादा करीब / टाइम लिमिट के नीचे",
+    "bandMix": "बैंड मिक्स",
+    "topSkill": "टॉप स्किल",
+    "skillBreakdown": "स्किल ब्रेकडाउन",
+    "rankedWeakToStrong": "वीक → स्ट्रॉन्ग रैंक्ड",
+    "limitOf": "लिमिट {{max}} {{unit}}",
+    "goalOf": "गोल {{max}} {{unit}}",
+    "downloadPdf": "PDF डाउनलोड करें",
+    "downloadingPdf": "डाउनलोड हो रहा है...",
+    "pdfError": "PDF डाउनलोड करने में दिक्कत आई."
+  },
+  "physicalAssessment": {
+    "title": "फिजिकल असेसमेंट",
+    "totalStudents": "कुल स्टूडेंट्स",
+    "graded": "ग्रेडेड",
+    "notGraded": "नॉट ग्रेडेड",
+    "openGrading": "ग्रेडिंग खोलें"
   }
 }

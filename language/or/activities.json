@@ -184,7 +184,14 @@
       "allRecorded": "ସମସ୍ତ ପରୀକ୍ଷା ରେକର୍ଡ ହୋଇଗଲା",
       "testsLeft": "ଏହି ଛାତ୍ର ପାଇଁ ଆଉ {{count}} ଟେଷ୍ଟ ବାକି",
       "expected": "ଆଶାକରା {{min}}–{{max}} {{unit}}",
-      "completeAll": "ସେଭ କରିବା ପୂର୍ବରୁ ସବୁ ଟେଷ୍ଟ ରେକର୍ଡ କରନ୍ତୁ।"
+      "completeAll": "ସେଭ କରିବା ପୂର୍ବରୁ ସବୁ ଟେଷ୍ଟ ରେକର୍ଡ କରନ୍ତୁ।",
+      "maxTarget": "ସୀମା {{max}} {{unit}}",
+      "goalTarget": "ଲକ୍ଷ୍ୟ {{max}} {{unit}}",
+      "limitHint": "{{max}} {{unit}} କିମ୍ବା ତାଠାରୁ କମ୍ ରଖନ୍ତୁ",
+      "goalHint": "{{min}}–{{max}} {{unit}} ଲକ୍ଷ୍ୟ ରଖନ୍ତୁ",
+      "viewReport": "ରିପୋର୍ଟ",
+      "backToGrading": "ଗ୍ରେଡିଂକୁ ଫେରନ୍ତୁ",
+      "gradedLocked": "ଏହି ଛାତ୍ର ପୂର୍ବରୁ ଗ୍ରେଡ୍ କରାଯାଇଛି। ପରିଣାମ ବଦଳାଇ ଯାଇପାରିବ ନାହିଁ।"
     }
   },
   "quizzes": {

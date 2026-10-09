@@ -55,7 +55,9 @@
       "actionsHeader": "କାର୍ଯ୍ୟ",
       "noModulesFound": "କୌଣସି ମଡ୍ୟୁଲ୍ ମିଳିଲା ନାହିଁ",
       "slNoHeader": "କ୍ରମିକ",
-      "moduleTypeHeader": "ମଡ୍ୟୁଲ ପ୍ରକାର"
+      "moduleTypeHeader": "ମଡ୍ୟୁଲ ପ୍ରକାର",
+      "applicableRolesHeader": "ଲାଗୁ ହେଉଥିବା ଭୂମିକା",
+      "allRoles": "କୌଣସି ଭୂମିକା ନାହିଁ (ସବୁ ଭୂମିକା)"
     },
     "form": {
       "moduleNameLabel": "ମଡ୍ୟୁଲ୍ ନାମ *",
@@ -77,7 +79,13 @@
       },
       "createButton": "ମଡ୍ୟୁଲ ସୃଷ୍ଟି କରନ୍ତୁ",
       "creatingButton": "ସୃଷ୍ଟି ହେଉଛି...",
-      "editTitle": "ମଡ୍ୟୁଲ ସମ୍ପାଦନ କରନ୍ତୁ"
+      "editTitle": "ମଡ୍ୟୁଲ ସମ୍ପାଦନ କରନ୍ତୁ",
+      "applicableRolesLabel": "ଲାଗୁ ହେଉଥିବା ଭୂମିକା",
+      "applicableRolesNoneSelected": "କୌଣସି ଭୂମିକା ନାହିଁ — ସବୁ ଭୂମିକାରେ ଲାଗୁ ହେବ",
+      "applicableRolesSelected": "{{count}} ଭୂମିକା ବାଛାଗଲା",
+      "applicableRolesSelected_plural": "{{count}} ଭୂମିକାଗୁଡ଼ିକ ବାଛାଗଲା",
+      "applicableRolesHint": "ଖାଲି ରଖନ୍ତୁ (କୌଣସି ଭୂମିକା ସେଟ୍ ନାହିଁ) ଯାହାଦ୍ୱାରା ଏହି ମଡ୍ୟୁଲ୍ ସମସ୍ତ ଭୂମିକାରେ ଲାଗୁ ହୋଇଯିବ।",
+      "applicableRolesEmpty": "କୌଣସି ଭୂମିକା ଉପଲବ୍ଧ ନାହିଁ।"
     },
     "deleteModal": {
       "title": "ମିଳନ ବିଲୋପ କରନ୍ତୁ",

@@ -55,7 +55,9 @@
       "createdAtHeader": "क्रिएटेड डेट",
       "actionsHeader": "एक्शन्स",
       "noModulesFound": "कोई मॉड्यूल्स नहीं मिले।",
-      "moduleTypeHeader": "मॉड्यूल टाइप"
+      "moduleTypeHeader": "मॉड्यूल टाइप",
+      "applicableRolesHeader": "लागू भूमिकाएं",
+      "allRoles": "कोई भूमिका सेट नहीं है (सभी भूमिकाएं)"
     },
     "form": {
       "moduleNameLabel": "मॉड्यूल का नाम *",
@@ -77,7 +79,13 @@
       },
       "createButton": "मॉड्यूल बनाएं",
       "creatingButton": "बनाया जा रहा है...",
-      "editTitle": "मॉड्यूल एडिट करें"
+      "editTitle": "मॉड्यूल एडिट करें",
+      "applicableRolesLabel": "लागू भूमिकाएं",
+      "applicableRolesHint": "खाली छोड़ें (कोई भूमिका सेट नहीं) ताकि यह मॉड्यूल सभी भूमिकाओं पर लागू हो जाए।",
+      "applicableRolesEmpty": "कोई भूमिका उपलब्ध नहीं है।",
+      "applicableRolesNoneSelected": "कोई भूमिका सेट नहीं — सभी भूमिकाओं पर लागू होगा",
+      "applicableRolesSelected": "{{count}} भूमिका चुनी गई",
+      "applicableRolesSelected_plural": "{{count}} भूमिकाएं चुनी गईं"
     },
     "deleteModal": {
       "title": "डिलीशन कन्फर्म करें",

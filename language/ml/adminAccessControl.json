@@ -55,7 +55,9 @@
       "actionsHeader": "ആക്ഷനുകൾ",
       "noModulesFound": "മോഡ്യൂലുകൾ കണ്ടെത്തിയില്ല.",
       "slNoHeader": "ക്രമം",
-      "moduleTypeHeader": "മൊഡ്യൂൾ തരം"
+      "moduleTypeHeader": "മൊഡ്യൂൾ തരം",
+      "applicableRolesHeader": "ബാധകമായ റോളുകൾ",
+      "allRoles": "റോളുകൾ സെറ്റ് ചെയ്തിട്ടില്ല (എല്ലാ റോളുകളും)"
     },
     "form": {
       "moduleNameLabel": "മോഡ്യൂലിന്റെ പേര് *",
@@ -77,7 +79,13 @@
       },
       "createButton": "മൊഡ്യൂൾ സൃഷ്ടിക്കുക",
       "creatingButton": "സൃഷ്ടിക്കുന്നു...",
-      "editTitle": "മൊഡ്യൂൾ എഡിറ്റ് ചെയ്യുക"
+      "editTitle": "മൊഡ്യൂൾ എഡിറ്റ് ചെയ്യുക",
+      "applicableRolesLabel": "ബാധകമായ റോളുകൾ",
+      "applicableRolesHint": "ഒഴിവാക്കി വിടുക (റോളുകൾ സെറ്റ് ചെയ്തിട്ടില്ല) ഈ മോഡ്യൂൾ എല്ലാ റോളുകൾക്കും ബാധകമാക്കാൻ.",
+      "applicableRolesEmpty": "റോളുകൾ ലഭ്യമല്ല.",
+      "applicableRolesNoneSelected": "റോളുകൾ സെറ്റ് ചെയ്തിട്ടില്ല — എല്ലാ റോളുകൾക്കും ബാധകം",
+      "applicableRolesSelected": "{{count}} റോൾ തിരഞ്ഞെടുത്തു",
+      "applicableRolesSelected_plural": "{{count}} റോളുകൾ തിരഞ്ഞെടുത്തു"
     },
     "deleteModal": {
       "title": "ഡിലീഷൻ സ്ഥിരീകരിക്കുക",

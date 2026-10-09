@@ -890,5 +890,42 @@
     "status": {
       "new": "പുതിയത്"
     }
+  },
+  "myAssessmentReport": {
+    "feedback": "FEEDBACK",
+    "title": "എന്റെ വിലയിരുത്തൽ റിപ്പോർട്ട്",
+    "viewFullReport": "മുഴുവൻ റിപ്പോർട്ട് കാണുക",
+    "empty": "ഇനിയും വിലയിരുത്തൽ ഫലങ്ങൾ ഇല്ല.",
+    "loadError": "വിലയിരുത്തൽ റിപ്പോർട്ട് ലോഡ് ചെയ്യാനായില്ല.",
+    "backToDashboard": "ഡാഷ്ബോർഡിലേക്ക് മടങ്ങുക",
+    "aboveAverage": "ശരാശരിക്ക് മുകളിൽ",
+    "average": "ശരാശരി",
+    "belowAverage": "ശരാശരിക്ക് താഴെ",
+    "readiness": "തയ്യാറെടുപ്പ്",
+    "readinessStrong": "ശക്തമായ രൂപം",
+    "readinessBuilding": "നിർമ്മാണത്തിലിരിക്കുന്ന രൂപം",
+    "readinessFocus": "പരിശീലനം വേണം",
+    "readinessStrongHint": "നിങ്ങൾ ഭൂരിഭാഗം കഴിവുകളിലും ആത്മവിശ്വാസത്തോടെ മുന്നേറുന്നു.",
+    "readinessBuildingHint": "ഒരു ഉറച്ച അടിസ്ഥാനം ഉണ്ട് — കുറച്ച് കഴിവുകൾ അടുത്ത നില തുറക്കും.",
+    "readinessFocusHint": "ദുർബലമായ കഴിവുകളിൽ ശ്രദ്ധ കേന്ദ്രീകരിച്ചാൽ ഈ സ്കോർ വേഗത്തിൽ ഉയരും.",
+    "nextChallenge": "ശ്രദ്ധിക്കേണ്ട മേഖല",
+    "skillMap": "കഴിവുകളുടെ മാപ്പ്",
+    "skillMapHint": "പുറത്തെ അറ്റം = ലക്ഷ്യത്തിന് അടുത്തത് / സമയം പരിധിയേക്കാൾ ദൂരം",
+    "bandMix": "ബാൻഡ് മിശ്രണം",
+    "topSkill": "മികച്ച കഴിവ്",
+    "skillBreakdown": "കഴിവുകളുടെ വിശദീകരണം",
+    "rankedWeakToStrong": "ദുർബലത്തിൽ നിന്ന് ശക്തിയിലേക്ക് ക്രമീകരിച്ചത്",
+    "limitOf": "പരിധി {{max}} {{unit}}",
+    "goalOf": "ലക്ഷ്യം {{max}} {{unit}}",
+    "downloadPdf": "PDF ഡൗൺലോഡ് ചെയ്യുക",
+    "downloadingPdf": "ഡൗൺലോഡ് ചെയ്യുന്നു...",
+    "pdfError": "PDF ഡൗൺലോഡ് ചെയ്യാൻ കഴിഞ്ഞില്ല."
+  },
+  "physicalAssessment": {
+    "title": "ശാരീരിക വിലയിരുത്തൽ",
+    "totalStudents": "ആകെ വിദ്യാർത്ഥികൾ",
+    "graded": "ഗ്രേഡ് ചെയ്തു",
+    "notGraded": "ഗ്രേഡ് ചെയ്തിട്ടില്ല",
+    "openGrading": "ഗ്രേഡിംഗ് തുറക്കുക"
   }
 }

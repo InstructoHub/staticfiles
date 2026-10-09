@@ -55,7 +55,9 @@
       "createdAtHeader": "তৈরি হয়েছে",
       "actionsHeader": "ক্রিয়াকলাপ",
       "noModulesFound": "কোন মডিউল পাওয়া যায়নি",
-      "moduleTypeHeader": "মডিউল টাইপ"
+      "moduleTypeHeader": "মডিউল টাইপ",
+      "applicableRolesHeader": "প্রযোজ্য রোল",
+      "allRoles": "কোনো রোল সেট করা নেই (সব রোল)"
     },
     "form": {
       "moduleNameLabel": "মডিউল নাম *",
@@ -77,7 +79,13 @@
       },
       "createButton": "মডিউল তৈরি করুন",
       "creatingButton": "তৈরি হচ্ছে...",
-      "editTitle": "মডিউল সম্পাদনা করুন"
+      "editTitle": "মডিউল সম্পাদনা করুন",
+      "applicableRolesLabel": "প্রযোজ্য রোল",
+      "applicableRolesNoneSelected": "কোনো রোল সেট করা নেই — সব রোলে প্রযোজ্য",
+      "applicableRolesSelected": "{{count}}টি রোল নির্বাচিত",
+      "applicableRolesSelected_plural": "{{count}}টি রোল নির্বাচিত",
+      "applicableRolesHint": "ফাঁকা রাখুন (কোনো ভূমিকা সেট নয়) যাতে এই মডিউল সব ভূমিকায় প্রযোজ্য হয়।",
+      "applicableRolesEmpty": "কোনো ভূমিকা উপলব্ধ নেই।"
     },
     "deleteModal": {
       "title": "মুছে ফেলার নিশ্চিতকরণ",

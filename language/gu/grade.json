@@ -96,8 +96,12 @@
         "emerging": "શરૂઆતની સ્થિતિ",
         "developing": "વિકસતી",
         "onTrack": "સાચા માર્ગ પર",
-        "strong": "મજબૂત"
-      }
+        "strong": "મજબૂત",
+        "aboveRange": "સરેરાશથી ઉપર",
+        "onTarget": "સરેરાશ",
+        "belowRange": "સરેરાશથી નીચે"
+      },
+      "metricBandsHint": "દરેક ટેસ્ટ માટે અપેક્ષિત માપ રેન્જની સરખામણીમાં"
     }
   },
   "teacher": {

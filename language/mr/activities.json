@@ -178,13 +178,20 @@
       "start": "सुरू करा",
       "stop": "थांबा",
       "reset": "रीसेट",
-      "saveResults": "रिझल्ट्स Save करा",
-      "saved": "Saved",
       "clearAll": "सगळे रिझल्ट्स साफ करा",
       "allRecorded": "सगळ्या चाचण्या नोंदवल्या",
       "testsLeft": "या विद्यार्थ्यासाठी {{count}} चाचण्या बाकी आहेत",
       "expected": "अपेक्षित {{min}}–{{max}} {{unit}}",
-      "completeAll": "Save करण्याआधी सगळ्या चाचण्या नोंदवा."
+      "completeAll": "Save करण्याआधी सगळ्या चाचण्या नोंदवा.",
+      "gradedLocked": "हा विद्यार्थी आधीच ग्रेड झाला आहे. निकाल बदलू शकत नाहीत.",
+      "maxTarget": "मर्यादा {{max}} {{unit}}",
+      "goalTarget": "लक्ष्य {{max}} {{unit}}",
+      "limitHint": "{{max}} {{unit}} पेक्षा कमी किंवा तितकेच ठेवा",
+      "goalHint": "{{min}}–{{max}} {{unit}} चे लक्ष्य ठेवा",
+      "viewReport": "रिपोर्ट",
+      "backToGrading": "ग्रेडिंगकडे परत जा",
+      "saveResults": "सेव्ह रिझल्ट्स",
+      "saved": "सेव्ह केले"
     }
   },
   "quizzes": {

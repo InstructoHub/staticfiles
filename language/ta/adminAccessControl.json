@@ -55,7 +55,9 @@
       "actionsHeader": "செயல்கள்",
       "noModulesFound": "மாடுல்கள் கிடைக்கவில்லை.",
       "slNoHeader": "வரிசை எண்",
-      "moduleTypeHeader": "மொட்யூல் வகை"
+      "moduleTypeHeader": "மொட்யூல் வகை",
+      "applicableRolesHeader": "பொருந்தும் பங்கு",
+      "allRoles": "பங்கு எதுவும் இல்லை (அனைத்து பங்குகளும்)"
     },
     "form": {
       "moduleNameLabel": "மாடுல் பெயர் *",
@@ -77,7 +79,13 @@
       },
       "createButton": "மொட்யூல் உருவாக்கு",
       "creatingButton": "உருவாக்கப்படுகிறது...",
-      "editTitle": "மொட்யூலை திருத்து"
+      "editTitle": "மொட்யூலை திருத்து",
+      "applicableRolesLabel": "பொருந்தும் பங்கு",
+      "applicableRolesHint": "வெற்றாக விடுங்கள் (பங்கு எதுவும் இல்லை) இந்த தொகுதியை அனைத்து பங்குகளுக்கும் பொருத்த.",
+      "applicableRolesEmpty": "கிடைக்கக்கூடிய பங்குகள் இல்லை.",
+      "applicableRolesNoneSelected": "பங்கு எதுவும் இல்லை — அனைத்து பங்குகளுக்கும் பொருந்தும்",
+      "applicableRolesSelected": "{{count}} பங்கு தேர்ந்தெடுக்கப்பட்டது",
+      "applicableRolesSelected_plural": "{{count}} பங்குகள் தேர்ந்தெடுக்கப்பட்டது"
     },
     "deleteModal": {
       "title": "அழிக்க உறுதிப்படுத்தவும்",

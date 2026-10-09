@@ -894,5 +894,42 @@
     "status": {
       "new": "new"
     }
+  },
+  "physicalAssessment": {
+    "title": "Physical Assessment",
+    "totalStudents": "Total students",
+    "graded": "Graded",
+    "notGraded": "Not graded",
+    "openGrading": "Open grading"
+  },
+  "myAssessmentReport": {
+    "title": "My Assessment Report",
+    "viewFullReport": "View full report",
+    "empty": "No assessment results yet.",
+    "loadError": "Failed to load assessment report.",
+    "backToDashboard": "Back to dashboard",
+    "aboveAverage": "Above average",
+    "average": "Average",
+    "belowAverage": "Below average",
+    "feedback": "FEEDBACK",
+    "readiness": "Readiness",
+    "readinessStrong": "Strong form",
+    "readinessBuilding": "Building form",
+    "readinessFocus": "Needs practice",
+    "readinessStrongHint": "You’re moving with confidence across most skills.",
+    "readinessBuildingHint": "Solid base — a few skills will unlock the next level.",
+    "readinessFocusHint": "Focus sessions on the weak skills will move this score fast.",
+    "nextChallenge": "Area of focus",
+    "skillMap": "Skill map",
+    "skillMapHint": "Outer edge = closer to goal / farther under the time limit",
+    "bandMix": "Band mix",
+    "topSkill": "Top skill",
+    "skillBreakdown": "Skill breakdown",
+    "rankedWeakToStrong": "Ranked weak → strong",
+    "limitOf": "limit {{max}} {{unit}}",
+    "goalOf": "goal {{max}} {{unit}}",
+    "downloadPdf": "Download PDF",
+    "downloadingPdf": "Downloading...",
+    "pdfError": "Failed to download PDF."
   }
 }

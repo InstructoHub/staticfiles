@@ -890,5 +890,42 @@
     "status": {
       "new": "ಹೊಸದು"
     }
+  },
+  "myAssessmentReport": {
+    "feedback": "FEEDBACK",
+    "title": "ನನ್ನ ಮೌಲ್ಯಮಾಪನ ವರದಿ",
+    "viewFullReport": "ಪೂರ್ಣ ವರದಿ ನೋಡಿ",
+    "empty": "ಇನ್ನೂ ಯಾವುದೇ ಮೌಲ್ಯಮಾಪನ ಫಲಿತಾಂಶಗಳು ಇಲ್ಲ.",
+    "loadError": "ಮೌಲ್ಯಮಾಪನ ವರದಿ ಲೋಡ್ ಮಾಡಲು ಆಗಲಿಲ್ಲ.",
+    "backToDashboard": "ಡ್ಯಾಶ್‌ಬೋರ್ಡ್‌ಗೆ ಹಿಂತಿರುಗಿ",
+    "aboveAverage": "ಸರಾಸರಿಗಿಂತ ಮೇಲೆ",
+    "average": "ಸರಾಸರಿ",
+    "belowAverage": "ಸರಾಸರಿಗಿಂತ ಕೆಳಗೆ",
+    "readiness": "ಸಿದ್ಧತೆ",
+    "readinessStrong": "ಬಲವಾದ ರೂಪ",
+    "readinessBuilding": "ಬೆಳೆಯುತ್ತಿರುವ ರೂಪ",
+    "readinessFocus": "ಅಭ್ಯಾಸ ಬೇಕು",
+    "readinessStrongHint": "ನೀವು ಹೆಚ್ಚಿನ ಕೌಶಲ್ಯಗಳಲ್ಲಿ ಆತ್ಮವಿಶ್ವಾಸದಿಂದ ಮುಂದೆ ಸಾಗುತ್ತಿದ್ದೀರಿ.",
+    "readinessBuildingHint": "ಒಳ್ಳೆಯ ನೆಲೆ ಇದೆ — ಇನ್ನೂ ಕೆಲವು ಕೌಶಲ್ಯಗಳು ಮುಂದಿನ ಹಂತವನ್ನು ತೆರೆಯುತ್ತವೆ.",
+    "readinessFocusHint": "ದುರ್ಬಲ ಕೌಶಲ್ಯಗಳ ಮೇಲೆ ಗಮನಿಸಿದ ಸೆಷನ್‌ಗಳು ಈ ಅಂಕವನ್ನು ಬೇಗ ಹೆಚ್ಚಿಸುತ್ತವೆ.",
+    "nextChallenge": "ಗಮನದ ಪ್ರದೇಶ",
+    "skillMap": "ಕೌಶಲ್ಯ ನಕ್ಷೆ",
+    "skillMapHint": "ಹೊರ ಅಂಚು = ಗುರಿಗೆ ಹತ್ತಿರ / ಸಮಯ ಮಿತಿಯಲ್ಲಿ ಇನ್ನೂ ದೂರ",
+    "bandMix": "ಬ್ಯಾಂಡ್ ಮಿಶ್ರಣ",
+    "topSkill": "ಅತ್ಯುತ್ತಮ ಕೌಶಲ್ಯ",
+    "skillBreakdown": "ಕೌಶಲ್ಯ ವಿವರ",
+    "rankedWeakToStrong": "ದುರ್ಬಲದಿಂದ ಬಲವಾದದತ್ತ ಕ್ರಮಿಸಿದ",
+    "limitOf": "ಮಿತಿ {{max}} {{unit}}",
+    "goalOf": "ಗುರಿ {{max}} {{unit}}",
+    "downloadPdf": "PDF ಡೌನ್‌ಲೋಡ್ ಮಾಡಿ",
+    "downloadingPdf": "ಡೌನ್‌ಲೋಡ್ ಆಗುತ್ತಿದೆ...",
+    "pdfError": "PDF ಡೌನ್‌ಲೋಡ್ ಮಾಡಲು ಆಗಲಿಲ್ಲ."
+  },
+  "physicalAssessment": {
+    "title": "ದೈಹಿಕ ಮೌಲ್ಯಮಾಪನ",
+    "totalStudents": "ಒಟ್ಟು ವಿದ್ಯಾರ್ಥಿಗಳು",
+    "graded": "ಅಂಕ ನೀಡಲಾಗಿದೆ",
+    "notGraded": "ಅಂಕ ನೀಡಿಲ್ಲ",
+    "openGrading": "ಅಂಕ ನೀಡಲು ತೆರೆಯಿರಿ"
   }
 }

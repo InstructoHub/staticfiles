@@ -184,7 +184,14 @@
       "allRecorded": "সব টেস্ট রেকর্ড হয়েছে",
       "testsLeft": "এই ছাত্রের জন্য {{count}}টি পরীক্ষা বাকি",
       "expected": "প্রত্যাশিত {{min}}–{{max}} {{unit}}",
-      "completeAll": "সংরক্ষণ করার আগে সব টেস্ট রেকর্ড করুন।"
+      "completeAll": "সংরক্ষণ করার আগে সব টেস্ট রেকর্ড করুন।",
+      "maxTarget": "সীমা {{max}} {{unit}}",
+      "goalTarget": "লক্ষ্য {{max}} {{unit}}",
+      "limitHint": "{{max}} {{unit}}-এর মধ্যে বা কমে থাকুন",
+      "goalHint": "{{min}}–{{max}} {{unit}}-এর মধ্যে লক্ষ্য রাখুন",
+      "viewReport": "রিপোর্ট",
+      "backToGrading": "গ্রেডিংয়ে ফিরে যান",
+      "gradedLocked": "এই শিক্ষার্থী ইতিমধ্যে গ্রেডেড হয়েছে। ফলাফল পরিবর্তন করা যাবে না।"
     }
   },
   "quizzes": {

@@ -890,5 +890,42 @@
     "status": {
       "new": "కొత్తది"
     }
+  },
+  "myAssessmentReport": {
+    "feedback": "FEEDBACK",
+    "title": "నా అంచనా నివేదిక",
+    "viewFullReport": "పూర్తి నివేదిక చూడండి",
+    "empty": "ఇంకా అంచనా ఫలితాలు లేవు.",
+    "loadError": "అంచనా నివేదిక లోడ్ చేయడం సాధ్యపడలేదు.",
+    "backToDashboard": "డ్యాష్‌బోర్డ్‌కు తిరిగి వెళ్లండి",
+    "aboveAverage": "సగటు కంటే ఎక్కువ",
+    "average": "సగటు",
+    "belowAverage": "సగటు కంటే తక్కువ",
+    "readiness": "సిద్ధత",
+    "readinessStrong": "బలమైన స్థితి",
+    "readinessBuilding": "పెరుగుతున్న స్థితి",
+    "readinessFocus": "అభ్యాసం కావాలి",
+    "readinessStrongHint": "మీరు చాలా నైపుణ్యాల్లో ధైర్యంగా ముందుకు సాగుతున్నారు.",
+    "readinessBuildingHint": "గట్టి పునాది ఉంది — ఇంకొన్ని నైపుణ్యాలు తర్వాతి స్థాయిని తెరుస్తాయి.",
+    "readinessFocusHint": "బలహీన నైపుణ్యాలపై కేంద్రీకరించిన సెషన్లు ఈ స్కోరు వేగంగా పెంచుతాయి.",
+    "nextChallenge": "దృష్టి పెట్టాల్సిన ప్రాంతం",
+    "skillMap": "నైపుణ్య పటం",
+    "skillMapHint": "బయటి అంచు = లక్ష్యానికి మరింత దగ్గర / సమయ పరిమితికి కింద",
+    "bandMix": "బ్యాండ్ మిశ్రమం",
+    "topSkill": "ఉత్తమ నైపుణ్యం",
+    "skillBreakdown": "నైపుణ్య విభజన",
+    "rankedWeakToStrong": "బలహీన → బలమైన క్రమం",
+    "limitOf": "పరిమితి {{max}} {{unit}}",
+    "goalOf": "లక్ష్యం {{max}} {{unit}}",
+    "downloadPdf": "PDF డౌన్‌లోడ్ చేయండి",
+    "downloadingPdf": "డౌన్‌లోడ్ అవుతోంది...",
+    "pdfError": "PDF డౌన్‌లోడ్ చేయడంలో విఫలమైంది."
+  },
+  "physicalAssessment": {
+    "title": "భౌతిక అంచనా",
+    "totalStudents": "మొత్తం విద్యార్థులు",
+    "graded": "మూల్యాంకనం జరిగింది",
+    "notGraded": "మూల్యాంకనం కాలేదు",
+    "openGrading": "మూల్యాంకనం తెరవండి"
   }
 }

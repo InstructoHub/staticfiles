@@ -96,8 +96,12 @@
         "emerging": "Emerging",
         "developing": "Developing",
         "onTrack": "On track",
-        "strong": "Strong"
-      }
+        "strong": "Strong",
+        "aboveRange": "Above average",
+        "onTarget": "Average",
+        "belowRange": "Below average"
+      },
+      "metricBandsHint": "Compared to the expected measurement range for each test"
     }
   },
   "teacher": {

@@ -890,5 +890,42 @@
     "status": {
       "new": "புதியது"
     }
+  },
+  "myAssessmentReport": {
+    "feedback": "FEEDBACK",
+    "title": "என் மதிப்பீட்டு அறிக்கை",
+    "viewFullReport": "முழு அறிக்கையைப் பார்க்க",
+    "empty": "இன்னும் மதிப்பீட்டு முடிவுகள் இல்லை.",
+    "loadError": "மதிப்பீட்டு அறிக்கையை ஏற்ற முடியவில்லை.",
+    "backToDashboard": "டாஷ்போர்டுக்கு திரும்பு",
+    "aboveAverage": "சராசரிக்கு மேல்",
+    "average": "சராசரி",
+    "belowAverage": "சராசரிக்கு கீழ்",
+    "readiness": "தயார்நிலை",
+    "readinessStrong": "வலுவான நிலை",
+    "readinessBuilding": "மேம்படும் நிலை",
+    "readinessFocus": "பயிற்சி தேவை",
+    "readinessStrongHint": "நீங்கள் பெரும்பாலான திறன்களில் நம்பிக்கையுடன் முன்னேறுகிறீர்கள்.",
+    "readinessBuildingHint": "நல்ல அடித்தளம் — சில திறன்கள் அடுத்த நிலையைத் திறக்கும்.",
+    "readinessFocusHint": "பலவீனமான திறன்களில் கவனம் செலுத்தினால் இந்த மதிப்பு விரைவில் உயரும்.",
+    "nextChallenge": "கவனம் செலுத்த வேண்டிய பகுதி",
+    "skillMap": "திறன் வரைபடம்",
+    "skillMapHint": "வெளிப்புற ஓரம் = இலக்குக்கு நெருக்கம் / நேர வரம்புக்குள் மேலும் தொலைவு",
+    "bandMix": "பிரிவு கலவை",
+    "topSkill": "சிறந்த திறன்",
+    "skillBreakdown": "திறன் விவரம்",
+    "rankedWeakToStrong": "பலவீனம் → வலிமை என தரவரிசை",
+    "limitOf": "வரம்பு {{max}} {{unit}}",
+    "goalOf": "இலக்கு {{max}} {{unit}}",
+    "downloadPdf": "PDF பதிவிறக்கு",
+    "downloadingPdf": "பதிவிறக்கப்படுகிறது...",
+    "pdfError": "PDF பதிவிறக்க முடியவில்லை."
+  },
+  "physicalAssessment": {
+    "title": "உடல் மதிப்பீடு",
+    "totalStudents": "மொத்த மாணவர்கள்",
+    "graded": "மதிப்பிடப்பட்டது",
+    "notGraded": "மதிப்பிடப்படவில்லை",
+    "openGrading": "மதிப்பீட்டைத் திற"
   }
 }

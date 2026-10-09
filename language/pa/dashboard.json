@@ -890,5 +890,42 @@
     "status": {
       "new": "ਨਵਾਂ"
     }
+  },
+  "myAssessmentReport": {
+    "feedback": "FEEDBACK",
+    "title": "ਮੇਰੀ ਮੁਲਾਂਕਣ ਰਿਪੋਰਟ",
+    "viewFullReport": "ਪੂਰੀ ਰਿਪੋਰਟ ਵੇਖੋ",
+    "empty": "ਹਾਲੇ ਕੋਈ ਅਸੈਸਮੈਂਟ ਨਤੀਜਾ ਨਹੀਂ ਹੈ।",
+    "backToDashboard": "ਡੈਸ਼ਬੋਰਡ ਤੇ ਵਾਪਸ ਜਾਓ",
+    "aboveAverage": "ਔਸਤ ਤੋਂ ਵੱਧ",
+    "average": "ਔਸਤ",
+    "belowAverage": "ਔਸਤ ਤੋਂ ਘੱਟ",
+    "readiness": "ਤਿਆਰੀ",
+    "readinessStrong": "ਮਜ਼ਬੂਤ ਫਾਰਮ",
+    "readinessBuilding": "ਬਣ ਰਹੀ ਫਾਰਮ",
+    "loadError": "ਅਸੈਸਮੈਂਟ ਰਿਪੋਰਟ ਲੋਡ ਕਰਨ ਵਿੱਚ ਫੇਲ੍ਹ ਰਿਹਾ।",
+    "readinessFocus": "ਅਭਿਆਸ ਦੀ ਲੋੜ ਹੈ",
+    "nextChallenge": "ਫੋਕਸ ਦਾ ਖੇਤਰ",
+    "skillMap": "ਹੁਨਰ ਨਕਸ਼ਾ",
+    "skillMapHint": "ਬਾਹਰੀ ਕਿਨਾਰਾ = ਲਕਸ਼ ਦੇ ਨੇੜੇ / ਸਮੇਂ ਦੀ ਹੱਦ ਤੋਂ ਦੂਰ",
+    "bandMix": "ਬੈਂਡ ਮਿਕਸ",
+    "readinessStrongHint": "ਤੁਸੀਂ ਜ਼ਿਆਦਾਤਰ ਹੁਨਰਾਂ ਵਿੱਚ ਆਤਮਵਿਸ਼ਵਾਸ ਨਾਲ ਅੱਗੇ ਵਧ ਰਹੇ ਹੋ।",
+    "readinessBuildingHint": "ਬੁਨਿਆਦ ਚੰਗੀ ਹੈ — ਕੁਝ ਹੁਨਰ ਤੁਹਾਨੂੰ ਅਗਲੇ ਪੱਧਰ ਤੱਕ ਪਹੁੰਚਾ ਦੇਣਗੇ।",
+    "readinessFocusHint": "ਕਮਜ਼ੋਰ ਹੁਨਰਾਂ 'ਤੇ ਧਿਆਨ ਵਾਲੇ ਸੈਸ਼ਨ ਕਰਨ ਨਾਲ ਇਹ ਸਕੋਰ ਜਲਦੀ ਵਧੇਗਾ।",
+    "topSkill": "ਸਭ ਤੋਂ ਵਧੀਆ ਹੁਨਰ",
+    "skillBreakdown": "ਹੁਨਰ ਵੰਡ",
+    "rankedWeakToStrong": "ਕਮਜ਼ੋਰ ਤੋਂ ਮਜ਼ਬੂਤ ਤੱਕ ਦਰਜਾ",
+    "limitOf": "ਸੀਮਾ {{max}} {{unit}}",
+    "goalOf": "ਟਾਰਗੇਟ {{max}} {{unit}}",
+    "downloadPdf": "PDF ਡਾਊਨਲੋਡ ਕਰੋ",
+    "downloadingPdf": "ਡਾਊਨਲੋਡ ਹੋ ਰਿਹਾ ਹੈ...",
+    "pdfError": "PDF ਡਾਊਨਲੋਡ ਕਰਨ ਵਿੱਚ ਦਿੱਕਤ ਆਈ."
+  },
+  "physicalAssessment": {
+    "title": "ਸਰੀਰਕ ਮੁਲਾਂਕਣ",
+    "totalStudents": "ਕੁੱਲ ਵਿਦਿਆਰਥੀ",
+    "graded": "ਅੰਕਿਤ",
+    "notGraded": "ਅੰਕਿਤ ਨਹੀਂ",
+    "openGrading": "ਅੰਕਨ ਖੋਲ੍ਹੋ"
   }
 }

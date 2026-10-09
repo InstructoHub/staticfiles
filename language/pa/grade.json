@@ -197,8 +197,12 @@
         "emerging": "ਸ਼ੁਰੂਆਤੀ",
         "developing": "ਵਿਕਸਤ ਹੋ ਰਿਹਾ",
         "onTrack": "ਸਹੀ ਰਾਹ 'ਤੇ",
-        "strong": "ਮਜ਼ਬੂਤ"
-      }
+        "strong": "ਮਜ਼ਬੂਤ",
+        "aboveRange": "ਔਸਤ ਤੋਂ ਉੱਪਰ",
+        "onTarget": "ਔਸਤ",
+        "belowRange": "ਔਸਤ ਤੋਂ ਹੇਠਾਂ"
+      },
+      "metricBandsHint": "ਹਰ ਟੈਸਟ ਲਈ ਉਮੀਦ ਕੀਤੀ ਮਾਪ ਸੀਮਾ ਨਾਲ ਤੁਲਨਾ ਕੀਤੀ ਗਈ"
     }
   }
 }

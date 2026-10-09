@@ -175,16 +175,23 @@
       "belowRange": "ಶ್ರೇಣಿಗಿಂತ ಕಡಿಮೆ",
       "notSet": "ಹೊಂದಿಸಿಲ್ಲ",
       "stopwatch": "ಸ್ಟಾಪ್‌ವಾಚ್",
-      "start": "Start",
-      "stop": "Stop",
+      "start": "ಪ್ರಾರಂಭಿಸಿ",
+      "stop": "ನಿಲ್ಲಿಸಿ",
       "reset": "ಮರುಹೊಂದಿಸಿ",
       "saveResults": "ಫಲಿತಾಂಶಗಳನ್ನು Save ಮಾಡಿ",
-      "saved": "Saved",
+      "saved": "ಉಳಿಸಲಾಗಿದೆ",
       "clearAll": "ಎಲ್ಲ ಫಲಿತಾಂಶಗಳನ್ನು ತೆರವುಗೊಳಿಸಿ",
       "allRecorded": "ಎಲ್ಲಾ ಪರೀಕ್ಷೆಗಳು ದಾಖಲಾಗಿವೆ",
       "testsLeft": "ಈ ವಿದ್ಯಾರ್ಥಿಗೆ ಇನ್ನೂ {{count}} ಪರೀಕ್ಷೆಗಳು ಉಳಿದಿವೆ",
       "expected": "ನಿರೀಕ್ಷಿತ {{min}}–{{max}} {{unit}}",
-      "completeAll": "Save ಮಾಡುವ ಮೊದಲು ಎಲ್ಲ ಪರೀಕ್ಷೆಗಳನ್ನೂ ದಾಖಲಿಸಿ."
+      "completeAll": "Save ಮಾಡುವ ಮೊದಲು ಎಲ್ಲ ಪರೀಕ್ಷೆಗಳನ್ನೂ ದಾಖಲಿಸಿ.",
+      "gradedLocked": "ಈ ವಿದ್ಯಾರ್ಥಿಗೆ ಈಗಾಗಲೇ ಗ್ರೇಡ್ ನೀಡಲಾಗಿದೆ. ಫಲಿತಾಂಶಗಳನ್ನು ಬದಲಾಯಿಸಲು ಸಾಧ್ಯವಿಲ್ಲ.",
+      "maxTarget": "ಮಿತಿ {{max}} {{unit}}",
+      "goalTarget": "ಗುರಿ {{max}} {{unit}}",
+      "limitHint": "{{max}} {{unit}} ಅಥವಾ ಅದಕ್ಕಿಂತ ಕಡಿಮೆಯಾಗಿ ಇರಿ",
+      "goalHint": "{{min}}–{{max}} {{unit}} ಗುರಿ ಇಡಿ",
+      "viewReport": "ವರದಿ",
+      "backToGrading": "ಗ್ರೇಡಿಂಗ್‌ಗೆ ಹಿಂತಿರುಗಿ"
     }
   },
   "quizzes": {

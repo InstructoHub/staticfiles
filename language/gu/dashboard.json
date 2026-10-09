@@ -890,5 +890,42 @@
     "status": {
       "new": "નવું"
     }
+  },
+  "myAssessmentReport": {
+    "feedback": "FEEDBACK",
+    "title": "મારો મૂલ્યાંકન અહેવાલ",
+    "viewFullReport": "સંપૂર્ણ અહેવાલ જુઓ",
+    "empty": "હજી સુધી કોઈ મૂલ્યાંકન પરિણામ નથી.",
+    "loadError": "મૂલ્યાંકન અહેવાલ લોડ કરવામાં નિષ્ફળ.",
+    "backToDashboard": "ડેશબોર્ડ પર પાછા જાઓ",
+    "aboveAverage": "સરેરાશથી ઉપર",
+    "average": "સરેરાશ",
+    "belowAverage": "સરેરાશથી નીચે",
+    "readiness": "તૈયારી",
+    "readinessStrong": "મજબૂત સ્વરૂપ",
+    "readinessBuilding": "વિકસતું સ્વરૂપ",
+    "readinessFocus": "અભ્યાસની જરૂર",
+    "readinessStrongHint": "તમે મોટાભાગની કુશળતાઓમાં આત્મવિશ્વાસ સાથે આગળ વધી રહ્યા છો.",
+    "readinessBuildingHint": "મજબૂત આધાર — થોડા કૌશલ્ય તમને આગળના સ્તર સુધી લઈ જશે.",
+    "readinessFocusHint": "નબળા કૌશલ્યો પર ધ્યાન આપવાથી આ સ્કોર ઝડપથી વધશે.",
+    "nextChallenge": "ધ્યાન આપવાનો વિસ્તાર",
+    "skillMap": "કૌશલ્ય નકશો",
+    "skillMapHint": "બહારનો કિનારો = લક્ષ્યની વધુ નજીક / સમય મર્યાદાથી વધુ દૂર",
+    "bandMix": "બૅન્ડ મિશ્રણ",
+    "topSkill": "ટોપ કૌશલ્ય",
+    "skillBreakdown": "કૌશલ્ય વિભાજન",
+    "rankedWeakToStrong": "ક્રમબદ્ધ નબળું → મજબૂત",
+    "limitOf": "મર્યાદા {{max}} {{unit}}",
+    "goalOf": "લક્ષ્ય {{max}} {{unit}}",
+    "downloadPdf": "PDF ડાઉનલોડ કરો",
+    "downloadingPdf": "ડાઉનલોડ થઈ રહ્યું છે...",
+    "pdfError": "PDF ડાઉનલોડ કરવામાં નિષ્ફળ થયું."
+  },
+  "physicalAssessment": {
+    "title": "શારીરિક મૂલ્યાંકન",
+    "totalStudents": "કુલ વિદ્યાર્થીઓ",
+    "graded": "મૂલ્યાંકિત",
+    "notGraded": "મૂલ્યાંકિત નથી",
+    "openGrading": "મૂલ્યાંકન ખોલો"
   }
 }

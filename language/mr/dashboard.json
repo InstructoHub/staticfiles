@@ -894,5 +894,42 @@
     "status": {
       "new": "नवीन"
     }
+  },
+  "myAssessmentReport": {
+    "feedback": "FEEDBACK",
+    "title": "माझा मूल्यमापन अहवाल",
+    "viewFullReport": "पूर्ण अहवाल पहा",
+    "empty": "अजून कोणतेही मूल्यमापन निकाल नाहीत.",
+    "loadError": "मूल्यमापन अहवाल लोड करता आला नाही.",
+    "backToDashboard": "डॅशबोर्डवर परत जा",
+    "aboveAverage": "सरासरीपेक्षा जास्त",
+    "average": "सरासरी",
+    "belowAverage": "सरासरीपेक्षा कमी",
+    "readiness": "तयारी",
+    "readinessStrong": "मजबूत फॉर्म",
+    "readinessBuilding": "तयार होत आहे",
+    "readinessFocus": "सरावाची गरज",
+    "readinessStrongHint": "तुम्ही बहुतेक कौशल्यांमध्ये आत्मविश्वासाने पुढे जात आहात.",
+    "readinessBuildingHint": "चांगला बेस आहे — काही कौशल्ये पुढची लेव्हल उघडतील.",
+    "readinessFocusHint": "कमकुवत कौशल्यांवर लक्ष दिले तर हा स्कोअर पटकन वाढेल.",
+    "nextChallenge": "लक्ष्याचा भाग",
+    "skillMap": "कौशल्य नकाशा",
+    "skillMapHint": "बाहेरील कडा = लक्ष्याच्या जवळ / वेळेच्या मर्यादेपेक्षा दूर",
+    "bandMix": "बँड मिक्स",
+    "topSkill": "सर्वोत्तम कौशल्य",
+    "skillBreakdown": "कौशल्य तपशील",
+    "rankedWeakToStrong": "कमकुवत → मजबूत क्रमवारी",
+    "limitOf": "मर्यादा {{max}} {{unit}}",
+    "goalOf": "लक्ष्य {{max}} {{unit}}",
+    "downloadPdf": "PDF डाउनलोड करा",
+    "downloadingPdf": "डाउनलोड होत आहे...",
+    "pdfError": "PDF डाउनलोड करण्यात अयशस्वी."
+  },
+  "physicalAssessment": {
+    "title": "शारीरिक मूल्यमापन",
+    "totalStudents": "एकूण विद्यार्थी",
+    "graded": "मूल्यांकन झाले",
+    "notGraded": "मूल्यांकन झाले नाही",
+    "openGrading": "मूल्यांकन उघडा"
   }
 }

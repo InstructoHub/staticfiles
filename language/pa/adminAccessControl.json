@@ -55,7 +55,9 @@
       "actionsHeader": "ਐਕਸ਼ਨਸ",
       "noModulesFound": "ਕੋਈ ਮੋਡੀਊਲ ਨਹੀਂ ਮਿਲਿਆ",
       "slNoHeader": "ਕ੍ਰਮ ਨੰ.",
-      "moduleTypeHeader": "ਮੋਡਿਊਲ ਕਿਸਮ"
+      "moduleTypeHeader": "ਮੋਡਿਊਲ ਕਿਸਮ",
+      "applicableRolesHeader": "ਲਾਗੂ ਹੋਣ ਵਾਲੀਆਂ ਭੂਮਿਕਾਵਾਂ",
+      "allRoles": "ਕੋਈ ਭੂਮਿਕਾ ਸੈੱਟ ਨਹੀਂ (ਸਾਰੀਆਂ ਭੂਮਿਕਾਵਾਂ)"
     },
     "form": {
       "moduleNameLabel": "ਮੋਡੀਊਲ ਦਾ ਨਾਮ *",
@@ -77,7 +79,13 @@
       },
       "createButton": "ਮੋਡਿਊਲ ਬਣਾਓ",
       "creatingButton": "ਬਣਾਇਆ ਜਾ ਰਿਹਾ ਹੈ...",
-      "editTitle": "ਮੋਡਿਊਲ ਸੋਧੋ"
+      "editTitle": "ਮੋਡਿਊਲ ਸੋਧੋ",
+      "applicableRolesLabel": "ਲਾਗੂ ਹੋਣ ਵਾਲੀਆਂ ਭੂਮਿਕਾਵਾਂ",
+      "applicableRolesNoneSelected": "ਕੋਈ ਭੂਮਿਕਾ ਸੈੱਟ ਨਹੀਂ — ਸਾਰੀਆਂ ਭੂਮਿਕਾਵਾਂ 'ਤੇ ਲਾਗੂ ਹੁੰਦਾ ਹੈ",
+      "applicableRolesSelected": "{{count}} ਭੂਮਿਕਾ ਚੁਣੀ ਗਈ",
+      "applicableRolesSelected_plural": "{{count}} ਭੂਮਿਕਾਵਾਂ ਚੁਣੀਆਂ ਗਈਆਂ",
+      "applicableRolesHint": "ਖਾਲੀ ਛੱਡੋ (ਕੋਈ ਭੂਮਿਕਾ ਸੈੱਟ ਨਹੀਂ) ਤਾਂ ਜੋ ਇਹ ਮੋਡਿਊਲ ਸਾਰੀਆਂ ਭੂਮਿਕਾਵਾਂ 'ਤੇ ਲਾਗੂ ਹੋ ਜਾਵੇ।",
+      "applicableRolesEmpty": "ਕੋਈ ਭੂਮਿਕਾ ਉਪਲਬਧ ਨਹੀਂ ਹੈ।"
     },
     "deleteModal": {
       "title": "ਡਿਲੀਟ ਕਰਨ ਦੀ ਪੁਸ਼ਟੀ",

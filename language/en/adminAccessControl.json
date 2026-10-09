@@ -53,9 +53,11 @@
       "moduleHeader": "Module",
       "descriptionHeader": "Description",
       "moduleTypeHeader": "Module Type",
+      "applicableRolesHeader": "Applicable roles",
       "createdAtHeader": "Created At",
       "actionsHeader": "Actions",
-      "noModulesFound": "No modules found."
+      "noModulesFound": "No modules found.",
+      "allRoles": "No roles set (all roles)"
     },
     "form": {
       "moduleNameLabel": "Module Name *",
@@ -64,6 +66,12 @@
       "moduleTypePlaceholder": "Select module type",
       "courseTypeLabel": "Course Page Area *",
       "courseTypePlaceholder": "Select course page area",
+      "applicableRolesLabel": "Applicable roles",
+      "applicableRolesHint": "Leave empty (no roles set) to apply this module to all roles.",
+      "applicableRolesEmpty": "No roles available.",
+      "applicableRolesNoneSelected": "No roles set — applies to all roles",
+      "applicableRolesSelected": "{{count}} role selected",
+      "applicableRolesSelected_plural": "{{count}} roles selected",
       "moduleTypes": {
         "adminMenu": "Admin Menu",
         "dashboard": "Dashboard",
