@@ -183,7 +183,9 @@
     "tryAgain": "पुन्हा ट्राय करा",
     "goHome": "होमला जा",
     "pageError": "पेज एरर",
-    "pageUnexpectedError": "या पेजवर अनपेक्षित एरर आली आहे."
+    "pageUnexpectedError": "या पेजवर अनपेक्षित एरर आली आहे.",
+    "authServiceUnavailableTitle": "सेवा उपलब्ध नाही",
+    "authServiceUnavailableMessage": "साइन-इन तपासणी पूर्ण झाली नाही. तुमचे कनेक्शन तपासा आणि पुन्हा प्रयत्न करा."
   },
   "ui": {
     "chatbot": "चॅटबॉट",

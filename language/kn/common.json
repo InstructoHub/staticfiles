@@ -183,7 +183,9 @@
     "tryAgain": "ಮತ್ತೆ ಪ್ರಯತ್ನಿಸಿ",
     "goHome": "ಮುಖಪುಟಕ್ಕೆ ಹೋಗಿ",
     "pageError": "ಪುಟ ದೋಷ",
-    "pageUnexpectedError": "ಈ ಪುಟದಲ್ಲಿ ಅನಿರೀಕ್ಷಿತ ದೋಷ ಉಂಟಾಗಿದೆ."
+    "pageUnexpectedError": "ಈ ಪುಟದಲ್ಲಿ ಅನಿರೀಕ್ಷಿತ ದೋಷ ಉಂಟಾಗಿದೆ.",
+    "authServiceUnavailableTitle": "ಸೇವೆಯನ್ನು ತಲುಪಲು ಆಗಲಿಲ್ಲ",
+    "authServiceUnavailableMessage": "ಸೈನ್-ಇನ್ ಪರಿಶೀಲನೆ ಪೂರ್ಣಗೊಳಿಸಲು ಆಗಲಿಲ್ಲ. ನಿಮ್ಮ ಸಂಪರ್ಕವನ್ನು ಚೆಕ್ ಮಾಡಿ ಮತ್ತೆ ಪ್ರಯತ್ನಿಸಿ."
   },
   "ui": {
     "chatbot": "ಚಾಟ್‌ಬಾಟ್",

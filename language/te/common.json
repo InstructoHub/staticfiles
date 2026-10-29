@@ -183,7 +183,9 @@
     "tryAgain": "మళ్లీ ప్రయత్నించండి",
     "goHome": "హోమ్‌కి వెళ్లండి",
     "pageError": "పేజ్ ఎర్రర్",
-    "pageUnexpectedError": "ఈ పేజీలో అంచనాలేని ఎర్రర్ ఎదురైంది."
+    "pageUnexpectedError": "ఈ పేజీలో అంచనాలేని ఎర్రర్ ఎదురైంది.",
+    "authServiceUnavailableTitle": "సేవను చేరుకోలేకపోయాం",
+    "authServiceUnavailableMessage": "సైన్-ఇన్ చెక్ పూర్తి కాలేదు. మీ కనెక్షన్ చూసి మళ్లీ ట్రై చేయండి."
   },
   "ui": {
     "chatbot": "చాట్‌బాట్",

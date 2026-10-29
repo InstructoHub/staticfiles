@@ -168,7 +168,9 @@
     "tryAgain": "ਫਿਰ ਕੋਸ਼ਿਸ਼ ਕਰੋ",
     "goHome": "ਹੋਮ 'ਤੇ ਜਾਓ",
     "pageError": "ਪੇਜ ਗਲਤੀ",
-    "pageUnexpectedError": "ਇਸ ਪੇਜ 'ਤੇ ਇੱਕ ਅਣਉਮੀਦ ਗਲਤੀ ਆਈ ਹੈ"
+    "pageUnexpectedError": "ਇਸ ਪੇਜ 'ਤੇ ਇੱਕ ਅਣਉਮੀਦ ਗਲਤੀ ਆਈ ਹੈ",
+    "authServiceUnavailableTitle": "ਸਰਵਿਸ ਤੱਕ ਪਹੁੰਚ ਨਹੀਂ ਹੋ ਰਹੀ",
+    "authServiceUnavailableMessage": "ਸਾਈਨ-ਇਨ ਚੈੱਕ ਪੂਰਾ ਨਹੀਂ ਹੋ ਸਕਿਆ। ਆਪਣਾ ਕਨੈਕਸ਼ਨ ਚੈੱਕ ਕਰੋ ਅਤੇ ਫਿਰ ਤੋਂ ਟ੍ਰਾਈ ਕਰੋ।"
   },
   "ui": {
     "chatbot": "ਚੈਟਬੋਟ",

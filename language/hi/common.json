@@ -183,7 +183,9 @@
     "tryAgain": "फिर से कोशिश करें",
     "goHome": "होम पर जाएं",
     "pageError": "पेज Error",
-    "pageUnexpectedError": "इस पेज पर एक अनपेक्षित error आया।"
+    "pageUnexpectedError": "इस पेज पर एक अनपेक्षित error आया।",
+    "authServiceUnavailableTitle": "सर्विस तक नहीं पहुंच पा रहे",
+    "authServiceUnavailableMessage": "साइन-इन चेक पूरा नहीं हो सका। अपना कनेक्शन चेक करें और फिर से ट्राई करें।"
   },
   "ui": {
     "chatbot": "चैटबॉट",

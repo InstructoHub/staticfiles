@@ -168,7 +168,9 @@
     "tryAgain": "ફરી પ્રયાસ કરો",
     "goHome": "હોમ પર જાઓ",
     "pageError": "પેજ ભૂલ",
-    "pageUnexpectedError": "આ પેજમાં અણધારી ભૂલ આવી છે."
+    "pageUnexpectedError": "આ પેજમાં અણધારી ભૂલ આવી છે.",
+    "authServiceUnavailableTitle": "સર્વિસ પહોંચી નથી",
+    "authServiceUnavailableMessage": "સાઇન-ઇન ચેક પૂરું કરી શકાયું નથી. તમારું કનેક્શન ચેક કરો અને ફરી પ્રયત્ન કરો."
   },
   "ui": {
     "chatbot": "ચેટબોટ",

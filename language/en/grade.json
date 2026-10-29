@@ -64,12 +64,7 @@
       "errorLoadingGrades": "Error Loading Grades",
       "noCourseSelected": "No Course Selected",
       "selectCourse": "Please select a course to view its grade information.",
-      "noGradableItems": "No Gradable Items Found",
-      "noGradableItemsDesc": "We successfully connected to Moodle and loaded the data for this course, but we didn't find any gradable activities (like Assignments or Quizzes) for your account.",
-      "whatToCheckNext": "What to check next:",
-      "checkCourseContent": "Course Content: Make sure the course in Moodle (ID: {{courseId}}) actually contains \"Assignment\" or \"Quiz\" activities.",
-      "checkEnrollment": "Enrollment: Verify that you are properly enrolled in this course.",
-      "tryDifferentCourse": "Different Course: Try viewing a different course to see if grades appear there."
+      "noGradableItems": "No Gradable Items Found in this course"
     },
     "rubricReport": {
       "back": "Back",
@@ -176,7 +171,7 @@
     "messages": {
       "loadingGradebook": "Loading Gradebook...",
       "errorLoadingGradebook": "Error Loading Gradebook",
-      "noGradableItems": "There are no gradable items (assignments or quizzes) in this course yet.",
+      "noGradableItems": "No Gradable Items Found in this course",
       "invalidGrade": "Please enter a valid grade between 0 and {{maxGrade}}.",
       "errorSavingGrade": "Error saving grade. Please try again."
     }

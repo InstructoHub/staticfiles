@@ -243,7 +243,9 @@
     "tryAgain": "Try Again",
     "goHome": "Go Home",
     "pageError": "Page Error",
-    "pageUnexpectedError": "This page encountered an unexpected error."
+    "pageUnexpectedError": "This page encountered an unexpected error.",
+    "authServiceUnavailableTitle": "Unable to reach the service",
+    "authServiceUnavailableMessage": "The sign-in check could not be completed. Check your connection and try again."
   },
   "ui": {
     "chatbot": "Chatbot",

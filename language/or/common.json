@@ -151,7 +151,9 @@
     "tryAgain": "ପୁଣି ଚେଷ୍ଟା କରନ୍ତୁ",
     "goHome": "ହୋମ୍‌କୁ ଯାଆନ୍ତୁ",
     "pageError": "ପେଜ୍ ତ୍ରୁଟି",
-    "pageUnexpectedError": "ଏହି ପେଜ୍‌ରେ ଏକ ଅପେକ୍ଷାକୃତ ନୁହେଁ ତ୍ରୁଟି ହୋଇଛି"
+    "pageUnexpectedError": "ଏହି ପେଜ୍‌ରେ ଏକ ଅପେକ୍ଷାକୃତ ନୁହେଁ ତ୍ରୁଟି ହୋଇଛି",
+    "authServiceUnavailableTitle": "ସେବା ସହ ଯୋଗାଯୋଗ ହେଉନାହିଁ",
+    "authServiceUnavailableMessage": "ସାଇନ୍-ଇନ୍ ଚେକ୍ ସମ୍ପୂର୍ଣ୍ଣ ହୋଇ ପାରିଲା ନାହିଁ। ଆପଣଙ୍କ କନେକ୍ସନ୍ ଚେକ୍ କରନ୍ତୁ ଏବଂ ପୁଣିଥରେ ଟ୍ରାଇ କରନ୍ତୁ।"
   },
   "tools": {
     "instructoGen": "Gen",

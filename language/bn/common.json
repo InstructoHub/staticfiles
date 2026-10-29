@@ -183,7 +183,9 @@
     "tryAgain": "আবার চেষ্টা করুন",
     "goHome": "হোমে যান",
     "pageError": "পেজের সমস্যা",
-    "pageUnexpectedError": "এই পেজে একটি অপ্রত্যাশিত সমস্যা হয়েছে"
+    "pageUnexpectedError": "এই পেজে একটি অপ্রত্যাশিত সমস্যা হয়েছে",
+    "authServiceUnavailableTitle": "সার্ভিসে পৌঁছানো যাচ্ছে না",
+    "authServiceUnavailableMessage": "সাইন-ইন পরীক্ষা সম্পূর্ণ করা যায়নি। আপনার সংযোগ পরীক্ষা করুন এবং আবার চেষ্টা করুন।"
   },
   "ui": {
     "chatbot": "চ্যাটবট",
