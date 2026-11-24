@@ -61,7 +61,10 @@
         "cityNumericOnly": "City सिर्फ numbers नहीं हो सकता",
         "countryInvalid": "कृपया एक वैध country चुनें",
         "usernameTaken": "यह Username पहले से लिया जा चुका है",
-        "emailTaken": "यह Email पहले से रजिस्टर है"
+        "emailTaken": "यह Email पहले से रजिस्टर है",
+        "mobileRequired": "मोबाइल जरूरी है",
+        "mobileInvalid": "एक वैलिड 10-अंकों का मोबाइल नंबर डालें",
+        "countrycodeRequired": "कंट्री कोड जरूरी है"
       },
       "dateNotInPast": "डेटा पास्ट में नहीं हो सकती",
       "startDateInPast": "स्टार्ट डेट पास्ट में नहीं हो सकती"

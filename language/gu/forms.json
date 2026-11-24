@@ -61,7 +61,10 @@
         "cityNumericOnly": "શહેરમાં ફક્ત અંકો હોઈ શકતા નથી",
         "countryInvalid": "કૃપા કરીને માન્ય દેશ પસંદ કરો",
         "usernameTaken": "આ યૂઝરનામ પહેલેથી જ લેવામાં આવ્યું છે",
-        "emailTaken": "આ ઈમેલ પહેલેથી જ નોંધાયેલ છે"
+        "emailTaken": "આ ઈમેલ પહેલેથી જ નોંધાયેલ છે",
+        "mobileRequired": "મોબાઇલ નંબર જરૂરી છે",
+        "mobileInvalid": "માન્ય ૧૦ અંકનો મોબાઇલ નંબર દાખલ કરો",
+        "countrycodeRequired": "દેશ કોડ જરૂરી છે"
       },
       "dateNotInPast": "તારીખ ભૂતકાળની ન હોઈ શકે",
       "startDateInPast": "શરૂઆતની તારીખ ભૂતકાળની ન હોઈ શકે"

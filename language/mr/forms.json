@@ -61,7 +61,10 @@
         "cityNumericOnly": "शहर फक्त अंकांनी बनलेले असू शकत नाही",
         "countryInvalid": "कृपया वैध देश निवडा",
         "usernameTaken": "हा यूजरनेम आधीच वापरात आहे",
-        "emailTaken": "हा ईमेल आधीच नोंदणीकृत आहे"
+        "emailTaken": "हा ईमेल आधीच नोंदणीकृत आहे",
+        "mobileRequired": "मोबाइल आवश्यक आहे",
+        "mobileInvalid": "कृपया वैध १० अंकी मोबाइल नंबर प्रविष्ट करा",
+        "countrycodeRequired": "देश कोड आवश्यक आहे"
       },
       "dateNotInPast": "Date मागच्या काळात असू शकत नाही",
       "startDateInPast": "Start date मागच्या काळात असू शकत नाही"

@@ -60,7 +60,9 @@
       "lastName": "ଶେଷ ନାମ",
       "city": "ସହର",
       "country": "ଦେଶ",
-      "password": "ପାସୱାର୍ଡ"
+      "password": "ପାସୱାର୍ଡ",
+      "mobile": "ମୋବାଇଲ୍",
+      "countrycode": "ଦେଶ କୋଡ୍"
     },
     "placeholders": {
       "password": "ପାସୱାର୍ଡ ଦିଅ",
@@ -72,7 +74,9 @@
       "firstName": "ପ୍ରଥମ ନାମ ଦିଅ",
       "lastName": "ଶେଷ ନାମ ଦିଅ",
       "city": "ସହର ଦିଅ",
-      "country": "ଏକ ଦେଶ ବାଛନ୍ତୁ"
+      "country": "ଏକ ଦେଶ ବାଛନ୍ତୁ",
+      "mobile": "ମୋବାଇଲ୍ ନମ୍ବର ଦିଅନ୍ତୁ",
+      "countrycode": "ଦେଶ କୋଡ୍ ବାଛନ୍ତୁ"
     },
     "validation": {
       "usernameRequired": "ୟୁଜରନେମ ଆବଶ୍ୟକ",
@@ -100,7 +104,10 @@
       "cityMinLength": "ସହର ଅନ୍ତତଃ ୨ ଅକ୍ଷର ରହିବା ଦରକାର",
       "cityFormat": "ସହରରେ କେବଳ ଅକ୍ଷର, ଖାଳିସ୍ଥାନ, ହାଇଫେନ୍ (-), ଅପୋସ୍ଟ୍ରୋଫି ('), ଏବଂ ଡଟ୍ (.) ଥାଇପାରିବ",
       "cityNumericOnly": "ସହର କେବଳ ସଂଖ୍ୟା ଥିବା ନୁହେଁ",
-      "countryInvalid": "ଦୟାକରି ଏକ ବୈଧ ଦେଶ ଚୟନ କରନ୍ତୁ"
+      "countryInvalid": "ଦୟାକରି ଏକ ବୈଧ ଦେଶ ଚୟନ କରନ୍ତୁ",
+      "mobileRequired": "ମୋବାଇଲ୍ ଆବଶ୍ୟକ",
+      "mobileInvalid": "ଠିକ 10 ଅଙ୍କର ମୋବାଇଲ୍ ନମ୍ବର ଦିଅନ୍ତୁ",
+      "countrycodeRequired": "ଦେଶ କୋଡ୍ ଆବଶ୍ୟକ"
     },
     "passwordRequirements": "8+ ଅକ୍ଷର, 1 ଡିଜିଟ୍, 1 ଛୋଟ, 1 ବଡ, 1 ବିଶେଷ ଚିହ୍ନ",
     "passwordMode": {
@@ -143,7 +150,10 @@
       "deleteUser": "ଡିଲିଟ୍ ୟୁଜର୍",
       "removeAdminRole": "ଏଡମିନ୍ ଭୂମିକା ହଟାନ୍ତୁ",
       "cannotModifyMainAdmin": "ଏହି ମୁଖ୍ୟ ଅଡମିନ୍ ଖାତାକୁ ସଂଶୋଧିତ କରିପାରିବ ନାହିଁ",
-      "cannotDeleteSelf": "ଆପଣ ନିଜ ଖାତାକୁ ମିଟାଇ ପାରିବେ ନାହିଁ"
+      "cannotDeleteSelf": "ଆପଣ ନିଜ ଖାତାକୁ ମିଟାଇ ପାରିବେ ନାହିଁ",
+      "cannotEditAdmin": "ଆପଣ ଏକ ଆଡମିନ୍ ଆକାଉଣ୍ଟ ଏଡିଟ୍ କରିପାରିବେ ନାହିଁ",
+      "cannotDeleteAdmin": "ଆପଣ admin account କୁ delete କରିପାରିବେ ନାହିଁ",
+      "cannotModifyAdmin": "ଆପଣ admin account କୁ modify କରିପାରିବେ ନାହିଁ"
     }
   },
   "bulkUpload": {
@@ -289,7 +299,8 @@
       "emailAlreadyRegistered": "ଏହି ଇମେଲ୍ ପୂର୍ବରୁ ରେଜିଷ୍ଟର୍ ହୋଇଛି ଦୟାକରି ଏକ ଭିନ୍ନ ଇମେଲ୍ ବ୍ୟବହାର କରନ୍ତୁ",
       "unknownError": "ଅଜଣା ତ୍ରୁଟି",
       "cannotModifyMainAdmin": "ଏହି ମୁଖ୍ୟ ଆଡମିନ୍ ଆକାଉଣ୍ଟକୁ ସଂଶୋଧନ କରାଯାଇପାରିବ ନାହିଁ",
-      "cannotDeleteSelf": "ଆପଣ ନିଜ ଖାତାକୁ ଡିଲିଟ୍ କରିପାରିବେ ନାହିଁ"
+      "cannotDeleteSelf": "ଆପଣ ନିଜ ଖାତାକୁ ଡିଲିଟ୍ କରିପାରିବେ ନାହିଁ",
+      "cannotModifyAdmin": "ଆପଣ admin account କୁ modify କରିପାରିବେ ନାହିଁ"
     },
     "warning": {
       "selectUsersToDelete": "ଦୟାକରି ଡିଲିଟ୍ କରିବା ପାଇଁ ୟୁଜର୍ ବାଛନ୍ତୁ",

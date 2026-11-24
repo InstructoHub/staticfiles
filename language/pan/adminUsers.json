@@ -65,7 +65,9 @@
       "searchUsers": "ਨਾਮ, ਯੂਜ਼ਰ ਨੇਮ ਜਾਂ ਈਮੇਲ ਰਾਹੀਂ ਲੱਭੋ...",
       "searchAdminUsers": "ਐਡਮਿਨ ਯੂਜ਼ਰ ਲੱਭੋ...",
       "searchToAdd": "ਯੂਜ਼ਰ ਨੂੰ ਨਾਮ, ਯੂਜ਼ਰ ਨੇਮ ਜਾਂ ਈਮੇਲ ਨਾਲ ਲੱਭੋ...",
-      "uploadCsvFile": "CSV ਫਾਈਲ ਅਪਲੋਡ ਕਰੋ"
+      "uploadCsvFile": "CSV ਫਾਈਲ ਅਪਲੋਡ ਕਰੋ",
+      "mobile": "ਮੋਬਾਈਲ",
+      "countrycode": "ਦੇਸ਼ ਕੋਡ"
     },
     "placeholders": {
       "username": "ਯੂਜ਼ਰ ਨੇਮ ਦਰਜ ਕਰੋ",
@@ -77,7 +79,9 @@
       "password": "ਪਾਸਵਰਡ ਦਰਜ ਕਰੋ",
       "searchUsers": "ਨਾਮ, ਯੂਜ਼ਰ ਨੇਮ, ਈਮੇਲ ਨਾਲ ਲੱਭੋ...",
       "searchAdminUsers": "ਐਡਮਿਨ ਯੂਜ਼ਰ ਲੱਭੋ...",
-      "searchToAdd": "ਨਾਮ, ਯੂਜ਼ਰ ਨੇਮ ਜਾਂ ਈਮੇਲ ਨਾਲ ਲੱਭੋ..."
+      "searchToAdd": "ਨਾਮ, ਯੂਜ਼ਰ ਨੇਮ ਜਾਂ ਈਮੇਲ ਨਾਲ ਲੱਭੋ...",
+      "mobile": "ਮੋਬਾਈਲ ਨੰਬਰ ਦਰਜ ਕਰੋ",
+      "countrycode": "ਦੇਸ਼ ਕੋਡ ਚੁਣੋ"
     },
     "validation": {
       "usernameRequired": "ਯੂਜ਼ਰ ਨੇਮ ਲਾਜ਼ਮੀ ਹੈ",
@@ -105,7 +109,10 @@
       "cityMinLength": "ਸ਼ਹਿਰ ਘੱਟੋ-ਘੱਟ 2 ਅੱਖਰਾਂ ਦਾ ਹੋਣਾ ਚਾਹੀਦਾ ਹੈ",
       "cityFormat": "ਸ਼ਹਿਰ ਵਿੱਚ ਸਿਰਫ਼ ਅੱਖਰ, ਖਾਲੀ ਥਾਂ, ਹਾਈਫਨ (-), ਅਪੋਸਟਰੋਫ (') ਅਤੇ ਪੀਰੀਅਡ (.) ਹੋ ਸਕਦੇ ਹਨ",
       "cityNumericOnly": "ਸ਼ਹਿਰ ਸਿਰਫ਼ ਨੰਬਰਾਂ 'ਚੋਂ ਬਣਿਆ ਨਹੀਂ ਹੋ ਸਕਦਾ",
-      "countryInvalid": "ਕਿਰਪਾ ਕਰਕੇ ਇੱਕ ਵੈਧ ਦੇਸ਼ ਚੁਣੋ"
+      "countryInvalid": "ਕਿਰਪਾ ਕਰਕੇ ਇੱਕ ਵੈਧ ਦੇਸ਼ ਚੁਣੋ",
+      "mobileRequired": "ਮੋਬਾਈਲ ਲੋੜੀਂਦਾ ਹੈ",
+      "mobileInvalid": "ਵੈਧ 10 ਅੰਕਾਂ ਵਾਲਾ ਮੋਬਾਈਲ ਨੰਬਰ ਦਰਜ ਕਰੋ",
+      "countrycodeRequired": "ਦੇਸ਼ ਕੋਡ ਲੋੜੀਂਦਾ ਹੈ"
     },
     "passwordRequirements": "8+ ਅੱਖਰ, 1 ਨੰਬਰ, 1 ਛੋਟਾ ਅੱਖਰ, 1 ਵੱਡਾ ਅੱਖਰ, 1 ਸਪੈਸ਼ਲ ਅੱਖਰ",
     "passwordMode": {
@@ -148,7 +155,10 @@
       "deleteUser": "ਯੂਜ਼ਰ ਡਿਲੀਟ ਕਰੋ",
       "removeAdminRole": "ਐਡਮਿਨ ਰੋਲ ਹਟਾਓ",
       "cannotModifyMainAdmin": "ਇਸ ਮੁੱਖ ਐਡਮਿਨ ਖਾਤੇ ਨੂੰ ਸੋਧਿਆ ਨਹੀਂ ਜਾ ਸਕਦਾ",
-      "cannotDeleteSelf": "ਤੁਸੀਂ ਆਪਣਾ ਖਾਤਾ ਮਿਟਾ ਨਹੀਂ ਸਕਦੇ"
+      "cannotDeleteSelf": "ਤੁਸੀਂ ਆਪਣਾ ਖਾਤਾ ਮਿਟਾ ਨਹੀਂ ਸਕਦੇ",
+      "cannotEditAdmin": "ਤੁਸੀਂ ਐਡਮਿਨ ਅਕਾਉਂਟ ਸੋਧ ਨਹੀਂ ਸਕਦੇ",
+      "cannotDeleteAdmin": "ਤੁਸੀਂ ਐਡਮਿਨ ਅਕਾਊਂਟ ਡਿਲੀਟ ਨਹੀਂ ਕਰ ਸਕਦੇ",
+      "cannotModifyAdmin": "ਤੁਸੀਂ ਐਡਮਿਨ ਅਕਾਊਂਟ ਵਿੱਚ ਤਬਦੀਲੀ ਨਹੀਂ ਕਰ ਸਕਦੇ"
     }
   },
   "imageUpload": {
@@ -302,7 +312,8 @@
       "noResponseBulk": "ਬਲਕ ਅਪਲੋਡ API ਤੋਂ ਕੋਈ ਜਵਾਬ ਨਹੀਂ ਮਿਲਿਆ",
       "unknownError": "ਅਣਜਾਣ ਗਲਤੀ",
       "cannotModifyMainAdmin": "ਇਸ ਮੁੱਖ ਐਡਮਿਨ ਅਕਾਉਂਟ ਨੂੰ ਸੋਧਿਆ ਨਹੀਂ ਜਾ ਸਕਦਾ.",
-      "cannotDeleteSelf": "ਤੁਸੀਂ ਆਪਣਾ ਅਕਾਉਂਟ ਮਿਟਾ ਨਹੀਂ ਸਕਦੇ."
+      "cannotDeleteSelf": "ਤੁਸੀਂ ਆਪਣਾ ਅਕਾਉਂਟ ਮਿਟਾ ਨਹੀਂ ਸਕਦੇ.",
+      "cannotModifyAdmin": "ਤੁਸੀਂ ਐਡਮਿਨ ਅਕਾਊਂਟ ਵਿੱਚ ਤਬਦੀਲੀ ਨਹੀਂ ਕਰ ਸਕਦੇ"
     },
     "warning": {
       "selectUsersToDelete": "ਕਿਰਪਾ ਕਰਕੇ ਡਿਲੀਟ ਕਰਨ ਲਈ ਯੂਜ਼ਰ ਚੁਣੋ",

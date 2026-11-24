@@ -235,7 +235,10 @@
       "cityMinLength": "शहर किमान 2 अक्षरांचे असावे",
       "cityFormat": "शहर फक्त अक्षरे, रिकाम्या जागा, हायफन (-), अपॉस्ट्रॉफी (') आणि डॉट (.) असू शकते",
       "cityNumericOnly": "शहर फक्त नंबर असू शकत नाही",
-      "countryInvalid": "कृपया एक वैध देश निवडा"
+      "countryInvalid": "कृपया एक वैध देश निवडा",
+      "mobileRequired": "मोबाइल आवश्यक आहे",
+      "mobileInvalid": "वैध १०-अंकी मोबाइल क्रमांक टाका",
+      "countrycodeRequired": "देश कोड आवश्यक आहे"
     },
     "clearLocation": "काहीही नाही",
     "loadingProfile": "प्रोफाइल लोड करत आहे..."

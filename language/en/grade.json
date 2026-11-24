@@ -64,7 +64,9 @@
       "errorLoadingGrades": "Error Loading Grades",
       "noCourseSelected": "No Course Selected",
       "selectCourse": "Please select a course to view its grade information.",
-      "noGradableItems": "No Gradable Items Found in this course"
+      "noGradableItems": "No Gradable Items Found in this course",
+      "noGradableItemsDescription": "There are currently no assignments or quizzes set up for grading in this course. Once your instructor adds gradable activities, your progress and grades will appear here.",
+      "goToCourse": "Go to Course Outline"
     },
     "rubricReport": {
       "back": "Back",
@@ -97,6 +99,14 @@
         "belowRange": "Below average"
       },
       "metricBandsHint": "Compared to the expected measurement range for each test"
+    },
+    "features": {
+      "assignments": "Assignments & Quizzes",
+      "assignmentsDesc": "Submit assignments and take quizzes with instant score feedback.",
+      "progress": "Performance Tracking",
+      "progressDesc": "Monitor your cumulative progress, completion, and class averages.",
+      "rubrics": "Detailed Reports",
+      "rubricsDesc": "Review instructor feedback, rubric breakdown, and grading criteria."
     }
   },
   "teacher": {
@@ -173,7 +183,17 @@
       "errorLoadingGradebook": "Error Loading Gradebook",
       "noGradableItems": "No Gradable Items Found in this course",
       "invalidGrade": "Please enter a valid grade between 0 and {{maxGrade}}.",
-      "errorSavingGrade": "Error saving grade. Please try again."
+      "errorSavingGrade": "Error saving grade. Please try again.",
+      "noGradableItemsDescription": "Set up assignments or quizzes in your course modules to start grading student submissions, tracking performance, and generating automated reports.",
+      "goToCourse": "Go to Course Content"
+    },
+    "features": {
+      "autoGrading": "Gradable Activities",
+      "autoGradingDesc": "Add quizzes and assignments with rubrics or direct scoring criteria.",
+      "analytics": "Class Analytics",
+      "analyticsDesc": "View overview statistics, student completion rates, and averages.",
+      "reports": "Export & Rubrics",
+      "reportsDesc": "Grade student submissions with rubric evaluations and review exports."
     }
   },
   "status": {

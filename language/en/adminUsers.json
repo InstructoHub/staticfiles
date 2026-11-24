@@ -16,13 +16,11 @@
     "description": "Get started by creating first user.",
     "createButton": "Create User"
   },
-
   "navigation": {
     "createUser": "Create User",
     "addAdminUsers": "Add Admin Users",
     "backToUsers": "Back to Users"
   },
-
   "tabs": {
     "singleUser": "Create Single User",
     "bulkUpload": "Bulk Upload Users",
@@ -31,7 +29,6 @@
     "currentAdmins": "Current Admins ({{count}})",
     "currentAdminsNoCount": "Current Admins"
   },
-
   "buttons": {
     "selectAll": "Select All",
     "deselectAll": "Deselect All",
@@ -60,11 +57,12 @@
     "browseForCSV": "Browse for CSV",
     "tryAgain": "Try Again"
   },
-
   "form": {
     "labels": {
       "username": "Username",
       "email": "Email",
+      "mobile": "Mobile",
+      "countrycode": "Country code",
       "firstName": "First Name",
       "lastName": "Last Name",
       "city": "City",
@@ -79,6 +77,8 @@
     "placeholders": {
       "username": "Enter username",
       "email": "Enter email",
+      "mobile": "Enter mobile number",
+      "countrycode": "Select country code",
       "firstName": "Enter first name",
       "lastName": "Enter last name",
       "city": "Enter city",
@@ -96,6 +96,9 @@
       "emailRequired": "Email is required",
       "emailInvalid": "Invalid email format. Please check your input.",
       "emailMaxLength": "Email must not exceed 254 characters",
+      "mobileRequired": "Mobile is required",
+      "mobileInvalid": "Enter a valid 10-digit mobile number",
+      "countrycodeRequired": "Country code is required",
       "firstNameRequired": "First name is required",
       "firstNameMaxLength": "First name must not exceed 50 characters",
       "firstNameFormat": "First name can only contain letters, spaces, apostrophes, and hyphens",
@@ -116,8 +119,7 @@
       "usernameTaken": "This username is already taken",
       "emailTaken": "This email is already registered"
     },
-    "passwordRequirements": "8+ characters, 1 digit, 1 lowercase, 1 uppercase, 1 special character"
-    ,
+    "passwordRequirements": "8+ characters, 1 digit, 1 lowercase, 1 uppercase, 1 special character",
     "passwordMode": {
       "manual": {
         "title": "Set Password",
@@ -134,7 +136,6 @@
       "withLink": "with a link to set their password."
     }
   },
-
   "table": {
     "headers": {
       "serialNo": "S.No",
@@ -159,10 +160,12 @@
       "deleteUser": "Delete User",
       "removeAdminRole": "Remove admin role",
       "cannotModifyMainAdmin": "This main administrator account cannot be modified.",
-      "cannotDeleteSelf": "You cannot delete your own account."
+      "cannotDeleteSelf": "You cannot delete your own account.",
+      "cannotEditAdmin": "You cannot edit an admin account",
+      "cannotDeleteAdmin": "You cannot delete an admin account",
+      "cannotModifyAdmin": "You cannot modify an admin account"
     }
   },
-
   "imageUpload": {
     "dragAndDrop": "Drag and drop an image here",
     "or": "or",
@@ -171,7 +174,6 @@
     "uploadFailed": "Failed to upload profile picture.",
     "previewAlt": "Preview"
   },
-
   "bulkUpload": {
     "instructions": "Instructions",
     "step1": "1. Download the sample CSV file to see the required format.",
@@ -258,7 +260,6 @@
     "username": "Username",
     "sampleCsvFileName": "bulk_users_sample.csv"
   },
-
   "adminManagement": {
     "searchingUsers": "Searching users...",
     "noUsersFound": "No users found matching your search",
@@ -271,7 +272,6 @@
     "apiConfigIssue": "This might indicate an API configuration issue. Check the console for details.",
     "noAdminUsersMatch": "No admin users match your search"
   },
-
   "modals": {
     "deleteUser": {
       "title": "Delete User",
@@ -313,7 +313,6 @@
       }
     }
   },
-
   "messages": {
     "success": {
       "userCreated": "User created successfully",
@@ -347,9 +346,9 @@
       "invalidCsvFile": "Please select a valid .csv file.",
       "selectCsvToUpload": "Please select a CSV file to upload.",
       "uploadCsvNoId": "Failed to upload CSV file. No valid item ID received.",
-      "noResponseBulk": "No response received from bulk upload API."
-      ,
-      "unknownError": "Unknown error"
+      "noResponseBulk": "No response received from bulk upload API.",
+      "unknownError": "Unknown error",
+      "cannotModifyAdmin": "You cannot modify an admin account"
     },
     "warning": {
       "selectUsersToDelete": "Please select users to delete",
@@ -359,7 +358,6 @@
   "common": {
     "na": "N/A"
   },
-
   "status": {
     "loading": "Loading...",
     "creating": "Creating...",

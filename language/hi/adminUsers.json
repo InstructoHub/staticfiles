@@ -65,7 +65,9 @@
       "searchUsers": "नाम, यूज़रनेम, ईमेल से यूज़र्स सर्च करें...",
       "searchAdminUsers": "एडमिन यूज़र्स सर्च करें...",
       "searchToAdd": "नाम, यूज़रनेम, या ईमेल से यूज़र्स सर्च करें...",
-      "uploadCsvFile": "CSV फ़ाइल अपलोड करें"
+      "uploadCsvFile": "CSV फ़ाइल अपलोड करें",
+      "mobile": "मोबाइल",
+      "countrycode": "कंट्री कोड"
     },
     "placeholders": {
       "username": "यूज़रनेम एंटर करें",
@@ -77,7 +79,9 @@
       "password": "पासवर्ड एंटर करें",
       "searchUsers": "नाम, यूज़रनेम, ईमेल से यूज़र्स सर्च करें...",
       "searchAdminUsers": "एडमिन यूज़र्स सर्च करें...",
-      "searchToAdd": "नाम, यूज़रनेम, या ईमेल से यूज़र्स सर्च करें..."
+      "searchToAdd": "नाम, यूज़रनेम, या ईमेल से यूज़र्स सर्च करें...",
+      "mobile": "मोबाइल नंबर डालें",
+      "countrycode": "कंट्री कोड चुनें"
     },
     "validation": {
       "usernameRequired": "यूज़रनेम ज़रूरी है",
@@ -105,7 +109,10 @@
       "cityMinLength": "शहर कम से कम 2 अक्षरों का होना चाहिए",
       "cityFormat": "शहर में सिर्फ अक्षर, स्पेस, हाइफ़न (-), अपोस्ट्रॉफी ('), और डॉट (.) हो सकते हैं",
       "cityNumericOnly": "शहर सिर्फ नंबर नहीं हो सकता",
-      "countryInvalid": "कृपया एक वैध देश चुनें"
+      "countryInvalid": "कृपया एक वैध देश चुनें",
+      "mobileRequired": "मोबाइल जरूरी है",
+      "mobileInvalid": "एक वैलिड 10-अंकों का मोबाइल नंबर डालें",
+      "countrycodeRequired": "कंट्री कोड जरूरी है"
     },
     "passwordRequirements": "8+ कैरेक्टर्स, 1 डिजिट, 1 लोअरकेस, 1 अपरकेस, 1 स्पेशल कैरेक्टर",
     "passwordMode": {
@@ -148,7 +155,10 @@
       "deleteUser": "डिलीट यूज़र",
       "removeAdminRole": "एडमिन रोल रिमूव करें",
       "cannotModifyMainAdmin": "इस मुख्य एडमिन अकाउंट को बदला नहीं जा सकता।",
-      "cannotDeleteSelf": "आप अपना अकाउंट डिलीट नहीं कर सकते।"
+      "cannotDeleteSelf": "आप अपना अकाउंट डिलीट नहीं कर सकते।",
+      "cannotEditAdmin": "आप एडमिन अकाउंट एडिट नहीं कर सकते",
+      "cannotDeleteAdmin": "आप एडमिन अकाउंट डिलीट नहीं कर सकते",
+      "cannotModifyAdmin": "आप एडमिन अकाउंट मॉडिफाई नहीं कर सकते"
     }
   },
   "imageUpload": {
@@ -302,7 +312,8 @@
       "noResponseBulk": "बल्क अपलोड API से कोई रिस्पांस नहीं मिला।",
       "unknownError": "अनएक्सपेक्टेड एरर",
       "cannotModifyMainAdmin": "इस मुख्य एडमिन अकाउंट को बदला नहीं जा सकता।",
-      "cannotDeleteSelf": "आप अपना अकाउंट खुद डिलीट नहीं कर सकते।"
+      "cannotDeleteSelf": "आप अपना अकाउंट खुद डिलीट नहीं कर सकते।",
+      "cannotModifyAdmin": "आप एडमिन अकाउंट मॉडिफाई नहीं कर सकते"
     },
     "warning": {
       "selectUsersToDelete": "प्लीज डिलीट करने के लिए यूज़र्स सेलेक्ट करें",

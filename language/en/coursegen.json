@@ -67,7 +67,8 @@
     },
     "tooltips": {
       "moduleInfo": "You can create between 1 and 8 modules"
-    }
+    },
+    "promptHelp": "Customize or refine the guidance given to AI for generating your course module outline."
   },
   "defineStructure": {
     "quickTips": "Quick Tips",
