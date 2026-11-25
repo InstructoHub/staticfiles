@@ -127,6 +127,7 @@
     "lastName": "Nom de Famille",
     "email": "Adresse E-mail",
     "phone": "Numéro de Téléphone",
+    "mobile": "Mobile",
     "description": "Description",
     "profilePicture": "Photo de Profil",
     "timezone": "Fuseau Horaire",

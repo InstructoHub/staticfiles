@@ -137,6 +137,8 @@
       "user": "ইউজার",
       "username": "ইউজারনেম",
       "email": "ইমেইল",
+      "mobile": "মোবাইল",
+      "contact": "ইমেইল / মোবাইল",
       "location": "অবস্থান",
       "lastAccess": "শেষ অ্যাক্সেস",
       "actions": "অ্যাকশন",
@@ -222,6 +224,16 @@
         "label": "দেশ",
         "required": "False",
         "rules": "['ঐচ্ছিক', 'বৈধ ২-অক্ষরের country কোড হতে হবে (যেমন: US, GB, IN)']"
+      },
+      "mobile": {
+        "required": true,
+        "rules": [
+          "Required",
+          "Include country code digits + 10-digit mobile number (e.g. 919135311454)",
+          "Digits only — do not use + or spaces",
+          "Example India: 91 followed by 10-digit number"
+        ],
+        "label": "মোবাইল"
       }
     }
   },

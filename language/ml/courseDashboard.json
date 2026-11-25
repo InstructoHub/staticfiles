@@ -235,6 +235,7 @@
     "lastName": "അവസാനനാമം",
     "email": "ഇമെയിൽ വിലാസം",
     "phone": "ഫോൺ നമ്പർ",
+    "mobile": "മൊബൈൽ",
     "description": "വിവരണം",
     "clearLocation": "ഒന്നുമില്ല",
     "loadingProfile": "പ്രൊഫൈൽ ലോഡ് ചെയ്യുന്നു..."

@@ -111,6 +111,8 @@
       "user": "Utilisateur",
       "username": "Nom d'utilisateur",
       "email": "Email",
+      "mobile": "Mobile",
+      "contact": "Email / Mobile",
       "location": "Localisation",
       "lastAccess": "Dernier accès",
       "actions": "Actions",

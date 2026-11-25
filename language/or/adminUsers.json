@@ -132,6 +132,8 @@
       "user": "ଉପଯୋଗକର୍ତ୍ତା",
       "username": "ଉପଯୋଗକର୍ତ୍ତାନାମ",
       "email": "ଇମେଲ୍",
+      "mobile": "ମୋବାଇଲ୍",
+      "contact": "ଇମେଲ୍ / ମୋବାଇଲ୍",
       "location": "ସ୍ଥାନ",
       "lastAccess": "ଶେଷ ପ୍ରବେଶ",
       "actions": "କାର୍ଯ୍ୟ",
@@ -209,6 +211,16 @@
         "label": "ଦେଶ",
         "required": "ବୈକଳ୍ପିକ",
         "rules": "['ବୈକଳ୍ପିକ', 'ବୈଧ 2-ଅକ୍ଷର ଦେଶ କୋଡ୍ ହେବା ଦରକାର (ଉଦାହରଣ: US, GB, IN)']"
+      },
+      "mobile": {
+        "required": true,
+        "rules": [
+          "Required",
+          "Include country code digits + 10-digit mobile number (e.g. 919135311454)",
+          "Digits only — do not use + or spaces",
+          "Example India: 91 followed by 10-digit number"
+        ],
+        "label": "ମୋବାଇଲ୍"
       }
     }
   },

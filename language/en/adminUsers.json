@@ -142,6 +142,8 @@
       "user": "User",
       "username": "Username",
       "email": "Email",
+      "mobile": "Mobile",
+      "contact": "Email / Mobile",
       "location": "Location",
       "lastAccess": "Last Access",
       "actions": "Actions",
@@ -228,6 +230,16 @@
         "rules": [
           "Optional — leave blank to send a password setup email to the user",
           "If provided: 8+ characters, 1 digit, 1 lowercase letter, 1 uppercase letter, and 1 special character"
+        ]
+      },
+      "mobile": {
+        "label": "mobile",
+        "required": true,
+        "rules": [
+          "Required",
+          "Include country code digits + 10-digit mobile number (e.g. 919135311454)",
+          "Digits only — do not use + or spaces",
+          "Example India: 91 followed by 10-digit number"
         ]
       },
       "city": {

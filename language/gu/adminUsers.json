@@ -136,7 +136,9 @@
       "reason": "કારણ",
       "user": "યૂઝર",
       "username": "યૂઝર નામ",
-      "email": "ઈમેલ"
+      "email": "ઈમેલ",
+      "mobile": "મોબાઈલ",
+      "contact": "ઈમેલ / મોબાઈલ"
     },
     "status": {
       "suspended": "સસ્પેન્ડેડ"
@@ -217,6 +219,16 @@
         "label": "દેશ",
         "required": "False",
         "rules": "['વૈકલ્પિક', 'માન્ય 2-અક્ષરની દેશ કોડ હોવી જોઈએ (ઉદાહરણ: US, GB, IN)']"
+      },
+      "mobile": {
+        "required": true,
+        "rules": [
+          "Required",
+          "Include country code digits + 10-digit mobile number (e.g. 919135311454)",
+          "Digits only — do not use + or spaces",
+          "Example India: 91 followed by 10-digit number"
+        ],
+        "label": "મોબાઇલ"
       }
     }
   },

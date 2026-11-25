@@ -137,6 +137,8 @@
       "user": "യൂ",
       "username": "യൂസർനെയിം",
       "email": "ഇമെയിൽ",
+      "mobile": "മൊബൈൽ",
+      "contact": "ഇമെയിൽ / മൊബൈൽ",
       "location": "സ്ഥലം",
       "lastAccess": "അവസാന ആക്സസ്",
       "actions": "ആക്ഷനുകൾ",
@@ -222,6 +224,16 @@
         "label": "രാജ്യം",
         "required": "ഐച്ഛികമാണ്",
         "rules": "['ഐച്ഛികം', 'സാധുവായ 2-അക്ഷര രാജ്യകോഡ് വേണം (ഉദാ. US, GB, IN)']"
+      },
+      "mobile": {
+        "required": true,
+        "rules": [
+          "Required",
+          "Include country code digits + 10-digit mobile number (e.g. 919135311454)",
+          "Digits only — do not use + or spaces",
+          "Example India: 91 followed by 10-digit number"
+        ],
+        "label": "മൊബൈൽ"
       }
     }
   },

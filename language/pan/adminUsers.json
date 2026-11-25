@@ -137,6 +137,8 @@
       "user": "ਯੂਜ਼ਰ",
       "username": "ਯੂਜ਼ਰ ਨੇਮ",
       "email": "ਈਮੇਲ",
+      "mobile": "ਮੋਬਾਈਲ",
+      "contact": "ਈਮੇਲ / ਮੋਬਾਈਲ",
       "location": "ਲੋਕੇਸ਼ਨ",
       "lastAccess": "ਆਖਰੀ ਪਹੁੰਚ",
       "actions": "ਐਕਸ਼ਨਸ",
@@ -222,6 +224,16 @@
         "label": "ਦੇਸ਼",
         "required": "ਲਾਜ਼ਮੀ ਨਹੀਂ",
         "rules": "['ਵਿਕਲਪਿਕ', 'ਇਹ ਇੱਕ ਸਹੀ 2-ਅੱਖਰ ਦੇਸ਼ ਕੋਡ ਹੋਣਾ ਚਾਹੀਦਾ ਹੈ (ਉਦਾਹਰਨ: US, GB, IN)']"
+      },
+      "mobile": {
+        "required": true,
+        "rules": [
+          "Required",
+          "Include country code digits + 10-digit mobile number (e.g. 919135311454)",
+          "Digits only — do not use + or spaces",
+          "Example India: 91 followed by 10-digit number"
+        ],
+        "label": "ਮੋਬਾਈਲ"
       }
     }
   },

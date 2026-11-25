@@ -127,6 +127,7 @@
     "lastName": "Apellido",
     "email": "Dirección de Correo",
     "phone": "Número de Teléfono",
+    "mobile": "Móvil",
     "description": "Descripción",
     "profilePicture": "Foto de Perfil",
     "timezone": "Zona Horaria",

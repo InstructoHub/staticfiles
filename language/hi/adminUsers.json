@@ -137,6 +137,8 @@
       "user": "यूज़र",
       "username": "यूज़रनेम",
       "email": "ईमेल",
+      "mobile": "मोबाइल",
+      "contact": "ईमेल / मोबाइल",
       "location": "लोकेशन",
       "lastAccess": "लास्ट एक्सेस",
       "actions": "एक्शन्स",
@@ -222,6 +224,16 @@
         "label": "देश",
         "required": "False",
         "rules": "['ऐच्छिक', 'मान्य 2-अक्षर देश कोड होना चाहिए (उदा. US, GB, IN)']"
+      },
+      "mobile": {
+        "required": true,
+        "rules": [
+          "Required",
+          "Include country code digits + 10-digit mobile number (e.g. 919135311454)",
+          "Digits only — do not use + or spaces",
+          "Example India: 91 followed by 10-digit number"
+        ],
+        "label": "मोबाइल"
       }
     }
   },

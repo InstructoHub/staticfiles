@@ -175,6 +175,7 @@
     "lastName": "Last Name",
     "email": "Email",
     "phone": "Phone Number",
+    "mobile": "Mobile",
     "description": "Description",
     "profilePicture": "Profile Picture",
     "timezone": "Timezone",

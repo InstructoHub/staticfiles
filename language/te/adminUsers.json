@@ -137,6 +137,8 @@
       "user": "యూజర్",
       "username": "యూజర్‌ నేమ్",
       "email": "ఇమెయిల్",
+      "mobile": "మొబైల్",
+      "contact": "ఇమెయిల్ / మొబైల్",
       "location": "స్థానం",
       "lastAccess": "చివరి యాక్సెస్",
       "actions": "చర్యలు",
@@ -222,6 +224,16 @@
         "label": "దేశం",
         "required": "అవసరం కాదు",
         "rules": "['ఐచ్ఛికం', 'సరైన 2-అక్షర దేశ కోడ్ కావాలి (ఉదా. US, GB, IN)']"
+      },
+      "mobile": {
+        "required": true,
+        "rules": [
+          "Required",
+          "Include country code digits + 10-digit mobile number (e.g. 919135311454)",
+          "Digits only — do not use + or spaces",
+          "Example India: 91 followed by 10-digit number"
+        ],
+        "label": "మొబైల్"
       }
     }
   },

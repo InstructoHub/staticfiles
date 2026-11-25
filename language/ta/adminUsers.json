@@ -137,6 +137,8 @@
       "user": "யூ",
       "username": "யூசர் பெயர்",
       "email": "மின்னஞ்சல்",
+      "mobile": "மொபைல்",
+      "contact": "மின்னஞ்சல் / மொபைல்",
       "location": "இடம்",
       "lastAccess": "கடைசி அணுகல்",
       "actions": "செயல்கள்",
@@ -222,6 +224,16 @@
         "label": "நாடு",
         "required": "False",
         "rules": "['விருப்பம்', 'சரியான 2 எழுத்துடைய நாடு குறியீடு இருக்க வேண்டும் (எ.கா., US, GB, IN)']"
+      },
+      "mobile": {
+        "required": true,
+        "rules": [
+          "Required",
+          "Include country code digits + 10-digit mobile number (e.g. 919135311454)",
+          "Digits only — do not use + or spaces",
+          "Example India: 91 followed by 10-digit number"
+        ],
+        "label": "மொபைல்"
       }
     }
   },

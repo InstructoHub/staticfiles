@@ -132,6 +132,8 @@
       "user": "ಯು",
       "username": "ಯುಸರ್‌ನೆಮ್",
       "email": "ಇಮೇಲ್",
+      "mobile": "ಮೊಬೈಲ್",
+      "contact": "ಇಮೇಲ್ / ಮೊಬೈಲ್",
       "location": "ಸ್ಥಳ",
       "lastAccess": "ಕಳೆದ ಪ್ರವೇಶ",
       "actions": "ಕ್ರಿಯೆಗಳು",
@@ -217,6 +219,16 @@
         "label": "ದೇಶ",
         "required": "False",
         "rules": "['ಐಚ್ಛಿಕ', 'ಸರಿಯಾದ 2-ಅಕ್ಷರ ದೇಶ ಕೋಡ್ ಇರಬೇಕು (ಉದಾ. US, GB, IN)']"
+      },
+      "mobile": {
+        "required": true,
+        "rules": [
+          "Required",
+          "Include country code digits + 10-digit mobile number (e.g. 919135311454)",
+          "Digits only — do not use + or spaces",
+          "Example India: 91 followed by 10-digit number"
+        ],
+        "label": "ಮೊಬೈಲ್"
       }
     }
   },
